@@ -22,41 +22,33 @@ DOMAINS = [
     "thelistener.pk"
 ]
 
+SUBDOMAINS = ["601", "daffodil"]
+
 headers = {"User-Agent": "Mozilla/5.0"}
 
 
-# 🔥 витягуємо ВСЕ що може бути m3u8
+# 🔥 витягуємо ВСІ можливі stream keys
 def extract_streams(html):
-    found = set()
+    streams = set()
 
-    # прямі
-    found.update(re.findall(r'https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*', html))
+    # JS pattern
+    streams.update(re.findall(r"getRandomStream\('([^']+\.m3u8)'", html))
 
-    # getRandomStream('xxx.m3u8'
-    found.update(re.findall(r"getRandomStream\('([^']+\.m3u8)'", html))
+    # прямі згадки
+    streams.update(re.findall(r'([a-zA-Z0-9_-]+\.m3u8)', html))
 
-    # просто xxx.m3u8
-    found.update(re.findall(r'([a-zA-Z0-9_-]+\.m3u8)', html))
-
-    return list(found)
+    return list(streams)
 
 
-# 🔥 перевірка доменів (підбір РОБОЧОГО)
-def resolve_stream(stream_path):
-    for d in DOMAINS:
-        for sub in ["601", "daffodil"]:
-            url = f"https://{sub}.{d}/{stream_path}"
+# 🔥 НЕ перевіряємо через requests (це була помилка)
+def build_streams(stream_key):
+    urls = []
 
-            try:
-                r = requests.get(url, timeout=6)
+    for sub in SUBDOMAINS:
+        for dom in DOMAINS:
+            urls.append(f"https://{sub}.{dom}/{stream_key}")
 
-                if r.status_code == 200 and "m3u8" in r.text:
-                    return url
-
-            except:
-                continue
-
-    return None
+    return urls
 
 
 def parse_category(cat):
@@ -64,7 +56,8 @@ def parse_category(cat):
     r = requests.get(url, headers=headers, timeout=15)
     soup = BeautifulSoup(r.text, "html.parser")
 
-    links = soup.select("a[href*='-streams-']")
+    # ❗ ВАЖЛИВО: НЕ фільтр "-streams"
+    links = soup.select("a[href*='streams']")
 
     results = []
 
@@ -76,19 +69,17 @@ def parse_category(cat):
             r2 = requests.get(page, headers=headers, timeout=15)
             html = r2.text
 
-            streams_raw = extract_streams(html)
+            stream_keys = extract_streams(html)
 
-            resolved = []
+            all_streams = []
 
-            for s in streams_raw:
-                real = resolve_stream(s)
-                if real:
-                    resolved.append(real)
+            for key in stream_keys:
+                all_streams.extend(build_streams(key))
 
             results.append({
                 "title": title,
                 "page": page,
-                "streams": resolved
+                "streams": all_streams
             })
 
         except:
