@@ -22,27 +22,39 @@ DOMAINS = [
     "thelistener.pk"
 ]
 
-SUBDOMAIN = "601"
-
 headers = {"User-Agent": "Mozilla/5.0"}
 
 
+# 🔥 витягуємо ВСЕ що може бути m3u8
 def extract_streams(html):
-    return list(set(re.findall(r'[a-zA-Z0-9_-]+\.m3u8', html)))
+    found = set()
+
+    # прямі
+    found.update(re.findall(r'https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*', html))
+
+    # getRandomStream('xxx.m3u8'
+    found.update(re.findall(r"getRandomStream\('([^']+\.m3u8)'", html))
+
+    # просто xxx.m3u8
+    found.update(re.findall(r'([a-zA-Z0-9_-]+\.m3u8)', html))
+
+    return list(found)
 
 
-def check_stream(stream):
+# 🔥 перевірка доменів (підбір РОБОЧОГО)
+def resolve_stream(stream_path):
     for d in DOMAINS:
-        url = f"https://{SUBDOMAIN}.{d}/{stream}"
+        for sub in ["601", "daffodil"]:
+            url = f"https://{sub}.{d}/{stream_path}"
 
-        try:
-            r = requests.get(url, timeout=5)
+            try:
+                r = requests.get(url, timeout=6)
 
-            if r.status_code == 200 and "m3u8" in r.text:
-                return url
+                if r.status_code == 200 and "m3u8" in r.text:
+                    return url
 
-        except:
-            continue
+            except:
+                continue
 
     return None
 
@@ -62,19 +74,21 @@ def parse_category(cat):
             page = urljoin(BASE, a["href"])
 
             r2 = requests.get(page, headers=headers, timeout=15)
-            streams = extract_streams(r2.text)
+            html = r2.text
 
-            final_streams = []
+            streams_raw = extract_streams(html)
 
-            for s in streams:
-                real = check_stream(s)
+            resolved = []
+
+            for s in streams_raw:
+                real = resolve_stream(s)
                 if real:
-                    final_streams.append(real)
+                    resolved.append(real)
 
             results.append({
                 "title": title,
                 "page": page,
-                "streams": final_streams
+                "streams": resolved
             })
 
         except:
