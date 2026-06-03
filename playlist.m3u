@@ -1,24 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="soccer",Poland vs Nigeria
-https://601.thelistener.pk/poland.m3u8
-#EXTINF:-1 group-title="soccer",Italy vs Luxembourg
-https://601.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="soccer",Netherlands vs Algeria
-https://601.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="soccer",Korea Republic vs El Salvador
-https://601.formaturamaxi.com.br/foxd.m3u8
-#EXTINF:-1 group-title="soccer",San Lorenzo vs Riestra
-https://601.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="soccer",Panama vs Dominican Republic
-https://601.thelistener.pk/sportv.m3u8
-#EXTINF:-1 group-title="mlb",Miami Marlins vs Washington Nationals
-https://601.thelistener.pk/mlb.m3u8
-#EXTINF:-1 group-title="mlb",Detroit Tigers vs Tampa Bay Rays
-https://601.sandhost.qzz.io/mlb2.m3u8
 #EXTINF:-1 group-title="mlb",Chicago White Sox vs Minnesota Twins
 https://601.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",New York Mets vs Seattle Mariners
-https://601.thelistener.pk/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",San Diego Padres vs Philadelphia Phillies
 https://601.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 group-title="mlb",Baltimore Orioles vs Boston Red Sox
@@ -43,17 +25,3 @@ https://601.formaturamaxi.com.br/mlb13.m3u8
 https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Arizona Diamondbacks
 https://601.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 group-title="nba",New York Knicks vs TBD
-https://601.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",New York Knicks vs TBD
-https://601.sandhost.qzz.io/nbasat.m3u8
-#EXTINF:-1 group-title="nfl",NFL Draft - Day 3
-https://601.sandhost.qzz.io/nfl.m3u8
-#EXTINF:-1 group-title="nfl",NFL Draft - Day 3
-https://601.sandhost.qzz.io/espn.m3u8
-#EXTINF:-1 group-title="nhl",Vegas Golden Knights vs Carolina Hurricanes
-https://601.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="motorsports",Isle of Man TT - Coverage
-https://601.sandhost.qzz.io/tt.m3u8
-#EXTINF:-1 group-title="motorsports",Isle of Man TT - Coverage
-https://601.formaturamaxi.com.br/tt2.m3u8
