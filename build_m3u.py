@@ -5,18 +5,26 @@ with open("output.json", "r", encoding="utf-8") as f:
 
 lines = ["#EXTM3U"]
 
-count = 0
+total = 0
 
 for cat, items in data.items():
     for item in items:
-        if not item.get("stream"):
+
+        streams = item.get("streams", [])
+
+        if not streams:
             continue
 
-        lines.append(f'#EXTINF:-1 group-title="{cat.upper()}",{item["title"]}')
-        lines.append(item["stream"])
-        count += 1
+        title = item.get("title", "Unknown")
+
+        # 🔥 додаємо ВСІ стріми одного матчу
+        for s in streams:
+            lines.append(f'#EXTINF:-1 group-title="{cat.upper()}",{title}')
+            lines.append(s)
+            total += 1
 
 with open("playlist.m3u", "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
-print("TOTAL:", count)
+print("TOTAL STREAMS:", total)
+print("M3U DONE")
