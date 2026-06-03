@@ -16,17 +16,22 @@ CATEGORIES = [
     "motorsports"
 ]
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+headers = {"User-Agent": "Mozilla/5.0"}
+
+
+DOMAINS = [
+    "formaturamaxi.com.br",
+    "sandhost.qzz.io",
+    "thelistener.pk"
+]
 
 
 def extract_streams(html):
     """
-    витягує ТІЛЬКИ повні m3u8 (https://....m3u8)
+    ЛОВИМ ІМЕНА ПЛЕЄРІВ (.m3u8 без домену)
     """
     return list(set(
-        re.findall(r'https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*', html)
+        re.findall(r'[a-zA-Z0-9_-]+\.m3u8', html)
     ))
 
 
@@ -54,7 +59,7 @@ def parse_category(cat):
             })
 
         except Exception as e:
-            print(f"[ERROR] {page} -> {e}")
+            print("[ERROR]", e)
             continue
 
     return results
@@ -63,7 +68,7 @@ def parse_category(cat):
 all_data = {}
 
 for c in CATEGORIES:
-    print(f"[INFO] {c}")
+    print("[INFO]", c)
     all_data[c] = parse_category(c)
 
 with open("output.json", "w", encoding="utf-8") as f:
