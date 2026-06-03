@@ -16,23 +16,35 @@ CATEGORIES = [
     "motorsports"
 ]
 
-headers = {"User-Agent": "Mozilla/5.0"}
-
-
 DOMAINS = [
     "formaturamaxi.com.br",
     "sandhost.qzz.io",
     "thelistener.pk"
 ]
 
+SUBDOMAIN = "601"
+
+headers = {"User-Agent": "Mozilla/5.0"}
+
 
 def extract_streams(html):
-    """
-    ЛОВИМ ІМЕНА ПЛЕЄРІВ (.m3u8 без домену)
-    """
-    return list(set(
-        re.findall(r'[a-zA-Z0-9_-]+\.m3u8', html)
-    ))
+    return list(set(re.findall(r'[a-zA-Z0-9_-]+\.m3u8', html)))
+
+
+def check_stream(stream):
+    for d in DOMAINS:
+        url = f"https://{SUBDOMAIN}.{d}/{stream}"
+
+        try:
+            r = requests.get(url, timeout=5)
+
+            if r.status_code == 200 and "m3u8" in r.text:
+                return url
+
+        except:
+            continue
+
+    return None
 
 
 def parse_category(cat):
@@ -52,14 +64,20 @@ def parse_category(cat):
             r2 = requests.get(page, headers=headers, timeout=15)
             streams = extract_streams(r2.text)
 
+            final_streams = []
+
+            for s in streams:
+                real = check_stream(s)
+                if real:
+                    final_streams.append(real)
+
             results.append({
                 "title": title,
                 "page": page,
-                "streams": streams
+                "streams": final_streams
             })
 
-        except Exception as e:
-            print("[ERROR]", e)
+        except:
             continue
 
     return results
