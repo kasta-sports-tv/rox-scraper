@@ -7,12 +7,17 @@ m3u = "#EXTM3U\n"
 
 for cat, items in data.items():
     for item in items:
-        title = item.get("title", "No title")
+        title = item.get("title", "Unknown")
         streams = item.get("streams", [])
 
-        for s in streams:
-            m3u += f'#EXTINF:-1 group-title="{cat}",{title}\n'
-            m3u += s + "\n"
+        if not streams:
+            continue
+
+        # беремо тільки перший робочий
+        stream = streams[0]
+
+        m3u += f'#EXTINF:-1 group-title="{cat}",{title}\n'
+        m3u += stream + "\n"
 
 with open("playlist.m3u", "w", encoding="utf-8") as f:
     f.write(m3u)
