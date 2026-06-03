@@ -1,49 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="SOCCER",Poland vs Nigeria
-poland.m3u8
-#EXTINF:-1 group-title="SOCCER",Italy vs Luxembourg
-fubo.m3u8
-#EXTINF:-1 group-title="SOCCER",Netherlands vs Algeria
-fsp.m3u8
-#EXTINF:-1 group-title="SOCCER",Korea Republic vs El Salvador
-foxd.m3u8
-#EXTINF:-1 group-title="SOCCER",San Lorenzo vs Riestra
-tnt.m3u8
-#EXTINF:-1 group-title="SOCCER",Panama vs Dominican Republic
-sportv.m3u8
-#EXTINF:-1 group-title="MLB",Miami Marlins vs Washington Nationals
-mlb.m3u8
-#EXTINF:-1 group-title="MLB",Detroit Tigers vs Tampa Bay Rays
-mlb2.m3u8
-#EXTINF:-1 group-title="MLB",Chicago White Sox vs Minnesota Twins
+#EXTINF:-1 group-title="soccer",Poland vs Nigeria
+https://601.thelistener.pk/poland.m3u8
+#EXTINF:-1 group-title="soccer",Italy vs Luxembourg
+https://601.formaturamaxi.com.br/fubo.m3u8
+#EXTINF:-1 group-title="soccer",Netherlands vs Algeria
+https://601.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="soccer",Korea Republic vs El Salvador
+https://601.formaturamaxi.com.br/foxd.m3u8
+#EXTINF:-1 group-title="soccer",San Lorenzo vs Riestra
+https://601.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 group-title="soccer",Panama vs Dominican Republic
+https://601.thelistener.pk/sportv.m3u8
+#EXTINF:-1 group-title="mlb",Miami Marlins vs Washington Nationals
+https://601.thelistener.pk/mlb.m3u8
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Tampa Bay Rays
+https://601.sandhost.qzz.io/mlb2.m3u8
+#EXTINF:-1 group-title="mlb",Chicago White Sox vs Minnesota Twins
 https://601.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="MLB",New York Mets vs Seattle Mariners
-mlb4.m3u8
-#EXTINF:-1 group-title="MLB",San Diego Padres vs Philadelphia Phillies
+#EXTINF:-1 group-title="mlb",New York Mets vs Seattle Mariners
+https://601.thelistener.pk/mlb4.m3u8
+#EXTINF:-1 group-title="mlb",San Diego Padres vs Philadelphia Phillies
 https://601.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="MLB",Baltimore Orioles vs Boston Red Sox
+#EXTINF:-1 group-title="mlb",Baltimore Orioles vs Boston Red Sox
 https://601.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 group-title="MLB",Cleveland Guardians vs New York Yankees
+#EXTINF:-1 group-title="mlb",Cleveland Guardians vs New York Yankees
 https://601.formaturamaxi.com.br/mlb7.m3u8
-#EXTINF:-1 group-title="MLB",Kansas City Royals vs Cincinnati Reds
+#EXTINF:-1 group-title="mlb",Kansas City Royals vs Cincinnati Reds
 https://601.formaturamaxi.com.br/mlb8.m3u8
-#EXTINF:-1 group-title="MLB",Toronto Blue Jays vs Atlanta Braves
+#EXTINF:-1 group-title="mlb",Toronto Blue Jays vs Atlanta Braves
 https://601.formaturamaxi.com.br/mlb9.m3u8
-#EXTINF:-1 group-title="MLB",San Francisco Giants vs Milwaukee Brewers
+#EXTINF:-1 group-title="mlb",San Francisco Giants vs Milwaukee Brewers
 https://601.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 group-title="MLB",Texas Rangers vs St. Louis Cardinals
+#EXTINF:-1 group-title="mlb",Texas Rangers vs St. Louis Cardinals
 https://601.formaturamaxi.com.br/mlb11.m3u8
-#EXTINF:-1 group-title="MLB",Athletics vs Chicago Cubs
+#EXTINF:-1 group-title="mlb",Athletics vs Chicago Cubs
 https://601.formaturamaxi.com.br/mlb12.m3u8
-#EXTINF:-1 group-title="MLB",Athletics vs Chicago Cubs
+#EXTINF:-1 group-title="mlb",Athletics vs Chicago Cubs
 https://daffodil.formaturamaxi.com.br/alt.m3u8
-#EXTINF:-1 group-title="MLB",Pittsburgh Pirates vs Houston Astros
+#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Houston Astros
 https://601.formaturamaxi.com.br/mlb13.m3u8
-#EXTINF:-1 group-title="MLB",Colorado Rockies vs Los Angeles Angels
+#EXTINF:-1 group-title="mlb",Colorado Rockies vs Los Angeles Angels
 https://601.formaturamaxi.com.br/mlb14.m3u8
-#EXTINF:-1 group-title="MLB",Los Angeles Dodgers vs Arizona Diamondbacks
+#EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Arizona Diamondbacks
 https://601.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 group-title="NFL",NFL Draft - Day 3
-nfl.m3u8
-#EXTINF:-1 group-title="MOTORSPORTS",Isle of Man TT - Coverage
-tt.m3u8
+#EXTINF:-1 group-title="nba",New York Knicks vs TBD
+https://601.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nba",New York Knicks vs TBD
+https://601.sandhost.qzz.io/nbasat.m3u8
+#EXTINF:-1 group-title="nfl",NFL Draft - Day 3
+https://601.sandhost.qzz.io/nfl.m3u8
+#EXTINF:-1 group-title="nfl",NFL Draft - Day 3
+https://601.sandhost.qzz.io/espn.m3u8
+#EXTINF:-1 group-title="nhl",Vegas Golden Knights vs Carolina Hurricanes
+https://601.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 group-title="motorsports",Isle of Man TT - Coverage
+https://601.sandhost.qzz.io/tt.m3u8
+#EXTINF:-1 group-title="motorsports",Isle of Man TT - Coverage
+https://601.formaturamaxi.com.br/tt2.m3u8
