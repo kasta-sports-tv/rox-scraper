@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
+from urllib.parse import urljoin
 
 BASE = "https://roxiestreams.info"
 
@@ -15,21 +16,18 @@ CATEGORIES = [
     "motorsports"
 ]
 
-headers = {"User-Agent": "Mozilla/5.0"}
+headers = {
+    "User-Agent": "Mozilla/5.0"
+}
 
 
 def extract_streams(html):
     """
-    витягує ВСІ можливі m3u8 або path типу xxx.m3u8
+    витягує ТІЛЬКИ повні m3u8 (https://....m3u8)
     """
-    links = re.findall(r'(https?://[^\s"\']+\.m3u8|[a-zA-Z0-9_-]+\.m3u8)', html)
-
-    cleaned = []
-    for l in links:
-        if l not in cleaned:
-            cleaned.append(l)
-
-    return cleaned
+    return list(set(
+        re.findall(r'https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*', html)
+    ))
 
 
 def parse_category(cat):
@@ -37,14 +35,14 @@ def parse_category(cat):
     r = requests.get(url, headers=headers, timeout=15)
     soup = BeautifulSoup(r.text, "html.parser")
 
-    rows = soup.select("a[href*='-streams']")
+    links = soup.select("a[href*='-streams-']")
 
     results = []
 
-    for a in rows:
+    for a in links:
         try:
-            title = a.text.strip()
-            page = a["href"]
+            title = a.get_text(strip=True)
+            page = urljoin(BASE, a["href"])
 
             r2 = requests.get(page, headers=headers, timeout=15)
             streams = extract_streams(r2.text)
@@ -55,7 +53,8 @@ def parse_category(cat):
                 "streams": streams
             })
 
-        except:
+        except Exception as e:
+            print(f"[ERROR] {page} -> {e}")
             continue
 
     return results
