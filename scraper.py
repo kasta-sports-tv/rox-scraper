@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
-from urllib.parse import urljoin
 
 BASE = "https://roxiestreams.info"
 
@@ -16,6 +15,8 @@ CATEGORIES = [
     "motorsports"
 ]
 
+HEADERS = {"User-Agent": "Mozilla/5.0"}
+
 DOMAINS = [
     "formaturamaxi.com.br",
     "sandhost.qzz.io",
@@ -24,62 +25,65 @@ DOMAINS = [
 
 SUBDOMAINS = ["601", "daffodil"]
 
-headers = {"User-Agent": "Mozilla/5.0"}
+
+def extract_keys(html):
+    # бере тільки ключі типу fsp.m3u8, mlb3.m3u8
+    return list(set(re.findall(r'[a-zA-Z0-9_-]+\.m3u8', html)))
 
 
-# 🔥 витягуємо ВСІ можливі stream keys
-def extract_streams(html):
-    streams = set()
-
-    # JS pattern
-    streams.update(re.findall(r"getRandomStream\('([^']+\.m3u8)'", html))
-
-    # прямі згадки
-    streams.update(re.findall(r'([a-zA-Z0-9_-]+\.m3u8)', html))
-
-    return list(streams)
+def test_stream(url):
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=8)
+        return "#EXTM3U" in r.text
+    except:
+        return False
 
 
-# 🔥 НЕ перевіряємо через requests (це була помилка)
-def build_streams(stream_key):
-    urls = []
+def find_working_stream(stream_key):
+    # пробуємо як є (якщо це повний URL)
+    if stream_key.startswith("http"):
+        return stream_key
 
+    # пробуємо всі комбінації, але ЗУПИНЯЄМОСЬ на першому робочому
     for sub in SUBDOMAINS:
         for dom in DOMAINS:
-            urls.append(f"https://{sub}.{dom}/{stream_key}")
+            url = f"https://{sub}.{dom}/{stream_key}"
 
-    return urls
+            if test_stream(url):
+                return url
+
+    return None
 
 
 def parse_category(cat):
     url = f"{BASE}/{cat}"
-    r = requests.get(url, headers=headers, timeout=15)
+    r = requests.get(url, headers=HEADERS, timeout=15)
     soup = BeautifulSoup(r.text, "html.parser")
 
-    # ❗ ВАЖЛИВО: НЕ фільтр "-streams"
-    links = soup.select("a[href*='streams']")
+    links = soup.select("a[href*='-streams']")
 
     results = []
 
     for a in links:
         try:
-            title = a.get_text(strip=True)
-            page = urljoin(BASE, a["href"])
+            title = a.text.strip()
+            page = a["href"]
 
-            r2 = requests.get(page, headers=headers, timeout=15)
+            r2 = requests.get(page, headers=HEADERS, timeout=15)
             html = r2.text
 
-            stream_keys = extract_streams(html)
+            keys = extract_keys(html)
 
-            all_streams = []
-
-            for key in stream_keys:
-                all_streams.extend(build_streams(key))
+            streams = []
+            for key in keys:
+                stream = find_working_stream(key)
+                if stream:
+                    streams.append(stream)
 
             results.append({
                 "title": title,
                 "page": page,
-                "streams": all_streams
+                "streams": streams
             })
 
         except:
@@ -91,7 +95,7 @@ def parse_category(cat):
 all_data = {}
 
 for c in CATEGORIES:
-    print("[INFO]", c)
+    print(f"[INFO] {c}")
     all_data[c] = parse_category(c)
 
 with open("output.json", "w", encoding="utf-8") as f:
