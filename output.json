@@ -1,140 +1,632 @@
 {
   "soccer": [
     {
+      "title": "RoxieStreams",
+      "page": "https://roxiestreams.info/",
+      "streams": []
+    },
+    {
+      "title": "Soccer",
+      "page": "https://roxiestreams.info/soccer",
+      "streams": []
+    },
+    {
+      "title": "MLB",
+      "page": "https://roxiestreams.info/mlb",
+      "streams": []
+    },
+    {
+      "title": "NBA",
+      "page": "https://roxiestreams.info/nba",
+      "streams": []
+    },
+    {
+      "title": "NFL",
+      "page": "https://roxiestreams.info/nfl",
+      "streams": []
+    },
+    {
+      "title": "NHL",
+      "page": "https://roxiestreams.info/nhl",
+      "streams": []
+    },
+    {
+      "title": "Fighting",
+      "page": "https://roxiestreams.info/fighting",
+      "streams": []
+    },
+    {
+      "title": "Motorsports",
+      "page": "https://roxiestreams.info/motorsports",
+      "streams": []
+    },
+    {
       "title": "Poland vs Nigeria",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/poland.m3u8",
+        "https://601.sandhost.qzz.io/poland.m3u8",
+        "https://601.thelistener.pk/poland.m3u8",
+        "https://daffodil.formaturamaxi.com.br/poland.m3u8",
+        "https://daffodil.sandhost.qzz.io/poland.m3u8",
+        "https://daffodil.thelistener.pk/poland.m3u8"
+      ]
     },
     {
       "title": "Italy vs Luxembourg",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/fubo.m3u8",
+        "https://601.sandhost.qzz.io/fubo.m3u8",
+        "https://601.thelistener.pk/fubo.m3u8",
+        "https://daffodil.formaturamaxi.com.br/fubo.m3u8",
+        "https://daffodil.sandhost.qzz.io/fubo.m3u8",
+        "https://daffodil.thelistener.pk/fubo.m3u8"
+      ]
     },
     {
       "title": "Netherlands vs Algeria",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/fsp.m3u8",
+        "https://601.sandhost.qzz.io/fsp.m3u8",
+        "https://601.thelistener.pk/fsp.m3u8",
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8",
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8",
+        "https://daffodil.thelistener.pk/fsp.m3u8"
+      ]
     },
     {
       "title": "Korea Republic vs El Salvador",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/foxd.m3u8",
+        "https://601.sandhost.qzz.io/foxd.m3u8",
+        "https://601.thelistener.pk/foxd.m3u8",
+        "https://daffodil.formaturamaxi.com.br/foxd.m3u8",
+        "https://daffodil.sandhost.qzz.io/foxd.m3u8",
+        "https://daffodil.thelistener.pk/foxd.m3u8"
+      ]
     },
     {
       "title": "San Lorenzo vs Riestra",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/tnt.m3u8",
+        "https://601.sandhost.qzz.io/tnt.m3u8",
+        "https://601.thelistener.pk/tnt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8",
+        "https://daffodil.sandhost.qzz.io/tnt.m3u8",
+        "https://daffodil.thelistener.pk/tnt.m3u8"
+      ]
     },
     {
       "title": "Panama vs Dominican Republic",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/sportv.m3u8",
+        "https://601.sandhost.qzz.io/sportv.m3u8",
+        "https://601.thelistener.pk/sportv.m3u8",
+        "https://daffodil.formaturamaxi.com.br/sportv.m3u8",
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8",
+        "https://daffodil.thelistener.pk/sportv.m3u8"
+      ]
     }
   ],
   "mlb": [
     {
+      "title": "RoxieStreams",
+      "page": "https://roxiestreams.info/",
+      "streams": []
+    },
+    {
+      "title": "Soccer",
+      "page": "https://roxiestreams.info/soccer",
+      "streams": []
+    },
+    {
+      "title": "MLB",
+      "page": "https://roxiestreams.info/mlb",
+      "streams": []
+    },
+    {
+      "title": "NBA",
+      "page": "https://roxiestreams.info/nba",
+      "streams": []
+    },
+    {
+      "title": "NFL",
+      "page": "https://roxiestreams.info/nfl",
+      "streams": []
+    },
+    {
+      "title": "NHL",
+      "page": "https://roxiestreams.info/nhl",
+      "streams": []
+    },
+    {
+      "title": "Fighting",
+      "page": "https://roxiestreams.info/fighting",
+      "streams": []
+    },
+    {
+      "title": "Motorsports",
+      "page": "https://roxiestreams.info/motorsports",
+      "streams": []
+    },
+    {
       "title": "Miami Marlins vs Washington Nationals",
       "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb.m3u8",
+        "https://601.sandhost.qzz.io/mlb.m3u8",
+        "https://601.thelistener.pk/mlb.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb.m3u8",
+        "https://daffodil.thelistener.pk/mlb.m3u8"
+      ]
     },
     {
       "title": "Detroit Tigers vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-2",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb2.m3u8",
+        "https://601.sandhost.qzz.io/mlb2.m3u8",
+        "https://601.thelistener.pk/mlb2.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb2.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb2.m3u8",
+        "https://daffodil.thelistener.pk/mlb2.m3u8"
+      ]
     },
     {
       "title": "Chicago White Sox vs Minnesota Twins",
       "page": "https://roxiestreams.info/mlb-streams-3",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb3.m3u8",
+        "https://601.sandhost.qzz.io/mlb3.m3u8",
+        "https://601.thelistener.pk/mlb3.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb3.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb3.m3u8",
+        "https://daffodil.thelistener.pk/mlb3.m3u8"
+      ]
     },
     {
       "title": "New York Mets vs Seattle Mariners",
       "page": "https://roxiestreams.info/mlb-streams-4",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb4.m3u8",
+        "https://601.sandhost.qzz.io/mlb4.m3u8",
+        "https://601.thelistener.pk/mlb4.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb4.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb4.m3u8",
+        "https://daffodil.thelistener.pk/mlb4.m3u8"
+      ]
     },
     {
       "title": "San Diego Padres vs Philadelphia Phillies",
       "page": "https://roxiestreams.info/mlb-streams-5",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb5.m3u8",
+        "https://601.sandhost.qzz.io/mlb5.m3u8",
+        "https://601.thelistener.pk/mlb5.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb5.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb5.m3u8",
+        "https://daffodil.thelistener.pk/mlb5.m3u8"
+      ]
     },
     {
       "title": "Baltimore Orioles vs Boston Red Sox",
       "page": "https://roxiestreams.info/mlb-streams-6",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb6.m3u8",
+        "https://601.sandhost.qzz.io/mlb6.m3u8",
+        "https://601.thelistener.pk/mlb6.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb6.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb6.m3u8",
+        "https://daffodil.thelistener.pk/mlb6.m3u8"
+      ]
     },
     {
       "title": "Cleveland Guardians vs New York Yankees",
       "page": "https://roxiestreams.info/mlb-streams-7",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb7.m3u8",
+        "https://601.sandhost.qzz.io/mlb7.m3u8",
+        "https://601.thelistener.pk/mlb7.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb7.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb7.m3u8",
+        "https://daffodil.thelistener.pk/mlb7.m3u8"
+      ]
     },
     {
       "title": "Kansas City Royals vs Cincinnati Reds",
       "page": "https://roxiestreams.info/mlb-streams-8",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb8.m3u8",
+        "https://601.sandhost.qzz.io/mlb8.m3u8",
+        "https://601.thelistener.pk/mlb8.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb8.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb8.m3u8",
+        "https://daffodil.thelistener.pk/mlb8.m3u8"
+      ]
     },
     {
       "title": "Toronto Blue Jays vs Atlanta Braves",
       "page": "https://roxiestreams.info/mlb-streams-9",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb9.m3u8",
+        "https://601.sandhost.qzz.io/mlb9.m3u8",
+        "https://601.thelistener.pk/mlb9.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb9.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb9.m3u8",
+        "https://daffodil.thelistener.pk/mlb9.m3u8"
+      ]
     },
     {
       "title": "San Francisco Giants vs Milwaukee Brewers",
       "page": "https://roxiestreams.info/mlb-streams-10",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb10.m3u8",
+        "https://601.sandhost.qzz.io/mlb10.m3u8",
+        "https://601.thelistener.pk/mlb10.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb10.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb10.m3u8",
+        "https://daffodil.thelistener.pk/mlb10.m3u8"
+      ]
     },
     {
       "title": "Texas Rangers vs St. Louis Cardinals",
       "page": "https://roxiestreams.info/mlb-streams-11",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb11.m3u8",
+        "https://601.sandhost.qzz.io/mlb11.m3u8",
+        "https://601.thelistener.pk/mlb11.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb11.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb11.m3u8",
+        "https://daffodil.thelistener.pk/mlb11.m3u8"
+      ]
     },
     {
       "title": "Athletics vs Chicago Cubs",
       "page": "https://roxiestreams.info/mlb-streams-12",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/alt.m3u8",
+        "https://601.sandhost.qzz.io/alt.m3u8",
+        "https://601.thelistener.pk/alt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/alt.m3u8",
+        "https://daffodil.sandhost.qzz.io/alt.m3u8",
+        "https://daffodil.thelistener.pk/alt.m3u8",
+        "https://601.formaturamaxi.com.br/mlb12.m3u8",
+        "https://601.sandhost.qzz.io/mlb12.m3u8",
+        "https://601.thelistener.pk/mlb12.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb12.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb12.m3u8",
+        "https://daffodil.thelistener.pk/mlb12.m3u8"
+      ]
     },
     {
       "title": "Pittsburgh Pirates vs Houston Astros",
       "page": "https://roxiestreams.info/mlb-streams-13",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb13.m3u8",
+        "https://601.sandhost.qzz.io/mlb13.m3u8",
+        "https://601.thelistener.pk/mlb13.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb13.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb13.m3u8",
+        "https://daffodil.thelistener.pk/mlb13.m3u8"
+      ]
     },
     {
       "title": "Colorado Rockies vs Los Angeles Angels",
       "page": "https://roxiestreams.info/mlb-streams-14",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb14.m3u8",
+        "https://601.sandhost.qzz.io/mlb14.m3u8",
+        "https://601.thelistener.pk/mlb14.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb14.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb14.m3u8",
+        "https://daffodil.thelistener.pk/mlb14.m3u8"
+      ]
     },
     {
       "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
       "page": "https://roxiestreams.info/mlb-streams-15",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb15.m3u8",
+        "https://601.sandhost.qzz.io/mlb15.m3u8",
+        "https://601.thelistener.pk/mlb15.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb15.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlb15.m3u8",
+        "https://daffodil.thelistener.pk/mlb15.m3u8"
+      ]
     }
   ],
   "nba": [
     {
+      "title": "RoxieStreams",
+      "page": "https://roxiestreams.info/",
+      "streams": []
+    },
+    {
+      "title": "Soccer",
+      "page": "https://roxiestreams.info/soccer",
+      "streams": []
+    },
+    {
+      "title": "MLB",
+      "page": "https://roxiestreams.info/mlb",
+      "streams": []
+    },
+    {
+      "title": "NBA",
+      "page": "https://roxiestreams.info/nba",
+      "streams": []
+    },
+    {
+      "title": "NFL",
+      "page": "https://roxiestreams.info/nfl",
+      "streams": []
+    },
+    {
+      "title": "NHL",
+      "page": "https://roxiestreams.info/nhl",
+      "streams": []
+    },
+    {
+      "title": "Fighting",
+      "page": "https://roxiestreams.info/fighting",
+      "streams": []
+    },
+    {
+      "title": "Motorsports",
+      "page": "https://roxiestreams.info/motorsports",
+      "streams": []
+    },
+    {
       "title": "New York Knicks vs TBD",
       "page": "https://roxiestreams.info/nba-streams-1",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/nbasat.m3u8",
+        "https://601.sandhost.qzz.io/nbasat.m3u8",
+        "https://601.thelistener.pk/nbasat.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nbasat.m3u8",
+        "https://daffodil.sandhost.qzz.io/nbasat.m3u8",
+        "https://daffodil.thelistener.pk/nbasat.m3u8",
+        "https://601.formaturamaxi.com.br/nba.m3u8",
+        "https://601.sandhost.qzz.io/nba.m3u8",
+        "https://601.thelistener.pk/nba.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8",
+        "https://daffodil.sandhost.qzz.io/nba.m3u8",
+        "https://daffodil.thelistener.pk/nba.m3u8"
+      ]
     }
   ],
   "nfl": [
     {
+      "title": "RoxieStreams",
+      "page": "https://roxiestreams.info/",
+      "streams": []
+    },
+    {
+      "title": "Soccer",
+      "page": "https://roxiestreams.info/soccer",
+      "streams": []
+    },
+    {
+      "title": "MLB",
+      "page": "https://roxiestreams.info/mlb",
+      "streams": []
+    },
+    {
+      "title": "NBA",
+      "page": "https://roxiestreams.info/nba",
+      "streams": []
+    },
+    {
+      "title": "NFL",
+      "page": "https://roxiestreams.info/nfl",
+      "streams": []
+    },
+    {
+      "title": "NHL",
+      "page": "https://roxiestreams.info/nhl",
+      "streams": []
+    },
+    {
+      "title": "Fighting",
+      "page": "https://roxiestreams.info/fighting",
+      "streams": []
+    },
+    {
+      "title": "Motorsports",
+      "page": "https://roxiestreams.info/motorsports",
+      "streams": []
+    },
+    {
       "title": "NFL Draft - Day 3",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/nfl.m3u8",
+        "https://601.sandhost.qzz.io/nfl.m3u8",
+        "https://601.thelistener.pk/nfl.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8",
+        "https://daffodil.thelistener.pk/nfl.m3u8",
+        "https://601.formaturamaxi.com.br/espn.m3u8",
+        "https://601.sandhost.qzz.io/espn.m3u8",
+        "https://601.thelistener.pk/espn.m3u8",
+        "https://daffodil.formaturamaxi.com.br/espn.m3u8",
+        "https://daffodil.sandhost.qzz.io/espn.m3u8",
+        "https://daffodil.thelistener.pk/espn.m3u8"
+      ]
     }
   ],
   "nhl": [
     {
+      "title": "RoxieStreams",
+      "page": "https://roxiestreams.info/",
+      "streams": []
+    },
+    {
+      "title": "Soccer",
+      "page": "https://roxiestreams.info/soccer",
+      "streams": []
+    },
+    {
+      "title": "MLB",
+      "page": "https://roxiestreams.info/mlb",
+      "streams": []
+    },
+    {
+      "title": "NBA",
+      "page": "https://roxiestreams.info/nba",
+      "streams": []
+    },
+    {
+      "title": "NFL",
+      "page": "https://roxiestreams.info/nfl",
+      "streams": []
+    },
+    {
+      "title": "NHL",
+      "page": "https://roxiestreams.info/nhl",
+      "streams": []
+    },
+    {
+      "title": "Fighting",
+      "page": "https://roxiestreams.info/fighting",
+      "streams": []
+    },
+    {
+      "title": "Motorsports",
+      "page": "https://roxiestreams.info/motorsports",
+      "streams": []
+    },
+    {
       "title": "Vegas Golden Knights vs Carolina Hurricanes",
       "page": "https://roxiestreams.info/nhl-streams-1",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/nhl.m3u8",
+        "https://601.sandhost.qzz.io/nhl.m3u8",
+        "https://601.thelistener.pk/nhl.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8",
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8",
+        "https://daffodil.thelistener.pk/nhl.m3u8"
+      ]
     }
   ],
-  "fighting": [],
+  "fighting": [
+    {
+      "title": "RoxieStreams",
+      "page": "https://roxiestreams.info/",
+      "streams": []
+    },
+    {
+      "title": "Soccer",
+      "page": "https://roxiestreams.info/soccer",
+      "streams": []
+    },
+    {
+      "title": "MLB",
+      "page": "https://roxiestreams.info/mlb",
+      "streams": []
+    },
+    {
+      "title": "NBA",
+      "page": "https://roxiestreams.info/nba",
+      "streams": []
+    },
+    {
+      "title": "NFL",
+      "page": "https://roxiestreams.info/nfl",
+      "streams": []
+    },
+    {
+      "title": "NHL",
+      "page": "https://roxiestreams.info/nhl",
+      "streams": []
+    },
+    {
+      "title": "Fighting",
+      "page": "https://roxiestreams.info/fighting",
+      "streams": []
+    },
+    {
+      "title": "Motorsports",
+      "page": "https://roxiestreams.info/motorsports",
+      "streams": []
+    },
+    {
+      "title": "AEW",
+      "page": "https://roxiestreams.info/aew",
+      "streams": [
+        "https://601.formaturamaxi.com.br/aew.m3u8",
+        "https://601.sandhost.qzz.io/aew.m3u8",
+        "https://601.thelistener.pk/aew.m3u8",
+        "https://daffodil.formaturamaxi.com.br/aew.m3u8",
+        "https://daffodil.sandhost.qzz.io/aew.m3u8",
+        "https://daffodil.thelistener.pk/aew.m3u8"
+      ]
+    }
+  ],
   "motorsports": [
+    {
+      "title": "RoxieStreams",
+      "page": "https://roxiestreams.info/",
+      "streams": []
+    },
+    {
+      "title": "Soccer",
+      "page": "https://roxiestreams.info/soccer",
+      "streams": []
+    },
+    {
+      "title": "MLB",
+      "page": "https://roxiestreams.info/mlb",
+      "streams": []
+    },
+    {
+      "title": "NBA",
+      "page": "https://roxiestreams.info/nba",
+      "streams": []
+    },
+    {
+      "title": "NFL",
+      "page": "https://roxiestreams.info/nfl",
+      "streams": []
+    },
+    {
+      "title": "NHL",
+      "page": "https://roxiestreams.info/nhl",
+      "streams": []
+    },
+    {
+      "title": "Fighting",
+      "page": "https://roxiestreams.info/fighting",
+      "streams": []
+    },
+    {
+      "title": "Motorsports",
+      "page": "https://roxiestreams.info/motorsports",
+      "streams": []
+    },
     {
       "title": "Isle of Man TT - Coverage",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/tt.m3u8",
+        "https://601.sandhost.qzz.io/tt.m3u8",
+        "https://601.thelistener.pk/tt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/tt.m3u8",
+        "https://daffodil.sandhost.qzz.io/tt.m3u8",
+        "https://daffodil.thelistener.pk/tt.m3u8",
+        "https://601.formaturamaxi.com.br/tt2.m3u8",
+        "https://601.sandhost.qzz.io/tt2.m3u8",
+        "https://601.thelistener.pk/tt2.m3u8",
+        "https://daffodil.formaturamaxi.com.br/tt2.m3u8",
+        "https://daffodil.sandhost.qzz.io/tt2.m3u8",
+        "https://daffodil.thelistener.pk/tt2.m3u8"
+      ]
     }
   ]
 }
