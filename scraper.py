@@ -2,8 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
-import time
-from urllib.parse import urljoin
 
 BASE = "https://roxiestreams.info"
 
@@ -17,40 +15,21 @@ CATEGORIES = [
     "motorsports"
 ]
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+headers = {"User-Agent": "Mozilla/5.0"}
 
 
-# 🔥 витягує ВСІ можливі m3u8 з сторінки
-def extract_all_streams(html):
-    streams = set()
+def extract_streams(html):
+    """
+    витягує ВСІ можливі m3u8 або path типу xxx.m3u8
+    """
+    links = re.findall(r'(https?://[^\s"\']+\.m3u8|[a-zA-Z0-9_-]+\.m3u8)', html)
 
-    patterns = [
-        r"https?://[^\"'\s]+\.m3u8[^\"'\s]*",
-        r"https?://[^\"'\s]+/index_[^\"'\s]+\.m3u8[^\"'\s]*",
-        r"https?://[^\"'\s]+\.ts[^\"'\s]*"
-    ]
+    cleaned = []
+    for l in links:
+        if l not in cleaned:
+            cleaned.append(l)
 
-    for p in patterns:
-        found = re.findall(p, html)
-        for f in found:
-            streams.add(f)
-
-    # 🔥 ловимо JS типу getRandomStream('mlb.m3u8')
-    js = re.findall(r"getRandomStream\('([^']+)'\)", html)
-    for j in js:
-        streams.add(j)
-
-    return list(streams)
-
-
-def get_streams_from_page(url):
-    try:
-        r = requests.get(url, headers=headers, timeout=15)
-        return extract_all_streams(r.text)
-    except:
-        return []
+    return cleaned
 
 
 def parse_category(cat):
@@ -58,45 +37,26 @@ def parse_category(cat):
     r = requests.get(url, headers=headers, timeout=15)
     soup = BeautifulSoup(r.text, "html.parser")
 
+    rows = soup.select("a[href*='-streams']")
+
     results = []
 
-    # 🔥 берем ВСІ лінки, не тільки streams
-    links = soup.select("a[href]")
+    for a in rows:
+        try:
+            title = a.text.strip()
+            page = a["href"]
 
-    for a in links:
-        href = a.get("href")
+            r2 = requests.get(page, headers=headers, timeout=15)
+            streams = extract_streams(r2.text)
 
-        if not href:
-            continue
-
-        # тільки сторінки матчів
-        if "-streams-" not in href:
-            continue
-
-        full_url = urljoin(BASE, href)
-        title = a.text.strip() or "Unknown"
-
-        print(f"[{cat}] parsing: {title}")
-
-        streams = get_streams_from_page(full_url)
-
-        # ❌ якщо нічого не знайдено
-        if not streams:
-            print("   -> NO STREAM FOUND")
             results.append({
                 "title": title,
-                "page": full_url,
-                "streams": []
+                "page": page,
+                "streams": streams
             })
+
+        except:
             continue
-
-        results.append({
-            "title": title,
-            "page": full_url,
-            "streams": streams   # 🔥 ВСІ стріми, не один
-        })
-
-        time.sleep(0.3)
 
     return results
 
@@ -104,10 +64,10 @@ def parse_category(cat):
 all_data = {}
 
 for c in CATEGORIES:
-    print(f"\n[INFO] {c}")
+    print(f"[INFO] {c}")
     all_data[c] = parse_category(c)
 
 with open("output.json", "w", encoding="utf-8") as f:
     json.dump(all_data, f, indent=2, ensure_ascii=False)
 
-print("\nDONE JSON")
+print("DONE JSON")
