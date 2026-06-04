@@ -3,21 +3,9 @@ import json
 with open("output.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
-category_order = [
-    "soccer",
-    "mlb",
-    "nba",
-    "nfl",
-    "nhl",
-    "fighting",
-    "motorsports"
-]
-
 m3u = "#EXTM3U\n"
 
-for cat in category_order:
-    items = data.get(cat, [])
-
+for cat, items in data.items():
     for item in items:
         title = item.get("title", "Unknown")
         streams = item.get("streams", [])
@@ -25,6 +13,7 @@ for cat in category_order:
         if not streams:
             continue
 
+        # беремо тільки перший робочий
         stream = streams[0]
 
         m3u += f'#EXTINF:-1 group-title="{cat}",{title}\n'
