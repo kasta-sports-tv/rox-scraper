@@ -21,7 +21,7 @@
       "title": "Korea Republic vs El Salvador",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/foxd.m3u8"
+        "https://daffodil.formaturamaxi.com.br/byu.m3u8"
       ]
     },
     {
@@ -121,8 +121,8 @@
       "title": "Athletics vs Chicago Cubs",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/alt.m3u8",
-        "https://601.formaturamaxi.com.br/mlb12.m3u8"
+        "https://601.formaturamaxi.com.br/mlb12.m3u8",
+        "https://daffodil.formaturamaxi.com.br/alt.m3u8"
       ]
     },
     {
@@ -152,8 +152,7 @@
       "title": "New York Knicks vs TBD",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/nba.m3u8",
-        "https://601.formaturamaxi.com.br/nbasat.m3u8"
+        "https://601.formaturamaxi.com.br/nba.m3u8"
       ]
     }
   ],
