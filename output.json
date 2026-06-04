@@ -38,14 +38,15 @@
       "title": "Czech Republic vs Guatemala",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/sportv.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
     {
       "title": "Mexico vs Serbia",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://601.formaturamaxi.com.br/fana2.m3u8"
+        "https://601.formaturamaxi.com.br/tudn.m3u8",
+        "https://601.formaturamaxi.com.br/foxd.m3u8"
       ]
     }
   ],
@@ -147,8 +148,8 @@
       "title": "Isle of Man TT - Coverage (CANCELLED)",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/tt2.m3u8",
-        "https://601.formaturamaxi.com.br/tt.m3u8"
+        "https://601.formaturamaxi.com.br/tt.m3u8",
+        "https://601.formaturamaxi.com.br/tt2.m3u8"
       ]
     },
     {
