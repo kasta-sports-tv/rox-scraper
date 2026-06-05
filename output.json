@@ -30,8 +30,8 @@
       "title": "Paraguay vs Nicaragua",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://601.formaturamaxi.com.br/sky.m3u8",
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8",
+        "https://601.formaturamaxi.com.br/sky.m3u8"
       ]
     },
     {
@@ -45,8 +45,8 @@
       "title": "Canada vs Ireland",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://601.formaturamaxi.com.br/foxd.m3u8",
-        "https://601.formaturamaxi.com.br/tudnmx.m3u8"
+        "https://601.formaturamaxi.com.br/tudnmx.m3u8",
+        "https://601.formaturamaxi.com.br/foxd.m3u8"
       ]
     }
   ],
@@ -132,8 +132,8 @@
       "title": "Milwaukee Brewers vs Colorado Rockies",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/alt.m3u8",
-        "https://601.formaturamaxi.com.br/mlb12.m3u8"
+        "https://601.formaturamaxi.com.br/mlb12.m3u8",
+        "https://daffodil.formaturamaxi.com.br/alt.m3u8"
       ]
     },
     {
@@ -188,17 +188,12 @@
   ],
   "motorsports": [
     {
-      "title": "Isle of Man TT - Coverage (CANCELLED)",
+      "title": "Isle of Man TT - Coverage",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
         "https://601.formaturamaxi.com.br/tt2.m3u8",
         "https://601.formaturamaxi.com.br/tt.m3u8"
       ]
-    },
-    {
-      "title": "TEST",
-      "page": "https://roxiestreams.info/nba-streams-9",
-      "streams": []
     }
   ]
 }
