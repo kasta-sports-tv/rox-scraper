@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Slovakia vs Montenegro
-https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 group-title="football",Moldova vs Bulgaria
 https://daffodil.formaturamaxi.com.br/bulg.m3u8
 #EXTINF:-1 group-title="football",Hungary vs Finland
@@ -10,7 +8,7 @@ https://601.formaturamaxi.com.br/nica.m3u8
 #EXTINF:-1 group-title="football",Puerto Rico vs Saudi Arabia
 https://601.formaturamaxi.com.br/punto.m3u8
 #EXTINF:-1 group-title="football",Canada vs Ireland
-https://601.formaturamaxi.com.br/tudnmx.m3u8
+https://daffodil.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 group-title="mlb",San Francisco Giants vs Chicago Cubs
 https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Seattle Mariners vs Detroit Tigers
@@ -34,7 +32,7 @@ https://601.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 group-title="mlb",Kansas City Royals vs Minnesota Twins
 https://601.formaturamaxi.com.br/mlb11.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Colorado Rockies
-https://daffodil.formaturamaxi.com.br/alt.m3u8
+https://601.formaturamaxi.com.br/mlb12.m3u8
 #EXTINF:-1 group-title="mlb",Washington Nationals vs Arizona Diamondbacks
 https://601.formaturamaxi.com.br/mlb13.m3u8
 #EXTINF:-1 group-title="mlb",New York Mets vs San Diego Padres
