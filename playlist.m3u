@@ -1,47 +1,57 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Moldova vs Bulgaria
+#EXTINF:-1 group-title="football",Lithuania vs Lativa
+https://daffodil.formaturamaxi.com.br/fubo.m3u8
+#EXTINF:-1 group-title="football",Portugal vs Chile
 https://daffodil.formaturamaxi.com.br/bulg.m3u8
-#EXTINF:-1 group-title="football",Hungary vs Finland
+#EXTINF:-1 group-title="football",Romania vs Wales
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Paraguay vs Nicaragua
-https://601.formaturamaxi.com.br/nica.m3u8
-#EXTINF:-1 group-title="football",Puerto Rico vs Saudi Arabia
+#EXTINF:-1 group-title="football",USA vs Germany
+https://daffodil.formaturamaxi.com.br/tigo.m3u8
+#EXTINF:-1 group-title="football",Australia vs Switzerland
 https://601.formaturamaxi.com.br/punto.m3u8
-#EXTINF:-1 group-title="football",Canada vs Ireland
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 group-title="mlb",San Francisco Giants vs Chicago Cubs
-https://601.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 group-title="football",Bolivia vs Scotland
+https://601.formaturamaxi.com.br/fana3.m3u8
+#EXTINF:-1 group-title="football",Brazil vs Egypt
+https://daffodil.formaturamaxi.com.br/byu.m3u8
+#EXTINF:-1 group-title="football",Venezuela vs Turkey
+https://daffodil.formaturamaxi.com.br/fubo.m3u8
+#EXTINF:-1 group-title="football",Argentina vs Honduras
+https://601.formaturamaxi.com.br/epl9.m3u8
 #EXTINF:-1 group-title="mlb",Seattle Mariners vs Detroit Tigers
+https://601.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 group-title="mlb",Kansas City Royals vs Minnesota Twins
 https://601.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Chicago White Sox vs Philadelphia Phillies
+#EXTINF:-1 group-title="mlb",Cincinnati Reds vs St. Louis Cardinals
 https://601.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Boston Red Sox vs New York Yankees
+#EXTINF:-1 group-title="mlb",San Francisco Giants vs Chicago Cubs
 https://601.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Baltimore Orioles vs Toronto Blue Jays
 https://601.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Miami Marlins
+#EXTINF:-1 group-title="mlb",Chicago White Sox vs Philadelphia Phillies
 https://601.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Atlanta Braves
+#EXTINF:-1 group-title="mlb",Washington Nationals vs Arizona Diamondbacks
 https://601.formaturamaxi.com.br/mlb7.m3u8
 #EXTINF:-1 group-title="mlb",Athletics vs Houston Astros
 https://601.formaturamaxi.com.br/mlb8.m3u8
-#EXTINF:-1 group-title="mlb",Cincinnati Reds vs St. Louis Cardinals
+#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Atlanta Braves
 https://601.formaturamaxi.com.br/mlb9.m3u8
-#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Texas Rangers
+#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Miami Marlins
 https://601.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",Kansas City Royals vs Minnesota Twins
+#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Texas Rangers
 https://601.formaturamaxi.com.br/mlb11.m3u8
-#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Colorado Rockies
+#EXTINF:-1 group-title="mlb",Boston Red Sox vs New York Yankees
 https://daffodil.formaturamaxi.com.br/alt.m3u8
-#EXTINF:-1 group-title="mlb",Washington Nationals vs Arizona Diamondbacks
+#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Colorado Rockies
 https://601.formaturamaxi.com.br/mlb13.m3u8
-#EXTINF:-1 group-title="mlb",New York Mets vs San Diego Padres
-https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Angels vs Los Angeles Dodgers
+https://601.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 group-title="mlb",New York Mets vs San Diego Padres
 https://601.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 group-title="nba",New York Knicks vs San Antonio Spurs
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 group-title="nba",San Antonio Spurs vs New York Knicks
+https://601.formaturamaxi.com.br/nbaalt.m3u8
 #EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Vegas Golden Knights
 https://601.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://601.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="fighting",Zuffa Boxing 7: Billam Smith vs Rozicki
+https://601.formaturamaxi.com.br/ppv2.m3u8
+#EXTINF:-1 group-title="fighting",PADLEY VS FIAZ
+https://601.formaturamaxi.com.br/ppv3.m3u8
