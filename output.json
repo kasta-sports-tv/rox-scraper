@@ -18,7 +18,6 @@
       "title": "Portugal vs Chile",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bulg.m3u8",
         "https://daffodil.formaturamaxi.com.br/fubo.m3u8",
         "https://601.formaturamaxi.com.br/chile.m3u8"
       ]
@@ -34,15 +33,15 @@
       "title": "USA vs Germany",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tigo.m3u8",
-        "https://601.formaturamaxi.com.br/nica.m3u8"
+        "https://601.formaturamaxi.com.br/tru.m3u8",
+        "https://601.formaturamaxi.com.br/tnt.m3u8"
       ]
     },
     {
       "title": "Australia vs Switzerland",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://601.formaturamaxi.com.br/punto.m3u8"
+        "https://601.formaturamaxi.com.br/sky2.m3u8"
       ]
     },
     {
@@ -166,8 +165,8 @@
       "title": "Boston Red Sox vs New York Yankees",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": [
-        "https://601.formaturamaxi.com.br/mlb12.m3u8",
-        "https://daffodil.formaturamaxi.com.br/alt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/alt.m3u8",
+        "https://601.formaturamaxi.com.br/mlb12.m3u8"
       ]
     },
     {
@@ -197,8 +196,8 @@
       "title": "San Antonio Spurs vs New York Knicks",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/nba.m3u8",
-        "https://601.formaturamaxi.com.br/nbaalt.m3u8"
+        "https://601.formaturamaxi.com.br/nbaalt.m3u8",
+        "https://601.formaturamaxi.com.br/nba.m3u8"
       ]
     }
   ],
@@ -217,7 +216,7 @@
       "title": "Zuffa Boxing 7: Billam Smith vs Rozicki",
       "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": [
-        "https://601.formaturamaxi.com.br/ppv2.m3u8"
+        "https://601.formaturamaxi.com.br/ncaa6.m3u8"
       ]
     },
     {
