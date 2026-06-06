@@ -4,25 +4,25 @@ https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 group-title="football",Lithuania vs Lativa
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="football",Portugal vs Chile
-https://daffodil.formaturamaxi.com.br/fubo.m3u8
+https://601.formaturamaxi.com.br/chile.m3u8
 #EXTINF:-1 group-title="football",Romania vs Wales
 https://daffodil.formaturamaxi.com.br/s4c.m3u8
 #EXTINF:-1 group-title="football",USA vs Germany
-https://601.formaturamaxi.com.br/rtl.m3u8
+https://601.formaturamaxi.com.br/tru.m3u8
 #EXTINF:-1 group-title="football",Australia vs Switzerland
 https://601.formaturamaxi.com.br/sky2.m3u8
 #EXTINF:-1 group-title="football",Panama vs Bosnia & Herzegovina
-https://601.formaturamaxi.com.br/england.m3u8
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="football",England vs New Zealand
-https://601.formaturamaxi.com.br/england.m3u8
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="football",Bolivia vs Scotland
-https://601.formaturamaxi.com.br/espn.m3u8
+https://daffodil.formaturamaxi.com.br/deportes.m3u8
 #EXTINF:-1 group-title="football",Brazil vs Egypt
 https://601.formaturamaxi.com.br/espn.m3u8
 #EXTINF:-1 group-title="football",Venezuela vs Turkey
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="football",Argentina vs Honduras
-https://601.formaturamaxi.com.br/epl9.m3u8
+https://601.formaturamaxi.com.br/espn.m3u8
 #EXTINF:-1 group-title="mlb",Seattle Mariners vs Detroit Tigers
 https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Kansas City Royals vs Minnesota Twins
@@ -46,7 +46,7 @@ https://601.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 group-title="mlb",Cleveland Guardians vs Texas Rangers
 https://601.formaturamaxi.com.br/mlb11.m3u8
 #EXTINF:-1 group-title="mlb",Boston Red Sox vs New York Yankees
-https://601.formaturamaxi.com.br/mlb12.m3u8
+https://daffodil.formaturamaxi.com.br/alt.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Colorado Rockies
 https://601.formaturamaxi.com.br/mlb13.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Angels vs Los Angeles Dodgers
@@ -54,7 +54,7 @@ https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",New York Mets vs San Diego Padres
 https://601.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 group-title="nba",San Antonio Spurs vs New York Knicks
-https://601.formaturamaxi.com.br/nbaalt.m3u8
+https://601.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Vegas Golden Knights
 https://601.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="fighting",Zuffa Boxing 7: Billam Smith vs Rozicki
