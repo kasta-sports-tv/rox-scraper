@@ -33,8 +33,8 @@
       "title": "USA vs Germany",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://601.formaturamaxi.com.br/tru.m3u8",
         "https://601.formaturamaxi.com.br/rtl.m3u8",
+        "https://601.formaturamaxi.com.br/tru.m3u8",
         "https://601.formaturamaxi.com.br/tnt.m3u8"
       ]
     },
@@ -65,8 +65,8 @@
       "title": "Bolivia vs Scotland",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/deportes.m3u8",
-        "https://601.formaturamaxi.com.br/espn.m3u8"
+        "https://601.formaturamaxi.com.br/espn.m3u8",
+        "https://daffodil.formaturamaxi.com.br/deportes.m3u8"
       ]
     },
     {
@@ -175,8 +175,8 @@
       "title": "Boston Red Sox vs New York Yankees",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/alt.m3u8",
-        "https://601.formaturamaxi.com.br/mlb12.m3u8"
+        "https://601.formaturamaxi.com.br/mlb12.m3u8",
+        "https://daffodil.formaturamaxi.com.br/alt.m3u8"
       ]
     },
     {
