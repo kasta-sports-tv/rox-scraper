@@ -46,9 +46,8 @@
       "title": "Ecuador vs Guatemala",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://601.formaturamaxi.com.br/rtl.m3u8",
-        "https://601.formaturamaxi.com.br/tru.m3u8",
-        "https://601.formaturamaxi.com.br/tnt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8",
+        "https://601.formaturamaxi.com.br/ecdf.m3u8"
       ]
     },
     {
@@ -141,8 +140,7 @@
       "title": "Washington Nationals vs Arizona Diamondbacks",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": [
-        "https://601.formaturamaxi.com.br/mlb12.m3u8",
-        "https://daffodil.formaturamaxi.com.br/alt.m3u8"
+        "https://601.formaturamaxi.com.br/mlb12.m3u8"
       ]
     },
     {
