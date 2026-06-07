@@ -5,16 +5,14 @@ https://601.formaturamaxi.com.br/fs2.m3u8
 https://601.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 group-title="football",Croatia vs Slovenia
 https://601.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 group-title="football",Greece vs Italy
-https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 group-title="football",Huachipato vs Colo Colo
 https://601.formaturamaxi.com.br/colo.m3u8
 #EXTINF:-1 group-title="football",Morocco vs Norway
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://601.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Ecuador vs Guatemala
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+https://601.formaturamaxi.com.br/ecdf.m3u8
 #EXTINF:-1 group-title="football",Colombia vs Jordan
-https://601.formaturamaxi.com.br/sky2.m3u8
+https://601.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Atlanta Braves
 https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Chicago White Sox vs Philadelphia Phillies
@@ -46,7 +44,7 @@ https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",San Francisco Giants vs Chicago Cubs
 https://601.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 group-title="nba",San Antonio Spurs vs New York Knicks
-https://601.formaturamaxi.com.br/nbaalt.m3u8
+https://601.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Vegas Golden Knights
 https://601.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
