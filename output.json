@@ -4,24 +4,21 @@
       "title": "Liechtenstein vs Cyprus",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/fs2.m3u8",
-        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+        "https://601.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
     {
       "title": "Denmark vs Ukraine",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/fs2.m3u8",
-        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+        "https://601.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
     {
       "title": "Croatia vs Slovenia",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/fs2.m3u8",
-        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+        "https://601.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
     {
@@ -35,24 +32,23 @@
       "title": "Huachipato vs Colo Colo",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://601.formaturamaxi.com.br/chile.m3u8",
-        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+        "https://601.formaturamaxi.com.br/colo.m3u8"
       ]
     },
     {
       "title": "Morocco vs Norway",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/s4c.m3u8"
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
       ]
     },
     {
       "title": "Ecuador vs Guatemala",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://601.formaturamaxi.com.br/tru.m3u8",
         "https://601.formaturamaxi.com.br/rtl.m3u8",
-        "https://601.formaturamaxi.com.br/tnt.m3u8"
+        "https://601.formaturamaxi.com.br/tnt.m3u8",
+        "https://601.formaturamaxi.com.br/tru.m3u8"
       ]
     },
     {
@@ -176,8 +172,8 @@
       "title": "San Antonio Spurs vs New York Knicks",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/nbaalt.m3u8",
-        "https://601.formaturamaxi.com.br/nba.m3u8"
+        "https://601.formaturamaxi.com.br/nba.m3u8",
+        "https://601.formaturamaxi.com.br/nbaalt.m3u8"
       ]
     }
   ],
