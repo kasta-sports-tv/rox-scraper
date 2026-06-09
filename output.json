@@ -11,15 +11,13 @@
       "title": "Armenia vs Moldova",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://601.formaturamaxi.com.br/sky2.m3u8",
-        "https://601.formaturamaxi.com.br/fs2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
       ]
     },
     {
       "title": "Belarus vs Burkina Faso",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://601.formaturamaxi.com.br/la.m3u8",
         "https://601.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
@@ -27,15 +25,14 @@
       "title": "Hungary vs Kazakhstan",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://601.formaturamaxi.com.br/dep.m3u8"
+        "https://601.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
     {
       "title": "AlmerÃ­a vs Castellon",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8",
-        "https://601.formaturamaxi.com.br/ecdf.m3u8"
+        "https://601.formaturamaxi.com.br/dep.m3u8"
       ]
     },
     {
