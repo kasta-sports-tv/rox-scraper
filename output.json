@@ -11,8 +11,8 @@
       "title": "France vs Northern Ireland",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://601.formaturamaxi.com.br/fs2.m3u8",
-        "https://601.formaturamaxi.com.br/sky2.m3u8"
+        "https://601.formaturamaxi.com.br/sky2.m3u8",
+        "https://601.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
     {
@@ -87,8 +87,7 @@
       "title": "San Antonio Spurs vs New York Knicks",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/nba.m3u8",
-        "https://601.formaturamaxi.com.br/nbaalt.m3u8"
+        "https://601.formaturamaxi.com.br/nba.m3u8"
       ]
     }
   ],
