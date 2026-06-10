@@ -111,37 +111,51 @@
     {
       "title": "Texas Rangers vs Kansas City Royals",
       "page": "https://roxiestreams.info/mlb-streams-9",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb9.m3u8"
+      ]
     },
     {
       "title": "Atlanta Braves vs Chicago White Sox",
       "page": "https://roxiestreams.info/mlb-streams-10",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb10.m3u8"
+      ]
     },
     {
       "title": "Chicago Cubs vs Colorado Rockies",
       "page": "https://roxiestreams.info/mlb-streams-11",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb11.m3u8"
+      ]
     },
     {
       "title": "Houston Astros vs Los Angeles Angels",
       "page": "https://roxiestreams.info/mlb-streams-12",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb12.m3u8"
+      ]
     },
     {
       "title": "Cincinnati Reds vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-13",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb13.m3u8"
+      ]
     },
     {
       "title": "Washington Nationals vs San Francisco Giants",
       "page": "https://roxiestreams.info/mlb-streams-14",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb14.m3u8"
+      ]
     },
     {
       "title": "Milwaukee Brewers vs Athletics",
       "page": "https://roxiestreams.info/mlb-streams-15",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb15.m3u8"
+      ]
     }
   ],
   "nba": [
