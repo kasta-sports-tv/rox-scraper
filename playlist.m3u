@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Mexico vs South Africa
-https://daffodil.formaturamaxi.com.br/tele.m3u8
+https://601.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 group-title="mlb",St. Louis Cardinals vs New York Mets
 https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Minnesota Twins vs Detroit Tigers
@@ -11,6 +11,8 @@ https://601.formaturamaxi.com.br/mlb3.m3u8
 https://601.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Chicago Cubs vs Colorado Rockies
 https://601.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Pittsburgh Pirates
+https://601.formaturamaxi.com.br/mlb6.m3u8
 #EXTINF:-1 group-title="mlb",Seattle Mariners vs Baltimore Orioles
 https://601.formaturamaxi.com.br/mlb7.m3u8
 #EXTINF:-1 group-title="mlb",Atlanta Braves vs Chicago White Sox
