@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Mexico vs South Africa
 https://601.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 group-title="mlb",St. Louis Cardinals vs New York Mets
+https://601.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 group-title="mlb",Minnesota Twins vs Detroit Tigers
+https://601.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs Miami Marlins
+https://601.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 group-title="mlb",Texas Rangers vs Kansas City Royals
+https://601.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Chicago Cubs vs Colorado Rockies
 https://601.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 group-title="mlb",Seattle Mariners vs Baltimore Orioles

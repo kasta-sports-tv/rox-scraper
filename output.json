@@ -18,22 +18,30 @@
     {
       "title": "St. Louis Cardinals vs New York Mets",
       "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb.m3u8"
+      ]
     },
     {
       "title": "Minnesota Twins vs Detroit Tigers",
       "page": "https://roxiestreams.info/mlb-streams-2",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb2.m3u8"
+      ]
     },
     {
       "title": "Arizona Diamondbacks vs Miami Marlins",
       "page": "https://roxiestreams.info/mlb-streams-3",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb3.m3u8"
+      ]
     },
     {
       "title": "Texas Rangers vs Kansas City Royals",
       "page": "https://roxiestreams.info/mlb-streams-4",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb4.m3u8"
+      ]
     },
     {
       "title": "Chicago Cubs vs Colorado Rockies",
