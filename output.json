@@ -4,18 +4,18 @@
       "title": "Canada vs Bosnia & Herzegovina",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
+        "https://601.thelistener.pk/tsn.m3u8",
         "https://daffodil.thelistener.pk/fox.m3u8",
-        "https://daffodil.thelistener.pk/tele.m3u8",
-        "https://601.thelistener.pk/tsn.m3u8"
+        "https://daffodil.thelistener.pk/tele.m3u8"
       ]
     },
     {
       "title": "USA vs Paraguay",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://601.thelistener.pk/fs1.m3u8",
+        "https://601.thelistener.pk/tsn.m3u8",
         "https://daffodil.thelistener.pk/tele.m3u8",
-        "https://601.thelistener.pk/tsn.m3u8"
+        "https://601.thelistener.pk/fs1.m3u8"
       ]
     }
   ],
@@ -58,10 +58,7 @@
     {
       "title": "Arizona Diamondbacks vs Cincinnati Reds",
       "page": "https://roxiestreams.info/mlb-streams-6",
-      "streams": [
-        "https://601.thelistener.pk/test.m3u8",
-        "https://601.thelistener.pk/mlb6.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Atlanta Braves vs New York Mets",
@@ -122,7 +119,9 @@
     {
       "title": "Chicago Cubs vs San Francisco Giants",
       "page": "https://roxiestreams.info/mlb-streams-15",
-      "streams": []
+      "streams": [
+        "https://601.thelistener.pk/mlb15.m3u8"
+      ]
     }
   ],
   "nba": [
