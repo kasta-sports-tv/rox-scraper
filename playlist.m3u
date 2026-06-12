@@ -1,25 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Mexico vs South Africa
+#EXTINF:-1 group-title="football",Canada vs Bosnia & Herzegovina
 https://daffodil.thelistener.pk/fox.m3u8
-#EXTINF:-1 group-title="football",Korea Republic vs Czech Republic
-https://daffodil.thelistener.pk/fox.m3u8
-#EXTINF:-1 group-title="mlb",St. Louis Cardinals vs New York Mets
+#EXTINF:-1 group-title="football",USA vs Paraguay
+https://601.thelistener.pk/fs1.m3u8
+#EXTINF:-1 group-title="mlb",Miami Marlins vs Pittsburgh Pirates
 https://601.thelistener.pk/mlb.m3u8
-#EXTINF:-1 group-title="mlb",Minnesota Twins vs Detroit Tigers
+#EXTINF:-1 group-title="mlb",Seattle Mariners vs Washington Nationals
 https://601.thelistener.pk/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs Miami Marlins
+#EXTINF:-1 group-title="mlb",San Diego Padres vs Baltimore Orioles
 https://601.thelistener.pk/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Texas Rangers vs Kansas City Royals
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Cleveland Guardians
 https://601.thelistener.pk/mlb4.m3u8
-#EXTINF:-1 group-title="mlb",Chicago Cubs vs Colorado Rockies
+#EXTINF:-1 group-title="mlb",Texas Rangers vs Boston Red Sox
 https://601.thelistener.pk/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Pittsburgh Pirates
-https://601.thelistener.pk/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Seattle Mariners vs Baltimore Orioles
+#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs Cincinnati Reds
+https://601.thelistener.pk/test.m3u8
+#EXTINF:-1 group-title="mlb",Atlanta Braves vs New York Mets
 https://601.thelistener.pk/mlb7.m3u8
-#EXTINF:-1 group-title="mlb",Atlanta Braves vs Chicago White Sox
+#EXTINF:-1 group-title="mlb",New York Yankees vs Toronto Blue Jays
 https://601.thelistener.pk/mlb8.m3u8
+#EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Chicago White Sox
+https://601.thelistener.pk/mlb9.m3u8
+#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Milwaukee Brewers
+https://601.thelistener.pk/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",Houston Astros vs Kansas City Royals
+https://601.thelistener.pk/mlb11.m3u8
+#EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Minnesota Twins
+https://601.thelistener.pk/mlb12.m3u8
+#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Los Angeles Angels
+https://601.thelistener.pk/mlb13.m3u8
+#EXTINF:-1 group-title="mlb",Colorado Rockies vs Athletics
+https://601.thelistener.pk/mlb14.m3u8
 #EXTINF:-1 group-title="nba",New York Knicks vs San Antonio Spurs
 https://601.thelistener.pk/nba.m3u8
-#EXTINF:-1 group-title="nhl",Vegas Golden Knights vs Carolina Hurricanes
+#EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Vegas Golden Knights
 https://601.thelistener.pk/nhl.m3u8
