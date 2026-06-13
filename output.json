@@ -3,44 +3,38 @@
     {
       "title": "Maurice Revello Tournament",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/foxd.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Qatar vs Switzerland",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
         "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://601.sandhost.qzz.io/tsn.m3u8"
+        "https://daffodil.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "Brazil vs Morocco",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
         "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://601.sandhost.qzz.io/tsn.m3u8"
+        "https://daffodil.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "Haiti vs Scotland",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
         "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://601.sandhost.qzz.io/tsn.m3u8"
+        "https://daffodil.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "Australia vs Turkey",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
         "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://601.sandhost.qzz.io/tsn.m3u8"
+        "https://daffodil.sandhost.qzz.io/fox.m3u8"
       ]
     }
   ],
@@ -118,46 +112,34 @@
     {
       "title": "Houston Astros vs Kansas City Royals",
       "page": "https://roxiestreams.info/mlb-streams-11",
-      "streams": [
-        "https://601.sandhost.qzz.io/mlb11.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Philadelphia Phillies vs Milwaukee Brewers",
       "page": "https://roxiestreams.info/mlb-streams-12",
-      "streams": [
-        "https://601.sandhost.qzz.io/mlb12.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Colorado Rockies vs Athletics",
       "page": "https://roxiestreams.info/mlb-streams-13",
-      "streams": [
-        "https://601.sandhost.qzz.io/mlb13.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Chicago Cubs vs San Francisco Giants",
       "page": "https://roxiestreams.info/mlb-streams-14",
-      "streams": [
-        "https://601.sandhost.qzz.io/mlb14.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Tampa Bay Rays vs Los Angeles Angels",
       "page": "https://roxiestreams.info/mlb-streams-15",
-      "streams": [
-        "https://601.sandhost.qzz.io/mlb15.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nba": [
     {
       "title": "New York Knicks vs San Antonio Spurs",
       "page": "https://roxiestreams.info/nba-streams-1",
-      "streams": [
-        "https://601.sandhost.qzz.io/nba.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nfl": [],
@@ -165,9 +147,7 @@
     {
       "title": "Carolina Hurricanes vs Vegas Golden Knights",
       "page": "https://roxiestreams.info/nhl-streams-1",
-      "streams": [
-        "https://601.sandhost.qzz.io/nhl.m3u8"
-      ]
+      "streams": []
     }
   ],
   "fighting": [
@@ -181,16 +161,12 @@
     {
       "title": "Khamzat Chimaev vs. Danis (RAF)",
       "page": "https://roxiestreams.info/ppv-streams-2",
-      "streams": [
-        "https://601.sandhost.qzz.io/ncaa6.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Bam vs. Vargas",
       "page": "https://roxiestreams.info/ppv-streams-3",
-      "streams": [
-        "https://601.sandhost.qzz.io/ppv3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Jones vs. Carranza 2 (MVP)",
