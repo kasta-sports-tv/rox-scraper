@@ -4,42 +4,44 @@
       "title": "Maurice Revello Tournament",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/foxd.m3u8"
       ]
     },
     {
       "title": "Qatar vs Switzerland",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
+        "https://daffodil.sandhost.qzz.io/fox.m3u8",
         "https://601.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
       "title": "Brazil vs Morocco",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
+        "https://daffodil.sandhost.qzz.io/fox.m3u8",
         "https://601.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
       "title": "Haiti vs Scotland",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
+        "https://daffodil.sandhost.qzz.io/fox.m3u8",
         "https://601.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
       "title": "Australia vs Turkey",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tsn.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -175,7 +177,7 @@
       "streams": []
     },
     {
-      "title": "Chimaev vs. Danis (RAF)",
+      "title": "Khamzat Chimaev vs. Danis (RAF)",
       "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": [
         "https://601.sandhost.qzz.io/ncaa6.m3u8"

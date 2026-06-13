@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Maurice Revello Tournament
-https://601.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/foxd.m3u8
 #EXTINF:-1 group-title="football",Qatar vs Switzerland
-https://601.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Brazil vs Morocco
-https://601.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Haiti vs Scotland
-https://601.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/fox.m3u8
+#EXTINF:-1 group-title="football",Australia vs Turkey
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Minnesota Twins
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Toronto Blue Jays
@@ -41,7 +43,7 @@ https://601.sandhost.qzz.io/mlb15.m3u8
 https://601.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Vegas Golden Knights
 https://601.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="fighting",Chimaev vs. Danis (RAF)
+#EXTINF:-1 group-title="fighting",Khamzat Chimaev vs. Danis (RAF)
 https://601.sandhost.qzz.io/ncaa6.m3u8
 #EXTINF:-1 group-title="fighting",Bam vs. Vargas
 https://601.sandhost.qzz.io/ppv3.m3u8
