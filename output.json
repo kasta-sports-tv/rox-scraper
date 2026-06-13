@@ -9,32 +9,32 @@
       "title": "Qatar vs Switzerland",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/fox.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
       "title": "Brazil vs Morocco",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/fox.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
       "title": "Haiti vs Scotland",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/fox.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
       "title": "Australia vs Turkey",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/fox.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     }
   ],
@@ -112,12 +112,16 @@
     {
       "title": "Houston Astros vs Kansas City Royals",
       "page": "https://roxiestreams.info/mlb-streams-11",
-      "streams": []
+      "streams": [
+        "https://601.sandhost.qzz.io/mlb11.m3u8"
+      ]
     },
     {
       "title": "Philadelphia Phillies vs Milwaukee Brewers",
       "page": "https://roxiestreams.info/mlb-streams-12",
-      "streams": []
+      "streams": [
+        "https://601.sandhost.qzz.io/mlb12.m3u8"
+      ]
     },
     {
       "title": "Colorado Rockies vs Athletics",
