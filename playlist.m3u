@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Canada vs Bosnia & Herzegovina
-https://daffodil.sandhost.qzz.io/fox.m3u8
+https://daffodil.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="football",USA vs Paraguay
-https://daffodil.sandhost.qzz.io/fox.m3u8
+https://daffodil.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="mlb",Miami Marlins vs Pittsburgh Pirates
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Seattle Mariners vs Washington Nationals
