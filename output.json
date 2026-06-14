@@ -4,26 +4,22 @@
       "title": "Germany vs Curacao",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://daffodil.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "Netherlands vs Japan",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://daffodil.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "CÃ´te D'Ivoire vs Ecuador",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
@@ -31,17 +27,6 @@
       "title": "Sweden vs Tunisia",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
-      ]
-    },
-    {
-      "title": "Australia vs Turkey",
-      "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     }
@@ -167,7 +152,9 @@
     {
       "title": "Carolina Hurricanes vs Vegas Golden Knights",
       "page": "https://roxiestreams.info/nhl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
+      ]
     }
   ],
   "fighting": [

@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Germany vs Curacao
-https://daffodil.sandhost.qzz.io/fox.m3u8
+https://daffodil.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="football",Netherlands vs Japan
-https://daffodil.sandhost.qzz.io/fox.m3u8
+https://daffodil.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="football",CÃ´te D'Ivoire vs Ecuador
-https://daffodil.sandhost.qzz.io/fox.m3u8
+https://daffodil.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="football",Sweden vs Tunisia
-https://daffodil.sandhost.qzz.io/fox.m3u8
-#EXTINF:-1 group-title="football",Australia vs Turkey
-https://daffodil.sandhost.qzz.io/fox.m3u8
+https://daffodil.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="mlb",Miami Marlins vs Pittsburgh Pirates
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",San Diego Padres vs Baltimore Orioles
@@ -41,5 +39,7 @@ https://601.sandhost.qzz.io/mlb14.m3u8
 https://601.sandhost.qzz.io/mlb15.m3u8
 #EXTINF:-1 group-title="nba",New York Knicks vs San Antonio Spurs
 https://601.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Vegas Golden Knights
+https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="fighting",Gonzalez vs. Perez
 https://601.sandhost.qzz.io/ppv.m3u8
