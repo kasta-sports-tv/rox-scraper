@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Germany vs Curacao
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Netherlands vs Japan
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",CÃ´te D'Ivoire vs Ecuador
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Sweden vs Tunisia
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Australia vs Turkey
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="mlb",Miami Marlins vs Pittsburgh Pirates
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",San Diego Padres vs Baltimore Orioles
