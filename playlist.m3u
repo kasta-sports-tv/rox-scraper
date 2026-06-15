@@ -1,43 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Germany vs Curacao
+#EXTINF:-1 group-title="football",Spain vs Cape Verde
 https://daffodil.sandhost.qzz.io/tele.m3u8
-#EXTINF:-1 group-title="football",Netherlands vs Japan
+#EXTINF:-1 group-title="football",Belgium vs Egypt
 https://daffodil.sandhost.qzz.io/tele.m3u8
-#EXTINF:-1 group-title="football",CÃ´te D'Ivoire vs Ecuador
+#EXTINF:-1 group-title="football",Saudi Arabia vs Uruguay
 https://daffodil.sandhost.qzz.io/tele.m3u8
-#EXTINF:-1 group-title="football",Sweden vs Tunisia
+#EXTINF:-1 group-title="football",Iran vs New Zealand
 https://daffodil.sandhost.qzz.io/tele.m3u8
-#EXTINF:-1 group-title="mlb",Miami Marlins vs Pittsburgh Pirates
+#EXTINF:-1 group-title="mlb",Miami Marlins vs Philadelphia Phillies
 https://601.sandhost.qzz.io/mlb.m3u8
-#EXTINF:-1 group-title="mlb",San Diego Padres vs Baltimore Orioles
+#EXTINF:-1 group-title="mlb",Kansas City Royals vs Washington Nationals
 https://601.sandhost.qzz.io/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Seattle Mariners vs Washington Nationals
+#EXTINF:-1 group-title="mlb",New York Mets vs Cincinnati Reds
 https://601.sandhost.qzz.io/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",New York Yankees vs Toronto Blue Jays
+#EXTINF:-1 group-title="mlb",San Diego Padres vs St. Louis Cardinals
 https://601.sandhost.qzz.io/mlb4.m3u8
-#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs Cincinnati Reds
+#EXTINF:-1 group-title="mlb",Colorado Rockies vs Chicago Cubs
 https://601.sandhost.qzz.io/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Detroit Tigers vs Cleveland Guardians
+#EXTINF:-1 group-title="mlb",Minnesota Twins vs Texas Rangers
 https://601.sandhost.qzz.io/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Atlanta Braves vs New York Mets
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Houston Astros
 https://601.sandhost.qzz.io/mlb7.m3u8
-#EXTINF:-1 group-title="mlb",Houston Astros vs Kansas City Royals
+#EXTINF:-1 group-title="mlb",Los Angeles Angels vs Arizona Diamondbacks
 https://601.sandhost.qzz.io/mlb8.m3u8
-#EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Chicago White Sox
+#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Athletics
+https://601.sandhost.qzz.io/mlb9.m3u8
+#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Los Angeles Dodgers
 https://601.sandhost.qzz.io/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Milwaukee Brewers
-https://601.sandhost.qzz.io/mlb11.m3u8
-#EXTINF:-1 group-title="mlb",Colorado Rockies vs Athletics
-https://601.sandhost.qzz.io/mlb12.m3u8
-#EXTINF:-1 group-title="mlb",Chicago Cubs vs San Francisco Giants
-https://601.sandhost.qzz.io/mlb13.m3u8
-#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Los Angeles Angels
-https://601.sandhost.qzz.io/mlb14.m3u8
-#EXTINF:-1 group-title="mlb",Texas Rangers vs Boston Red Sox
-https://601.sandhost.qzz.io/mlb15.m3u8
-#EXTINF:-1 group-title="nba",New York Knicks vs San Antonio Spurs
-https://601.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Vegas Golden Knights
-https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="fighting",Gonzalez vs. Perez
-https://601.sandhost.qzz.io/ppv.m3u8
+#EXTINF:-1 group-title="fighting",WWE RAW
+https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 group-title="fighting",WWE NXT
+https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 group-title="fighting",WWE Smackdown
+https://daffodil.sandhost.qzz.io/wwe.m3u8
