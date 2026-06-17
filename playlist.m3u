@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",France vs Senegal
+#EXTINF:-1 group-title="football",Portugal vs Congo DR
 https://daffodil.formaturamaxi.com.br/tele.m3u8
-#EXTINF:-1 group-title="football",Iraq vs Norway
+#EXTINF:-1 group-title="football",England vs Croatia
 https://daffodil.formaturamaxi.com.br/tele.m3u8
-#EXTINF:-1 group-title="football",Argentina vs Algeria
+#EXTINF:-1 group-title="football",Ghana vs Panama
 https://daffodil.formaturamaxi.com.br/tele.m3u8
-#EXTINF:-1 group-title="football",Austria vs Jordan
-https://daffodil.formaturamaxi.com.br/tele.m3u8
+#EXTINF:-1 group-title="football",Uzbekistan vs Colombia
+https://601.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="mlb",Miami Marlins vs Philadelphia Phillies
 https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Kansas City Royals vs Washington Nationals
