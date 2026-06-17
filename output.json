@@ -4,38 +4,38 @@
       "title": "Portugal vs Congo DR",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
         "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "England vs Croatia",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
         "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "Ghana vs Panama",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
         "https://601.sandhost.qzz.io/bein.m3u8",
         "https://601.sandhost.qzz.io/bbc.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "Uzbekistan vs Colombia",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
         "https://601.sandhost.qzz.io/bein.m3u8",
         "https://601.sandhost.qzz.io/bbc.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     }
   ],
