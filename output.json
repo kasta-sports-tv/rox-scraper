@@ -1,42 +1,42 @@
 {
   "soccer": [
     {
-      "title": "South Africa vs Chech Republic",
+      "title": "USA vs Australia",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://601.sandhost.qzz.io/bbc.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/bbc.m3u8",
+        "https://601.sandhost.qzz.io/bein.m3u8",
         "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
-      "title": "Switzerland vs Bosnia & Herzegovina",
+      "title": "Scotland vs Morocco",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://601.sandhost.qzz.io/bbc.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/bbc.m3u8",
+        "https://601.sandhost.qzz.io/bein.m3u8",
         "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
-      "title": "Canada vs Qatar",
+      "title": "Brazil vs Haiti",
+      "page": "https://roxiestreams.info/soccer-streams-1",
+      "streams": [
+        "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/bbc.m3u8",
+        "https://601.sandhost.qzz.io/bein.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+      ]
+    },
+    {
+      "title": "Turkey vs Paraguay",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
         "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
-      ]
-    },
-    {
-      "title": "Mexico vs Korea Republic",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://601.sandhost.qzz.io/bbc.m3u8",
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     }
   ],
