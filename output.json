@@ -4,8 +4,7 @@
       "title": "USA vs Australia",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/bbc.m3u8",
-        "https://601.thelistener.pk/fox.m3u8",
+        "https://601.formaturamaxi.com.br/fox.m3u8",
         "https://daffodil.formaturamaxi.com.br/tele.m3u8",
         "https://601.formaturamaxi.com.br/bein.m3u8"
       ]
@@ -14,17 +13,15 @@
       "title": "Scotland vs Morocco",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/bbc.m3u8",
-        "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.formaturamaxi.com.br/fox.m3u8",
         "https://daffodil.formaturamaxi.com.br/tele.m3u8",
-        "https://601.thelistener.pk/bein.m3u8"
+        "https://601.formaturamaxi.com.br/bein.m3u8"
       ]
     },
     {
       "title": "Brazil vs Haiti",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/bbc.m3u8",
         "https://601.formaturamaxi.com.br/fox.m3u8",
         "https://daffodil.formaturamaxi.com.br/tele.m3u8",
         "https://601.formaturamaxi.com.br/bein.m3u8"
@@ -34,8 +31,8 @@
       "title": "Turkey vs Paraguay",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tele.m3u8",
         "https://601.formaturamaxi.com.br/fox.m3u8",
+        "https://daffodil.formaturamaxi.com.br/tele.m3u8",
         "https://601.formaturamaxi.com.br/bein.m3u8"
       ]
     }
@@ -115,14 +112,14 @@
       "title": "Los Angeles Angels vs Athletics",
       "page": "https://roxiestreams.info/mlb-streams-11",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb11.m3u8"
+        "https://601.formaturamaxi.com.br/mlb11.m3u8"
       ]
     },
     {
       "title": "Minnesota Twins vs Arizona Diamondbacks",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": [
-        "https://601.thelistener.pk/mlb12.m3u8"
+        "https://601.formaturamaxi.com.br/mlb12.m3u8"
       ]
     },
     {
@@ -135,7 +132,9 @@
     {
       "title": "Boston Red Sox vs Seattle Mariners",
       "page": "https://roxiestreams.info/mlb-streams-14",
-      "streams": []
+      "streams": [
+        "https://601.formaturamaxi.com.br/mlb14.m3u8"
+      ]
     }
   ],
   "nba": [],
@@ -146,7 +145,7 @@
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://601.thelistener.pk/wwe.m3u8"
+        "https://601.formaturamaxi.com.br/wwe.m3u8"
       ]
     }
   ],
