@@ -4,29 +4,29 @@
       "title": "Netherlands vs Sweden",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/bbc.m3u8",
         "https://daffodil.formaturamaxi.com.br/tele.m3u8",
         "https://601.formaturamaxi.com.br/fox.m3u8",
-        "https://601.formaturamaxi.com.br/bein.m3u8"
+        "https://601.formaturamaxi.com.br/bein.m3u8",
+        "https://601.formaturamaxi.com.br/bbc.m3u8"
       ]
     },
     {
       "title": "AlmerÃ­a vs Malaga",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
+        "https://601.formaturamaxi.com.br/bein.m3u8",
         "https://daffodil.formaturamaxi.com.br/tele.m3u8",
-        "https://601.formaturamaxi.com.br/fox.m3u8",
-        "https://601.formaturamaxi.com.br/bein.m3u8"
+        "https://601.formaturamaxi.com.br/fox.m3u8"
       ]
     },
     {
       "title": "Germany vs Ivory Coast",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.formaturamaxi.com.br/bbc.m3u8",
         "https://daffodil.formaturamaxi.com.br/tele.m3u8",
         "https://601.formaturamaxi.com.br/fox.m3u8",
-        "https://601.formaturamaxi.com.br/bein.m3u8"
+        "https://601.formaturamaxi.com.br/bein.m3u8",
+        "https://601.formaturamaxi.com.br/bbc.m3u8"
       ]
     },
     {
