@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Spain vs Saudi Arabia
-https://daffodil.sandhost.qzz.io/tele.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Belgium vs Iran
-https://daffodil.sandhost.qzz.io/dep.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Uruguay vs Cape Verde
-https://daffodil.sandhost.qzz.io/dep.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",New Zealand vs Egypt
-https://daffodil.sandhost.qzz.io/dep.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="mlb",Cincinnati Reds vs New York Yankees
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Atlanta Braves
