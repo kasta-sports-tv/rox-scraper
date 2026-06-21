@@ -6,8 +6,8 @@
       "streams": [
         "https://601.sandhost.qzz.io/fox.m3u8",
         "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -16,8 +16,8 @@
       "streams": [
         "https://601.sandhost.qzz.io/fox.m3u8",
         "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -26,8 +26,8 @@
       "streams": [
         "https://601.sandhost.qzz.io/fox.m3u8",
         "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -36,8 +36,8 @@
       "streams": [
         "https://601.sandhost.qzz.io/fox.m3u8",
         "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/bein.m3u8"
       ]
     }
   ],
