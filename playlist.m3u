@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Netherlands vs Sweden
-https://601.sandhost.qzz.io/fox.m3u8
+https://601.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",AlmerÃ­a vs Malaga
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Germany vs Ivory Coast
-https://601.sandhost.qzz.io/fox.m3u8
+https://601.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Ecuador vs Curacao
-https://601.sandhost.qzz.io/fox.m3u8
+https://601.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Tunisia vs Japan
-https://601.sandhost.qzz.io/fox.m3u8
+https://601.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="mlb",Chicago White Sox vs Detroit Tigers
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Cincinnati Reds vs New York Yankees
