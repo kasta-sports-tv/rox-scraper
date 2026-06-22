@@ -4,40 +4,40 @@
       "title": "Argentina vs Austria",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8"
+        "https://601.sandhost.qzz.io/bein.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8"
       ]
     },
     {
       "title": "France vs Iraq",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8"
+        "https://601.sandhost.qzz.io/bein.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8"
       ]
     },
     {
       "title": "Norway vs Senegal",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8"
+        "https://601.sandhost.qzz.io/bein.m3u8",
+        "https://daffodil.sandhost.qzz.io/tele.m3u8",
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8"
       ]
     },
     {
       "title": "Jordan vs Algeria",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
+        "https://601.sandhost.qzz.io/bein.m3u8",
         "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tele.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8"
+        "https://daffodil.sandhost.qzz.io/tele.m3u8"
       ]
     }
   ],
