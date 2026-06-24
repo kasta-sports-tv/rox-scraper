@@ -1,41 +1,45 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Portugal vs Uzbekistan
+#EXTINF:-1 group-title="football",Switzerland vs Canada
 https://daffodil.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 group-title="football",England vs Ghana
+#EXTINF:-1 group-title="football",Bosnia & Herzegovina vs Qatar
 https://daffodil.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 group-title="football",Panama vs Croatia
+#EXTINF:-1 group-title="football",Morocco vs Haiti
 https://daffodil.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 group-title="football",Colombia vs Congo DR
-https://601.formaturamaxi.com.br/fox.m3u8
-#EXTINF:-1 group-title="mlb",Houston Astros vs Toronto Blue Jays
-https://601.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="mlb",Seattle Mariners vs Pittsburgh Pirates
-https://601.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Kansas City Royals vs Tampa Bay Rays
-https://601.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 group-title="football",Scotland vs Brazil
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 group-title="football",South Africa vs South Korea
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 group-title="football",Mexico vs Czech
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 group-title="mlb",Texas Rangers vs Miami Marlins
-https://601.formaturamaxi.com.br/mlb4.m3u8
-#EXTINF:-1 group-title="mlb",New York Yankees vs Detroit Tigers
-https://601.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Washington Nationals
-https://601.formaturamaxi.com.br/mlb6.m3u8
+https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Chicago Cubs vs New York Mets
-https://601.formaturamaxi.com.br/mlb7.m3u8
-#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Cincinnati Reds
-https://601.formaturamaxi.com.br/mlb8.m3u8
-#EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Minnesota Twins
-https://601.formaturamaxi.com.br/mlb9.m3u8
+https://601.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 group-title="mlb",Chicago Cubs vs New York Mets
+https://601.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Cleveland Guardians vs Chicago White Sox
-https://601.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs St. Louis Cardinals
-https://601.formaturamaxi.com.br/mlb11.m3u8
+https://601.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Boston Red Sox vs Colorado Rockies
-https://601.formaturamaxi.com.br/mlb12.m3u8
+https://601.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 group-title="mlb",Baltimore Orioles vs Los Angeles Angels
+https://601.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 group-title="mlb",Seattle Mariners vs Pittsburgh Pirates
+https://601.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 group-title="mlb",Kansas City Royals vs Tampa Bay Rays
+https://601.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 group-title="mlb",New York Yankees vs Detroit Tigers
+https://601.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Washington Nationals
+https://601.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",Houston Astros vs Toronto Blue Jays
+https://601.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Cincinnati Reds
+https://601.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Minnesota Twins
 https://601.formaturamaxi.com.br/mlb13.m3u8
-#EXTINF:-1 group-title="mlb",Atlanta Braves vs San Diego Padres
+#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs St. Louis Cardinals
 https://601.formaturamaxi.com.br/mlb14.m3u8
-#EXTINF:-1 group-title="mlb",Athletics vs San Francisco Giants
+#EXTINF:-1 group-title="mlb",Atlanta Braves vs San Diego Padres
 https://601.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 group-title="nba",NBA Draft 2026
 https://601.formaturamaxi.com.br/nba.m3u8
