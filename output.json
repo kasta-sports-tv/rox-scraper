@@ -4,8 +4,8 @@
       "title": "Norway vs France",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/tele.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tele.m3u8",
         "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/bein.m3u8"
       ]
@@ -14,8 +14,8 @@
       "title": "Senegal vs Iraq",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/universo.m3u8",
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/fs1.m3u8"
       ]
     },
@@ -23,8 +23,8 @@
       "title": "Uruguay vs Spain",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/tele.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tele.m3u8",
         "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/bein.m3u8"
       ]
@@ -33,8 +33,8 @@
       "title": "Cape Verde vs Saudi Araba",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/universo.m3u8",
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/fs1.m3u8"
       ]
     },
@@ -42,8 +42,8 @@
       "title": "New Zealand vs Belgium",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/tele.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tele.m3u8",
         "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/bein.m3u8"
       ]
@@ -52,8 +52,8 @@
       "title": "Egypt vs Iran",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/universo.m3u8",
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/fs1.m3u8"
       ]
     }

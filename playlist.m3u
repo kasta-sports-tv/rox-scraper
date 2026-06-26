@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Norway vs France
-https://601.sandhost.qzz.io/tele.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Senegal vs Iraq
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://601.sandhost.qzz.io/universo.m3u8
 #EXTINF:-1 group-title="football",Uruguay vs Spain
-https://601.sandhost.qzz.io/tele.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Cape Verde vs Saudi Araba
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://601.sandhost.qzz.io/universo.m3u8
 #EXTINF:-1 group-title="football",New Zealand vs Belgium
-https://601.sandhost.qzz.io/tele.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Egypt vs Iran
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://601.sandhost.qzz.io/universo.m3u8
 #EXTINF:-1 group-title="mlb",Houston Astros vs Detroit Tigers
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Cincinnati Reds vs Pittsburgh Pirates
