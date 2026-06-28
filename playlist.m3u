@@ -2,13 +2,13 @@
 #EXTINF:-1 group-title="football",Panama vs England
 https://601.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="football",Croatia vs Ghana
-https://601.sandhost.qzz.io/universo.m3u8
+https://daffodil.sandhost.qzz.io/tsn.m3u8
 #EXTINF:-1 group-title="football",Colombia vs Portugal
 https://601.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="football",Congo DR vs Uzbekistan
-https://601.sandhost.qzz.io/universo.m3u8
+https://daffodil.sandhost.qzz.io/tsn.m3u8
 #EXTINF:-1 group-title="football",Algeria vs Austria
-https://601.sandhost.qzz.io/universo.m3u8
+https://daffodil.sandhost.qzz.io/tsn.m3u8
 #EXTINF:-1 group-title="football",Jordan vs Argentina
 https://601.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="mlb",Houston Astros vs Detroit Tigers
@@ -41,8 +41,6 @@ https://601.sandhost.qzz.io/mlb13.m3u8
 https://601.sandhost.qzz.io/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",Athletics vs Los Angeles Angels
 https://601.sandhost.qzz.io/mlb15.m3u8
-#EXTINF:-1 group-title="nhl",NHL Draft 2026
-https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="fighting",WWE Night of Champions
 https://601.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="fighting",ZAYAS vs BOOTS
