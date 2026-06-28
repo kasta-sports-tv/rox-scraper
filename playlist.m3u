@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",South Africa vs Canada
-https://601.sandhost.qzz.io/fox.m3u8
+https://daffodil.sandhost.qzz.io/tsn.m3u8
 #EXTINF:-1 group-title="mlb",Washington Nationals vs Baltimore Orioles
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Cincinnati Reds vs Pittsburgh Pirates
@@ -31,5 +31,7 @@ https://601.sandhost.qzz.io/mlb13.m3u8
 https://601.sandhost.qzz.io/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Boston Red Sox
 https://601.sandhost.qzz.io/mlb15.m3u8
+#EXTINF:-1 group-title="fighting",TNA Slammiversary
+https://601.sandhost.qzz.io/ppv2.m3u8
 #EXTINF:-1 group-title="fighting",Zuffa Boxing 8: De Los Santos vs. Valenzuela
 https://601.sandhost.qzz.io/ppv.m3u8

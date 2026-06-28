@@ -4,10 +4,10 @@
       "title": "South Africa vs Canada",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/bein.m3u8",
         "https://601.sandhost.qzz.io/tele.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8"
+        "https://601.sandhost.qzz.io/bein.m3u8"
       ]
     }
   ],
@@ -128,6 +128,13 @@
     }
   ],
   "fighting": [
+    {
+      "title": "TNA Slammiversary",
+      "page": "https://roxiestreams.info/ppv-streams-2",
+      "streams": [
+        "https://601.sandhost.qzz.io/ppv2.m3u8"
+      ]
+    },
     {
       "title": "Zuffa Boxing 8: De Los Santos vs. Valenzuela",
       "page": "https://roxiestreams.info/ppv-streams-1",
