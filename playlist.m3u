@@ -35,3 +35,5 @@ https://601.sandhost.qzz.io/mlb15.m3u8
 https://601.sandhost.qzz.io/ppv2.m3u8
 #EXTINF:-1 group-title="fighting",Zuffa Boxing 8: De Los Santos vs. Valenzuela
 https://601.sandhost.qzz.io/ppv.m3u8
+#EXTINF:-1 group-title="fighting",WWE NXT: The Great American Bash
+https://601.sandhost.qzz.io/wwe.m3u8
