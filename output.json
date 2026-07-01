@@ -1,30 +1,27 @@
 {
   "soccer": [
     {
-      "title": "Norway vs Ivory Coast",
+      "title": "England vs Congo",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
-      "title": "France vs Sweden",
-      "page": "https://roxiestreams.info/soccer-streams-1",
+      "title": "Belgium vs Senegal",
+      "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/fs1.m3u8",
+        "https://601.sandhost.qzz.io/universo.m3u8"
       ]
     },
     {
-      "title": "Mexico vs Ecuador",
+      "title": "USA vs Bosnia",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     }
   ],
@@ -44,7 +41,7 @@
       ]
     },
     {
-      "title": "Pittsburgh Pirates vs Philadelphia Phillies",
+      "title": "Washington Nationals vs Boston Red Sox",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": [
         "https://601.sandhost.qzz.io/mlb3.m3u8"
@@ -58,49 +55,49 @@
       ]
     },
     {
-      "title": "New York Mets vs Toronto Blue Jays",
+      "title": "San Diego Padres vs Chicago Cubs",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": [
         "https://601.sandhost.qzz.io/mlb5.m3u8"
       ]
     },
     {
-      "title": "Washington Nationals vs Boston Red Sox",
+      "title": "New York Mets vs Toronto Blue Jays",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": [
         "https://601.sandhost.qzz.io/mlb6.m3u8"
       ]
     },
     {
-      "title": "St. Louis Cardinals vs Atlanta Braves",
+      "title": "Pittsburgh Pirates vs Philadelphia Phillies",
       "page": "https://roxiestreams.info/mlb-streams-7",
       "streams": [
         "https://601.sandhost.qzz.io/mlb7.m3u8"
       ]
     },
     {
-      "title": "Tampa Bay Rays vs Kansas City Royals",
+      "title": "St. Louis Cardinals vs Atlanta Braves",
       "page": "https://roxiestreams.info/mlb-streams-8",
       "streams": [
         "https://601.sandhost.qzz.io/mlb8.m3u8"
       ]
     },
     {
-      "title": "Cincinnati Reds vs Milwaukee Brewers",
+      "title": "Tampa Bay Rays vs Kansas City Royals",
       "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": [
         "https://601.sandhost.qzz.io/mlb9.m3u8"
       ]
     },
     {
-      "title": "San Diego Padres vs Chicago Cubs",
+      "title": "Minnesota Twins vs Houston Astros",
       "page": "https://roxiestreams.info/mlb-streams-10",
       "streams": [
         "https://601.sandhost.qzz.io/mlb10.m3u8"
       ]
     },
     {
-      "title": "Minnesota Twins vs Houston Astros",
+      "title": "Cincinnati Reds vs Milwaukee Brewers",
       "page": "https://roxiestreams.info/mlb-streams-11",
       "streams": [
         "https://601.sandhost.qzz.io/mlb11.m3u8"
@@ -121,17 +118,10 @@
       ]
     },
     {
-      "title": "Los Angeles Angels vs Seattle Mariners",
+      "title": "San Francisco Giants vs Arizona Diamondbacks",
       "page": "https://roxiestreams.info/mlb-streams-14",
       "streams": [
         "https://601.sandhost.qzz.io/mlb14.m3u8"
-      ]
-    },
-    {
-      "title": "San Francisco Giants vs Arizona Diamondbacks",
-      "page": "https://roxiestreams.info/mlb-streams-15",
-      "streams": [
-        "https://601.sandhost.qzz.io/mlb15.m3u8"
       ]
     }
   ],
@@ -144,14 +134,6 @@
       "streams": []
     }
   ],
-  "fighting": [
-    {
-      "title": "WWE NXT",
-      "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://601.sandhost.qzz.io/wwe.m3u8"
-      ]
-    }
-  ],
+  "fighting": [],
   "motorsports": []
 }
