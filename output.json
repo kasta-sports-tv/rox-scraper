@@ -4,24 +4,24 @@
       "title": "Spain vs Austria",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "Portugal vs Croatia",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
       "title": "Switzerland vs Algeria",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://601.sandhost.qzz.io/fs1.m3u8",
-        "https://601.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/tele.m3u8",
+        "https://601.sandhost.qzz.io/fs1.m3u8"
       ]
     }
   ],
