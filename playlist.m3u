@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Spain vs Austria
-https://601.sandhost.qzz.io/tele.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Portugal vs Croatia
-https://601.sandhost.qzz.io/tele.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",Switzerland vs Algeria
-https://601.sandhost.qzz.io/tele.m3u8
+https://601.sandhost.qzz.io/fs1.m3u8
 #EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Philadelphia Phillies
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Cincinnati Reds vs Milwaukee Brewers
