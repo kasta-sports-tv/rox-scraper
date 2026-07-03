@@ -4,7 +4,8 @@
       "title": "Australia vs Egypt",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
@@ -18,14 +19,16 @@
       "title": "Argentina vs Cape Verde",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
       "title": "Colombia vs Ghana",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
+        "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tele.m3u8"
       ]
     }
   ],
@@ -33,7 +36,9 @@
     {
       "title": "St. Louis Cardinals vs Chicago Cubs",
       "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": []
+      "streams": [
+        "https://601.sandhost.qzz.io/mlb.m3u8"
+      ]
     },
     {
       "title": "Pittsburgh Pirates vs Washington Nationals",
