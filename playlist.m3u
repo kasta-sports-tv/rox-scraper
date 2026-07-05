@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Canada vs Morocco
+#EXTINF:-1 group-title="football",Brazil vs Norway
 https://601.sandhost.qzz.io/tele.m3u8
-#EXTINF:-1 group-title="football",Paraguay vs France
+#EXTINF:-1 group-title="football",Mexico vs England
 https://601.sandhost.qzz.io/tele.m3u8
-#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Washington Nationals
-https://601.sandhost.qzz.io/mlb.m3u8
-#EXTINF:-1 group-title="mlb",Minnesota Twins vs New York Yankees
-https://601.sandhost.qzz.io/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Detroit Tigers vs Texas Rangers
-https://601.sandhost.qzz.io/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Toronto Blue Jays vs Seattle Mariners
-https://601.sandhost.qzz.io/mlb4.m3u8
-#EXTINF:-1 group-title="mlb",Baltimore Orioles vs Cincinnati Reds
-https://601.sandhost.qzz.io/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Houston Astros
-https://601.sandhost.qzz.io/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Chicago White Sox vs Cleveland Guardians
-https://601.sandhost.qzz.io/mlb7.m3u8
-#EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Chicago Cubs
-https://601.sandhost.qzz.io/mlb8.m3u8
 #EXTINF:-1 group-title="mlb",New York Mets vs Atlanta Braves
+https://601.sandhost.qzz.io/mlb.m3u8
+#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Washington Nationals
+https://601.sandhost.qzz.io/mlb2.m3u8
+#EXTINF:-1 group-title="mlb",Baltimore Orioles vs Cincinnati Reds
+https://601.sandhost.qzz.io/mlb3.m3u8
+#EXTINF:-1 group-title="mlb",Minnesota Twins vs New York Yankees
+https://601.sandhost.qzz.io/mlb4.m3u8
+#EXTINF:-1 group-title="mlb",Chicago White Sox vs Cleveland Guardians
+https://601.sandhost.qzz.io/mlb5.m3u8
+#EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Chicago Cubs
+https://601.sandhost.qzz.io/mlb6.m3u8
+#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Kansas City Royals
+https://601.sandhost.qzz.io/mlb7.m3u8
+#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Houston Astros
+https://601.sandhost.qzz.io/mlb8.m3u8
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Texas Rangers
 https://601.sandhost.qzz.io/mlb9.m3u8
 #EXTINF:-1 group-title="mlb",San Francisco Giants vs Colorado Rockies
 https://601.sandhost.qzz.io/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Kansas City Royals
-https://601.sandhost.qzz.io/mlb11.m3u8
-#EXTINF:-1 group-title="mlb",Boston Red Sox vs Los Angeles Angels
-https://601.sandhost.qzz.io/mlb12.m3u8
-#EXTINF:-1 group-title="mlb",Miami Marlins vs Athletics
-https://601.sandhost.qzz.io/mlb13.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Arizona Diamondbacks
-https://601.sandhost.qzz.io/mlb14.m3u8
+https://601.sandhost.qzz.io/mlb11.m3u8
+#EXTINF:-1 group-title="mlb",Miami Marlins vs Athletics
+https://601.sandhost.qzz.io/mlb12.m3u8
+#EXTINF:-1 group-title="mlb",Toronto Blue Jays vs Seattle Mariners
+https://601.sandhost.qzz.io/mlb13.m3u8
 #EXTINF:-1 group-title="mlb",San Diego Padres vs Los Angeles Dodgers
+https://601.sandhost.qzz.io/mlb14.m3u8
+#EXTINF:-1 group-title="mlb",Boston Red Sox vs Los Angeles Angels
 https://601.sandhost.qzz.io/mlb15.m3u8
-#EXTINF:-1 group-title="nba",Memphis Grizzlies vs Oklahoma City Thunder
+#EXTINF:-1 group-title="nba",Brooklyn Nets vs Milwaukee Bucks
 https://601.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Milwaukee Bucks vs Golden State Warriors
+#EXTINF:-1 group-title="nba",Miami Heat vs Los Angeles Lakers
 https://daffodil.sandhost.qzz.io/nba2.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Hawks vs Utah Jazz
+#EXTINF:-1 group-title="nba",Golden State Warriors vs Sacramento Kings
 https://601.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Brooklyn Nets vs Sacramento Kings
-https://daffodil.sandhost.qzz.io/nba2.m3u8
+#EXTINF:-1 group-title="nba",San Antonio Spurs vs Golden State Warriors
+https://601.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="fighting",Mason vs. Bell: The Fight
-https://daffodil.sandhost.qzz.io/dazn.m3u8
+https://601.sandhost.qzz.io/ppv.m3u8
