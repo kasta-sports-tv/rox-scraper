@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Brazil vs Norway
-https://601.sandhost.qzz.io/fox.m3u8
+https://601.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="football",Mexico vs England
-https://601.sandhost.qzz.io/fox.m3u8
+https://601.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="mlb",New York Mets vs Atlanta Braves
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Washington Nationals
