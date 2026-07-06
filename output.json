@@ -4,16 +4,18 @@
       "title": "Portugal vs Spain",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/tele.m3u8",
-        "https://601.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tele.m3u8"
       ]
     },
     {
       "title": "USA vs Belgium",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/tele.m3u8",
-        "https://601.sandhost.qzz.io/fox.m3u8"
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
+        "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://601.sandhost.qzz.io/tele.m3u8"
       ]
     }
   ],
@@ -97,20 +99,22 @@
     },
     {
       "title": "Memphis Grizzlies vs Utah Jazz",
-      "page": "https://roxiestreams.info/nba-streams-4",
+      "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
         "https://601.sandhost.qzz.io/nba.m3u8"
       ]
     },
     {
       "title": "Miami Heat vs Golden State Warriors",
-      "page": "https://roxiestreams.info/nba-streams-5",
+      "page": "https://roxiestreams.info/nba-streams-3",
       "streams": []
     },
     {
       "title": "Milwaukee Bucks vs Sacramento Kings",
-      "page": "https://roxiestreams.info/nba-streams-6",
-      "streams": []
+      "page": "https://roxiestreams.info/nba-streams-2",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nba2.m3u8"
+      ]
     }
   ],
   "nfl": [],
@@ -123,11 +127,11 @@
   ],
   "fighting": [
     {
-      "title": "Mason vs. Bell: The Fight",
-      "page": "https://roxiestreams.info/ppv-streams-1",
+      "title": "WWE RAW",
+      "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://601.sandhost.qzz.io/ppv.m3u8",
-        "https://daffodil.sandhost.qzz.io/dazn.m3u8"
+        "https://601.sandhost.qzz.io/wwe.m3u8",
+        "https://daffodil.sandhost.qzz.io/wwe2.m3u8"
       ]
     }
   ],
