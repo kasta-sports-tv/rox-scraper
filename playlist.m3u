@@ -23,8 +23,12 @@ https://601.sandhost.qzz.io/mlb8.m3u8
 https://601.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Lakers vs San Antonio Spurs
 https://daffodil.sandhost.qzz.io/nba2.m3u8
+#EXTINF:-1 group-title="nba",Golden State Warriors vs Brooklyn Nets
+https://daffodil.sandhost.qzz.io/nba3.m3u8
 #EXTINF:-1 group-title="nba",Memphis Grizzlies vs Utah Jazz
 https://601.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nba",Miami Heat vs Golden State Warriors
+https://daffodil.sandhost.qzz.io/nba3.m3u8
 #EXTINF:-1 group-title="nba",Milwaukee Bucks vs Sacramento Kings
 https://daffodil.sandhost.qzz.io/nba2.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW

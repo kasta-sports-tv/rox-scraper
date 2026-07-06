@@ -95,7 +95,9 @@
     {
       "title": "Golden State Warriors vs Brooklyn Nets",
       "page": "https://roxiestreams.info/nba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nba3.m3u8"
+      ]
     },
     {
       "title": "Memphis Grizzlies vs Utah Jazz",
@@ -107,7 +109,9 @@
     {
       "title": "Miami Heat vs Golden State Warriors",
       "page": "https://roxiestreams.info/nba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nba3.m3u8"
+      ]
     },
     {
       "title": "Milwaukee Bucks vs Sacramento Kings",
