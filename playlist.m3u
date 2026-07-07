@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Portugal vs Spain
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="football",USA vs Belgium
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://601.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Kansas City Royals
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Tampa Bay Rays
@@ -32,4 +32,4 @@ https://daffodil.sandhost.qzz.io/nba3.m3u8
 #EXTINF:-1 group-title="nba",Milwaukee Bucks vs Sacramento Kings
 https://daffodil.sandhost.qzz.io/nba2.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.sandhost.qzz.io/wwe2.m3u8
+https://601.sandhost.qzz.io/wwe.m3u8
