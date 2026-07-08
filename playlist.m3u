@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Argentina vs Egypt
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://601.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="football",Shelbourne vs Celtic
 https://daffodil.sandhost.qzz.io/celtic.m3u8
 #EXTINF:-1 group-title="football",Switzerland vs Colombia
-https://daffodil.sandhost.qzz.io/tsn.m3u8
+https://601.sandhost.qzz.io/tele.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs St. Louis Cardinals
 https://601.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs St. Louis Cardinals
