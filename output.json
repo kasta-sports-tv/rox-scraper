@@ -1,111 +1,100 @@
 {
   "soccer": [
     {
-      "title": "Argentina vs Egypt",
+      "title": "Flamengo vs Lausanne",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/tele.m3u8"
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
       ]
     },
     {
-      "title": "Shelbourne vs Celtic",
+      "title": "Boca Juniors vs Athletico-PR",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
         "https://daffodil.sandhost.qzz.io/celtic.m3u8"
-      ]
-    },
-    {
-      "title": "Switzerland vs Colombia",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
-        "https://601.sandhost.qzz.io/fox.m3u8",
-        "https://601.sandhost.qzz.io/tele.m3u8"
       ]
     }
   ],
   "mlb": [
     {
-      "title": "Milwaukee Brewers vs St. Louis Cardinals",
+      "title": "Toronto Blue Jays vs San Francisco Giants",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
         "https://601.sandhost.qzz.io/mlb.m3u8"
       ]
     },
     {
-      "title": "Milwaukee Brewers vs St. Louis Cardinals",
+      "title": "Chicago Cubs vs Baltimore Orioles",
       "page": "https://roxiestreams.info/mlb-streams-2",
       "streams": [
         "https://601.sandhost.qzz.io/mlb2.m3u8"
       ]
     },
     {
-      "title": "Chicago Cubs vs Baltimore Orioles",
+      "title": "Athletics vs Detroit Tigers",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": [
         "https://601.sandhost.qzz.io/mlb3.m3u8"
       ]
     },
     {
-      "title": "Athletics vs Detroit Tigers",
+      "title": "Atlanta Braves vs Pittsburgh Pirates",
       "page": "https://roxiestreams.info/mlb-streams-4",
       "streams": [
         "https://601.sandhost.qzz.io/mlb4.m3u8"
       ]
     },
     {
-      "title": "Atlanta Braves vs Pittsburgh Pirates",
+      "title": "Seattle Mariners vs Miami Marlins",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": [
         "https://601.sandhost.qzz.io/mlb5.m3u8"
       ]
     },
     {
-      "title": "Seattle Mariners vs Miami Marlins",
+      "title": "New York Yankees vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": [
         "https://601.sandhost.qzz.io/mlb6.m3u8"
       ]
     },
     {
-      "title": "New York Yankees vs Tampa Bay Rays",
+      "title": "Houston Astros vs Washington Nationals",
       "page": "https://roxiestreams.info/mlb-streams-7",
       "streams": [
         "https://601.sandhost.qzz.io/mlb7.m3u8"
       ]
     },
     {
-      "title": "Houston Astros vs Washington Nationals",
+      "title": "Kansas City Royals vs New York Mets",
       "page": "https://roxiestreams.info/mlb-streams-8",
       "streams": [
         "https://601.sandhost.qzz.io/mlb8.m3u8"
       ]
     },
     {
-      "title": "Kansas City Royals vs New York Mets",
+      "title": "Philadelphia Phillies vs Cincinnati Reds",
       "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": [
         "https://601.sandhost.qzz.io/mlb9.m3u8"
       ]
     },
     {
-      "title": "Philadelphia Phillies vs Cincinnati Reds",
+      "title": "Cleveland Guardians vs Minnesota Twins",
       "page": "https://roxiestreams.info/mlb-streams-10",
       "streams": [
         "https://601.sandhost.qzz.io/mlb10.m3u8"
       ]
     },
     {
-      "title": "Cleveland Guardians vs Minnesota Twins",
+      "title": "Boston Red Sox vs Chicago White Sox",
       "page": "https://roxiestreams.info/mlb-streams-11",
       "streams": [
         "https://601.sandhost.qzz.io/mlb11.m3u8"
       ]
     },
     {
-      "title": "Boston Red Sox vs Chicago White Sox",
+      "title": "Milwaukee Brewers vs St. Louis Cardinals",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": [
         "https://601.sandhost.qzz.io/mlb12.m3u8"
@@ -119,24 +108,17 @@
       ]
     },
     {
-      "title": "Arizona Diamondbacks vs San Diego Padres",
+      "title": "Colorado Rockies vs Los Angeles Dodgers",
       "page": "https://roxiestreams.info/mlb-streams-14",
       "streams": [
         "https://601.sandhost.qzz.io/mlb14.m3u8"
       ]
     },
     {
-      "title": "Toronto Blue Jays vs San Francisco Giants",
+      "title": "Arizona Diamondbacks vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-15",
       "streams": [
         "https://601.sandhost.qzz.io/mlb15.m3u8"
-      ]
-    },
-    {
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
-      "page": "https://roxiestreams.info/mlb-streams-16",
-      "streams": [
-        "https://601.sandhost.qzz.io/mlb16.m3u8"
       ]
     }
   ],
@@ -164,14 +146,6 @@
       "streams": []
     }
   ],
-  "fighting": [
-    {
-      "title": "WWE NXT",
-      "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://601.sandhost.qzz.io/wwe.m3u8"
-      ]
-    }
-  ],
+  "fighting": [],
   "motorsports": []
 }
