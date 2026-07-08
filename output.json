@@ -4,7 +4,6 @@
       "title": "Argentina vs Egypt",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/tele.m3u8",
         "https://601.sandhost.qzz.io/fox.m3u8"
       ]
@@ -12,17 +11,15 @@
     {
       "title": "Shelbourne vs Celtic",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/celtic.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Switzerland vs Colombia",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tsn.m3u8",
         "https://601.sandhost.qzz.io/tele.m3u8",
-        "https://601.sandhost.qzz.io/fox.m3u8"
+        "https://601.sandhost.qzz.io/fox.m3u8",
+        "https://daffodil.sandhost.qzz.io/tsn.m3u8"
       ]
     }
   ],
