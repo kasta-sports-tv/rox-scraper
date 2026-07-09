@@ -4,14 +4,18 @@
       "title": "France vs Morocco",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tsn.m3u8",
+        "https://601.formaturamaxi.com.br/fox.m3u8",
+        "https://601.formaturamaxi.com.br/tele.m3u8"
       ]
     },
     {
       "title": "Spain vs Belgium",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tsn.m3u8",
+        "https://601.formaturamaxi.com.br/fox.m3u8",
+        "https://601.formaturamaxi.com.br/tele.m3u8"
       ]
     }
   ],
@@ -20,91 +24,91 @@
       "title": "Atlanta Braves vs Pittsburgh Pirates",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb.m3u8"
+        "https://601.formaturamaxi.com.br/mlb.m3u8"
       ]
     },
     {
       "title": "Kansas City Royals vs New York Mets",
       "page": "https://roxiestreams.info/mlb-streams-2",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb2.m3u8"
+        "https://601.formaturamaxi.com.br/mlb2.m3u8"
       ]
     },
     {
       "title": "New York Yankees vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb3.m3u8"
+        "https://601.formaturamaxi.com.br/mlb3.m3u8"
       ]
     },
     {
       "title": "Chicago Cubs vs Baltimore Orioles",
       "page": "https://roxiestreams.info/mlb-streams-4",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb4.m3u8"
+        "https://601.formaturamaxi.com.br/mlb4.m3u8"
       ]
     },
     {
       "title": "Cleveland Guardians vs Minnesota Twins",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb5.m3u8"
+        "https://601.formaturamaxi.com.br/mlb5.m3u8"
       ]
     },
     {
       "title": "Boston Red Sox vs Chicago White Sox",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb6.m3u8"
+        "https://601.formaturamaxi.com.br/mlb6.m3u8"
       ]
     },
     {
       "title": "Athletics vs Detroit Tigers",
       "page": "https://roxiestreams.info/mlb-streams-7",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb7.m3u8"
+        "https://601.formaturamaxi.com.br/mlb7.m3u8"
       ]
     },
     {
       "title": "Seattle Mariners vs Miami Marlins",
       "page": "https://roxiestreams.info/mlb-streams-8",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb8.m3u8"
+        "https://601.formaturamaxi.com.br/mlb8.m3u8"
       ]
     },
     {
       "title": "Philadelphia Phillies vs Cincinnati Reds",
       "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb9.m3u8"
+        "https://601.formaturamaxi.com.br/mlb9.m3u8"
       ]
     },
     {
       "title": "Milwaukee Brewers vs St. Louis Cardinals",
       "page": "https://roxiestreams.info/mlb-streams-10",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb10.m3u8"
+        "https://601.formaturamaxi.com.br/mlb10.m3u8"
       ]
     },
     {
       "title": "Los Angeles Angels vs Texas Rangers",
       "page": "https://roxiestreams.info/mlb-streams-11",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb11.m3u8"
+        "https://601.formaturamaxi.com.br/mlb11.m3u8"
       ]
     },
     {
       "title": "Arizona Diamondbacks vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb12.m3u8"
+        "https://601.formaturamaxi.com.br/mlb12.m3u8"
       ]
     },
     {
       "title": "Colorado Rockies vs San Francisco Giants",
       "page": "https://roxiestreams.info/mlb-streams-13",
       "streams": [
-        "https://601.sandhost.qzz.io/mlb13.m3u8"
+        "https://601.formaturamaxi.com.br/mlb13.m3u8"
       ]
     }
   ],
@@ -113,28 +117,28 @@
       "title": "Minnesota Timberwolves vs New Orleans Pelicans",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://601.sandhost.qzz.io/nba.m3u8"
+        "https://601.formaturamaxi.com.br/nba.m3u8"
       ]
     },
     {
       "title": "San Antonio Spurs vs Atlanta Hawks",
       "page": "https://roxiestreams.info/nba-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
       ]
     },
     {
       "title": "Detroit Pistons vs Philadelphia 76ers",
       "page": "https://roxiestreams.info/nba-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba3.m3u8"
       ]
     },
     {
       "title": "Golden State Warriors vs Dallas Mavericks",
       "page": "https://roxiestreams.info/nba-streams-4",
       "streams": [
-        "https://601.sandhost.qzz.io/nba.m3u8"
+        "https://601.formaturamaxi.com.br/nba.m3u8"
       ]
     },
     {
@@ -146,14 +150,14 @@
       "title": "Utah Jazz vs Washington Wizards",
       "page": "https://roxiestreams.info/nba-streams-4",
       "streams": [
-        "https://601.sandhost.qzz.io/nba.m3u8"
+        "https://601.formaturamaxi.com.br/nba.m3u8"
       ]
     },
     {
       "title": "Sacramento Kings vs Los Angeles Clippers",
       "page": "https://roxiestreams.info/nba-streams-4",
       "streams": [
-        "https://601.sandhost.qzz.io/nba.m3u8"
+        "https://601.formaturamaxi.com.br/nba.m3u8"
       ]
     }
   ],
@@ -170,7 +174,7 @@
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://601.sandhost.qzz.io/wwe.m3u8"
+        "https://601.formaturamaxi.com.br/wwe.m3u8"
       ]
     }
   ],
