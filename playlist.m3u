@@ -1,45 +1,19 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",France vs Morocco
-https://601.formaturamaxi.com.br/tele.m3u8
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 group-title="football",Spain vs Belgium
-https://601.formaturamaxi.com.br/tele.m3u8
-#EXTINF:-1 group-title="mlb",Atlanta Braves vs Pittsburgh Pirates
-https://601.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="mlb",Kansas City Royals vs New York Mets
-https://601.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",New York Yankees vs Tampa Bay Rays
-https://601.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Chicago Cubs vs Baltimore Orioles
-https://601.formaturamaxi.com.br/mlb4.m3u8
-#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Minnesota Twins
-https://601.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Boston Red Sox vs Chicago White Sox
-https://601.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Athletics vs Detroit Tigers
-https://601.formaturamaxi.com.br/mlb7.m3u8
-#EXTINF:-1 group-title="mlb",Seattle Mariners vs Miami Marlins
-https://601.formaturamaxi.com.br/mlb8.m3u8
-#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Cincinnati Reds
-https://601.formaturamaxi.com.br/mlb9.m3u8
-#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs St. Louis Cardinals
-https://601.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",Los Angeles Angels vs Texas Rangers
-https://601.formaturamaxi.com.br/mlb11.m3u8
-#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs San Diego Padres
-https://601.formaturamaxi.com.br/mlb12.m3u8
-#EXTINF:-1 group-title="mlb",Colorado Rockies vs San Francisco Giants
-https://601.formaturamaxi.com.br/mlb13.m3u8
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Timberwolves vs New Orleans Pelicans
-https://601.formaturamaxi.com.br/nba.m3u8
+https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="nba",San Antonio Spurs vs Atlanta Hawks
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Detroit Pistons vs Philadelphia 76ers
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 group-title="nba",Golden State Warriors vs Dallas Mavericks
-https://601.formaturamaxi.com.br/nba.m3u8
+https://daffodil.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 group-title="nba",Utah Jazz vs Washington Wizards
-https://601.formaturamaxi.com.br/nba.m3u8
+https://daffodil.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 group-title="nba",Sacramento Kings vs Los Angeles Clippers
-https://601.formaturamaxi.com.br/nba.m3u8
+https://daffodil.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
-https://601.formaturamaxi.com.br/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
