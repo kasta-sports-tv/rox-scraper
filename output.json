@@ -3,7 +3,9 @@
     {
       "title": "Spain vs Belgium",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tele.m3u8"
+      ]
     },
     {
       "title": "Benfica vs Flamengo",
@@ -13,12 +15,16 @@
     {
       "title": "Norway vs England",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tele.m3u8"
+      ]
     },
     {
       "title": "Argentina vs Switzerland",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tele.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -116,27 +122,27 @@
     },
     {
       "title": "Houston Rockets vs Denver Nuggets",
-      "page": "https://roxiestreams.info/nba-streams-4",
+      "page": "https://roxiestreams.info/nba-streams-2",
       "streams": []
     },
     {
       "title": "Chicago Bulls vs Memphis Grizzlies",
-      "page": "https://roxiestreams.info/nba-streams-5",
+      "page": "https://roxiestreams.info/nba-streams-4",
       "streams": []
     },
     {
       "title": "Boston Celtics vs Toronto Raptors",
-      "page": "https://roxiestreams.info/nba-streams-6",
+      "page": "https://roxiestreams.info/nba-streams-5",
       "streams": []
     },
     {
       "title": "Oklahoma City Thunder vs Los Angeles Lakers",
-      "page": "https://roxiestreams.info/nba-streams-7",
+      "page": "https://roxiestreams.info/nba-streams-6",
       "streams": []
     },
     {
       "title": "Portland Trail Blazers vs Phoenix Suns",
-      "page": "https://roxiestreams.info/nba-streams-8",
+      "page": "https://roxiestreams.info/nba-streams-7",
       "streams": []
     }
   ],
