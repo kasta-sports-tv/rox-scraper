@@ -1,16 +1,11 @@
 {
   "soccer": [
     {
-      "title": "Spain vs Belgium",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tele.m3u8"
-      ]
-    },
-    {
       "title": "Benfica vs Flamengo",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/sportv.m3u8"
+      ]
     },
     {
       "title": "Norway vs England",
@@ -29,7 +24,7 @@
   ],
   "mlb": [
     {
-      "title": "Philadelphia Phillies vs Detroit Tigers",
+      "title": "Milwaukee Brewers vs Pittsburgh Pirates",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": []
     },
@@ -39,103 +34,103 @@
       "streams": []
     },
     {
-      "title": "New York Yankees vs Washington Nationals",
+      "title": "Los Angeles Angels vs Minnesota Twins",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": []
     },
     {
-      "title": "Kansas City Royals vs Baltimore Orioles",
+      "title": "Athletics vs Chicago White Sox",
       "page": "https://roxiestreams.info/mlb-streams-4",
       "streams": []
     },
     {
-      "title": "Chicago Cubs vs Cincinnati Reds",
+      "title": "Colorado Rockies vs San Francisco Giants",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": []
     },
     {
-      "title": "Seattle Mariners vs Tampa Bay Rays",
+      "title": "New York Yankees vs Washington Nationals",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": []
     },
     {
-      "title": "Cleveland Guardians vs Miami Marlins",
+      "title": "Boston Red Sox vs New York Mets",
       "page": "https://roxiestreams.info/mlb-streams-7",
       "streams": []
     },
     {
-      "title": "Boston Red Sox vs New York Mets",
+      "title": "Seattle Mariners vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-8",
       "streams": []
     },
     {
-      "title": "Athletics vs Chicago White Sox",
+      "title": "Cleveland Guardians vs Miami Marlins",
       "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": []
     },
     {
-      "title": "Houston Astros vs Texas Rangers",
+      "title": "Philadelphia Phillies vs Detroit Tigers",
       "page": "https://roxiestreams.info/mlb-streams-10",
       "streams": []
     },
     {
-      "title": "Los Angeles Angels vs Minnesota Twins",
+      "title": "Kansas City Royals vs Baltimore Orioles",
       "page": "https://roxiestreams.info/mlb-streams-11",
       "streams": []
     },
     {
-      "title": "Atlanta Braves vs St. Louis Cardinals",
+      "title": "Houston Astros vs Texas Rangers",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": []
     },
     {
-      "title": "Toronto Blue Jays vs San Diego Padres",
+      "title": "Chicago Cubs vs Cincinnati Reds",
       "page": "https://roxiestreams.info/mlb-streams-13",
       "streams": []
     },
     {
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "title": "Atlanta Braves vs St. Louis Cardinals",
       "page": "https://roxiestreams.info/mlb-streams-14",
       "streams": []
     },
     {
-      "title": "Colorado Rockies vs San Francisco Giants",
+      "title": "Toronto Blue Jays vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-15",
+      "streams": []
+    },
+    {
+      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "page": "https://roxiestreams.info/mlb-streams-16",
       "streams": []
     }
   ],
   "nba": [
     {
-      "title": "Cleveland Cavaliers vs Indiana Pacers",
-      "page": "https://roxiestreams.info/nba-streams-2",
+      "title": "New Orleans Pelicans vs Charlotte Hornets",
+      "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
       ]
     },
     {
-      "title": "Houston Rockets vs Denver Nuggets",
-      "page": "https://roxiestreams.info/nba-streams-2",
+      "title": "New York Knicks vs San Antonio Spurs",
+      "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
       ]
     },
     {
-      "title": "Boston Celtics vs Toronto Raptors",
-      "page": "https://roxiestreams.info/nba-streams-5",
+      "title": "Atlanta Hawks vs Brooklyn Nets",
+      "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba5.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
       ]
     },
     {
-      "title": "Oklahoma City Thunder vs Los Angeles Lakers",
-      "page": "https://roxiestreams.info/nba-streams-6",
-      "streams": []
-    },
-    {
-      "title": "Portland Trail Blazers vs Phoenix Suns",
-      "page": "https://roxiestreams.info/nba-streams-7",
+      "title": "Los Angeles Lakers vs Dallas Mavericks",
+      "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba7.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
       ]
     }
   ],
@@ -149,18 +144,6 @@
   ],
   "fighting": [
     {
-      "title": "WWE Smackdown",
-      "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
-      ]
-    },
-    {
-      "title": "Gassiev vs. Kadiru",
-      "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
-    },
-    {
       "title": "Sturm vs. Stein",
       "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": []
@@ -168,6 +151,11 @@
     {
       "title": "Dvalishvili vs. Cejudo (RAF)",
       "page": "https://roxiestreams.info/ppv-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Gassiev vs. Kadiru",
+      "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": []
     }
   ],
