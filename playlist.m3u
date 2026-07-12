@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="nba",New Orleans Pelicans vs Charlotte Hornets
+#EXTINF:-1 group-title="nba",Phoenix Suns vs New Orleans Pelicans
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",New York Knicks vs San Antonio Spurs
+#EXTINF:-1 group-title="nba",Charlotte Hornets vs Boston Celtics
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Hawks vs Brooklyn Nets
-https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Lakers vs Dallas Mavericks
-https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nba",Oklahoma City Thunder vs Golden State Warriors
+https://daffodil.sandhost.qzz.io/nba2.m3u8
