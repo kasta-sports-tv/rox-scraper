@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Pumas UNAM vs AmÃ©rica De Cali
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Fluminense vs Bahia
+https://daffodil.sandhost.qzz.io/sportv2.m3u8
+#EXTINF:-1 group-title="football",Cascavel vs Corinthians
+https://daffodil.sandhost.qzz.io/sportv.m3u8
+#EXTINF:-1 group-title="football",Cascavel vs Corinthians
+https://daffodil.sandhost.qzz.io/sportv2.m3u8
+#EXTINF:-1 group-title="football",France vs Spain
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="nba",Phoenix Suns vs New Orleans Pelicans
 https://daffodil.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nba",Charlotte Hornets vs Boston Celtics
