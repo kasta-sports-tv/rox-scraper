@@ -3,23 +3,17 @@
     {
       "title": "Benfica vs Flamengo",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Norway vs England",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Argentina vs Switzerland",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tele.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
