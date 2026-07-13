@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Sporting CP vs Celtic
 https://daffodil.sandhost.qzz.io/sportv2.m3u8
-#EXTINF:-1 group-title="football",France vs Spain
-https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="nba",Toronto Raptors vs Indiana Pacers
 https://daffodil.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nba",Dallas Mavericks vs Memphis Grizzlies
