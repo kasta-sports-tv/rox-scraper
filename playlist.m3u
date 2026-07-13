@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Pumas UNAM vs AmÃ©rica De Cali
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Fluminense vs Bahia
-https://daffodil.sandhost.qzz.io/sportv2.m3u8
-#EXTINF:-1 group-title="football",Cascavel vs Corinthians
-https://daffodil.sandhost.qzz.io/sportv.m3u8
-#EXTINF:-1 group-title="football",Cascavel vs Corinthians
+#EXTINF:-1 group-title="football",Sporting CP vs Celtic
 https://daffodil.sandhost.qzz.io/sportv2.m3u8
 #EXTINF:-1 group-title="football",France vs Spain
 https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="nba",Phoenix Suns vs New Orleans Pelicans
+#EXTINF:-1 group-title="nba",Toronto Raptors vs Indiana Pacers
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Charlotte Hornets vs Boston Celtics
-https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Oklahoma City Thunder vs Golden State Warriors
+#EXTINF:-1 group-title="nba",Dallas Mavericks vs Memphis Grizzlies
 https://daffodil.sandhost.qzz.io/nba2.m3u8
-#EXTINF:-1 group-title="nba",Orlando Magic vs Portland Trail Blazers
-https://daffodil.sandhost.qzz.io/nba3.m3u8
+#EXTINF:-1 group-title="nba",Chicago Bulls vs Utah Jazz
+https://daffodil.sandhost.qzz.io/nba2.m3u8
+#EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Portland Trail Blazers
+https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="fighting",WWE RAW
+https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 group-title="fighting",WWE NXT
+https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 group-title="fighting",WWE Smackdown
+https://daffodil.sandhost.qzz.io/wwe.m3u8
