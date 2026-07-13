@@ -1,17 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Sporting CP vs Celtic
-https://daffodil.sandhost.qzz.io/sportv2.m3u8
+https://daffodil.formaturamaxi.com.br/sportv2.m3u8
+#EXTINF:-1 group-title="mlb",MLB Home Run Derby
+https://daffodil.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 group-title="mlb",MLB All Stars
+https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Toronto Raptors vs Indiana Pacers
-https://daffodil.sandhost.qzz.io/nba.m3u8
+https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="nba",Dallas Mavericks vs Memphis Grizzlies
-https://daffodil.sandhost.qzz.io/nba2.m3u8
+https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Chicago Bulls vs Utah Jazz
-https://daffodil.sandhost.qzz.io/nba2.m3u8
+https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Portland Trail Blazers
-https://daffodil.sandhost.qzz.io/nba.m3u8
+https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="fighting",WWE NXT
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8

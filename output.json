@@ -4,7 +4,7 @@
       "title": "Sporting CP vs Celtic",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/sportv2.m3u8"
       ]
     },
     {
@@ -17,12 +17,16 @@
     {
       "title": "MLB Home Run Derby",
       "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
+      ]
     },
     {
       "title": "MLB All Stars",
       "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
+      ]
     }
   ],
   "nba": [
@@ -30,28 +34,28 @@
       "title": "Toronto Raptors vs Indiana Pacers",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
       ]
     },
     {
       "title": "Dallas Mavericks vs Memphis Grizzlies",
       "page": "https://roxiestreams.info/nba-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
       ]
     },
     {
       "title": "Chicago Bulls vs Utah Jazz",
       "page": "https://roxiestreams.info/nba-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
       ]
     },
     {
       "title": "Minnesota Timberwolves vs Portland Trail Blazers",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
       ]
     }
   ],
@@ -68,21 +72,21 @@
       "title": "WWE RAW",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     },
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     },
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     }
   ],
