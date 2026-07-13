@@ -15,3 +15,5 @@ https://daffodil.sandhost.qzz.io/nba.m3u8
 https://daffodil.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nba",Oklahoma City Thunder vs Golden State Warriors
 https://daffodil.sandhost.qzz.io/nba2.m3u8
+#EXTINF:-1 group-title="nba",Orlando Magic vs Portland Trail Blazers
+https://daffodil.sandhost.qzz.io/nba3.m3u8
