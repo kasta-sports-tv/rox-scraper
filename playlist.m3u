@@ -1,21 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Sporting CP vs Celtic
-https://daffodil.formaturamaxi.com.br/sportv2.m3u8
-#EXTINF:-1 group-title="mlb",MLB Home Run Derby
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+https://daffodil.sandhost.qzz.io/sportv2.m3u8
+#EXTINF:-1 group-title="football",France vs Spain
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="mlb",MLB All Stars
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="nba",Toronto Raptors vs Indiana Pacers
-https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",Dallas Mavericks vs Memphis Grizzlies
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Chicago Bulls vs Utah Jazz
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Portland Trail Blazers
-https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+https://daffodil.sandhost.qzz.io/mlb.m3u8
+#EXTINF:-1 group-title="nba",Memphis Grizzlies vs Golden State Warriors
+https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nba",Denver Nuggets vs Oklahoma City Thunder
+https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nba",Los Angeles Clippers vs Los Angeles Lakers
+https://daffodil.sandhost.qzz.io/nba2.m3u8
 #EXTINF:-1 group-title="fighting",WWE NXT
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+https://daffodil.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+https://daffodil.sandhost.qzz.io/wwe.m3u8
