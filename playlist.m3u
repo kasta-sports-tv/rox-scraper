@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Argentina vs England
+https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="mlb",New York Mets vs Philadelphia Phillies
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="nba",Orlando Magic vs Philadelphia 76ers

@@ -3,7 +3,9 @@
     {
       "title": "Argentina vs England",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -43,6 +45,21 @@
       "streams": [
         "https://daffodil.sandhost.qzz.io/nba3.m3u8"
       ]
+    },
+    {
+      "title": "Seattle Storm vs Chicago Sky",
+      "page": "https://roxiestreams.info/wnba-streams-1",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles Sparks vs Minnesota Lynx",
+      "page": "https://roxiestreams.info/wnba-streams-2",
+      "streams": []
+    },
+    {
+      "title": "Golden State Valkyries vs Indiana Fever",
+      "page": "https://roxiestreams.info/wnba-streams-3",
+      "streams": []
     }
   ],
   "nfl": [],
