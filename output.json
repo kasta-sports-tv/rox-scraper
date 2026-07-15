@@ -1,21 +1,14 @@
 {
   "soccer": [
     {
-      "title": "Sporting CP vs Celtic",
-      "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv2.m3u8"
-      ]
-    },
-    {
-      "title": "France vs Spain",
+      "title": "Argentina vs England",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": []
     }
   ],
   "mlb": [
     {
-      "title": "MLB All Stars",
+      "title": "New York Mets vs Philadelphia Phillies",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/mlb.m3u8"
@@ -24,24 +17,31 @@
   ],
   "nba": [
     {
-      "title": "Memphis Grizzlies vs Golden State Warriors",
+      "title": "Orlando Magic vs Philadelphia 76ers",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nba.m3u8"
       ]
     },
     {
-      "title": "Denver Nuggets vs Oklahoma City Thunder",
+      "title": "Phoenix Suns vs Detroit Pistons",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nba.m3u8"
       ]
     },
     {
-      "title": "Los Angeles Clippers vs Los Angeles Lakers",
+      "title": "Boston Celtics vs Sacramento Kings",
       "page": "https://roxiestreams.info/nba-streams-2",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nba2.m3u8"
+      ]
+    },
+    {
+      "title": "Washington Wizards vs Los Angeles Clippers",
+      "page": "https://roxiestreams.info/nba-streams-3",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nba3.m3u8"
       ]
     }
   ],
@@ -54,13 +54,6 @@
     }
   ],
   "fighting": [
-    {
-      "title": "WWE NXT",
-      "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
-      ]
-    },
     {
       "title": "Hardman vs Vaotuua (IBC)",
       "page": "https://roxiestreams.info/ppv-streams-1",
