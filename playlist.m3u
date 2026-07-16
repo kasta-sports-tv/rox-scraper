@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Argentina vs England
+#EXTINF:-1 group-title="football",Botafogo vs Santos
+https://daffodil.sandhost.qzz.io/fox.m3u8
+#EXTINF:-1 group-title="football",VitÃ³ria vs Vasco Gama
+https://daffodil.sandhost.qzz.io/sportv2.m3u8
+#EXTINF:-1 group-title="football",Sarmiento vs Boca Juniors
+https://daffodil.sandhost.qzz.io/sportv.m3u8
+#EXTINF:-1 group-title="football",Necaxa vs Atlante
+https://daffodil.sandhost.qzz.io/fox.m3u8
+#EXTINF:-1 group-title="football",Tijuana vs Tigres
 https://daffodil.sandhost.qzz.io/fox.m3u8
 #EXTINF:-1 group-title="mlb",New York Mets vs Philadelphia Phillies
 https://daffodil.sandhost.qzz.io/mlb.m3u8
