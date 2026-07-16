@@ -69,7 +69,9 @@
     {
       "title": "Seattle Storm vs Chicago Sky",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     },
     {
       "title": "Los Angeles Sparks vs Minnesota Lynx",
