@@ -39,48 +39,36 @@
   ],
   "nba": [
     {
-      "title": "Orlando Magic vs Philadelphia 76ers",
+      "title": "Brooklyn Nets vs Houston Rockets",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nba.m3u8"
       ]
     },
     {
-      "title": "Phoenix Suns vs Detroit Pistons",
-      "page": "https://roxiestreams.info/nba-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nba.m3u8"
-      ]
-    },
-    {
-      "title": "Boston Celtics vs Sacramento Kings",
+      "title": "Golden State Warriors vs New York Knicks",
       "page": "https://roxiestreams.info/nba-streams-2",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nba2.m3u8"
       ]
     },
     {
-      "title": "Washington Wizards vs Los Angeles Clippers",
-      "page": "https://roxiestreams.info/nba-streams-3",
+      "title": "Toronto Raptors vs Miami Heat",
+      "page": "https://roxiestreams.info/nba-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba3.m3u8"
+        "https://daffodil.sandhost.qzz.io/nba2.m3u8"
       ]
     },
     {
-      "title": "Seattle Storm vs Chicago Sky",
+      "title": "Portland Fire vs Washington Mystics",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/wnba.m3u8"
       ]
     },
     {
-      "title": "Los Angeles Sparks vs Minnesota Lynx",
+      "title": "New York Liberty vs Dallas Wings",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Golden State Valkyries vs Indiana Fever",
-      "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": []
     }
   ],
@@ -93,11 +81,6 @@
     }
   ],
   "fighting": [
-    {
-      "title": "Hardman vs Vaotuua (IBC)",
-      "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
-    },
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
