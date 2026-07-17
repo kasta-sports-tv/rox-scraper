@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Sarmiento vs Boca Juniors
 https://daffodil.sandhost.qzz.io/tyc.m3u8
-#EXTINF:-1 group-title="mlb",New York Mets vs Philadelphia Phillies
+#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Boston Red Sox
 https://daffodil.sandhost.qzz.io/mlb.m3u8
-#EXTINF:-1 group-title="nba",Brooklyn Nets vs Houston Rockets
+#EXTINF:-1 group-title="nba",Chicago Bulls vs Cleveland Cavaliers
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Golden State Warriors vs New York Knicks
-https://daffodil.sandhost.qzz.io/nba2.m3u8
-#EXTINF:-1 group-title="nba",Toronto Raptors vs Miami Heat
-https://daffodil.sandhost.qzz.io/nba2.m3u8
-#EXTINF:-1 group-title="nba",Portland Fire vs Washington Mystics
+#EXTINF:-1 group-title="nba",Detroit Pistons vs Miami Heat
+https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Los Angeles Clippers
+https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nba",Seattle Storm vs Indiana Fever
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.sandhost.qzz.io/wwe.m3u8
