@@ -25,7 +25,9 @@
     {
       "title": "Nashville vs Atlanta United",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fox.m3u8"
+      ]
     },
     {
       "title": "River Plate vs Aldosivi",
@@ -168,12 +170,16 @@
     {
       "title": "Atlanta Dream vs Toronto Tempo",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+      ]
     },
     {
       "title": "Los Angeles Sparks vs Chicago Sky",
       "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
+      ]
     },
     {
       "title": "Connecticut Sun vs Phoenix Mercury",
