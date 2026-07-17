@@ -1,31 +1,58 @@
 {
   "soccer": [
     {
-      "title": "Botafogo vs Santos",
+      "title": "Villarreal vs Benfica",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": []
     },
     {
-      "title": "VitÃ³ria vs Vasco Gama",
+      "title": "Bahia vs Chapecoense",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
     },
     {
-      "title": "Sarmiento vs Boca Juniors",
+      "title": "Fluminense vs RB Bragantino",
       "page": "https://roxiestreams.info/soccer-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Mirassol vs GrÃªmio",
+      "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
         "https://daffodil.sandhost.qzz.io/tyc.m3u8"
       ]
     },
     {
-      "title": "Necaxa vs Atlante",
-      "page": "https://roxiestreams.info/soccer-streams-4",
+      "title": "Nashville vs Atlanta United",
+      "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": []
     },
     {
-      "title": "Tijuana vs Tigres",
+      "title": "River Plate vs Aldosivi",
+      "page": "https://roxiestreams.info/soccer-streams-6",
+      "streams": []
+    },
+    {
+      "title": "LeÃ³n vs Atlas",
+      "page": "https://roxiestreams.info/soccer-streams-7",
+      "streams": []
+    },
+    {
+      "title": "Cruz Azul vs San Luis",
+      "page": "https://roxiestreams.info/soccer-streams-8",
+      "streams": []
+    },
+    {
+      "title": "LA Galaxy vs LAFC",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": []
+    },
+    {
+      "title": "JuÃ¡rez vs Puebla",
+      "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
+      ]
     }
   ],
   "mlb": [

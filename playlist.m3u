@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Sarmiento vs Boca Juniors
+#EXTINF:-1 group-title="football",Mirassol vs GrÃªmio
 https://daffodil.sandhost.qzz.io/tyc.m3u8
+#EXTINF:-1 group-title="football",JuÃ¡rez vs Puebla
+https://daffodil.sandhost.qzz.io/sportv.m3u8
 #EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Boston Red Sox
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="nba",Chicago Bulls vs Cleveland Cavaliers
