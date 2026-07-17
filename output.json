@@ -3,7 +3,9 @@
     {
       "title": "Villarreal vs Benfica",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/btv.m3u8"
+      ]
     },
     {
       "title": "Bahia vs Chapecoense",
@@ -18,9 +20,7 @@
     {
       "title": "Mirassol vs GrÃªmio",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tyc.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Nashville vs Atlanta United",
@@ -30,7 +30,9 @@
     {
       "title": "River Plate vs Aldosivi",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tyc.m3u8"
+      ]
     },
     {
       "title": "LeÃ³n vs Atlas",
@@ -50,9 +52,7 @@
     {
       "title": "JuÃ¡rez vs Puebla",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
