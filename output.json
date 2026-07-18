@@ -8,9 +8,7 @@
     {
       "title": "Man United vs Wrexham",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/mutv.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Sporting Braga vs Celta Vigo",
@@ -88,11 +86,6 @@
     {
       "title": "San Diego Padres vs Kansas City Royals",
       "page": "https://roxiestreams.info/mlb-streams-8",
-      "streams": []
-    },
-    {
-      "title": "St. Louis Cardinals vs Arizona Diamondbacks",
-      "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": []
     },
     {
@@ -194,6 +187,11 @@
     {
       "title": "Eubank vs. Papot (Misfits)",
       "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
+    },
+    {
+      "title": "WWE Saturday Main Event",
+      "page": "https://roxiestreams.info/wwe-streams",
       "streams": []
     },
     {
