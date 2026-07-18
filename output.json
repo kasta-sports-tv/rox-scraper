@@ -1,13 +1,6 @@
 {
   "soccer": [
     {
-      "title": "Basel vs Juventus",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/btv.m3u8"
-      ]
-    },
-    {
       "title": "Dortmund vs Oberhausen",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
@@ -15,7 +8,9 @@
     {
       "title": "Man United vs Wrexham",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mutv.m3u8"
+      ]
     },
     {
       "title": "Sporting Braga vs Celta Vigo",
@@ -38,7 +33,7 @@
     },
     {
       "title": "Monterrey vs Santos Laguna",
-      "page": "https://roxiestreams.info/soccer-streams-9",
+      "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": []
     },
     {
