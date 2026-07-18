@@ -199,9 +199,7 @@
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
-      ]
+      "streams": []
     }
   ],
   "motorsports": []
