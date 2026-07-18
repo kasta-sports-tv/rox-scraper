@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Villarreal vs Benfica
+#EXTINF:-1 group-title="football",Basel vs Juventus
 https://daffodil.sandhost.qzz.io/btv.m3u8
-#EXTINF:-1 group-title="football",Nashville vs Atlanta United
+#EXTINF:-1 group-title="football",France vs England
 https://daffodil.sandhost.qzz.io/fox.m3u8
-#EXTINF:-1 group-title="football",River Plate vs Aldosivi
-https://daffodil.sandhost.qzz.io/tyc.m3u8
-#EXTINF:-1 group-title="football",LA Galaxy vs LAFC
-https://daffodil.sandhost.qzz.io/fox.m3u8
-#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Boston Red Sox
+#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Cleveland Guardians
 https://daffodil.sandhost.qzz.io/mlb.m3u8
-#EXTINF:-1 group-title="nba",Chicago Bulls vs Cleveland Cavaliers
+#EXTINF:-1 group-title="nba",Philadelphia 76ers vs Milwaukee Bucks
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Detroit Pistons vs Miami Heat
+#EXTINF:-1 group-title="nba",Atlanta Hawks vs Washington Wizards
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Los Angeles Clippers
+#EXTINF:-1 group-title="nba",Golden State Warriors vs Los Angeles Lakers
+https://daffodil.sandhost.qzz.io/nba2.m3u8
+#EXTINF:-1 group-title="nba",Indiana Pacers vs New Orleans Pelicans
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Seattle Storm vs Indiana Fever
+#EXTINF:-1 group-title="nba",New York Liberty vs Indiana Fever
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Dream vs Toronto Tempo
+#EXTINF:-1 group-title="nba",Portland Fire vs Minnesota Lynx
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Chicago Sky
+#EXTINF:-1 group-title="nba",Washington Mystics vs Golden State Valkyries
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
