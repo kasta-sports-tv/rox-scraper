@@ -1,47 +1,20 @@
 {
   "soccer": [
     {
-      "title": "Dortmund vs Oberhausen",
+      "title": "Los Chankas vs Sport Boys",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
     },
     {
-      "title": "Man United vs Wrexham",
-      "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
-    },
-    {
-      "title": "Sporting Braga vs Celta Vigo",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
-      ]
-    },
-    {
-      "title": "France vs England",
+      "title": "Spain vs Argentina",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
         "https://daffodil.sandhost.qzz.io/fox.m3u8"
       ]
     },
     {
-      "title": "Pumas UNAM vs Pachuca",
-      "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
-    },
-    {
-      "title": "Monterrey vs Santos Laguna",
-      "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
-    },
-    {
-      "title": "Chivas vs Toluca",
-      "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
-    },
-    {
-      "title": "QuerÃ©taro vs America",
-      "page": "https://roxiestreams.info/soccer-streams-7",
+      "title": "Alianza Lima vs Sport Huancayo",
+      "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     }
   ],
