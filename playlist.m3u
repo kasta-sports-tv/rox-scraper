@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Spain vs Argentina
 https://daffodil.sandhost.qzz.io/fox.m3u8
-#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Cleveland Guardians
+#EXTINF:-1 group-title="mlb",Chicago White Sox vs Toronto Blue Jays
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="nba",Philadelphia 76ers vs Milwaukee Bucks
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Hawks vs Washington Wizards
+#EXTINF:-1 group-title="nba",Brooklyn Nets vs Oklahoma City Thunder
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Golden State Warriors vs Los Angeles Lakers
+#EXTINF:-1 group-title="nba",Denver Nuggets vs Toronto Raptors
 https://daffodil.sandhost.qzz.io/nba2.m3u8
-#EXTINF:-1 group-title="nba",Indiana Pacers vs New Orleans Pelicans
-https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",New York Liberty vs Indiana Fever
+#EXTINF:-1 group-title="nba",TBD vs TBD
+https://daffodil.sandhost.qzz.io/nba3.m3u8
+#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Dallas Wings
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Portland Fire vs Minnesota Lynx
+#EXTINF:-1 group-title="nba",Chicago Sky vs Atlanta Dream
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Washington Mystics vs Golden State Valkyries
+#EXTINF:-1 group-title="nba",Connecticut Sun vs Phoenix Mercury
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
