@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Spain vs Argentina
-https://daffodil.formaturamaxi.com.br/fox.m3u8
 #EXTINF:-1 group-title="mlb",Chicago White Sox vs Toronto Blue Jays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Brooklyn Nets vs Oklahoma City Thunder
-https://daffodil.formaturamaxi.com.br/nba.m3u8
+https://daffodil.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nba",Denver Nuggets vs Toronto Raptors
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
+https://daffodil.sandhost.qzz.io/nba2.m3u8
 #EXTINF:-1 group-title="nba",Golden State Warriors vs Memphis Grizzlies
-https://daffodil.formaturamaxi.com.br/nba3.m3u8
+https://daffodil.sandhost.qzz.io/nba3.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Sparks vs Dallas Wings
-https://daffodil.formaturamaxi.com.br/wnba.m3u8
+https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Chicago Sky vs Atlanta Dream
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Connecticut Sun vs Phoenix Mercury
-https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+https://daffodil.sandhost.qzz.io/wnba3.m3u8
