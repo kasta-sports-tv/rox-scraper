@@ -7,7 +7,7 @@
     },
     {
       "title": "Spain vs Argentina",
-      "page": "https://roxiestreams.info/soccer-streams-5",
+      "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/fox.m3u8"
       ]
@@ -34,6 +34,36 @@
     {
       "title": "Los Angeles Dodgers vs New York Yankees",
       "page": "https://roxiestreams.info/mlb-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Tampa Bay Rays vs Boston Red Sox",
+      "page": "https://roxiestreams.info/mlb-streams-4",
+      "streams": []
+    },
+    {
+      "title": "New York Mets vs Philadelphia Phillies",
+      "page": "https://roxiestreams.info/mlb-streams-5",
+      "streams": []
+    },
+    {
+      "title": "Texas Rangers vs Atlanta Braves",
+      "page": "https://roxiestreams.info/mlb-streams-6",
+      "streams": []
+    },
+    {
+      "title": "Pittsburgh Pirates vs Cleveland Guardians",
+      "page": "https://roxiestreams.info/mlb-streams-7",
+      "streams": []
+    },
+    {
+      "title": "Baltimore Orioles vs Houston Astros",
+      "page": "https://roxiestreams.info/mlb-streams-8",
+      "streams": []
+    },
+    {
+      "title": "San Diego Padres vs Kansas City Royals",
+      "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": []
     },
     {
@@ -74,13 +104,6 @@
   ],
   "nba": [
     {
-      "title": "Philadelphia 76ers vs Milwaukee Bucks",
-      "page": "https://roxiestreams.info/nba-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nba.m3u8"
-      ]
-    },
-    {
       "title": "Brooklyn Nets vs Oklahoma City Thunder",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
@@ -95,7 +118,7 @@
       ]
     },
     {
-      "title": "TBD vs TBD",
+      "title": "Golden State Warriors vs Memphis Grizzlies",
       "page": "https://roxiestreams.info/nba-streams-3",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nba3.m3u8"
