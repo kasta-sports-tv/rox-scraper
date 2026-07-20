@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="mlb",Chicago White Sox vs Toronto Blue Jays
+#EXTINF:-1 group-title="football",Sporting CP vs Strasbourg
+https://daffodil.sandhost.qzz.io/sporting.m3u8
+#EXTINF:-1 group-title="mlb",Minnesota Twins vs Cleveland Guardians
 https://daffodil.sandhost.qzz.io/mlb.m3u8
-#EXTINF:-1 group-title="nba",Brooklyn Nets vs Oklahoma City Thunder
-https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Denver Nuggets vs Toronto Raptors
-https://daffodil.sandhost.qzz.io/nba2.m3u8
-#EXTINF:-1 group-title="nba",Golden State Warriors vs Memphis Grizzlies
-https://daffodil.sandhost.qzz.io/nba3.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Dallas Wings
+#EXTINF:-1 group-title="nba",Las Vegas Aces vs Toronto Tempo
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Chicago Sky vs Atlanta Dream
+#EXTINF:-1 group-title="nba",New York Liberty vs Dallas Wings
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Connecticut Sun vs Phoenix Mercury
+#EXTINF:-1 group-title="nba",Washington Mystics vs Golden State Valkyries
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
