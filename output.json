@@ -1,11 +1,29 @@
 {
   "soccer": [
     {
-      "title": "Sporting CP vs Strasbourg",
+      "title": "Nacional vs Tigre",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/sporting.m3u8"
-      ]
+      "streams": []
+    },
+    {
+      "title": "AtlÃ©tico Mineiro vs Bahia",
+      "page": "https://roxiestreams.info/soccer-streams-2",
+      "streams": []
+    },
+    {
+      "title": "UCV vs Santos",
+      "page": "https://roxiestreams.info/soccer-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Cruz Azul vs Puebla",
+      "page": "https://roxiestreams.info/soccer-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Toluca vs Pumas UNAM",
+      "page": "https://roxiestreams.info/soccer-streams-5",
+      "streams": []
     }
   ],
   "mlb": [
