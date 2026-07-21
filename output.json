@@ -8,7 +8,9 @@
     {
       "title": "Nacional vs Tigre",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "AtlÃ©tico Mineiro vs Bahia",
