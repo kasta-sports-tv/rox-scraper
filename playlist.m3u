@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Sturm Graz vs Hearts
 https://daffodil.sandhost.qzz.io/prem.m3u8
+#EXTINF:-1 group-title="football",Cruz Azul vs Puebla
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="mlb",Minnesota Twins vs Cleveland Guardians
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="nba",Phoenix Mercury vs Los Angeles Sparks
@@ -9,3 +11,5 @@ https://daffodil.sandhost.qzz.io/wnba.m3u8
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Chicago Sky vs New York Liberty
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
+#EXTINF:-1 group-title="fighting",WWE NXT
+https://daffodil.sandhost.qzz.io/wwe.m3u8

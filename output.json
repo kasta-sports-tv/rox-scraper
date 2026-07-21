@@ -25,7 +25,9 @@
     {
       "title": "Cruz Azul vs Puebla",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Toluca vs Pumas UNAM",
@@ -162,7 +164,9 @@
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
     }
   ],
   "motorsports": []
