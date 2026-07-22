@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Sturm Graz vs Hearts
 https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Cruz Azul vs Puebla
-https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="mlb",Minnesota Twins vs Cleveland Guardians
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="nba",Phoenix Mercury vs Los Angeles Sparks

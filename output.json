@@ -25,9 +25,7 @@
     {
       "title": "Cruz Azul vs Puebla",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Toluca vs Pumas UNAM",
@@ -66,6 +64,16 @@
     {
       "title": "San Diego Padres vs Atlanta Braves",
       "page": "https://roxiestreams.info/mlb-streams-6",
+      "streams": []
+    },
+    {
+      "title": "San Francisco Giants vs Kansas City Royals",
+      "page": "https://roxiestreams.info/mlb-streams-7",
+      "streams": []
+    },
+    {
+      "title": "New York Mets vs Milwaukee Brewers",
+      "page": "https://roxiestreams.info/mlb-streams-8",
       "streams": []
     },
     {
