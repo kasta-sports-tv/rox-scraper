@@ -32,11 +32,26 @@
       "streams": []
     },
     {
+      "title": "Belgrano vs Rosario Central",
+      "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": []
+    },
+    {
+      "title": "Sarmiento vs Argentinos Juniors",
+      "page": "https://roxiestreams.info/soccer-streams-10",
+      "streams": []
+    },
+    {
       "title": "Boca Juniors vs O'Higgins",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
+    },
+    {
+      "title": "Defensa y Justicia vs Aldosivi",
+      "page": "https://roxiestreams.info/soccer-streams-11",
+      "streams": []
     }
   ],
   "mlb": [
