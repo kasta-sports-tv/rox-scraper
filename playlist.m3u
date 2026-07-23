@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",MedellÃ­n vs Vasco Gama
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",LanÃºs vs Cienciano
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs New York Yankees
+#EXTINF:-1 group-title="mlb",Chicago White Sox vs Toronto Blue Jays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="nba",Phoenix Mercury vs Los Angeles Sparks
+#EXTINF:-1 group-title="nba",Brooklyn Nets vs Oklahoma City Thunder
+https://daffodil.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 group-title="nba",Denver Nuggets vs Toronto Raptors
+https://daffodil.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 group-title="nba",Golden State Warriors vs Memphis Grizzlies
+https://daffodil.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Dallas Wings
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Lynx vs Seattle Storm
+#EXTINF:-1 group-title="nba",Chicago Sky vs Atlanta Dream
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Chicago Sky vs New York Liberty
+#EXTINF:-1 group-title="nba",Connecticut Sun vs Phoenix Mercury
 https://daffodil.formaturamaxi.com.br/wnba3.m3u8
-#EXTINF:-1 group-title="nba",Las Vegas Aces vs Washington Mystics
-https://daffodil.formaturamaxi.com.br/wnba4.m3u8
