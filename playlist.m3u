@@ -1,25 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Dortmund vs DÃ¼sseldorf
-https://daffodil.formaturamaxi.com.br/bein2.m3u8
-#EXTINF:-1 group-title="football",Bolton Wanderers vs Everton
-https://daffodil.formaturamaxi.com.br/bein2.m3u8
-#EXTINF:-1 group-title="football",Celtic vs Milan
-https://daffodil.formaturamaxi.com.br/sportv2.m3u8
-#EXTINF:-1 group-title="football",Standard LiÃ¨ge vs Juventus
-https://daffodil.formaturamaxi.com.br/sportv2.m3u8
-#EXTINF:-1 group-title="football",Porto vs Aston Villa
-https://daffodil.formaturamaxi.com.br/bein2.m3u8
-#EXTINF:-1 group-title="football",Inter Miami vs CF MontrÃ©al
-https://daffodil.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 group-title="football",Toluca vs Cruz Azul
+#EXTINF:-1 group-title="football",Ajax vs Burnley
+https://daffodil.formaturamaxi.com.br/ajax.m3u8
+#EXTINF:-1 group-title="football",Karlsruher vs Inter Milan
+https://daffodil.formaturamaxi.com.br/prem2.m3u8
+#EXTINF:-1 group-title="football",Pachuca vs QuerÃ©taro
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="football",Auckland vs Tottenham
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="mlb",Kansas City Royals vs Detroit Tigers
+#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Team Spoon vs Team Coop (All Stars)
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="fighting",JOSHUA vs PRENGA (The Comeback)
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",Zuffa Boxing 9: Berlanga vs. Butler
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",WWE RAW
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
