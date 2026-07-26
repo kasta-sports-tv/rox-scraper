@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Ajax vs Burnley
-https://daffodil.formaturamaxi.com.br/ajax.m3u8
-#EXTINF:-1 group-title="football",Karlsruher vs Inter Milan
-https://daffodil.formaturamaxi.com.br/prem2.m3u8
 #EXTINF:-1 group-title="football",Pachuca vs QuerÃ©taro
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="mlb",Cleveland Guardians vs Tampa Bay Rays
