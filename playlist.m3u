@@ -9,6 +9,12 @@ https://daffodil.formaturamaxi.com.br/sportv2.m3u8
 https://daffodil.formaturamaxi.com.br/sportv2.m3u8
 #EXTINF:-1 group-title="football",Porto vs Aston Villa
 https://daffodil.formaturamaxi.com.br/bein2.m3u8
+#EXTINF:-1 group-title="football",Inter Miami vs CF MontrÃ©al
+https://daffodil.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 group-title="football",Toluca vs Cruz Azul
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="football",Auckland vs Tottenham
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="mlb",Kansas City Royals vs Detroit Tigers
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Team Spoon vs Team Coop (All Stars)
