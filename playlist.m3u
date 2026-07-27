@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Pachuca vs QuerÃ©taro
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Tampa Bay Rays
+#EXTINF:-1 group-title="mlb",Seattle Mariners vs Texas Rangers
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Team Spoon vs Team Coop (All Stars)
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="fighting",Zuffa Boxing 9: Berlanga vs. Butler
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
