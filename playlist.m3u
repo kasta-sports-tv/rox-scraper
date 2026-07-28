@@ -1,11 +1,25 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Chelsea vs Western Sydney Wanderers
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Real Madrid vs Leganes
+https://daffodil.formaturamaxi.com.br/rma.m3u8
+#EXTINF:-1 group-title="football",FamalicÃ£o vs Crystal Palace
+https://daffodil.formaturamaxi.com.br/sportv.m3u8
+#EXTINF:-1 group-title="football",Stoke City vs Everton
+https://daffodil.formaturamaxi.com.br/bein2.m3u8
 #EXTINF:-1 group-title="football",Tigre vs Nacional
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Santos vs UCV
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="mlb",Seattle Mariners vs Texas Rangers
+#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Cincinnati Reds
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="nba",Team Spoon vs Team Coop (All Stars)
+#EXTINF:-1 group-title="nba",Connecticut Sun vs Washington Mystics
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="fighting",WWE RAW
+#EXTINF:-1 group-title="nba",Toronto Tempo vs Minnesota Lynx
+https://daffodil.formaturamaxi.com.br/wnba2.m3u8
+#EXTINF:-1 group-title="nba",Indiana Fever vs Seattle Storm
+https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+#EXTINF:-1 group-title="nba",Portland Fire vs Las Vegas Aces
+https://daffodil.formaturamaxi.com.br/wnba4.m3u8
+#EXTINF:-1 group-title="fighting",WWE NXT
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
