@@ -1,10 +1,37 @@
 {
   "soccer": [
     {
-      "title": "Galatasaray vs Venezia",
+      "title": "Tigre vs Nacional",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ssport.m3u8"
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
+    },
+    {
+      "title": "Banfield vs Sarmiento",
+      "page": "https://roxiestreams.info/soccer-streams-2",
+      "streams": []
+    },
+    {
+      "title": "San Lorenzo vs Gimnasia Mendoza",
+      "page": "https://roxiestreams.info/soccer-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Argentinos Juniors vs Estudiantes RÃ­o Cuarto",
+      "page": "https://roxiestreams.info/soccer-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Rosario Central vs Racing Club",
+      "page": "https://roxiestreams.info/soccer-streams-5",
+      "streams": []
+    },
+    {
+      "title": "Santos vs UCV",
+      "page": "https://roxiestreams.info/soccer-streams-6",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     }
   ],

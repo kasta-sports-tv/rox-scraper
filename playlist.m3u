@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Galatasaray vs Venezia
-https://daffodil.formaturamaxi.com.br/ssport.m3u8
+#EXTINF:-1 group-title="football",Tigre vs Nacional
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Santos vs UCV
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="mlb",Seattle Mariners vs Texas Rangers
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Team Spoon vs Team Coop (All Stars)
