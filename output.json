@@ -3,7 +3,9 @@
     {
       "title": "Chelsea vs Western Sydney Wanderers",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
+      ]
     },
     {
       "title": "Real Madrid vs Leganes",
@@ -66,6 +68,13 @@
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
+    },
+    {
+      "title": "MLS All-Star Skills Challenge",
+      "page": "https://roxiestreams.info/soccer-streams-6",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
       ]
     }
   ],
