@@ -20,16 +20,12 @@
     {
       "title": "Real Betis vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/lyon.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Doncaster vs Wolves",
       "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/wolves.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Defensa y Justicia vs Deportivo Riestra",
@@ -61,7 +57,9 @@
     {
       "title": "Wrexham vs Liverpool",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/liverpool.m3u8"
+      ]
     },
     {
       "title": "MLS All Star Team vs Liga MX All-Stars",
