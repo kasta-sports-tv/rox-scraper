@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Chelsea vs Western Sydney Wanderers
-https://daffodil.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 group-title="football",FamalicÃ£o vs Crystal Palace
-https://daffodil.formaturamaxi.com.br/sportv.m3u8
-#EXTINF:-1 group-title="football",Stoke City vs Everton
-https://daffodil.formaturamaxi.com.br/bein2.m3u8
-#EXTINF:-1 group-title="football",Tigre vs Nacional
+#EXTINF:-1 group-title="football",Vasco da Gama vs MedellÃ­n
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Santos vs UCV
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",MLS All-Star Skills Challenge
+#EXTINF:-1 group-title="football",MLS All Star Team vs Liga MX All-Stars
 https://daffodil.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 group-title="football",Cienciano vs LanÃºs
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="football",RB Bragantino vs Sporting Cristal
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="mlb",Cleveland Guardians vs Cincinnati Reds
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Connecticut Sun vs Washington Mystics
