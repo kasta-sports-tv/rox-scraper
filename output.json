@@ -3,9 +3,7 @@
     {
       "title": "Tottenham vs Sydney FC",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Dortmund vs Cerezo Osaka",
@@ -24,6 +22,13 @@
       "page": "https://roxiestreams.info/soccer-streams-15",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/lyon.m3u8"
+      ]
+    },
+    {
+      "title": "Doncaster vs Wolves",
+      "page": "https://roxiestreams.info/soccer-streams-16",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wolves.m3u8"
       ]
     },
     {
@@ -189,9 +194,9 @@
     },
     {
       "title": "Golden State Valkyries vs Phoenix Mercury",
-      "page": "https://roxiestreams.info/wnba-streams-2",
+      "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
       ]
     }
   ],

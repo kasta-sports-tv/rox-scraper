@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Tottenham vs Sydney FC
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Dortmund vs Cerezo Osaka
 https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",Real Betis vs Lyon
 https://daffodil.formaturamaxi.com.br/lyon.m3u8
+#EXTINF:-1 group-title="football",Doncaster vs Wolves
+https://daffodil.formaturamaxi.com.br/wolves.m3u8
 #EXTINF:-1 group-title="football",Vasco da Gama vs MedellÃ­n
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",MLS All Star Team vs Liga MX All-Stars
@@ -18,4 +18,4 @@ https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Atlanta Dream vs Dallas Wings
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Phoenix Mercury
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
+https://daffodil.formaturamaxi.com.br/wnba.m3u8
