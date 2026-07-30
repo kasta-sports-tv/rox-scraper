@@ -1,201 +1,116 @@
 {
   "soccer": [
     {
-      "title": "Tottenham vs Sydney FC",
-      "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
-    },
-    {
-      "title": "Dortmund vs Cerezo Osaka",
-      "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
-      ]
-    },
-    {
-      "title": "Barracas Central vs Aldosivi",
+      "title": "HB vs Motherwell",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
-    },
-    {
-      "title": "Real Betis vs Lyon",
-      "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": []
-    },
-    {
-      "title": "Doncaster vs Wolves",
-      "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": []
-    },
-    {
-      "title": "Defensa y Justicia vs Deportivo Riestra",
-      "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Vasco da Gama vs MedellÃ­n",
-      "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
       ]
     },
     {
-      "title": "Gimnasia La Plata vs River Plate",
+      "title": "GrÃªmio vs Bolivar",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     },
     {
-      "title": "Internacional vs Flamengo",
-      "page": "https://roxiestreams.info/soccer-streams-5",
+      "title": "Corinthians vs Athletico-PR",
+      "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
     },
     {
-      "title": "Mirassol vs Remo",
-      "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
-    },
-    {
-      "title": "Wrexham vs Liverpool",
-      "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/lfc.m3u8"
-      ]
-    },
-    {
-      "title": "MLS All Star Team vs Liga MX All-Stars",
-      "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
-      ]
-    },
-    {
-      "title": "Fluminense vs Bahia",
-      "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
-    },
-    {
-      "title": "VitÃ³ria vs Palmeiras",
-      "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
-    },
-    {
-      "title": "Instituto vs Platense",
-      "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
-    },
-    {
-      "title": "RB Bragantino vs Sporting Cristal",
+      "title": "Sunderland vs Leeds Utd",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
+    },
+    {
+      "title": "Coritiba vs Cruzeiro",
+      "page": "https://roxiestreams.info/soccer-streams-5",
+      "streams": []
+    },
+    {
+      "title": "O'Higgins vs Boca Juniors",
+      "page": "https://roxiestreams.info/soccer-streams-4",
+      "streams": []
     }
   ],
   "mlb": [
     {
-      "title": "Philadelphia Phillies vs Miami Marlins",
+      "title": "Texas Rangers vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
       ]
     },
     {
-      "title": "Arizona Diamondbacks vs Pittsburgh Pirates",
+      "title": "Kansas City Royals vs Minnesota Twins",
       "page": "https://roxiestreams.info/mlb-streams-2",
       "streams": []
     },
     {
-      "title": "Toronto Blue Jays vs Washington Nationals",
+      "title": "New York Yankees vs Chicago White Sox",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": []
     },
     {
-      "title": "Baltimore Orioles vs Detroit Tigers",
+      "title": "Chicago Cubs vs St. Louis Cardinals",
       "page": "https://roxiestreams.info/mlb-streams-4",
       "streams": []
     },
     {
-      "title": "Atlanta Braves vs New York Mets",
+      "title": "Pittsburgh Pirates vs Cincinnati Reds",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": []
     },
     {
-      "title": "Atlanta Braves vs New York Mets",
+      "title": "Miami Marlins vs New York Mets",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": []
     },
     {
-      "title": "Milwaukee Brewers vs San Francisco Giants",
+      "title": "Washington Nationals vs Atlanta Braves",
       "page": "https://roxiestreams.info/mlb-streams-7",
       "streams": []
     },
     {
-      "title": "Colorado Rockies vs San Diego Padres",
+      "title": "Boston Red Sox vs Athletics",
       "page": "https://roxiestreams.info/mlb-streams-8",
       "streams": []
     },
     {
-      "title": "Texas Rangers vs Tampa Bay Rays",
+      "title": "San Francisco Giants vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": []
     },
     {
-      "title": "Cleveland Guardians vs Cincinnati Reds",
+      "title": "Seattle Mariners vs Los Angeles Dodgers",
       "page": "https://roxiestreams.info/mlb-streams-10",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/mlb10.m3u8"
       ]
-    },
-    {
-      "title": "Kansas City Royals vs Minnesota Twins",
-      "page": "https://roxiestreams.info/mlb-streams-11",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb11.m3u8"
-      ]
-    },
-    {
-      "title": "New York Yankees vs Chicago White Sox",
-      "page": "https://roxiestreams.info/mlb-streams-12",
-      "streams": []
-    },
-    {
-      "title": "Chicago Cubs vs St. Louis Cardinals",
-      "page": "https://roxiestreams.info/mlb-streams-13",
-      "streams": []
-    },
-    {
-      "title": "Houston Astros vs Los Angeles Angels",
-      "page": "https://roxiestreams.info/mlb-streams-14",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb14.m3u8"
-      ]
-    },
-    {
-      "title": "Boston Red Sox vs Athletics",
-      "page": "https://roxiestreams.info/mlb-streams-15",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb15.m3u8"
-      ]
-    },
-    {
-      "title": "Seattle Mariners vs Los Angeles Dodgers",
-      "page": "https://roxiestreams.info/mlb-streams-16",
-      "streams": []
     }
   ],
   "nba": [
     {
-      "title": "Atlanta Dream vs Dallas Wings",
+      "title": "Minnesota Lynx vs Toronto Tempo",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
       ]
     },
     {
-      "title": "Golden State Valkyries vs Phoenix Mercury",
-      "page": "https://roxiestreams.info/wnba-streams-1",
+      "title": "Connecticut Sun vs Chicago Sky",
+      "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
+      ]
+    },
+    {
+      "title": "New York Liberty vs Las Vegas Aces",
+      "page": "https://roxiestreams.info/wnba-streams-3",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wnba3.m3u8"
       ]
     }
   ],
