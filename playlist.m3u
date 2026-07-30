@@ -11,6 +11,14 @@ https://daffodil.formaturamaxi.com.br/mls.m3u8
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Miami Marlins
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Cincinnati Reds
+https://daffodil.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",Kansas City Royals vs Minnesota Twins
+https://daffodil.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 group-title="mlb",Houston Astros vs Los Angeles Angels
+https://daffodil.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 group-title="mlb",Boston Red Sox vs Athletics
+https://daffodil.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 group-title="nba",Atlanta Dream vs Dallas Wings
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Phoenix Mercury
