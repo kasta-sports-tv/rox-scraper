@@ -7,6 +7,20 @@ https://daffodil.formaturamaxi.com.br/ziggo.m3u8
 https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",New York City vs Toronto FC
 https://daffodil.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 group-title="football",Tokyo vs Dortmund
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Man United vs Atletico Madrid
+https://daffodil.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 group-title="football",Real Madrid vs Fiorentina
+https://daffodil.formaturamaxi.com.br/juve.m3u8
+#EXTINF:-1 group-title="football",Estrela vs Al Nassr
+https://daffodil.formaturamaxi.com.br/ziggo.m3u8
+#EXTINF:-1 group-title="football",Vasco Gama vs Fluminense
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="football",Inter Miami vs Columbus Crew
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Santos vs Remo
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Chicago Cubs
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Kansas City Royals vs Colorado Rockies
@@ -22,7 +36,7 @@ https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",Dallas Wings vs Washington Mystics
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Indiana Fever vs Portland Fire
-https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 #EXTINF:-1 group-title="fighting",PFL: New York
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
