@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",HB vs Motherwell
-https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",Sunderland vs Leeds Utd
-https://daffodil.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 group-title="football",Sporting CP vs Nottingham Forest
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",New York City vs Toronto FC
+https://daffodil.formaturamaxi.com.br/mls.m3u8
 #EXTINF:-1 group-title="mlb",Texas Rangers vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Seattle Mariners vs Los Angeles Dodgers

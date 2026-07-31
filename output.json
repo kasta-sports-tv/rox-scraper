@@ -1,41 +1,36 @@
 {
   "soccer": [
     {
-      "title": "HB vs Motherwell",
+      "title": "Sporting CP vs Nottingham Forest",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
       ]
     },
     {
-      "title": "GrÃªmio vs Bolivar",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
-    },
-    {
-      "title": "Corinthians vs Athletico-PR",
+      "title": "Los Chankas vs Comerciantes Unidos",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
     },
     {
-      "title": "Sunderland vs Leeds Utd",
+      "title": "New York City vs Toronto FC",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
       ]
     },
     {
-      "title": "Coritiba vs Cruzeiro",
-      "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
-    },
-    {
-      "title": "O'Higgins vs Boca Juniors",
+      "title": "Puebla vs Guadalajara",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     },
     {
-      "title": "Mexico U20 vs Guatemala U20",
+      "title": "AtlÃ©tico de San Luis vs Tijuana",
+      "page": "https://roxiestreams.info/soccer-streams-5",
+      "streams": []
+    },
+    {
+      "title": "JuÃ¡rez vs Pumas UNAM",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": []
     }
