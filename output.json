@@ -10,12 +10,16 @@
     {
       "title": "Birmingham City vs Barcelona",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ziggo.m3u8"
+      ]
     },
     {
       "title": "Sporting CP vs Nottingham Forest",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+      ]
     },
     {
       "title": "Dundee United vs Rangers",
@@ -30,7 +34,9 @@
     {
       "title": "New York City vs Toronto FC",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
+      ]
     },
     {
       "title": "Puebla vs Guadalajara",
@@ -50,7 +56,9 @@
     {
       "title": "Tokyo vs Dortmund",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+      ]
     },
     {
       "title": "Man City vs Inter Milan",
