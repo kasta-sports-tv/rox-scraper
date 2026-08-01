@@ -17,12 +17,14 @@ https://daffodil.sandhost.qzz.io/nassr.m3u8
 https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Everton vs Colo Colo
 https://daffodil.sandhost.qzz.io/colo.m3u8
+#EXTINF:-1 group-title="football",Porto vs Torreense
+https://daffodil.sandhost.qzz.io/xtra.m3u8
 #EXTINF:-1 group-title="football",Vasco Gama vs Fluminense
-https://daffodil.sandhost.qzz.io/tudn.m3u8
+https://daffodil.sandhost.qzz.io/sportv.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Columbus Crew
 https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Santos vs Remo
-https://daffodil.sandhost.qzz.io/tudn.m3u8
+https://daffodil.sandhost.qzz.io/sportv.m3u8
 #EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Toronto Blue Jays
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Chicago Cubs

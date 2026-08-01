@@ -81,13 +81,15 @@
     {
       "title": "Porto vs Torreense",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
+      ]
     },
     {
       "title": "Vasco Gama vs Fluminense",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
       ]
     },
     {
@@ -111,7 +113,7 @@
       "title": "Santos vs Remo",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
       ]
     },
     {
