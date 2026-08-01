@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Juventus vs Nice
-https://daffodil.formaturamaxi.com.br/juve.m3u8
-#EXTINF:-1 group-title="football",Birmingham City vs Barcelona
-https://daffodil.formaturamaxi.com.br/ziggo.m3u8
-#EXTINF:-1 group-title="football",Sporting CP vs Nottingham Forest
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",New York City vs Toronto FC
-https://daffodil.formaturamaxi.com.br/mls.m3u8
 #EXTINF:-1 group-title="football",Tokyo vs Dortmund
 https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",Man United vs Atletico Madrid
@@ -21,23 +13,19 @@ https://daffodil.formaturamaxi.com.br/tudn.m3u8
 https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",Santos vs Remo
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="mlb",New York Yankees vs Chicago Cubs
+#EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Toronto Blue Jays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="mlb",Kansas City Royals vs Colorado Rockies
+#EXTINF:-1 group-title="mlb",New York Yankees vs Chicago Cubs
 https://daffodil.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Los Angeles Angels
+#EXTINF:-1 group-title="mlb",Kansas City Royals vs Colorado Rockies
 https://daffodil.formaturamaxi.com.br/mlb11.m3u8
-#EXTINF:-1 group-title="mlb",Boston Red Sox vs Los Angeles Dodgers
+#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Los Angeles Angels
 https://daffodil.formaturamaxi.com.br/mlb14.m3u8
-#EXTINF:-1 group-title="mlb",Minnesota Twins vs Seattle Mariners
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Athletics
 https://daffodil.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 group-title="nba",Seattle Storm vs Atlanta Dream
+#EXTINF:-1 group-title="nba",Las Vegas Aces vs Chicago Sky
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Dallas Wings vs Washington Mystics
+#EXTINF:-1 group-title="nba",New York Liberty vs Phoenix Mercury
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Indiana Fever vs Portland Fire
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="fighting",PFL: New York
+#EXTINF:-1 group-title="fighting",O'Leary vs. Chamberlain
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
