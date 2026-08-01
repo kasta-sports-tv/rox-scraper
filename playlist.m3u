@@ -21,10 +21,16 @@ https://daffodil.sandhost.qzz.io/colo.m3u8
 https://daffodil.sandhost.qzz.io/xtra.m3u8
 #EXTINF:-1 group-title="football",Vasco Gama vs Fluminense
 https://daffodil.sandhost.qzz.io/sportv.m3u8
+#EXTINF:-1 group-title="football",QuerÃ©taro vs Tigres
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Columbus Crew
-https://daffodil.sandhost.qzz.io/bein.m3u8
+https://daffodil.sandhost.qzz.io/mls.m3u8
 #EXTINF:-1 group-title="football",Santos vs Remo
 https://daffodil.sandhost.qzz.io/sportv.m3u8
+#EXTINF:-1 group-title="football",Atlas vs Monterrey
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Cruz Azul vs Atlante
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Toronto Blue Jays
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Chicago Cubs
@@ -35,11 +41,11 @@ https://daffodil.sandhost.qzz.io/mlb11.m3u8
 https://daffodil.sandhost.qzz.io/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",Detroit Tigers vs Athletics
 https://daffodil.sandhost.qzz.io/mlb15.m3u8
-#EXTINF:-1 group-title="nba",Las Vegas Aces vs Chicago Sky
-https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",New York Liberty vs Phoenix Mercury
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="fighting",O'Leary vs. Chamberlain
 https://daffodil.sandhost.qzz.io/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE Summerslam (Day 1)
 https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 group-title="fighting",Roach Jr. vs. Zepeda
+https://daffodil.sandhost.qzz.io/ppv2.m3u8

@@ -95,13 +95,15 @@
     {
       "title": "QuerÃ©taro vs Tigres",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Inter Miami vs Columbus Crew",
       "page": "https://roxiestreams.info/soccer-streams-14",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8"
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
       ]
     },
     {
@@ -119,7 +121,9 @@
     {
       "title": "Atlas vs Monterrey",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "LeÃ³n vs Pachuca",
@@ -134,7 +138,9 @@
     {
       "title": "Cruz Azul vs Atlante",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -228,9 +234,7 @@
     {
       "title": "Las Vegas Aces vs Chicago Sky",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "New York Liberty vs Phoenix Mercury",
@@ -271,7 +275,9 @@
     {
       "title": "Roach Jr. vs. Zepeda",
       "page": "https://roxiestreams.info/ppv-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ppv2.m3u8"
+      ]
     }
   ],
   "motorsports": []
