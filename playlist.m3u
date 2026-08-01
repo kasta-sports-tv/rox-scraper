@@ -21,22 +21,12 @@ https://daffodil.sandhost.qzz.io/colo.m3u8
 https://daffodil.sandhost.qzz.io/xtra.m3u8
 #EXTINF:-1 group-title="football",Vasco Gama vs Fluminense
 https://daffodil.sandhost.qzz.io/sportv.m3u8
-#EXTINF:-1 group-title="football",QuerÃ©taro vs Tigres
-https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Columbus Crew
 https://daffodil.sandhost.qzz.io/mls.m3u8
 #EXTINF:-1 group-title="football",Santos vs Remo
 https://daffodil.sandhost.qzz.io/sportv.m3u8
-#EXTINF:-1 group-title="football",Atlas vs Monterrey
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Cruz Azul vs Atlante
-https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Toronto Blue Jays
 https://daffodil.sandhost.qzz.io/mlb.m3u8
-#EXTINF:-1 group-title="mlb",New York Yankees vs Chicago Cubs
-https://daffodil.sandhost.qzz.io/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",Kansas City Royals vs Colorado Rockies
-https://daffodil.sandhost.qzz.io/mlb11.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Los Angeles Angels
 https://daffodil.sandhost.qzz.io/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",Detroit Tigers vs Athletics
