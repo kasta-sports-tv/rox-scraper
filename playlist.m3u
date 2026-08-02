@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Union Berlin vs Cagliari
-https://daffodil.sandhost.qzz.io/bein.m3u8
+https://daffodil.sandhost.qzz.io/prem.m3u8
 #EXTINF:-1 group-title="football",Feyenoord vs Atalanta
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Burnley vs Torino
-https://daffodil.sandhost.qzz.io/mutv.m3u8
+https://daffodil.sandhost.qzz.io/sportv.m3u8
 #EXTINF:-1 group-title="football",Wrexham vs Sunderland
-https://daffodil.sandhost.qzz.io/bein.m3u8
+https://daffodil.sandhost.qzz.io/prem.m3u8
 #EXTINF:-1 group-title="football",Liverpool vs Leeds
 https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",River Plate vs Rosario Central
