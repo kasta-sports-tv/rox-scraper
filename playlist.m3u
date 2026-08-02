@@ -27,6 +27,10 @@ https://daffodil.sandhost.qzz.io/mls.m3u8
 https://daffodil.sandhost.qzz.io/sportv.m3u8
 #EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Toronto Blue Jays
 https://daffodil.sandhost.qzz.io/mlb.m3u8
+#EXTINF:-1 group-title="mlb",New York Yankees vs Chicago Cubs
+https://daffodil.sandhost.qzz.io/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",Kansas City Royals vs Colorado Rockies
+https://daffodil.sandhost.qzz.io/mlb11.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Los Angeles Angels
 https://daffodil.sandhost.qzz.io/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",Detroit Tigers vs Athletics
