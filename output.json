@@ -30,8 +30,8 @@
       "title": "Liverpool vs Leeds",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/lfc.m3u8",
-        "https://daffodil.sandhost.qzz.io/bein.m3u8"
+        "https://daffodil.sandhost.qzz.io/bein.m3u8",
+        "https://daffodil.sandhost.qzz.io/lfc.m3u8"
       ]
     },
     {
@@ -150,7 +150,7 @@
       "title": "Boston Red Sox vs Los Angeles Dodgers",
       "page": "https://roxiestreams.info/mlb-streams-15",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb15.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
       ]
     }
   ],
