@@ -30,6 +30,7 @@
       "title": "Liverpool vs Leeds",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
+        "https://daffodil.sandhost.qzz.io/lfc.m3u8",
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
@@ -41,35 +42,29 @@
     {
       "title": "Chapecoense vs Cruzeiro",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
+      ]
     },
     {
       "title": "River Plate vs Rosario Central",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nassr.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Internacional vs Corinthians",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "AmÃ©rica vs Santos Laguna",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/colo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Toluca vs Necaxa",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/colo.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
@@ -178,7 +173,7 @@
       "title": "Connecticut Sun vs Dallas Wings",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
       ]
     },
     {
