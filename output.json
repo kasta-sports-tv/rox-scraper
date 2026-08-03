@@ -10,9 +10,7 @@
     {
       "title": "Feyenoord vs Atalanta",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Burnley vs Torino",
@@ -42,9 +40,7 @@
     {
       "title": "Chapecoense vs Cruzeiro",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "River Plate vs Rosario Central",
@@ -149,25 +145,19 @@
     {
       "title": "Boston Red Sox vs Los Angeles Dodgers",
       "page": "https://roxiestreams.info/mlb-streams-15",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nba": [
     {
       "title": "Indiana Fever vs Minnesota Lynx",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Los Angeles Sparks vs Portland Fire",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Connecticut Sun vs Dallas Wings",

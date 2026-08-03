@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Union Berlin vs Cagliari
 https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Feyenoord vs Atalanta
-https://daffodil.sandhost.qzz.io/sportv.m3u8
 #EXTINF:-1 group-title="football",Wrexham vs Sunderland
 https://daffodil.sandhost.qzz.io/prem.m3u8
 #EXTINF:-1 group-title="football",Liverpool vs Leeds
 https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Chapecoense vs Cruzeiro
-https://daffodil.sandhost.qzz.io/sportv.m3u8
 #EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Baltimore Orioles
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Kansas City Royals vs Colorado Rockies
@@ -17,12 +13,6 @@ https://daffodil.sandhost.qzz.io/mlb10.m3u8
 https://daffodil.sandhost.qzz.io/mlb11.m3u8
 #EXTINF:-1 group-title="mlb",Minnesota Twins vs Seattle Mariners
 https://daffodil.sandhost.qzz.io/mlb14.m3u8
-#EXTINF:-1 group-title="mlb",Boston Red Sox vs Los Angeles Dodgers
-https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Indiana Fever vs Minnesota Lynx
-https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Portland Fire
-https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Connecticut Sun vs Dallas Wings
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nba",Toronto Tempo vs Golden State Valkyries
