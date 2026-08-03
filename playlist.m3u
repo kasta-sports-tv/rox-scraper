@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",York City vs Crawley Town
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="mlb",Washington Nationals vs Philadelphia Phillies
 https://daffodil.sandhost.qzz.io/mlb.m3u8
+#EXTINF:-1 group-title="nba",Las Vegas Aces vs Atlanta Dream
+https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Seattle Storm vs New York Liberty
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Phoenix Mercury vs Chicago Sky

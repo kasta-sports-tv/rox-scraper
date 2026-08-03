@@ -8,13 +8,21 @@
     {
       "title": "York City vs Crawley Town",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Athletico-PR vs Vitoria",
       "page": "https://roxiestreams.info/soccer-streams-3",
+      "streams": []
+    },
+    {
+      "title": "HuracÃ¡n vs AtlÃ©tico TucumÃ¡n",
+      "page": "https://roxiestreams.info/soccer-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Central CÃ³rdoba SdE vs San Lorenzo",
+      "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": []
     }
   ],
@@ -66,7 +74,9 @@
     {
       "title": "Las Vegas Aces vs Atlanta Dream",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     },
     {
       "title": "Seattle Storm vs New York Liberty",
