@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Manchester City vs K-league Stars
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Chelsea vs Juventus
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Arsenal vs Real Betis
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="football",Inter Miami vs San Luis
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Dallas vs Queretaro
 https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Toluca vs Seattle
-https://daffodil.sandhost.qzz.io/mls.m3u8
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="mlb",Toronto Blue Jays vs Houston Astros
 https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Chicago White Sox vs Boston Red Sox
@@ -21,5 +21,7 @@ https://daffodil.sandhost.qzz.io/mlb14.m3u8
 https://daffodil.sandhost.qzz.io/mlb15.m3u8
 #EXTINF:-1 group-title="nba",Seattle Storm vs New York Liberty
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
+#EXTINF:-1 group-title="nba",Dallas Wings vs Washington Mystics
+https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Sparks vs Chicago Sky
-https://daffodil.sandhost.qzz.io/wnba4.m3u8
+https://daffodil.sandhost.qzz.io/wnba2.m3u8

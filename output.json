@@ -15,9 +15,7 @@
     {
       "title": "Chelsea vs Juventus",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Arsenal vs Real Betis",
@@ -44,7 +42,9 @@
     {
       "title": "Inter Miami vs San Luis",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Monterrey vs Orlando City",
@@ -77,7 +77,7 @@
       "title": "Toluca vs Seattle",
       "page": "https://roxiestreams.info/soccer-streams-14",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     },
     {
@@ -189,13 +189,15 @@
     {
       "title": "Dallas Wings vs Washington Mystics",
       "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
+      ]
     },
     {
       "title": "Los Angeles Sparks vs Chicago Sky",
       "page": "https://roxiestreams.info/wnba-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
       ]
     }
   ],
