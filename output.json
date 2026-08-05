@@ -43,7 +43,7 @@
       "title": "Inter Miami vs San Luis",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
       ]
     },
     {
@@ -182,7 +182,9 @@
     {
       "title": "Phoenix Mercury vs Atlanta Dream",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     },
     {
       "title": "Seattle Storm vs New York Liberty",

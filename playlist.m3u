@@ -4,7 +4,7 @@ https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Arsenal vs Real Betis
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs San Luis
-https://daffodil.sandhost.qzz.io/tudn.m3u8
+https://daffodil.sandhost.qzz.io/mls.m3u8
 #EXTINF:-1 group-title="football",Dallas vs Queretaro
 https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Toluca vs Seattle
@@ -19,6 +19,8 @@ https://daffodil.sandhost.qzz.io/mlb11.m3u8
 https://daffodil.sandhost.qzz.io/mlb14.m3u8
 #EXTINF:-1 group-title="mlb",Detroit Tigers vs Seattle Mariners
 https://daffodil.sandhost.qzz.io/mlb15.m3u8
+#EXTINF:-1 group-title="nba",Phoenix Mercury vs Atlanta Dream
+https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Seattle Storm vs New York Liberty
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Dallas Wings vs Washington Mystics
