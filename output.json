@@ -55,9 +55,7 @@
     {
       "title": "Vancouver Whitecaps vs Atlante",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
@@ -143,7 +141,7 @@
       "title": "Detroit Tigers vs Seattle Mariners",
       "page": "https://roxiestreams.info/mlb-streams-15",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+        "https://daffodil.sandhost.qzz.io/mlb15.m3u8"
       ]
     }
   ],
