@@ -13,9 +13,7 @@
     {
       "title": "Sparta Praha vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/football.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Ipswich Town vs Le Havre",
@@ -25,12 +23,9 @@
     {
       "title": "Columbus Crew vs Atlas",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
-    },
-    {
-      "title": "Cincinnati vs Pachuca",
-      "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+      ]
     },
     {
       "title": "Charlotte vs Pumas",
@@ -50,7 +45,9 @@
     {
       "title": "Tigres vs Real Salt Lake",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Vancouver Whitecaps vs Atlante",
