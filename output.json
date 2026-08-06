@@ -3,17 +3,23 @@
     {
       "title": "Ajax vs Shelbourne",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Bristol City vs Walsall",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
     },
     {
       "title": "Benfica vs Hearts",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem2.m3u8"
+      ]
     },
     {
       "title": "VitÃ³ria vs Athletico-PR",
@@ -146,7 +152,13 @@
       ]
     }
   ],
-  "nfl": [],
+  "nfl": [
+    {
+      "title": "Carolina Panthers vs Arizona Cardinals (HOF)",
+      "page": "https://roxiestreams.info/nfl-streams-1",
+      "streams": []
+    }
+  ],
   "nhl": [
     {
       "title": "NHL Draft 2026",
