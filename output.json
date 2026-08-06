@@ -22,33 +22,42 @@
       ]
     },
     {
+      "title": "UniÃ³n Santa Fe vs LanÃºs",
+      "page": "https://roxiestreams.info/soccer-streams-12",
+      "streams": []
+    },
+    {
       "title": "VitÃ³ria vs Athletico-PR",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
       ]
     },
     {
       "title": "Corinthians vs Internacional",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/foxd.m3u8"
+      ]
     },
     {
       "title": "New York City vs Santos Laguna",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+      ]
     },
     {
       "title": "Cruz Azul vs Philadelphia Union",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Chicago Fire vs Necaxa",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/mls.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Austin vs Tijuana",
@@ -58,7 +67,9 @@
     {
       "title": "AmÃ©rica vs San Diego",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Portland Timbers vs Puebla",
@@ -156,7 +167,9 @@
     {
       "title": "Carolina Panthers vs Arizona Cardinals (HOF)",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nbc.m3u8"
+      ]
     }
   ],
   "nhl": [
