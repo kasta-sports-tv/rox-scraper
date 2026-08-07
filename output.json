@@ -3,9 +3,7 @@
     {
       "title": "Bayern MÃ¼nchen vs Aston Villa",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Fulham vs Crystal Palace",
@@ -16,9 +14,13 @@
       "title": "Barcelona vs Nottingham Forest",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tv3.m3u8",
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tv3.m3u8"
       ]
+    },
+    {
+      "title": "Costa Rica U20 vs United States U20",
+      "page": "https://roxiestreams.info/soccer-streams-10",
+      "streams": []
     },
     {
       "title": "Columbus Crew vs Pachuca",
