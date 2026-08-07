@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Barcelona vs Nottingham Forest
-https://daffodil.formaturamaxi.com.br/tv3.m3u8
 #EXTINF:-1 group-title="football",Cincinnati vs Pumas
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="football",Tigres vs Minnesota
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="nba",Phoenix Mercury vs Connecticut Sun
+https://daffodil.formaturamaxi.com.br/wnba.m3u8
+#EXTINF:-1 group-title="nba",Golden State Valkyries vs Dallas Wings
+https://daffodil.formaturamaxi.com.br/wnba.m3u8
+#EXTINF:-1 group-title="fighting",PFL Charlotte: Battle vs. Rosta
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.formaturamaxi.com.br/wwe.m3u8

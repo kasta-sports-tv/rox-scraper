@@ -13,9 +13,7 @@
     {
       "title": "Barcelona vs Nottingham Forest",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tv3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Costa Rica U20 vs United States U20",
@@ -138,7 +136,9 @@
     {
       "title": "Phoenix Mercury vs Connecticut Sun",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+      ]
     },
     {
       "title": "Atlanta Dream vs Washington Mystics",
@@ -148,7 +148,9 @@
     {
       "title": "Golden State Valkyries vs Dallas Wings",
       "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+      ]
     }
   ],
   "nfl": [
@@ -169,7 +171,9 @@
     {
       "title": "PFL Charlotte: Battle vs. Rosta",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     },
     {
       "title": "BoxFest XIX",
