@@ -149,7 +149,9 @@
     {
       "title": "Chivas vs Dallas",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Sport Boys vs Alianza Lima",
@@ -164,7 +166,9 @@
     {
       "title": "Toluca vs LAFC",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -248,9 +252,7 @@
     {
       "title": "Las Vegas Aces vs Minnesota Lynx",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Indiana Fever vs Chicago Sky",
