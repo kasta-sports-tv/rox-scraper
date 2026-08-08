@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Juventus vs Inter Milan
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Chelsea vs Milan
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Leeds vs Leipzig
 https://daffodil.formaturamaxi.com.br/rbtv.m3u8
 #EXTINF:-1 group-title="football",Bayer Leverkusen vs Sevilla
@@ -11,8 +9,6 @@ https://daffodil.formaturamaxi.com.br/prem.m3u8
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Manchester United vs PSG
 https://daffodil.formaturamaxi.com.br/mutv.m3u8
-#EXTINF:-1 group-title="football",FerencvÃ¡ros vs Real Madrid
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Udinese vs Nottingham Forest
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Barcelona vs Nottingham Forest
