@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Juventus vs Inter Milan
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Leeds vs Leipzig
 https://daffodil.sandhost.qzz.io/rbtv.m3u8
-#EXTINF:-1 group-title="football",Brighton vs Roma
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Udinese vs Nottingham Forest
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Barcelona vs Nottingham Forest
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Estrela vs Sporting CP
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Udinese vs Barcelona
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Monterrey
 https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Chivas vs Dallas
