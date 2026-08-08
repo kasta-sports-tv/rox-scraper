@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Remo vs AtlÃ©tico Mineiro
+#EXTINF:-1 group-title="football",West Ham vs Portsmouth
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="football",Real Salt Lake vs Atlante
+#EXTINF:-1 group-title="football",Tigre vs River Plate
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="nba",Phoenix Mercury vs Connecticut Sun
+#EXTINF:-1 group-title="football",Boca Juniors vs Velez Sarsfield
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="football",Inter Miami vs Monterrey
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="nba",Las Vegas Aces vs Minnesota Lynx
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Dream vs Washington Mystics
+#EXTINF:-1 group-title="nba",Indiana Fever vs Chicago Sky
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Golden State Valkyries vs Dallas Wings
+#EXTINF:-1 group-title="nba",Seattle Storm vs Portland Fire
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="fighting",PFL Charlotte: Battle vs. Rosta
+#EXTINF:-1 group-title="fighting",Zuffa Boxing 10: McKenna vs. Oliha
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
