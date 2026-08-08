@@ -4,7 +4,7 @@
       "title": "Juventus vs Inter Milan",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -16,21 +16,21 @@
       "title": "Leeds vs Leipzig",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/rbtv.m3u8"
+        "https://daffodil.sandhost.qzz.io/rbtv.m3u8"
       ]
     },
     {
       "title": "Bayer Leverkusen vs Sevilla",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
     },
     {
       "title": "Brighton vs Roma",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "title": "Manchester United vs PSG",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/mutv.m3u8"
+        "https://daffodil.sandhost.qzz.io/mutv.m3u8"
       ]
     },
     {
@@ -74,14 +74,14 @@
       "title": "Udinese vs Nottingham Forest",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
       "title": "Barcelona vs Nottingham Forest",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -97,21 +97,21 @@
     {
       "title": "Estrela vs Sporting CP",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+      ]
     },
     {
       "title": "Udinese vs Barcelona",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
       "title": "Tigre vs River Plate",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Remo vs AtlÃ©tico Mineiro",
@@ -121,9 +121,7 @@
     {
       "title": "Boca Juniors vs Velez Sarsfield",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Orlando City vs Leon",
@@ -139,7 +137,7 @@
       "title": "Inter Miami vs Monterrey",
       "page": "https://roxiestreams.info/soccer-streams-18",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     },
     {
@@ -255,21 +253,21 @@
       "title": "Las Vegas Aces vs Minnesota Lynx",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
       ]
     },
     {
       "title": "Indiana Fever vs Chicago Sky",
       "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
       ]
     },
     {
       "title": "Seattle Storm vs Portland Fire",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba3.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
       ]
     }
   ],
@@ -297,7 +295,7 @@
       "title": "Zuffa Boxing 10: McKenna vs. Oliha",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
       ]
     },
     {
