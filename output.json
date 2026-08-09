@@ -4,7 +4,7 @@
       "title": "Manchester City vs AtlÃ©tico Madrid",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/rbtv.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -15,13 +15,15 @@
     {
       "title": "Kilmarnock vs Celtic",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
     },
     {
-      "title": "Johor Darul Ta'zim vs Chelsea",
+      "title": "Arsenal vs Dortmund",
       "page": "https://roxiestreams.info/soccer-streams-20",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+        "https://daffodil.sandhost.qzz.io/news.m3u8"
       ]
     },
     {
@@ -37,21 +39,28 @@
     {
       "title": "Mansfield Town vs Sheffield Utd",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
     },
     {
       "title": "Rangers vs Hibernian",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/rbtv.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
       "title": "Porto vs Alverca",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt2.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
+    },
+    {
+      "title": "San Lorenzo vs HuracÃ¡n",
+      "page": "https://roxiestreams.info/soccer-streams-21",
+      "streams": []
     },
     {
       "title": "Bahia vs Vasco Gama",
@@ -67,12 +76,22 @@
       "title": "Benfica vs Academico Viseu",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt2.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
       "title": "Seattle Sounders vs Queretaro",
       "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": []
+    },
+    {
+      "title": "Defensa y Justicia vs Newell's Old Boys",
+      "page": "https://roxiestreams.info/soccer-streams-22",
+      "streams": []
+    },
+    {
+      "title": "Gimnasia La Plata vs Barracas Central",
+      "page": "https://roxiestreams.info/soccer-streams-24",
       "streams": []
     },
     {
@@ -101,8 +120,13 @@
       "title": "United States U20 vs Mexico U20",
       "page": "https://roxiestreams.info/soccer-streams-20",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+        "https://daffodil.sandhost.qzz.io/news.m3u8"
       ]
+    },
+    {
+      "title": "Argentinos Juniors vs Racing Club",
+      "page": "https://roxiestreams.info/soccer-streams-23",
+      "streams": []
     },
     {
       "title": "Cruz Azul vs New York City",
@@ -221,7 +245,9 @@
     {
       "title": "Las Vegas Aces vs New York Liberty",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     },
     {
       "title": "Phoenix Mercury vs Washington Mystics",
@@ -233,13 +259,15 @@
     {
       "title": "Dallas Wings vs Minnesota Lynx",
       "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
+      ]
     },
     {
       "title": "Golden State Valkyries vs Los Angeles Sparks",
       "page": "https://roxiestreams.info/wnba-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
       ]
     }
   ],
