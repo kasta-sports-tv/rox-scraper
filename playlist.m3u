@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Manchester City vs AtlÃ©tico Madrid
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Kilmarnock vs Celtic
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Arsenal vs Dortmund
 https://daffodil.sandhost.qzz.io/news.m3u8
-#EXTINF:-1 group-title="football",Mansfield Town vs Sheffield Utd
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Rangers vs Hibernian
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Porto vs Alverca
 https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Benfica vs Academico Viseu
@@ -17,8 +9,6 @@ https://daffodil.sandhost.qzz.io/beines.m3u8
 https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",United States U20 vs Mexico U20
 https://daffodil.sandhost.qzz.io/news.m3u8
-#EXTINF:-1 group-title="nba",Las Vegas Aces vs New York Liberty
-https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Phoenix Mercury vs Washington Mystics
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Dallas Wings vs Minnesota Lynx
