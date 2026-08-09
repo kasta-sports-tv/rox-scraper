@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Arsenal vs Dortmund
-https://daffodil.formaturamaxi.com.br/news.m3u8
 #EXTINF:-1 group-title="football",Porto vs Alverca
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Benfica vs Academico Viseu
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",United States U20 vs Mexico U20
-https://daffodil.formaturamaxi.com.br/news.m3u8
 #EXTINF:-1 group-title="football",Cruz Azul vs New York City
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="football",AmÃ©rica vs Portland Timbers
