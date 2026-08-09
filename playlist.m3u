@@ -1,17 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Arsenal vs Dortmund
-https://daffodil.sandhost.qzz.io/news.m3u8
+https://daffodil.formaturamaxi.com.br/news.m3u8
 #EXTINF:-1 group-title="football",Porto vs Alverca
-https://daffodil.sandhost.qzz.io/beines.m3u8
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Benfica vs Academico Viseu
-https://daffodil.sandhost.qzz.io/beines.m3u8
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",United States U20 vs Mexico U20
-https://daffodil.sandhost.qzz.io/news.m3u8
+https://daffodil.formaturamaxi.com.br/news.m3u8
+#EXTINF:-1 group-title="football",Cruz Azul vs New York City
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="football",AmÃ©rica vs Portland Timbers
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="nba",Phoenix Mercury vs Washington Mystics
-https://daffodil.sandhost.qzz.io/wnba2.m3u8
+https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Dallas Wings vs Minnesota Lynx
-https://daffodil.sandhost.qzz.io/wnba3.m3u8
+https://daffodil.formaturamaxi.com.br/wnba3.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Los Angeles Sparks
-https://daffodil.sandhost.qzz.io/wnba4.m3u8
+https://daffodil.formaturamaxi.com.br/wnba4.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8

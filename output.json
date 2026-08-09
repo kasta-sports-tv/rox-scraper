@@ -19,7 +19,7 @@
       "title": "Arsenal vs Dortmund",
       "page": "https://roxiestreams.info/soccer-streams-20",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/news.m3u8"
+        "https://daffodil.formaturamaxi.com.br/news.m3u8"
       ]
     },
     {
@@ -46,7 +46,7 @@
       "title": "Porto vs Alverca",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     },
     {
@@ -68,7 +68,7 @@
       "title": "Benfica vs Academico Viseu",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     },
     {
@@ -110,7 +110,7 @@
       "title": "United States U20 vs Mexico U20",
       "page": "https://roxiestreams.info/soccer-streams-20",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/news.m3u8"
+        "https://daffodil.formaturamaxi.com.br/news.m3u8"
       ]
     },
     {
@@ -121,7 +121,9 @@
     {
       "title": "Cruz Azul vs New York City",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     },
     {
       "title": "Philadelphia Union vs Necaxa",
@@ -151,7 +153,9 @@
     {
       "title": "AmÃ©rica vs Portland Timbers",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -241,21 +245,21 @@
       "title": "Phoenix Mercury vs Washington Mystics",
       "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
       ]
     },
     {
       "title": "Dallas Wings vs Minnesota Lynx",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba3.m3u8"
       ]
     },
     {
       "title": "Golden State Valkyries vs Los Angeles Sparks",
       "page": "https://roxiestreams.info/wnba-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba4.m3u8"
       ]
     }
   ],
@@ -278,7 +282,7 @@
       "title": "WWE RAW",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     }
   ],
