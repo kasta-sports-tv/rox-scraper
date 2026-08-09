@@ -1,15 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Leeds vs Leipzig
+#EXTINF:-1 group-title="football",Manchester City vs AtlÃ©tico Madrid
 https://daffodil.sandhost.qzz.io/rbtv.m3u8
-#EXTINF:-1 group-title="football",West Ham vs Portsmouth
+#EXTINF:-1 group-title="football",Johor Darul Ta'zim vs Chelsea
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Rangers vs Hibernian
+https://daffodil.sandhost.qzz.io/rbtv.m3u8
+#EXTINF:-1 group-title="football",Porto vs Alverca
 https://daffodil.sandhost.qzz.io/tnt2.m3u8
-#EXTINF:-1 group-title="football",Estrela vs Sporting CP
+#EXTINF:-1 group-title="football",Benfica vs Academico Viseu
+https://daffodil.sandhost.qzz.io/tnt2.m3u8
+#EXTINF:-1 group-title="football",Flamengo vs Vitoria
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Chivas vs Dallas
+#EXTINF:-1 group-title="football",United States U20 vs Mexico U20
 https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Toluca vs LAFC
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="nba",Indiana Fever vs Chicago Sky
+#EXTINF:-1 group-title="nba",Phoenix Mercury vs Washington Mystics
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="fighting",Zuffa Boxing 10: McKenna vs. Oliha
-https://daffodil.sandhost.qzz.io/ppv.m3u8
+#EXTINF:-1 group-title="nba",Golden State Valkyries vs Los Angeles Sparks
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
+#EXTINF:-1 group-title="fighting",WWE RAW
+https://daffodil.sandhost.qzz.io/wwe.m3u8
