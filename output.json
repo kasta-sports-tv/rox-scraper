@@ -35,7 +35,9 @@
     {
       "title": "West Ham vs Portsmouth",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tnt2.m3u8"
+      ]
     },
     {
       "title": "Manchester United vs PSG",
