@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Porto vs Alverca
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Benfica vs Academico Viseu
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Cruz Azul vs New York City
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="football",AmÃ©rica vs Portland Timbers
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="nba",Phoenix Mercury vs Washington Mystics
+#EXTINF:-1 group-title="nba",Chicago Sky vs Seattle Storm
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Dallas Wings vs Minnesota Lynx
-https://daffodil.formaturamaxi.com.br/wnba3.m3u8
-#EXTINF:-1 group-title="nba",Golden State Valkyries vs Los Angeles Sparks
-https://daffodil.formaturamaxi.com.br/wnba4.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
