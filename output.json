@@ -20,12 +20,16 @@
     {
       "title": "Boca Juniors vs Deportivo Recoleta",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Fluminense vs Rivadavia",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beinalt.m3u8"
+      ]
     },
     {
       "title": "Charlotte vs Pachuca",
@@ -52,7 +56,9 @@
     {
       "title": "Deportes Tolima vs Independiente Valle",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Minnesota United vs Atlante",
@@ -188,9 +194,7 @@
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
-      ]
+      "streams": []
     }
   ],
   "motorsports": []
