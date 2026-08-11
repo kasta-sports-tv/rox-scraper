@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Plymouth Argyle vs Exeter City
+#EXTINF:-1 group-title="football",Juventus vs Palermo
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",UniÃ³n Santa Fe vs Central CÃ³rdoba SdE
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="nba",Toronto Tempo vs Atlanta Dream
+#EXTINF:-1 group-title="football",Charlotte vs Pachuca
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="nba",New York Liberty vs Indiana Fever
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Chicago Sky vs Seattle Storm
+#EXTINF:-1 group-title="nba",Washington Mystics vs Las Vegas Aces
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="fighting",WWE RAW
+#EXTINF:-1 group-title="nba",Phoenix Mercury vs Los Angeles Sparks
+https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+#EXTINF:-1 group-title="fighting",WWE NXT
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
