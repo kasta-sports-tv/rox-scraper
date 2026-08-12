@@ -4,8 +4,8 @@
       "title": "Newcastle vs Everton",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/foxd.m3u8",
         "https://daffodil.formaturamaxi.com.br/prem.m3u8",
+        "https://daffodil.formaturamaxi.com.br/foxd.m3u8",
         "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
@@ -18,8 +18,8 @@
       "title": "Leeds United vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem2.m3u8",
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8",
+        "https://daffodil.formaturamaxi.com.br/prem2.m3u8"
       ]
     },
     {
