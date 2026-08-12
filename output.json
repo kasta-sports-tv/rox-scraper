@@ -4,9 +4,9 @@
       "title": "Newcastle vs Everton",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/foxd.m3u8",
         "https://daffodil.sandhost.qzz.io/golazo.m3u8",
-        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+        "https://daffodil.sandhost.qzz.io/prem.m3u8",
+        "https://daffodil.sandhost.qzz.io/foxd.m3u8"
       ]
     },
     {
@@ -18,8 +18,8 @@
       "title": "Leeds United vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/prem2.m3u8",
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8",
+        "https://daffodil.sandhost.qzz.io/prem2.m3u8"
       ]
     },
     {
@@ -44,17 +44,23 @@
     {
       "title": "Palmeiras vs Cerro PorteÃ±o",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+      ]
     },
     {
       "title": "Platense vs Coquimbo Unido",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
+      ]
     },
     {
       "title": "RB Bragantino vs Atletico Mineiro",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/bein6.m3u8"
+      ]
     },
     {
       "title": "Inter Miami vs Leon",
@@ -69,19 +75,16 @@
     {
       "title": "Monterrey vs Nashville",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
-    },
-    {
-      "title": "Cruzeiro vs Flamengo",
-      "page": "https://roxiestreams.info/soccer-streams-14",
       "streams": [
         "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     },
     {
-      "title": "River Plate vs Santa Fe",
-      "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "title": "Cruzeiro vs Flamengo",
+      "page": "https://roxiestreams.info/soccer-streams-14",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+      ]
     },
     {
       "title": "LAFC vs Queretaro",

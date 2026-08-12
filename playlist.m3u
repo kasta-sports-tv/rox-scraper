@@ -1,14 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Newcastle vs Everton
-https://daffodil.sandhost.qzz.io/foxd.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Leeds United vs Man United
-https://daffodil.sandhost.qzz.io/prem2.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Real Madrid vs Deportivo La Coruna
 https://daffodil.sandhost.qzz.io/foxd.m3u8
 #EXTINF:-1 group-title="football",PSG vs Aston Villa
 https://daffodil.sandhost.qzz.io/tnt.m3u8
-#EXTINF:-1 group-title="football",Cruzeiro vs Flamengo
+#EXTINF:-1 group-title="football",Palmeiras vs Cerro PorteÃ±o
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Platense vs Coquimbo Unido
+https://daffodil.sandhost.qzz.io/xtra.m3u8
+#EXTINF:-1 group-title="football",RB Bragantino vs Atletico Mineiro
+https://daffodil.sandhost.qzz.io/bein6.m3u8
+#EXTINF:-1 group-title="football",Monterrey vs Nashville
 https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Cruzeiro vs Flamengo
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="nba",Toronto Tempo vs Dallas Wings
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Chicago Sky vs Golden State Valkyries
