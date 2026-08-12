@@ -34,9 +34,7 @@
     {
       "title": "Charlotte vs Pachuca",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Columbus Crew vs Pumas",
@@ -194,6 +192,11 @@
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
+      "streams": []
+    },
+    {
+      "title": "Dana White Contender Series",
+      "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": []
     }
   ],
