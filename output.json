@@ -18,8 +18,8 @@
       "title": "Leeds United vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem2.m3u8",
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8",
+        "https://daffodil.formaturamaxi.com.br/prem2.m3u8"
       ]
     },
     {
@@ -37,9 +37,7 @@
     {
       "title": "PSG vs Aston Villa",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Palmeiras vs Cerro PorteÃ±o",
