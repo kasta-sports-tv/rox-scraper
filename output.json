@@ -4,6 +4,8 @@
       "title": "Newcastle vs Everton",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
+        "https://daffodil.formaturamaxi.com.br/foxd.m3u8",
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8",
         "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
@@ -15,31 +17,29 @@
     {
       "title": "Leeds United vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/prem2.m3u8",
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Nottingham Forest vs Bayer Leverkusen",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Real Madrid vs Deportivo La Coruna",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beinalt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/foxd.m3u8"
       ]
-    },
-    {
-      "title": "Napoli vs Aris",
-      "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
     },
     {
       "title": "PSG vs Aston Villa",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
+      ]
     },
     {
       "title": "Palmeiras vs Cerro PorteÃ±o",
@@ -210,13 +210,8 @@
   ],
   "fighting": [
     {
-      "title": "WWE NXT",
+      "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
-    },
-    {
-      "title": "Dana White Contender Series",
-      "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": []
     }
   ],
