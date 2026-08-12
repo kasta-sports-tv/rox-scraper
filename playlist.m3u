@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Juventus vs Palermo
+#EXTINF:-1 group-title="football",Newcastle vs Everton
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Boca Juniors vs Deportivo Recoleta
+#EXTINF:-1 group-title="football",Nottingham Forest vs Bayer Leverkusen
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Fluminense vs Rivadavia
+#EXTINF:-1 group-title="football",Real Madrid vs Deportivo La Coruna
 https://daffodil.formaturamaxi.com.br/beinalt.m3u8
-#EXTINF:-1 group-title="football",Deportes Tolima vs Independiente Valle
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="nba",New York Liberty vs Indiana Fever
+#EXTINF:-1 group-title="football",Cruzeiro vs Flamengo
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="nba",Toronto Tempo vs Dallas Wings
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Washington Mystics vs Las Vegas Aces
+#EXTINF:-1 group-title="nba",Chicago Sky vs Golden State Valkyries
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Phoenix Mercury vs Los Angeles Sparks
+#EXTINF:-1 group-title="nba",Minnesota Lynx vs Portland Fire
 https://daffodil.formaturamaxi.com.br/wnba3.m3u8
