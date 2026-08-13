@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Newcastle vs Everton
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Leeds United vs Man United
-https://daffodil.sandhost.qzz.io/prem2.m3u8
-#EXTINF:-1 group-title="football",Real Madrid vs Deportivo La Coruna
+#EXTINF:-1 group-title="football",Dinamo Minsk vs Sporting Braga
 https://daffodil.sandhost.qzz.io/foxd.m3u8
-#EXTINF:-1 group-title="football",PSG vs Aston Villa
+#EXTINF:-1 group-title="football",Santos vs Macara
+https://daffodil.sandhost.qzz.io/prem2.m3u8
+#EXTINF:-1 group-title="football",Philadelphia Union vs Santos Laguna
+https://daffodil.sandhost.qzz.io/foxd.m3u8
+#EXTINF:-1 group-title="football",AmÃ©rica vs Austin
 https://daffodil.sandhost.qzz.io/tnt.m3u8
-#EXTINF:-1 group-title="football",Palmeiras vs Cerro PorteÃ±o
+#EXTINF:-1 group-title="football",Cienciano vs Botafogo
+https://daffodil.sandhost.qzz.io/prem2.m3u8
+#EXTINF:-1 group-title="football",Rosario Central vs Corinthians
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Platense vs Coquimbo Unido
+#EXTINF:-1 group-title="football",Cruz Azul vs Chicago Fire
 https://daffodil.sandhost.qzz.io/xtra.m3u8
-#EXTINF:-1 group-title="football",RB Bragantino vs Atletico Mineiro
+#EXTINF:-1 group-title="football",Portland Timbers vs Tijuana
 https://daffodil.sandhost.qzz.io/bein6.m3u8
-#EXTINF:-1 group-title="football",Monterrey vs Nashville
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Cruzeiro vs Flamengo
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="nba",Toronto Tempo vs Dallas Wings
+#EXTINF:-1 group-title="nba",Atlanta Dream vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Chicago Sky vs Golden State Valkyries
+#EXTINF:-1 group-title="nba",Los Angeles Sparks vs New York Liberty
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Lynx vs Portland Fire
+#EXTINF:-1 group-title="nba",Washington Mystics vs Las Vegas Aces
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
