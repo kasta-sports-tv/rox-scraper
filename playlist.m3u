@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Dinamo Minsk vs Sporting Braga
-https://daffodil.sandhost.qzz.io/foxd.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Santos vs Macara
-https://daffodil.sandhost.qzz.io/prem2.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Philadelphia Union vs Santos Laguna
 https://daffodil.sandhost.qzz.io/foxd.m3u8
 #EXTINF:-1 group-title="football",AmÃ©rica vs Austin
 https://daffodil.sandhost.qzz.io/tnt.m3u8
 #EXTINF:-1 group-title="football",Cienciano vs Botafogo
-https://daffodil.sandhost.qzz.io/prem2.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Rosario Central vs Corinthians
 https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Cruz Azul vs Chicago Fire

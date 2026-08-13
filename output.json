@@ -4,9 +4,9 @@
       "title": "Dinamo Minsk vs Sporting Braga",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/foxd.m3u8",
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8",
         "https://daffodil.sandhost.qzz.io/prem.m3u8",
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/foxd.m3u8"
       ]
     },
     {
@@ -18,8 +18,8 @@
       "title": "Santos vs Macara",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/prem2.m3u8",
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8",
+        "https://daffodil.sandhost.qzz.io/prem2.m3u8"
       ]
     },
     {
@@ -50,8 +50,8 @@
       "title": "Cienciano vs Botafogo",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/prem2.m3u8",
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8",
+        "https://daffodil.sandhost.qzz.io/prem2.m3u8"
       ]
     },
     {
@@ -148,8 +148,33 @@
   ],
   "nfl": [
     {
-      "title": "Carolina Panthers vs Arizona Cardinals (HOF)",
+      "title": "Detroit Lions vs Cincinnati Bengals",
       "page": "https://roxiestreams.info/nfl-streams-1",
+      "streams": []
+    },
+    {
+      "title": "Green Bay Packers vs Pittsburgh Steelers",
+      "page": "https://roxiestreams.info/nfl-streams-2",
+      "streams": []
+    },
+    {
+      "title": "Indianapolis Colts vs New England Patriots",
+      "page": "https://roxiestreams.info/nfl-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Arizona Cardinals vs Las Vegas Raiders",
+      "page": "https://roxiestreams.info/nfl-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles Rams vs Houston Texans",
+      "page": "https://roxiestreams.info/nfl-streams-5",
+      "streams": []
+    },
+    {
+      "title": "Tennessee Titans vs San Francisco 49ers",
+      "page": "https://roxiestreams.info/nfl-streams-2",
       "streams": []
     }
   ],
