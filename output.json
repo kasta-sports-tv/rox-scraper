@@ -4,28 +4,29 @@
       "title": "Dinamo Minsk vs Sporting Braga",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8",
-        "https://daffodil.sandhost.qzz.io/prem.m3u8",
-        "https://daffodil.sandhost.qzz.io/foxd.m3u8"
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
       ]
     },
     {
       "title": "Shelbourne vs Ajax",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Santos vs Macara",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8",
-        "https://daffodil.sandhost.qzz.io/prem2.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
       "title": "Vasco Gama vs Olimpia",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
+      ]
     },
     {
       "title": "Philadelphia Union vs Santos Laguna",
@@ -50,8 +51,7 @@
       "title": "Cienciano vs Botafogo",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8",
-        "https://daffodil.sandhost.qzz.io/prem2.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
@@ -72,7 +72,7 @@
       "title": "Portland Timbers vs Tijuana",
       "page": "https://roxiestreams.info/soccer-streams-10",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein6.m3u8"
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     }
   ],
