@@ -1,11 +1,6 @@
 {
   "soccer": [
     {
-      "title": "Marseille vs AtlÃ©tico Madrid",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
-    },
-    {
       "title": "Parma vs Catania",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
@@ -122,11 +117,6 @@
   ],
   "nfl": [
     {
-      "title": "Detroit Lions vs Cincinnati Bengals",
-      "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
-    },
-    {
       "title": "Denver Broncos vs Atlanta Falcons",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": []
@@ -150,6 +140,16 @@
     }
   ],
   "fighting": [
+    {
+      "title": "Fury FC 123: Freeman vs. Johns",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
+    },
+    {
+      "title": "CFFC 159: Bobe vs. Isah",
+      "page": "https://roxiestreams.info/ppv-streams-2",
+      "streams": []
+    },
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
