@@ -13,16 +13,12 @@
     {
       "title": "Shelbourne vs Ajax",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/prem.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Santos vs Macara",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Mirassol vs LDU Quito",
@@ -32,9 +28,7 @@
     {
       "title": "Vasco Gama vs Olimpia",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Philadelphia Union vs Santos Laguna",
@@ -49,37 +43,27 @@
     {
       "title": "AmÃ©rica vs Austin",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Cienciano vs Botafogo",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Rosario Central vs Corinthians",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Cruz Azul vs Chicago Fire",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Portland Timbers vs Tijuana",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
@@ -133,23 +117,17 @@
     {
       "title": "Atlanta Dream vs Connecticut Sun",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Los Angeles Sparks vs New York Liberty",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Washington Mystics vs Las Vegas Aces",
       "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nfl": [
@@ -161,9 +139,7 @@
     {
       "title": "Green Bay Packers vs Pittsburgh Steelers",
       "page": "https://roxiestreams.info/nfl-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Indianapolis Colts vs New England Patriots",
@@ -182,10 +158,8 @@
     },
     {
       "title": "Tennessee Titans vs San Francisco 49ers",
-      "page": "https://roxiestreams.info/nfl-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
-      ]
+      "page": "https://roxiestreams.info/nfl-streams-6",
+      "streams": []
     }
   ],
   "nhl": [
