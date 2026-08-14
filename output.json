@@ -28,7 +28,9 @@
     {
       "title": "SÃ£o Bernardo vs Botafogo SP",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/sportv.m3u8"
+      ]
     },
     {
       "title": "Correcaminos UAT vs TapatÃ­o",
@@ -112,12 +114,16 @@
     {
       "title": "Dallas Wings vs Indiana Fever",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+      ]
     },
     {
       "title": "Portland Fire vs Seattle Storm",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+      ]
     }
   ],
   "nfl": [
@@ -129,7 +135,9 @@
     {
       "title": "Tampa Bay Buccaneers vs New York",
       "page": "https://roxiestreams.info/nfl-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
+      ]
     },
     {
       "title": "Miami Dolphins vs Washington Commanders",
@@ -146,11 +154,6 @@
   ],
   "fighting": [
     {
-      "title": "Fury FC 123: Freeman vs. Johns",
-      "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
-    },
-    {
       "title": "CFFC 159: Bobe vs. Isah",
       "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": []
@@ -158,6 +161,11 @@
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
+      "streams": []
+    },
+    {
+      "title": "Fury FC 123: Freeman vs. Johns",
+      "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": []
     }
   ],

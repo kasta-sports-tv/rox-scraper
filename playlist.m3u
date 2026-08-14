@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",SÃ£o Bernardo vs Botafogo SP
+https://daffodil.formaturamaxi.com.br/sportv.m3u8
+#EXTINF:-1 group-title="nba",Dallas Wings vs Indiana Fever
+https://daffodil.formaturamaxi.com.br/wnba.m3u8
+#EXTINF:-1 group-title="nba",Portland Fire vs Seattle Storm
+https://daffodil.formaturamaxi.com.br/wnba.m3u8
+#EXTINF:-1 group-title="nfl",Tampa Bay Buccaneers vs New York
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
