@@ -2,16 +2,22 @@
 #EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Leipzig
 https://daffodil.sandhost.qzz.io/win.m3u8
 #EXTINF:-1 group-title="football",Aston Villa vs Borussia
-https://daffodil.sandhost.qzz.io/xtra.m3u8
+https://daffodil.sandhost.qzz.io/xtraes.m3u8
 #EXTINF:-1 group-title="football",Middlesbrough vs Lincoln City
 https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Man United vs Milan
-https://daffodil.sandhost.qzz.io/bein.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Dortmund vs Roma
 https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Al Nassr vs Al Fateh
+https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Rio Ave vs Porto
-https://daffodil.sandhost.qzz.io/bein.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Atlante vs Toluca
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Monterrey vs Juarez
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Atlas vs Tigres
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="nfl",Cleveland Browns vs Chicago Bears
 https://daffodil.sandhost.qzz.io/nfl2.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.sandhost.qzz.io/wwe.m3u8

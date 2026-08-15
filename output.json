@@ -21,8 +21,8 @@
       "title": "Aston Villa vs Borussia",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8",
-        "https://daffodil.sandhost.qzz.io/xtraes.m3u8"
+        "https://daffodil.sandhost.qzz.io/xtraes.m3u8",
+        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
       ]
     },
     {
@@ -61,8 +61,8 @@
       "title": "Man United vs Milan",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -95,7 +95,9 @@
     {
       "title": "Al Nassr vs Al Fateh",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+      ]
     },
     {
       "title": "Fluminense vs Palmeiras",
@@ -106,8 +108,8 @@
       "title": "Rio Ave vs Porto",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -123,7 +125,9 @@
     {
       "title": "Atlante vs Toluca",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "CF Montreal vs DC United",
@@ -148,12 +152,16 @@
     {
       "title": "Monterrey vs Juarez",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Atlas vs Tigres",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -298,19 +306,7 @@
   ],
   "fighting": [
     {
-      "title": "CFFC 159: Bobe vs. Isah",
-      "page": "https://roxiestreams.info/ppv-streams-2",
-      "streams": []
-    },
-    {
-      "title": "WWE Smackdown",
-      "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
-      ]
-    },
-    {
-      "title": "Fury FC 123: Freeman vs. Johns",
+      "title": "SHIELDS VS SCOTT",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": []
     },
