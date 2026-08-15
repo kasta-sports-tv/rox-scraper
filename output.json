@@ -21,8 +21,8 @@
       "title": "Aston Villa vs Borussia",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/xtraes.m3u8",
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
+        "https://daffodil.sandhost.qzz.io/xtra.m3u8",
+        "https://daffodil.sandhost.qzz.io/xtraes.m3u8"
       ]
     },
     {
@@ -61,7 +61,6 @@
       "title": "Man United vs Milan",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8",
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
@@ -73,9 +72,7 @@
     {
       "title": "Dortmund vs Roma",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Sheffield United vs Birmingham City",
@@ -111,7 +108,6 @@
       "title": "Rio Ave vs Porto",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8",
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
