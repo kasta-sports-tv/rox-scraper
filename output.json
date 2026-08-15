@@ -21,8 +21,8 @@
       "title": "Aston Villa vs Borussia",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8",
-        "https://daffodil.sandhost.qzz.io/xtraes.m3u8"
+        "https://daffodil.sandhost.qzz.io/xtraes.m3u8",
+        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
       ]
     },
     {
@@ -100,9 +100,7 @@
     {
       "title": "Al Nassr vs Al Fateh",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Fluminense vs Palmeiras",
@@ -321,13 +319,13 @@
   ],
   "fighting": [
     {
-      "title": "SHIELDS VS SCOTT",
-      "page": "https://roxiestreams.info/ppv-streams-1",
+      "title": "Redneck Brawl 14",
+      "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": []
     },
     {
-      "title": "Redneck Brawl 14",
-      "page": "https://roxiestreams.info/ppv-streams-2",
+      "title": "SHIELDS VS SCOTT",
+      "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": []
     },
     {
