@@ -83,6 +83,11 @@
       "streams": []
     },
     {
+      "title": "Real Oviedo vs Granada CF",
+      "page": "https://roxiestreams.info/soccer-streams-25",
+      "streams": []
+    },
+    {
       "title": "Inter Milan vs Real Betis",
       "page": "https://roxiestreams.info/soccer-streams-15",
       "streams": []
@@ -125,9 +130,7 @@
     {
       "title": "Atlante vs Toluca",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "CF Montreal vs DC United",
@@ -151,14 +154,14 @@
     },
     {
       "title": "Monterrey vs Juarez",
-      "page": "https://roxiestreams.info/soccer-streams-20",
+      "page": "https://roxiestreams.info/soccer-streams-26",
       "streams": [
         "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     },
     {
       "title": "Atlas vs Tigres",
-      "page": "https://roxiestreams.info/soccer-streams-20",
+      "page": "https://roxiestreams.info/soccer-streams-27",
       "streams": [
         "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
@@ -245,12 +248,16 @@
     {
       "title": "New York Liberty vs Connecticut Sun",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     },
     {
       "title": "Los Angeles Sparks vs Washington Mystics",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     },
     {
       "title": "Minnesota Lynx vs Las Vegas Aces",
@@ -289,7 +296,9 @@
     {
       "title": "Philadelphia Eagles vs Baltimore Ravens",
       "page": "https://roxiestreams.info/nfl-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
+      ]
     },
     {
       "title": "Dallas Cowboys vs Seattle Seahawks",

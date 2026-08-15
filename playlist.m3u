@@ -13,11 +13,15 @@ https://daffodil.sandhost.qzz.io/beines.m3u8
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Rio Ave vs Porto
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Atlante vs Toluca
-https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Monterrey vs Juarez
 https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Atlas vs Tigres
 https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="nba",New York Liberty vs Connecticut Sun
+https://daffodil.sandhost.qzz.io/wnba.m3u8
+#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Washington Mystics
+https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nfl",Cleveland Browns vs Chicago Bears
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",Philadelphia Eagles vs Baltimore Ravens
 https://daffodil.sandhost.qzz.io/nfl2.m3u8
