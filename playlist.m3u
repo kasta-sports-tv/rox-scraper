@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Leipzig
 https://daffodil.sandhost.qzz.io/win.m3u8
 #EXTINF:-1 group-title="football",Aston Villa vs Borussia
-https://daffodil.sandhost.qzz.io/xtra.m3u8
+https://daffodil.sandhost.qzz.io/xtraes.m3u8
 #EXTINF:-1 group-title="football",Middlesbrough vs Lincoln City
 https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Man United vs Milan
@@ -15,6 +15,8 @@ https://daffodil.sandhost.qzz.io/tudn.m3u8
 https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="nba",New York Liberty vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
+#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Washington Mystics
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Lynx vs Las Vegas Aces
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nfl",Carolina Panthers vs Buffalo Bills
