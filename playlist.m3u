@@ -2,22 +2,12 @@
 #EXTINF:-1 group-title="football",Watford vs Southampton
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Arsenal vs Manchester City
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Real Madrid vs Schalke 04
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Sarmiento vs HuracÃ¡n
-https://daffodil.sandhost.qzz.io/xtra.m3u8
-#EXTINF:-1 group-title="football",Lens vs PSG
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",AtlÃ©tico Mineiro vs GrÃªmio
-https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",VitÃ³ria vs Botafogo
-https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Colo-Colo vs O'Higgins
-https://daffodil.sandhost.qzz.io/tudn.m3u8
+https://daffodil.sandhost.qzz.io/sn.m3u8
 #EXTINF:-1 group-title="nba",Chicago Sky vs Seattle Storm
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Indiana Fever vs Atlanta Dream
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
+#EXTINF:-1 group-title="nba",Portland Fire vs Phoenix Mercury
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nfl",Carolina Panthers vs Buffalo Bills
 https://daffodil.sandhost.qzz.io/nflalt.m3u8
