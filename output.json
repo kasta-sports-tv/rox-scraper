@@ -1,24 +1,34 @@
 {
   "soccer": [
     {
-      "title": "Chelsea vs Real Sociedad",
+      "title": "Arsenal vs Manchester City",
+      "page": "https://roxiestreams.info/soccer-streams-1",
+      "streams": []
+    },
+    {
+      "title": "Chapecoense vs Bahia",
+      "page": "https://roxiestreams.info/soccer-streams-2",
+      "streams": []
+    },
+    {
+      "title": "Racing Santander vs Villarreal",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": []
     },
     {
-      "title": "Leeds Utd vs Augsburg",
+      "title": "Espanyol vs Levante",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     },
     {
-      "title": "Bayern MÃ¼nchen vs Leipzig",
+      "title": "Pumas UNAM vs QuerÃ©taro",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/win.m3u8"
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     },
     {
-      "title": "Aston Villa vs Borussia",
+      "title": "Sarmiento vs HuracÃ¡n",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
         "https://daffodil.sandhost.qzz.io/xtra.m3u8",
@@ -26,139 +36,68 @@
       ]
     },
     {
-      "title": "Brentford vs Frankfurt",
-      "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Brighton vs Bologna",
-      "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
-    },
-    {
-      "title": "Everton vs Lille",
-      "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
-    },
-    {
-      "title": "Newcastle vs Bayer Leverkusen",
-      "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
-    },
-    {
-      "title": "Tottenham vs Hoffenheim",
-      "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
-    },
-    {
-      "title": "Middlesbrough vs Lincoln City",
+      "title": "AtlÃ©tico Mineiro vs GrÃªmio",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
-      "title": "Man United vs Milan",
+      "title": "Vasco da Gama vs Santos",
+      "page": "https://roxiestreams.info/soccer-streams-8",
+      "streams": []
+    },
+    {
+      "title": "Celta de Vigo vs Osasuna",
+      "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": []
+    },
+    {
+      "title": "River Plate vs Argentinos Juniors",
+      "page": "https://roxiestreams.info/soccer-streams-10",
+      "streams": []
+    },
+    {
+      "title": "Mirassol vs Flamengo",
+      "page": "https://roxiestreams.info/soccer-streams-11",
+      "streams": []
+    },
+    {
+      "title": "VitÃ³ria vs Botafogo",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
-      "title": "Fulham vs Stuttgart",
+      "title": "Corinthians vs Cruzeiro",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": []
     },
     {
-      "title": "Dortmund vs Roma",
+      "title": "AmÃ©rica vs AtlÃ©tico de San Luis",
       "page": "https://roxiestreams.info/soccer-streams-14",
       "streams": []
     },
     {
-      "title": "Sheffield United vs Birmingham City",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
-    },
-    {
-      "title": "Real Oviedo vs Granada CF",
-      "page": "https://roxiestreams.info/soccer-streams-25",
-      "streams": []
-    },
-    {
-      "title": "Inter Milan vs Real Betis",
+      "title": "Central CÃ³rdoba SdE vs Instituto",
       "page": "https://roxiestreams.info/soccer-streams-15",
       "streams": []
     },
     {
-      "title": "Deportivo AlavÃ©s vs Getafe",
+      "title": "Barracas Central vs Rosario Central",
       "page": "https://roxiestreams.info/soccer-streams-16",
       "streams": []
     },
     {
-      "title": "Al Nassr vs Al Fateh",
+      "title": "Santos Laguna vs Guadalajara",
       "page": "https://roxiestreams.info/soccer-streams-17",
       "streams": []
     },
     {
-      "title": "Fluminense vs Palmeiras",
+      "title": "Tijuana vs Cruz Azul",
       "page": "https://roxiestreams.info/soccer-streams-18",
       "streams": []
-    },
-    {
-      "title": "Rio Ave vs Porto",
-      "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8"
-      ]
-    },
-    {
-      "title": "Sevilla vs Rao Vallecano",
-      "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": []
-    },
-    {
-      "title": "Athletico-PR vs Bragantino",
-      "page": "https://roxiestreams.info/soccer-streams-19",
-      "streams": []
-    },
-    {
-      "title": "Atlante vs Toluca",
-      "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
-    },
-    {
-      "title": "CF Montreal vs DC United",
-      "page": "https://roxiestreams.info/soccer-streams-21",
-      "streams": []
-    },
-    {
-      "title": "SÃ£o Paulo vs Coritiba",
-      "page": "https://roxiestreams.info/soccer-streams-22",
-      "streams": []
-    },
-    {
-      "title": "Boca Juniors vs Platense",
-      "page": "https://roxiestreams.info/soccer-streams-23",
-      "streams": []
-    },
-    {
-      "title": "Nashville SC vs Inter Miami",
-      "page": "https://roxiestreams.info/soccer-streams-24",
-      "streams": []
-    },
-    {
-      "title": "Monterrey vs Juarez",
-      "page": "https://roxiestreams.info/soccer-streams-26",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
-      ]
-    },
-    {
-      "title": "Atlas vs Tigres",
-      "page": "https://roxiestreams.info/soccer-streams-27",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
-      ]
     }
   ],
   "mlb": [

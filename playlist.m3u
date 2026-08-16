@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Leipzig
-https://daffodil.sandhost.qzz.io/win.m3u8
-#EXTINF:-1 group-title="football",Aston Villa vs Borussia
+#EXTINF:-1 group-title="football",Pumas UNAM vs QuerÃ©taro
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Sarmiento vs HuracÃ¡n
 https://daffodil.sandhost.qzz.io/xtra.m3u8
-#EXTINF:-1 group-title="football",Middlesbrough vs Lincoln City
+#EXTINF:-1 group-title="football",AtlÃ©tico Mineiro vs GrÃªmio
 https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Man United vs Milan
+#EXTINF:-1 group-title="football",VitÃ³ria vs Botafogo
 https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Rio Ave vs Porto
-https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Monterrey vs Juarez
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Atlas vs Tigres
-https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="nba",New York Liberty vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Sparks vs Washington Mystics
