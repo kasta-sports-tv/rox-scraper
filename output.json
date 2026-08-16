@@ -21,8 +21,8 @@
       "title": "Aston Villa vs Borussia",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8",
-        "https://daffodil.sandhost.qzz.io/xtraes.m3u8"
+        "https://daffodil.sandhost.qzz.io/xtraes.m3u8",
+        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
       ]
     },
     {
@@ -256,9 +256,7 @@
     {
       "title": "Minnesota Lynx vs Las Vegas Aces",
       "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nfl": [
