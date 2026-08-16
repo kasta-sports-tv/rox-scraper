@@ -3,9 +3,7 @@
     {
       "title": "Watford vs Southampton",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Nottingham vs Brest",
@@ -54,9 +52,7 @@
     {
       "title": "Real Madrid vs Schalke 04",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Espanyol vs Levante",
@@ -66,9 +62,7 @@
     {
       "title": "Liverpool vs Como",
       "page": "https://roxiestreams.info/soccer-streams-25",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Pumas UNAM vs QuerÃ©taro",
@@ -81,8 +75,8 @@
       "title": "Sarmiento vs HuracÃ¡n",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8",
-        "https://daffodil.sandhost.qzz.io/xtraes.m3u8"
+        "https://daffodil.sandhost.qzz.io/xtraes.m3u8",
+        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
       ]
     },
     {
