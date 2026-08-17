@@ -50,101 +50,67 @@
   ],
   "mlb": [
     {
-      "title": "Baltimore Orioles vs Tampa Bay Rays",
+      "title": "St. Louis Cardinals vs Cincinnati Reds",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": []
     },
     {
-      "title": "Boston Red Sox vs Pittsburgh Pirates",
+      "title": "St. Louis Cardinals vs Cincinnati Reds",
       "page": "https://roxiestreams.info/mlb-streams-2",
       "streams": []
     },
     {
-      "title": "Arizona Diamondbacks vs Atlanta Braves",
+      "title": "Baltimore Orioles vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": []
     },
     {
-      "title": "New York Yankees vs Toronto Blue Jays",
+      "title": "Miami Marlins vs Philadelphia Phillies",
       "page": "https://roxiestreams.info/mlb-streams-4",
       "streams": []
     },
     {
-      "title": "Washington Nationals vs New York Mets",
+      "title": "Detroit Tigers vs Pittsburgh Pirates",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": []
     },
     {
-      "title": "San Diego Padres vs Cleveland Guardians",
+      "title": "Arizona Diamondbacks vs Boston Red Sox",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": []
     },
     {
-      "title": "Chicago White Sox vs Detroit Tigers",
+      "title": "San Diego Padres vs New York Mets",
       "page": "https://roxiestreams.info/mlb-streams-7",
       "streams": []
     },
     {
-      "title": "Miami Marlins vs Cincinnati Reds",
+      "title": "Athletics vs Kansas City Royals",
       "page": "https://roxiestreams.info/mlb-streams-8",
       "streams": []
     },
     {
-      "title": "Philadelphia Phillies vs Minnesota Twins",
+      "title": "Atlanta Braves vs Minnesota Twins",
       "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": []
     },
     {
-      "title": "St. Louis Cardinals vs Chicago Cubs",
+      "title": "Chicago White Sox vs Chicago Cubs",
       "page": "https://roxiestreams.info/mlb-streams-10",
       "streams": []
     },
     {
-      "title": "Colorado Rockies vs San Francisco Giants",
+      "title": "Los Angeles Dodgers vs Colorado Rockies",
       "page": "https://roxiestreams.info/mlb-streams-11",
-      "streams": []
-    },
-    {
-      "title": "Texas Rangers vs Athletics",
-      "page": "https://roxiestreams.info/mlb-streams-12",
-      "streams": []
-    },
-    {
-      "title": "Kansas City Royals vs Los Angeles Angels",
-      "page": "https://roxiestreams.info/mlb-streams-13",
-      "streams": []
-    },
-    {
-      "title": "Milwaukee Brewers vs Los Angeles Dodgers",
-      "page": "https://roxiestreams.info/mlb-streams-14",
-      "streams": []
-    },
-    {
-      "title": "Seattle Mariners vs Houston Astros",
-      "page": "https://roxiestreams.info/mlb-streams-15",
       "streams": []
     }
   ],
   "nba": [
     {
-      "title": "Chicago Sky vs Seattle Storm",
+      "title": "Dallas Wings vs Golden State Valkyries",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/wnba.m3u8"
-      ]
-    },
-    {
-      "title": "Indiana Fever vs Atlanta Dream",
-      "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
-      ]
-    },
-    {
-      "title": "Portland Fire vs Phoenix Mercury",
-      "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
       ]
     }
   ],
@@ -204,14 +170,11 @@
   ],
   "fighting": [
     {
-      "title": "Redneck Brawl 14",
-      "page": "https://roxiestreams.info/ppv-streams-2",
-      "streams": []
-    },
-    {
-      "title": "SHIELDS VS SCOTT",
-      "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "title": "WWE RAW",
+      "page": "https://roxiestreams.info/wwe-streams",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
     },
     {
       "title": "DWCS (Fazil vs Brito)",

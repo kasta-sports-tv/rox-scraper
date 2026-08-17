@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Gimnasia Mendoza vs Talleres CÃ³rdoba
 https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="nba",Chicago Sky vs Seattle Storm
+#EXTINF:-1 group-title="nba",Dallas Wings vs Golden State Valkyries
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Indiana Fever vs Atlanta Dream
-https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Portland Fire vs Phoenix Mercury
-https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nfl",Carolina Panthers vs Buffalo Bills
 https://daffodil.sandhost.qzz.io/nflalt.m3u8
 #EXTINF:-1 group-title="nfl",Cleveland Browns vs Chicago Bears
@@ -17,3 +13,5 @@ https://daffodil.sandhost.qzz.io/nfl2.m3u8
 https://daffodil.sandhost.qzz.io/nflalt.m3u8
 #EXTINF:-1 group-title="nfl",Dallas Cowboys vs Seattle Seahawks
 https://daffodil.sandhost.qzz.io/nfl2.m3u8
+#EXTINF:-1 group-title="fighting",WWE RAW
+https://daffodil.sandhost.qzz.io/wwe.m3u8
