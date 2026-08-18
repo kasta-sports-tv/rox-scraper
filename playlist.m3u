@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Juventus vs Juventus II
+https://daffodil.sandhost.qzz.io/juve.m3u8
+#EXTINF:-1 group-title="football",FenerbahÃ§e vs Lyon
+https://daffodil.sandhost.qzz.io/prem.m3u8
 #EXTINF:-1 group-title="football",Fluminense vs Rivadavia
 https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Sparks vs Connecticut Sun

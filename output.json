@@ -8,7 +8,9 @@
     {
       "title": "Juventus vs Juventus II",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/juve.m3u8"
+      ]
     },
     {
       "title": "Levski Sofia vs AEK Athens",
@@ -18,7 +20,9 @@
     {
       "title": "FenerbahÃ§e vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Dinamo Zagreb vs Viking",
