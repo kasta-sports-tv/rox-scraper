@@ -5,6 +5,8 @@ https://daffodil.sandhost.qzz.io/barca.m3u8
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Celtic vs LASK Linz
 https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Coquimbo Unido vs Platense
+https://daffodil.sandhost.qzz.io/xtra.m3u8
 #EXTINF:-1 group-title="football",Columbus Crew vs CF MontrÃ©al
 https://daffodil.sandhost.qzz.io/flu.m3u8
 #EXTINF:-1 group-title="football",Philadelphia Union vs Inter Miami
