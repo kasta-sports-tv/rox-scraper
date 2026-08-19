@@ -17,9 +17,7 @@
     {
       "title": "Celtic vs LASK Linz",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Hapoel Be'er Sheva vs Sabah",
@@ -46,22 +44,22 @@
     {
       "title": "Cerro PorteÃ±o vs Palmeiras",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+      ]
     },
     {
       "title": "Columbus Crew vs CF MontrÃ©al",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/flu.m3u8",
+        "https://daffodil.sandhost.qzz.io/mls.m3u8",
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
       "title": "Philadelphia Union vs Inter Miami",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/xtraes.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Sportking KC vs St. Louis City",
@@ -71,7 +69,9 @@
     {
       "title": "River Plate vs Santa Fe",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+      ]
     },
     {
       "title": "Flamengo vs Cruzeiro",
@@ -87,7 +87,7 @@
       "title": "Vancouver Whitecaps vs Houston Dynamo",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/flu.m3u8",
+        "https://daffodil.sandhost.qzz.io/mls.m3u8",
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     }
