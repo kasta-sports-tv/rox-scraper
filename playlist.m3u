@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Barcelona vs Al Ahly
 https://daffodil.sandhost.qzz.io/barca.m3u8
-#EXTINF:-1 group-title="football",Hapoel Be'er Sheva vs Sabah
-https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",BodÃ¸ / Glimt vs NEC
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Slovan Bratislava vs Celje
-https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",AtlÃ©tico Madrid vs Malaga
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Celtic vs LASK Linz
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Columbus Crew vs CF MontrÃ©al
 https://daffodil.sandhost.qzz.io/flu.m3u8
 #EXTINF:-1 group-title="football",Philadelphia Union vs Inter Miami
