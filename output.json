@@ -3,7 +3,9 @@
     {
       "title": "Barcelona vs Al Ahly",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/barca.m3u8"
+      ]
     },
     {
       "title": "AtlÃ©tico Madrid vs Malaga",
@@ -19,36 +21,36 @@
       "title": "Hapoel Be'er Sheva vs Sabah",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
     },
     {
       "title": "BodÃ¸ / Glimt vs NEC",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
       "title": "Slovan Bratislava vs Celje",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
       "title": "Columbus Crew vs CF MontrÃ©al",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8",
-        "https://daffodil.formaturamaxi.com.br/flu.m3u8"
+        "https://daffodil.sandhost.qzz.io/flu.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
       "title": "Philadelphia Union vs Inter Miami",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/xtraes.m3u8"
+        "https://daffodil.sandhost.qzz.io/xtraes.m3u8"
       ]
     },
     {
@@ -65,8 +67,8 @@
       "title": "Vancouver Whitecaps vs Houston Dynamo",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8",
-        "https://daffodil.formaturamaxi.com.br/flu.m3u8"
+        "https://daffodil.sandhost.qzz.io/flu.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     }
   ],
@@ -152,14 +154,14 @@
       "title": "Toronto Tempo vs Washington Mystics",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
       ]
     },
     {
       "title": "Minnesota Lynx vs Golden State Valkyries",
       "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
       ]
     }
   ],
@@ -168,14 +170,14 @@
       "title": "Carolina Panthers vs Buffalo Bills",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
+        "https://daffodil.sandhost.qzz.io/nflalt.m3u8"
       ]
     },
     {
       "title": "Cleveland Browns vs Chicago Bears",
       "page": "https://roxiestreams.info/nfl-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
       ]
     },
     {
@@ -187,7 +189,7 @@
       "title": "Los Angeles Rams vs Kansas City Chiefs",
       "page": "https://roxiestreams.info/nfl-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
       ]
     },
     {
@@ -199,14 +201,14 @@
       "title": "Philadelphia Eagles vs Baltimore Ravens",
       "page": "https://roxiestreams.info/nfl-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
+        "https://daffodil.sandhost.qzz.io/nflalt.m3u8"
       ]
     },
     {
       "title": "Dallas Cowboys vs Seattle Seahawks",
       "page": "https://roxiestreams.info/nfl-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
       ]
     }
   ],

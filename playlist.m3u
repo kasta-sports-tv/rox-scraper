@@ -1,27 +1,29 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Barcelona vs Al Ahly
+https://daffodil.sandhost.qzz.io/barca.m3u8
 #EXTINF:-1 group-title="football",Hapoel Be'er Sheva vs Sabah
-https://daffodil.formaturamaxi.com.br/prem.m3u8
+https://daffodil.sandhost.qzz.io/prem.m3u8
 #EXTINF:-1 group-title="football",BodÃ¸ / Glimt vs NEC
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Slovan Bratislava vs Celje
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Columbus Crew vs CF MontrÃ©al
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.sandhost.qzz.io/flu.m3u8
 #EXTINF:-1 group-title="football",Philadelphia Union vs Inter Miami
-https://daffodil.formaturamaxi.com.br/xtraes.m3u8
+https://daffodil.sandhost.qzz.io/xtraes.m3u8
 #EXTINF:-1 group-title="football",Vancouver Whitecaps vs Houston Dynamo
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.sandhost.qzz.io/flu.m3u8
 #EXTINF:-1 group-title="nba",Toronto Tempo vs Washington Mystics
-https://daffodil.formaturamaxi.com.br/wnba.m3u8
+https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Lynx vs Golden State Valkyries
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nfl",Carolina Panthers vs Buffalo Bills
-https://daffodil.formaturamaxi.com.br/nflalt.m3u8
+https://daffodil.sandhost.qzz.io/nflalt.m3u8
 #EXTINF:-1 group-title="nfl",Cleveland Browns vs Chicago Bears
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",Los Angeles Rams vs Kansas City Chiefs
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",Philadelphia Eagles vs Baltimore Ravens
-https://daffodil.formaturamaxi.com.br/nflalt.m3u8
+https://daffodil.sandhost.qzz.io/nflalt.m3u8
 #EXTINF:-1 group-title="nfl",Dallas Cowboys vs Seattle Seahawks
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
