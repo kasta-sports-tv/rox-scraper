@@ -61,9 +61,7 @@
     {
       "title": "Alianza AtlÃ©tico vs Sporting Cristal",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/xtra.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Estudiantes RÃ­o Cuarto vs San Lorenzo",
@@ -191,7 +189,7 @@
       "title": "Portland Fire vs Toronto Tempo",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
       ]
     }
   ],

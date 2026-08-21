@@ -11,8 +11,6 @@ https://daffodil.formaturamaxi.com.br/bein4.m3u8
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="football",Real Betis vs Real Sociedad
 https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Alianza AtlÃ©tico vs Sporting Cristal
-https://daffodil.formaturamaxi.com.br/xtra.m3u8
 #EXTINF:-1 group-title="football",Estudiantes RÃ­o Cuarto vs San Lorenzo
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",LeÃ³n vs Monterrey
@@ -22,7 +20,7 @@ https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Chicago Sky
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Portland Fire vs Toronto Tempo
-https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nfl",New York Jets vs Pittsburgh Steelers
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Carolina Panthers vs Jacksonville Jaguars
