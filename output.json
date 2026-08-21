@@ -1,59 +1,93 @@
 {
   "soccer": [
     {
-      "title": "Benfica vs AGF",
+      "title": "Al Riyadh vs Al Nassr",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/benfica.m3u8"
       ]
     },
     {
-      "title": "Al-Fayha vs Al Hilal",
+      "title": "FC Cajamarca vs AtlÃ©tico Grau",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
     },
     {
-      "title": "Motherwell vs Freiburg",
+      "title": "Aldosivi vs UniÃ³n Santa Fe",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": []
     },
     {
-      "title": "Rayo Vallecano vs Deportivo Alaves",
+      "title": "Al Quadisiya vs Al Ittihad",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     },
     {
-      "title": "Sheffield Wednesday vs Bradford",
+      "title": "Standard LiÃ¨ge vs RAAL La LouviÃ¨re",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": []
     },
     {
-      "title": "MacarÃ¡ vs Santos",
+      "title": "Olympique Marseille vs Strasbourg",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     },
     {
-      "title": "Olimpia vs Vasco Gama",
+      "title": "BB Erzurumspor vs Galatasaray",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/xtraes.m3u8"
       ]
     },
     {
-      "title": "Botafogo vs Cienciano",
-      "page": "https://roxiestreams.info/soccer-streams-6",
+      "title": "Arsenal vs Coventry City",
+      "page": "https://roxiestreams.info/soccer-streams-8",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
+      ]
+    },
+    {
+      "title": "Real Betis vs Real Sociedad",
+      "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": []
+    },
+    {
+      "title": "Alianza AtlÃ©tico vs Sporting Cristal",
+      "page": "https://roxiestreams.info/soccer-streams-10",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/xtra.m3u8"
+      ]
+    },
+    {
+      "title": "Estudiantes RÃ­o Cuarto vs San Lorenzo",
+      "page": "https://roxiestreams.info/soccer-streams-11",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     },
     {
-      "title": "Corinthians vs Rosario Central",
-      "page": "https://roxiestreams.info/soccer-streams-8",
+      "title": "LeÃ³n vs Monterrey",
+      "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
       ]
+    },
+    {
+      "title": "Tigres UANL vs Atlante",
+      "page": "https://roxiestreams.info/soccer-streams-13",
+      "streams": []
+    },
+    {
+      "title": "QuerÃ©taro vs Toluca",
+      "page": "https://roxiestreams.info/soccer-streams-14",
+      "streams": []
+    },
+    {
+      "title": "JuÃ¡rez vs AmÃ©rica",
+      "page": "https://roxiestreams.info/soccer-streams-15",
+      "streams": []
     }
   ],
   "mlb": [

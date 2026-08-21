@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Benfica vs AGF
+#EXTINF:-1 group-title="football",Al Riyadh vs Al Nassr
 https://daffodil.formaturamaxi.com.br/benfica.m3u8
-#EXTINF:-1 group-title="football",MacarÃ¡ vs Santos
+#EXTINF:-1 group-title="football",Olympique Marseille vs Strasbourg
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Olimpia vs Vasco Gama
+#EXTINF:-1 group-title="football",BB Erzurumspor vs Galatasaray
 https://daffodil.formaturamaxi.com.br/xtraes.m3u8
-#EXTINF:-1 group-title="football",Botafogo vs Cienciano
+#EXTINF:-1 group-title="football",Arsenal vs Coventry City
+https://daffodil.formaturamaxi.com.br/bein4.m3u8
+#EXTINF:-1 group-title="football",Alianza AtlÃ©tico vs Sporting Cristal
+https://daffodil.formaturamaxi.com.br/xtra.m3u8
+#EXTINF:-1 group-title="football",Estudiantes RÃ­o Cuarto vs San Lorenzo
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Corinthians vs Rosario Central
+#EXTINF:-1 group-title="football",LeÃ³n vs Monterrey
 https://daffodil.formaturamaxi.com.br/bein4.m3u8
 #EXTINF:-1 group-title="nba",Indiana Fever vs Dallas Wings
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
