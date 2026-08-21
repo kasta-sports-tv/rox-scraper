@@ -35,6 +35,7 @@
       "title": "Olympique Marseille vs Strasbourg",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8",
         "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     },
@@ -42,20 +43,22 @@
       "title": "BB Erzurumspor vs Galatasaray",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/xtraes.m3u8"
+        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
       ]
     },
     {
       "title": "Arsenal vs Coventry City",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     },
     {
       "title": "Real Betis vs Real Sociedad",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+      ]
     },
     {
       "title": "Alianza AtlÃ©tico vs Sporting Cristal",
