@@ -4,15 +4,13 @@ https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="football",Al Quadisiya vs Al Ittihad
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="football",Olympique Marseille vs Strasbourg
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",BB Erzurumspor vs Galatasaray
 https://daffodil.formaturamaxi.com.br/bein4.m3u8
 #EXTINF:-1 group-title="football",Arsenal vs Coventry City
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="football",Real Betis vs Real Sociedad
 https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Estudiantes RÃ­o Cuarto vs San Lorenzo
-https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Lynx vs Washington Mystics
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Chicago Sky
@@ -23,5 +21,7 @@ https://daffodil.formaturamaxi.com.br/wnba.m3u8
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Carolina Panthers vs Jacksonville Jaguars
 https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",Green Bay Packers vs Denver Broncos
+https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
