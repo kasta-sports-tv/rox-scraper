@@ -13,13 +13,15 @@ https://daffodil.formaturamaxi.com.br/xtra.m3u8
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",LeÃ³n vs Monterrey
 https://daffodil.formaturamaxi.com.br/bein4.m3u8
-#EXTINF:-1 group-title="nba",Indiana Fever vs Dallas Wings
+#EXTINF:-1 group-title="nba",Minnesota Lynx vs Washington Mystics
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Connecticut Sun vs Las Vegas Aces
+#EXTINF:-1 group-title="nba",Golden State Valkyries vs Chicago Sky
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Dream vs Los Angeles Sparks
+#EXTINF:-1 group-title="nba",Portland Fire vs Toronto Tempo
 https://daffodil.formaturamaxi.com.br/wnba3.m3u8
-#EXTINF:-1 group-title="nfl",Las Vegas Raiders vs Houston Texans
+#EXTINF:-1 group-title="nfl",New York Jets vs Pittsburgh Steelers
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",San Francisco 49ers vs Los Angeles Chargers
+#EXTINF:-1 group-title="nfl",Carolina Panthers vs Jacksonville Jaguars
 https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+#EXTINF:-1 group-title="fighting",WWE Smackdown
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
