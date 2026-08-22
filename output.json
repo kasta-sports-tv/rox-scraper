@@ -354,7 +354,9 @@
     {
       "title": "Philadelphia Eagles vs New England Patriots",
       "page": "https://roxiestreams.info/nfl-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
+      ]
     },
     {
       "title": "Kansas City Chiefs vs Tampa Bay Buccaneers",
