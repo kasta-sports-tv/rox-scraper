@@ -1,26 +1,6 @@
 {
   "soccer": [
     {
-      "title": "LeÃ³n vs Monterrey",
-      "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
-    },
-    {
-      "title": "Tigres UANL vs Atlante",
-      "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
-    },
-    {
-      "title": "QuerÃ©taro vs Toluca",
-      "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": []
-    },
-    {
-      "title": "JuÃ¡rez vs AmÃ©rica",
-      "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": []
-    },
-    {
       "title": "Hull City vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
@@ -125,11 +105,6 @@
       "streams": []
     },
     {
-      "title": "Olympiakos Piraeus vs Atromitos",
-      "page": "https://roxiestreams.info/soccer-streams-24",
-      "streams": []
-    },
-    {
       "title": "Genoa vs Napoli",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
@@ -208,98 +183,98 @@
   ],
   "mlb": [
     {
-      "title": "Atlanta Braves vs Milwaukee Brewers",
+      "title": "Toronto Blue Jays vs New York Yankees",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": []
     },
     {
-      "title": "St. Louis Cardinals vs Philadelphia Phillies",
+      "title": "Atlanta Braves vs Milwaukee Brewers",
       "page": "https://roxiestreams.info/mlb-streams-2",
       "streams": []
     },
     {
-      "title": "Toronto Blue Jays vs New York Yankees",
+      "title": "Washington Nationals vs Miami Marlins",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": []
     },
     {
-      "title": "San Francisco Giants vs Boston Red Sox",
+      "title": "St. Louis Cardinals vs Philadelphia Phillies",
       "page": "https://roxiestreams.info/mlb-streams-4",
       "streams": []
     },
     {
-      "title": "Washington Nationals vs Miami Marlins",
+      "title": "Tampa Bay Rays vs Baltimore Orioles",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": []
     },
     {
-      "title": "Tampa Bay Rays vs Baltimore Orioles",
+      "title": "Los Angeles Angels vs Texas Rangers",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": []
     },
     {
-      "title": "New York Mets vs Chicago White Sox",
+      "title": "Athletics vs Houston Astros",
       "page": "https://roxiestreams.info/mlb-streams-7",
       "streams": []
     },
     {
-      "title": "Detroit Tigers vs Kansas City Royals",
+      "title": "New York Mets vs Chicago White Sox",
       "page": "https://roxiestreams.info/mlb-streams-8",
       "streams": []
     },
     {
-      "title": "Athletics vs Houston Astros",
+      "title": "Detroit Tigers vs Kansas City Royals",
       "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": []
     },
     {
-      "title": "Los Angeles Angels vs Texas Rangers",
+      "title": "Pittsburgh Pirates vs Los Angeles Dodgers",
       "page": "https://roxiestreams.info/mlb-streams-10",
       "streams": []
     },
     {
-      "title": "Cleveland Guardians vs Colorado Rockies",
+      "title": "Chicago Cubs vs Seattle Mariners",
       "page": "https://roxiestreams.info/mlb-streams-11",
       "streams": []
     },
     {
-      "title": "Cincinnati Reds vs Arizona Diamondbacks",
+      "title": "San Francisco Giants vs Boston Red Sox",
       "page": "https://roxiestreams.info/mlb-streams-12",
       "streams": []
     },
     {
-      "title": "Minnesota Twins vs San Diego Padres",
+      "title": "Cincinnati Reds vs Arizona Diamondbacks",
       "page": "https://roxiestreams.info/mlb-streams-13",
       "streams": []
     },
     {
-      "title": "Pittsburgh Pirates vs Los Angeles Dodgers",
+      "title": "Cleveland Guardians vs Colorado Rockies",
       "page": "https://roxiestreams.info/mlb-streams-14",
       "streams": []
     },
     {
-      "title": "Chicago Cubs vs Seattle Mariners",
+      "title": "Minnesota Twins vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-15",
       "streams": []
     }
   ],
   "nba": [
     {
-      "title": "Minnesota Lynx vs Washington Mystics",
+      "title": "Indiana Fever vs New York Liberty",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
       ]
     },
     {
-      "title": "Golden State Valkyries vs Chicago Sky",
+      "title": "Connecticut Sun vs Los Angeles Sparks",
       "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
       ]
     },
     {
-      "title": "Portland Fire vs Toronto Tempo",
+      "title": "Atlanta Dream vs Phoenix Mercury",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
@@ -308,26 +283,67 @@
   ],
   "nfl": [
     {
-      "title": "New York Jets vs Pittsburgh Steelers",
+      "title": "Washington Commanders vs Detroit Lions",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     },
     {
-      "title": "Carolina Panthers vs Jacksonville Jaguars",
+      "title": "Buffalo Bills vs Cleveland Browns",
       "page": "https://roxiestreams.info/nfl-streams-2",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
       ]
     },
     {
-      "title": "Green Bay Packers vs Denver Broncos",
+      "title": "Atlanta Falcons vs Indianapolis Colts",
       "page": "https://roxiestreams.info/nfl-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
-        "https://daffodil.formaturamaxi.com.br/nfl3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl3.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
+    },
+    {
+      "title": "Baltimore Ravens vs Minnesota Vikings",
+      "page": "https://roxiestreams.info/nfl-streams-4",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
+      ]
+    },
+    {
+      "title": "New Orleans Saints vs Los Angeles Rams",
+      "page": "https://roxiestreams.info/nfl-streams-5",
+      "streams": []
+    },
+    {
+      "title": "New York Giants vs Miami Dolphins",
+      "page": "https://roxiestreams.info/nfl-streams-6",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
+      ]
+    },
+    {
+      "title": "Chicago Bears vs Cincinnati Bengals",
+      "page": "https://roxiestreams.info/nfl-streams-7",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
+      ]
+    },
+    {
+      "title": "Philadelphia Eagles vs New England Patriots",
+      "page": "https://roxiestreams.info/nfl-streams-8",
+      "streams": []
+    },
+    {
+      "title": "Kansas City Chiefs vs Tampa Bay Buccaneers",
+      "page": "https://roxiestreams.info/nfl-streams-9",
+      "streams": []
+    },
+    {
+      "title": "Dallas Cowboys vs Arizona Cardinals",
+      "page": "https://roxiestreams.info/nfl-streams-10",
+      "streams": []
     }
   ],
   "nhl": [
@@ -339,11 +355,29 @@
   ],
   "fighting": [
     {
-      "title": "WWE Smackdown",
-      "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
-      ]
+      "title": "Liddard vs. Morello",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
+    },
+    {
+      "title": "PFL: Cyborg vs. Vieira",
+      "page": "https://roxiestreams.info/ppv-streams-2",
+      "streams": []
+    },
+    {
+      "title": "RAF 12: Dvalishvili vs. Cejudo 2",
+      "page": "https://roxiestreams.info/ppv-streams-3",
+      "streams": []
+    },
+    {
+      "title": "ROLLY VS TEOFIMO",
+      "page": "https://roxiestreams.info/ppv-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Dana White's Contender Series",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
     }
   ],
   "motorsports": []

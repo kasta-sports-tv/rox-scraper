@@ -19,17 +19,21 @@ https://daffodil.formaturamaxi.com.br/wwe.m3u8
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Puebla vs Santos
 https://daffodil.formaturamaxi.com.br/tv3.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Lynx vs Washington Mystics
+#EXTINF:-1 group-title="nba",Indiana Fever vs New York Liberty
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Golden State Valkyries vs Chicago Sky
+#EXTINF:-1 group-title="nba",Connecticut Sun vs Los Angeles Sparks
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Portland Fire vs Toronto Tempo
+#EXTINF:-1 group-title="nba",Atlanta Dream vs Phoenix Mercury
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nfl",New York Jets vs Pittsburgh Steelers
+#EXTINF:-1 group-title="nfl",Washington Commanders vs Detroit Lions
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",Carolina Panthers vs Jacksonville Jaguars
+#EXTINF:-1 group-title="nfl",Buffalo Bills vs Cleveland Browns
 https://daffodil.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Green Bay Packers vs Denver Broncos
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="nfl",Atlanta Falcons vs Indianapolis Colts
+https://daffodil.formaturamaxi.com.br/nfl3.m3u8
+#EXTINF:-1 group-title="nfl",Baltimore Ravens vs Minnesota Vikings
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",New York Giants vs Miami Dolphins
+https://daffodil.formaturamaxi.com.br/nflalt.m3u8
+#EXTINF:-1 group-title="nfl",Chicago Bears vs Cincinnati Bengals
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
