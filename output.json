@@ -73,8 +73,8 @@
       "title": "Lens vs Auxerre",
       "page": "https://roxiestreams.info/soccer-streams-11",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -135,8 +135,8 @@
       "title": "Toulouse vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-11",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -154,6 +154,18 @@
       ]
     },
     {
+      "title": "AtlÃ©tico TucumÃ¡n vs Instituto",
+      "page": "https://roxiestreams.info/soccer-streams-24",
+      "streams": []
+    },
+    {
+      "title": "Gimnasia La Plata vs Gimnasia Mendoza",
+      "page": "https://roxiestreams.info/soccer-streams-25",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
+    },
+    {
       "title": "Espanyol vs Real Madrid",
       "page": "https://roxiestreams.info/soccer-streams-10",
       "streams": [
@@ -164,6 +176,14 @@
       "title": "Internacional vs Atletico Mineiro",
       "page": "https://roxiestreams.info/soccer-streams-17",
       "streams": []
+    },
+    {
+      "title": "Independiente vs Independiente Rivadavia",
+      "page": "https://roxiestreams.info/soccer-streams-26",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
+      ]
     },
     {
       "title": "Chivas vs Tijuana",
@@ -185,6 +205,16 @@
     {
       "title": "MontrÃ©al vs LA Galaxy",
       "page": "https://roxiestreams.info/soccer-streams-21",
+      "streams": []
+    },
+    {
+      "title": "HuracÃ¡n vs Deportivo Riestra",
+      "page": "https://roxiestreams.info/soccer-streams-27",
+      "streams": []
+    },
+    {
+      "title": "Newell's Old Boys vs Banfield",
+      "page": "https://roxiestreams.info/soccer-streams-28",
       "streams": []
     },
     {
