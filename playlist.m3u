@@ -1,16 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Al Riyadh vs Al Nassr
+#EXTINF:-1 group-title="football",Hull City vs Man United
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Al Quadisiya vs Al Ittihad
+#EXTINF:-1 group-title="football",Millwall vs Norwich
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Olympique Marseille vs Strasbourg
+#EXTINF:-1 group-title="football",Ipswich vs Sunderland
 https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",BB Erzurumspor vs Galatasaray
+#EXTINF:-1 group-title="football",Leeds vs Nottingham
 https://daffodil.formaturamaxi.com.br/bein4.m3u8
-#EXTINF:-1 group-title="football",Arsenal vs Coventry City
+#EXTINF:-1 group-title="football",Wolves vs Preston North End
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 group-title="football",Real Betis vs Real Sociedad
+#EXTINF:-1 group-title="football",West Ham vs Charlton
 https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Udinese vs Como
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="football",Parma vs Cagliari
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="football",Fluminense vs Remo
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Puebla vs Santos
+https://daffodil.formaturamaxi.com.br/tv3.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Lynx vs Washington Mystics
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Chicago Sky
