@@ -149,9 +149,7 @@
     {
       "title": "Fluminense vs Remo",
       "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "AtlÃ©tico TucumÃ¡n vs Instituto",
@@ -333,7 +331,7 @@
       "title": "Atlanta Dream vs Phoenix Mercury",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
       ]
     }
   ],
@@ -346,7 +344,9 @@
     {
       "title": "Buffalo Bills vs Cleveland Browns",
       "page": "https://roxiestreams.info/nfl-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
+      ]
     },
     {
       "title": "Atlanta Falcons vs Indianapolis Colts",
