@@ -3,16 +3,12 @@
     {
       "title": "Hull City vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Birmingham City vs Bristol",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Lincoln vs Portsmouth",
@@ -27,16 +23,12 @@
     {
       "title": "Blackburn Rovers vs Middlesbrough",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Everton vs Crystal Palace",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Ipswich vs Sunderland",
@@ -58,9 +50,7 @@
     {
       "title": "West Ham vs Charlton",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Athletic Club vs Sevilla",
@@ -73,8 +63,8 @@
       "title": "Lens vs Auxerre",
       "page": "https://roxiestreams.info/soccer-streams-11",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -85,9 +75,7 @@
     {
       "title": "Inter Milan vs Monza",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Udinese vs Como",
@@ -113,16 +101,12 @@
     {
       "title": "Dortmund vs Bayern MÃ¼nchen",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Genoa vs Napoli",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Parma vs Cagliari",
@@ -135,8 +119,8 @@
       "title": "Toulouse vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-11",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -159,9 +143,7 @@
     {
       "title": "Gimnasia La Plata vs Gimnasia Mendoza",
       "page": "https://roxiestreams.info/soccer-streams-25",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Espanyol vs Real Madrid",
@@ -179,8 +161,8 @@
       "title": "Independiente vs Independiente Rivadavia",
       "page": "https://roxiestreams.info/soccer-streams-26",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8",
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -197,7 +179,7 @@
       "title": "Inter Miami vs Toronto",
       "page": "https://roxiestreams.info/soccer-streams-20",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
       ]
     },
     {
@@ -218,9 +200,7 @@
     {
       "title": "Puebla vs Santos",
       "page": "https://roxiestreams.info/soccer-streams-22",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tv3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "SJ Earthquakes vs Minnesota Utd",
@@ -231,7 +211,7 @@
       "title": "Cruz Azul vs Atlas",
       "page": "https://roxiestreams.info/soccer-streams-23",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     }
   ],
