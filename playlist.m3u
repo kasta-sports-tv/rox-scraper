@@ -1,24 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Wolves vs Preston North End
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Athletic Club vs Sevilla
-https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Lens vs Auxerre
 https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Udinese vs Como
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Dundee United vs Dundee
 https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Valencia vs Celta Vigo
-https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Parma vs Cagliari
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Toulouse vs Lyon
 https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Troyes vs Paris
 https://daffodil.sandhost.qzz.io/xtra.m3u8
-#EXTINF:-1 group-title="football",Espanyol vs Real Madrid
-https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Independiente vs Independiente Rivadavia
 https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Toronto
