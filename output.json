@@ -32,7 +32,9 @@
     {
       "title": "Everton vs Crystal Palace",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Ipswich vs Sunderland",
@@ -156,7 +158,9 @@
     {
       "title": "Inter Miami vs Toronto",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "MontrÃ©al vs LA Galaxy",
@@ -178,7 +182,9 @@
     {
       "title": "Cruz Azul vs Atlas",
       "page": "https://roxiestreams.info/soccer-streams-23",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -300,8 +306,8 @@
       "title": "Atlanta Falcons vs Indianapolis Colts",
       "page": "https://roxiestreams.info/nfl-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl3.m3u8",
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl3.m3u8"
       ]
     },
     {
