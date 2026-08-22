@@ -7,20 +7,14 @@ https://daffodil.sandhost.qzz.io/golazo.m3u8
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Everton vs Crystal Palace
 https://daffodil.sandhost.qzz.io/wwe.m3u8
-#EXTINF:-1 group-title="football",Leeds vs Nottingham
-https://daffodil.sandhost.qzz.io/bein4.m3u8
-#EXTINF:-1 group-title="football",Wolves vs Preston North End
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",West Ham vs Charlton
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Athletic Club vs Sevilla
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Lens vs Auxerre
-https://daffodil.sandhost.qzz.io/bein.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Inter Milan vs Monza
 https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Udinese vs Como
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Dundee United vs Dundee
 https://daffodil.sandhost.qzz.io/prem.m3u8
 #EXTINF:-1 group-title="football",Valencia vs Celta Vigo
@@ -29,10 +23,8 @@ https://daffodil.sandhost.qzz.io/dep.m3u8
 https://daffodil.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="football",Genoa vs Napoli
 https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Parma vs Cagliari
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Toulouse vs Lyon
-https://daffodil.sandhost.qzz.io/bein.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Troyes vs Paris
 https://daffodil.sandhost.qzz.io/xtra.m3u8
 #EXTINF:-1 group-title="football",Fluminense vs Remo
