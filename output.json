@@ -17,9 +17,7 @@
     {
       "title": "Manchester City vs Bournemouth",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/main.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Angers SCO vs Lille",
@@ -48,7 +46,6 @@
       "title": "Newcastle vs Liverpool",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/main.m3u8",
         "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
     },
@@ -118,9 +115,7 @@
     {
       "title": "Chapecoense vs SÃ£o Paulo",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/prem.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Santos vs Mirassol",
@@ -130,9 +125,7 @@
     {
       "title": "River Plate vs VÃ©lez Sarsfield",
       "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/xtra.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Coritiba vs Corinthians",
