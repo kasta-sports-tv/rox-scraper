@@ -242,7 +242,7 @@
       "title": "Las Vegas Aces vs Toronto Tempo",
       "page": "https://roxiestreams.info/wnba-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba4.m3u8"
       ]
     }
   ],
@@ -250,7 +250,9 @@
     {
       "title": "Seattle Seahawks vs Tennessee Titans",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+      ]
     }
   ],
   "nhl": [
