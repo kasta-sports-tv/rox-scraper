@@ -1,35 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Wolves vs Preston North End
+#EXTINF:-1 group-title="football",Brighton vs Aston Villa
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Universidad Chile vs Colo-Colo
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Lens vs Auxerre
+#EXTINF:-1 group-title="football",RB Bragantino vs Gremio
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",VitÃ³ria vs Bahia
 https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Udinese vs Como
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Dundee United vs Dundee
+#EXTINF:-1 group-title="football",Chapecoense vs SÃ£o Paulo
 https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Parma vs Cagliari
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Toulouse vs Lyon
-https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Troyes vs Paris
+#EXTINF:-1 group-title="football",River Plate vs VÃ©lez Sarsfield
 https://daffodil.sandhost.qzz.io/xtra.m3u8
-#EXTINF:-1 group-title="football",Independiente vs Independiente Rivadavia
-https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Inter Miami vs Toronto
-https://daffodil.sandhost.qzz.io/mls.m3u8
-#EXTINF:-1 group-title="football",Cruz Azul vs Atlas
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="nba",Indiana Fever vs New York Liberty
+#EXTINF:-1 group-title="nba",Seattle Storm vs Dallas Wings
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Connecticut Sun vs Los Angeles Sparks
+#EXTINF:-1 group-title="nba",Indiana Fever vs Chicago Sky
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Dream vs Phoenix Mercury
+#EXTINF:-1 group-title="nba",Washington Mystics vs Portland Fire
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
-#EXTINF:-1 group-title="nfl",Buffalo Bills vs Cleveland Browns
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",New York Giants vs Miami Dolphins
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Philadelphia Eagles vs New England Patriots
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Dallas Cowboys vs Arizona Cardinals
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
+#EXTINF:-1 group-title="nba",Las Vegas Aces vs Toronto Tempo
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
