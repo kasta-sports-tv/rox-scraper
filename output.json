@@ -10,16 +10,12 @@
     {
       "title": "NEOM vs Al Quadisiya",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Osasuna vs Levante",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Al Ittihad vs Al Hazm",
@@ -48,9 +44,7 @@
     {
       "title": "MÃ¡laga vs Deportivo La CoruÃ±a",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Botafogo vs Athletico-PR",
@@ -144,7 +138,9 @@
     {
       "title": "WWE RAW",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
     },
     {
       "title": "Dana White's Contender Series",
@@ -156,7 +152,9 @@
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
     }
   ],
   "motorsports": []

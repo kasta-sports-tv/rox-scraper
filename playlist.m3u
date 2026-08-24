@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Bologna vs Lazio
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",NEOM vs Al Quadisiya
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Osasuna vs Levante
-https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Roma vs Fiorentina
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Fulham vs Chelsea
 https://daffodil.sandhost.qzz.io/fubo.m3u8
-#EXTINF:-1 group-title="football",MÃ¡laga vs Deportivo La CoruÃ±a
-https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Minnesota Lynx
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nfl",Seattle Seahawks vs Tennessee Titans
 https://daffodil.sandhost.qzz.io/nfl.m3u8
+#EXTINF:-1 group-title="fighting",WWE RAW
+https://daffodil.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="fighting",Dana White's Contender Series
 https://daffodil.sandhost.qzz.io/ppv.m3u8
+#EXTINF:-1 group-title="fighting",WWE NXT
+https://daffodil.sandhost.qzz.io/wwe.m3u8
