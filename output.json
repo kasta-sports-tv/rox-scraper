@@ -115,7 +115,9 @@
     {
       "title": "Atlanta Dream vs Los Angeles Sparks",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     }
   ],
   "nfl": [

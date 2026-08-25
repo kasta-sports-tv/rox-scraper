@@ -7,6 +7,8 @@ https://daffodil.sandhost.qzz.io/golazo.m3u8
 https://daffodil.sandhost.qzz.io/fubo.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Minnesota Lynx
 https://daffodil.sandhost.qzz.io/wnba.m3u8
+#EXTINF:-1 group-title="nba",Atlanta Dream vs Los Angeles Sparks
+https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nfl",Seattle Seahawks vs Tennessee Titans
 https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
