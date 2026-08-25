@@ -54,7 +54,9 @@
     {
       "title": "Birmingham City vs Brentford",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/plus.m3u8"
+      ]
     },
     {
       "title": "Nottingham vs Leeds",
@@ -64,7 +66,10 @@
     {
       "title": "BodÃ¸ / Glimt vs NEC",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tnt.m3u8",
+        "https://daffodil.sandhost.qzz.io/virgin.m3u8"
+      ]
     },
     {
       "title": "LASK Linz vs Celtic",
@@ -72,6 +77,11 @@
       "streams": [
         "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
+    },
+    {
+      "title": "Valencia vs Real Betis",
+      "page": "https://roxiestreams.info/soccer-streams-17",
+      "streams": []
     },
     {
       "title": "Cruzeiro vs Atletico Mineiro",
@@ -87,7 +97,7 @@
       "title": "Monterrey vs Chicago Fire",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
       ]
     },
     {
