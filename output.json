@@ -54,9 +54,7 @@
     {
       "title": "Birmingham City vs Brentford",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/plus.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Nottingham vs Leeds",
@@ -67,7 +65,6 @@
       "title": "BodÃ¸ / Glimt vs NEC",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/virgin.m3u8",
         "https://daffodil.sandhost.qzz.io/tnt.m3u8"
       ]
     },
