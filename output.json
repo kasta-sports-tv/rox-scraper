@@ -10,7 +10,9 @@
     {
       "title": "Sabah vs H. BEER-Sheva",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
+      ]
     },
     {
       "title": "Al Nassr vs Al Ittifaq",
@@ -22,9 +24,7 @@
     {
       "title": "Cardiff City vs Norwich City",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Stoke City vs Hull",
@@ -34,16 +34,7 @@
     {
       "title": "Sheffield Wednesday vs Wolves",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
-    },
-    {
-      "title": "Cambridge Utd vs Millwall",
-      "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Ipswich Town vs Leicester CIty",
@@ -78,7 +69,9 @@
     {
       "title": "LASK Linz vs Celtic",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Cruzeiro vs Atletico Mineiro",
@@ -92,8 +85,10 @@
     },
     {
       "title": "Monterrey vs Chicago Fire",
-      "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "page": "https://roxiestreams.info/soccer-streams-7",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
+      ]
     },
     {
       "title": "LeÃ³n vs Real Salt Lake",
