@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Bologna vs Lazio
+#EXTINF:-1 group-title="football",Abha vs Al Khaleej
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Roma vs Fiorentina
+#EXTINF:-1 group-title="football",Sheffield Wednesday vs Wolves
 https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Fulham vs Chelsea
+#EXTINF:-1 group-title="football",Cambridge Utd vs Millwall
 https://daffodil.sandhost.qzz.io/fubo.m3u8
-#EXTINF:-1 group-title="nba",Golden State Valkyries vs Minnesota Lynx
+#EXTINF:-1 group-title="nba",Chicago Sky vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Dream vs Los Angeles Sparks
+#EXTINF:-1 group-title="nba",Portland Fire vs Dallas Wings
 https://daffodil.sandhost.qzz.io/wnba.m3u8
+#EXTINF:-1 group-title="nba",Washington Mystics vs Phoenix Mercury
+https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nfl",Seattle Seahawks vs Tennessee Titans
 https://daffodil.sandhost.qzz.io/nfl.m3u8
-#EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="fighting",Dana White's Contender Series
 https://daffodil.sandhost.qzz.io/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE NXT
