@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Abha vs Al Khaleej
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Sabah vs H. BEER-Sheva
+#EXTINF:-1 group-title="football",Bradford City vs Burnley
+https://daffodil.sandhost.qzz.io/burnley.m3u8
+#EXTINF:-1 group-title="football",Tottenham vs Charlton
+https://daffodil.sandhost.qzz.io/tott.m3u8
+#EXTINF:-1 group-title="football",Real Madrid vs Real Sociedad
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",AEK Athens vs Levski Sofia
+https://daffodil.sandhost.qzz.io/tott.m3u8
+#EXTINF:-1 group-title="football",Santos vs Palmeiras
 https://daffodil.sandhost.qzz.io/tnt.m3u8
-#EXTINF:-1 group-title="football",Al Nassr vs Al Ittifaq
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",BodÃ¸ / Glimt vs NEC
-https://daffodil.sandhost.qzz.io/tnt.m3u8
-#EXTINF:-1 group-title="football",LASK Linz vs Celtic
+#EXTINF:-1 group-title="football",Vasco Gama vs Vitoria
 https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Cruzeiro vs Atletico Mineiro
-https://daffodil.sandhost.qzz.io/sportv.m3u8
-#EXTINF:-1 group-title="football",Monterrey vs Chicago Fire
+#EXTINF:-1 group-title="football",Toluca vs Austin
 https://daffodil.sandhost.qzz.io/mls.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
