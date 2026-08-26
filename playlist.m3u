@@ -13,17 +13,15 @@ https://daffodil.sandhost.qzz.io/prem.m3u8
 https://daffodil.sandhost.qzz.io/sportv.m3u8
 #EXTINF:-1 group-title="football",Monterrey vs Chicago Fire
 https://daffodil.sandhost.qzz.io/mls.m3u8
-#EXTINF:-1 group-title="nba",Chicago Sky vs Connecticut Sun
+#EXTINF:-1 group-title="nba",Golden State Valkyries vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Portland Fire vs Dallas Wings
+#EXTINF:-1 group-title="nba",Toronto Tempo vs Seattle Storm
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Washington Mystics vs Phoenix Mercury
-https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nfl",Ohio Dominican vs Morehead State
 https://daffodil.sandhost.qzz.io/win.m3u8
-#EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.sandhost.qzz.io/ppv.m3u8
-#EXTINF:-1 group-title="fighting",WWE NXT
-https://daffodil.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="fighting",Tszyu vs. Mahoney
+https://daffodil.sandhost.qzz.io/ppv.m3u8
+#EXTINF:-1 group-title="fighting",TNA
+https://daffodil.sandhost.qzz.io/ppv.m3u8
+#EXTINF:-1 group-title="motorsports",WoO Late Models - Oskaloosa
 https://daffodil.sandhost.qzz.io/ppv.m3u8
