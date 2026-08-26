@@ -34,14 +34,14 @@
     {
       "title": "AEK Athens vs Levski Sofia",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tott.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Olympique Lyonnais vs FenerbahÃ§e",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Viking vs Dinamo Zagreb",
