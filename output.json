@@ -83,7 +83,9 @@
     {
       "title": "Cruzeiro vs Atletico Mineiro",
       "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
+      ]
     },
     {
       "title": "Independiente Valle vs Deportes Tolima",
@@ -192,7 +194,7 @@
       "title": "Portland Fire vs Dallas Wings",
       "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
       ]
     },
     {
@@ -205,10 +207,10 @@
   ],
   "nfl": [
     {
-      "title": "Seattle Seahawks vs Tennessee Titans",
-      "page": "https://roxiestreams.info/nfl-streams-1",
+      "title": "Ohio Dominican vs Morehead State",
+      "page": "https://roxiestreams.info/ncaa-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
+        "https://daffodil.sandhost.qzz.io/win.m3u8"
       ]
     }
   ],
@@ -232,6 +234,13 @@
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
         "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
+    },
+    {
+      "title": "Tszyu vs. Mahoney",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
       ]
     }
   ],
