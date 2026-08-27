@@ -1,23 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Tottenham vs Charlton
-https://daffodil.sandhost.qzz.io/tott.m3u8
-#EXTINF:-1 group-title="football",Olympique Lyonnais vs FenerbahÃ§e
+#EXTINF:-1 group-title="football",UEFA Champions League Draw
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Freiburg vs Motherwell
 https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Santos vs Palmeiras
-https://daffodil.sandhost.qzz.io/sportv.m3u8
-#EXTINF:-1 group-title="football",River Plate vs Santa Fe
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Toluca vs Austin
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",AmÃ©rica vs Columbus Crew
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="nba",Golden State Valkyries vs Connecticut Sun
-https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Toronto Tempo vs Seattle Storm
-https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nfl",Ohio Dominican vs Morehead State
-https://daffodil.sandhost.qzz.io/win.m3u8
-#EXTINF:-1 group-title="fighting",Tszyu vs. Mahoney
-https://daffodil.sandhost.qzz.io/ppv.m3u8
-#EXTINF:-1 group-title="fighting",TNA
-https://daffodil.sandhost.qzz.io/ppv.m3u8
