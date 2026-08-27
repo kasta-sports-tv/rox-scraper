@@ -4,7 +4,6 @@
       "title": "UEFA Champions League Draw",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8",
         "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
     },
@@ -38,7 +37,9 @@
     {
       "title": "Fulham vs Wimbledon",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/sporting.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -80,13 +81,13 @@
   ],
   "nba": [
     {
-      "title": "Golden State Warriors vs New York Knicks",
-      "page": "https://roxiestreams.info/nba-streams-1",
+      "title": "Golden State Valkyries vs New York Liberty",
+      "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": []
     },
     {
-      "title": "Washington Wizards vs Phoenix Suns",
-      "page": "https://roxiestreams.info/nba-streams-2",
+      "title": "Washington Mystics vs Phoenix Mercury",
+      "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": []
     }
   ],
@@ -94,12 +95,16 @@
     {
       "title": "Pittsburgh Steelers vs Buffalo Bills",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
+      ]
     },
     {
       "title": "New England Patriots vs Cleveland Browns",
       "page": "https://roxiestreams.info/nfl-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
+      ]
     },
     {
       "title": "San Francisco 49ers vs Las Vegas Raiders",
@@ -109,7 +114,10 @@
     {
       "title": "Los Angeles Rams vs Los Angeles Chargers",
       "page": "https://roxiestreams.info/nfl-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl4.m3u8",
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
+      ]
     }
   ],
   "nhl": [
