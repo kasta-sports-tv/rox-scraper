@@ -3,9 +3,7 @@
     {
       "title": "Bradford City vs Burnley",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/burnley.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Newcastle vs West Bromwich",
@@ -22,9 +20,7 @@
     {
       "title": "Real Madrid vs Real Sociedad",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Celje vs Slovan Bratislava",
@@ -57,32 +53,34 @@
       "title": "Santos vs Palmeiras",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
+        "https://daffodil.sandhost.qzz.io/sportv.m3u8"
       ]
     },
     {
       "title": "Vasco Gama vs Vitoria",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/prem.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "River Plate vs Santa Fe",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+      ]
     },
     {
       "title": "Toluca vs Austin",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     },
     {
       "title": "AmÃ©rica vs Columbus Crew",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -174,7 +172,7 @@
       "title": "Toronto Tempo vs Seattle Storm",
       "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
       ]
     }
   ],
@@ -210,13 +208,5 @@
       ]
     }
   ],
-  "motorsports": [
-    {
-      "title": "WoO Late Models - Oskaloosa",
-      "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
-      ]
-    }
-  ]
+  "motorsports": []
 }
