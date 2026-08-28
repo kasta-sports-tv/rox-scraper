@@ -3,17 +3,23 @@
     {
       "title": "Racing Santander vs Elche",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+      ]
     },
     {
       "title": "Al Nassr vs Al Taawon",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+      ]
     },
     {
       "title": "Bayern MÃ¼nchen vs Stuttgart",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/one.m3u8"
+      ]
     },
     {
       "title": "Lille vs PSG",
@@ -28,14 +34,19 @@
     {
       "title": "Crystal Palace vs Manchester City",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/prem.m3u8"
-      ]
+      "streams": []
+    },
+    {
+      "title": "Wrexham vs Birmingham",
+      "page": "https://roxiestreams.info/soccer-streams-14",
+      "streams": []
     },
     {
       "title": "Deportivo AlavÃ©s vs Villarreal",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+      ]
     },
     {
       "title": "Comerciantes Unidos vs FC Cajamarca",
@@ -66,6 +77,13 @@
       "title": "Tijuana vs Pumas UNAM",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": []
+    },
+    {
+      "title": "Gillingham vs Northampton",
+      "page": "https://roxiestreams.info/soccer-streams-1",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -253,7 +271,9 @@
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
     },
     {
       "title": "MVPW 6: Mayer vs. Cameron",

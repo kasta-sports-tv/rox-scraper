@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Crystal Palace vs Manchester City
-https://daffodil.sandhost.qzz.io/prem.m3u8
+#EXTINF:-1 group-title="football",Racing Santander vs Elche
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Al Nassr vs Al Taawon
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Stuttgart
+https://daffodil.sandhost.qzz.io/one.m3u8
+#EXTINF:-1 group-title="football",Deportivo AlavÃ©s vs Villarreal
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Gillingham vs Northampton
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="nfl",Washington Commanders vs Baltimore Ravens
 https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Atlanta Falcons vs Miami Dolphins
@@ -13,3 +21,5 @@ https://daffodil.sandhost.qzz.io/nfl2.m3u8
 https://daffodil.sandhost.qzz.io/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",Minnesota Vikings vs Denver Broncos
 https://daffodil.sandhost.qzz.io/nfl2.m3u8
+#EXTINF:-1 group-title="fighting",WWE Smackdown
+https://daffodil.sandhost.qzz.io/wwe.m3u8
