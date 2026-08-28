@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",UEFA Champions League Draw
+#EXTINF:-1 group-title="football",Crystal Palace vs Manchester City
 https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Freiburg vs Motherwell
-https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Fulham vs Wimbledon
-https://daffodil.sandhost.qzz.io/sporting.m3u8
-#EXTINF:-1 group-title="nfl",Pittsburgh Steelers vs Buffalo Bills
+#EXTINF:-1 group-title="nfl",Washington Commanders vs Baltimore Ravens
 https://daffodil.sandhost.qzz.io/nfl.m3u8
-#EXTINF:-1 group-title="nfl",New England Patriots vs Cleveland Browns
+#EXTINF:-1 group-title="nfl",Atlanta Falcons vs Miami Dolphins
 https://daffodil.sandhost.qzz.io/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Los Angeles Rams vs Los Angeles Chargers
+#EXTINF:-1 group-title="nfl",New York Giants vs New York Jets
 https://daffodil.sandhost.qzz.io/nfl4.m3u8
+#EXTINF:-1 group-title="nfl",New Orleans Saints vs Dallas Cowboys
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",Seattle Seahawks vs Kansas City Chiefs
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",Minnesota Vikings vs Denver Broncos
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
