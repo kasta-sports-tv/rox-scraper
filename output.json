@@ -10,16 +10,12 @@
     {
       "title": "Al Nassr vs Al Taawon",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Bayern MÃ¼nchen vs Stuttgart",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Lille vs PSG",
@@ -167,22 +163,30 @@
     {
       "title": "Portland Fire vs Atlanta Dream",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     },
     {
       "title": "Connecticut Sun vs Indiana Fever",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+      ]
     },
     {
       "title": "Toronto Tempo vs Las Vegas Aces",
       "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+      ]
     },
     {
       "title": "Washington Mystics vs Los Angeles Sparks",
       "page": "https://roxiestreams.info/wnba-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
+      ]
     }
   ],
   "nfl": [
@@ -209,8 +213,7 @@
       "title": "New York Giants vs New York Jets",
       "page": "https://roxiestreams.info/nfl-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl4.m3u8",
-        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl4.m3u8"
       ]
     },
     {
@@ -221,9 +224,7 @@
     {
       "title": "New Orleans Saints vs Dallas Cowboys",
       "page": "https://roxiestreams.info/nfl-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Arizona Cardinals vs Green Bay Packers",
@@ -233,9 +234,7 @@
     {
       "title": "Seattle Seahawks vs Kansas City Chiefs",
       "page": "https://roxiestreams.info/nfl-streams-8",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Cincinnati Bengals vs Philadelphia Eagles",
@@ -246,7 +245,7 @@
       "title": "Minnesota Vikings vs Denver Broncos",
       "page": "https://roxiestreams.info/nfl-streams-10",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
       ]
     }
   ],
@@ -271,9 +270,7 @@
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "MVPW 6: Mayer vs. Cameron",

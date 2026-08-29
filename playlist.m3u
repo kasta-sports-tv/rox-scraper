@@ -1,25 +1,23 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Racing Santander vs Elche
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Al Nassr vs Al Taawon
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Stuttgart
-https://daffodil.sandhost.qzz.io/one.m3u8
 #EXTINF:-1 group-title="football",Deportivo AlavÃ©s vs Villarreal
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Gillingham vs Northampton
 https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="nba",Portland Fire vs Atlanta Dream
+https://daffodil.sandhost.qzz.io/wnba.m3u8
+#EXTINF:-1 group-title="nba",Connecticut Sun vs Indiana Fever
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
+#EXTINF:-1 group-title="nba",Toronto Tempo vs Las Vegas Aces
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
+#EXTINF:-1 group-title="nba",Washington Mystics vs Los Angeles Sparks
+https://daffodil.sandhost.qzz.io/wnba4.m3u8
 #EXTINF:-1 group-title="nfl",Washington Commanders vs Baltimore Ravens
 https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Atlanta Falcons vs Miami Dolphins
 https://daffodil.sandhost.qzz.io/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",New York Giants vs New York Jets
 https://daffodil.sandhost.qzz.io/nfl4.m3u8
-#EXTINF:-1 group-title="nfl",New Orleans Saints vs Dallas Cowboys
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Seattle Seahawks vs Kansas City Chiefs
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",Minnesota Vikings vs Denver Broncos
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+https://daffodil.sandhost.qzz.io/nfl.m3u8
