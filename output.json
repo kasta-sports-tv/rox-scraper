@@ -20,16 +20,12 @@
     {
       "title": "Middlesbrough vs West Bromwich",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Elversberg vs Bayer Leverkusen",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Bournemouth vs Everton",
@@ -56,9 +52,7 @@
     {
       "title": "Watford vs West Ham",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Gillingham vs Northampton",
@@ -90,9 +84,7 @@
     {
       "title": "Dortmund vs Hamburger",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Fiorentina vs Frosinone",
@@ -104,9 +96,7 @@
     {
       "title": "Sassuolo vs Torino",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Real Sociedad vs Espanyol",
@@ -133,9 +123,7 @@
     {
       "title": "Juventus vs Parma",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Sevilla vs Atletico Madrid",
@@ -184,7 +172,9 @@
     {
       "title": "AmÃ©rica vs Puebla",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+      ]
     },
     {
       "title": "Portland Timbers vs Austin",
@@ -297,9 +287,7 @@
     {
       "title": "Toronto Tempo vs Phoenix Mercury",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nfl": [
