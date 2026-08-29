@@ -1,27 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Wolves vs Stoke City
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Cardiff vs Sheffield Utd
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Levante vs Real Betis
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Fiorentina vs Frosinone
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Real Sociedad vs Espanyol
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Sevilla vs Atletico Madrid
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Pachuca vs Chivas
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",AmÃ©rica vs Puebla
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Santos Laguna vs Tigres
-https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="nba",Chicago Sky vs New York Liberty
-https://daffodil.sandhost.qzz.io/nfl.m3u8
+https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Detroit Lions vs Indianapolis Colts
-https://daffodil.sandhost.qzz.io/nfl.m3u8
+https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Chicago Bears vs Tennessee Titans
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Jacksonville State vs North Dakota State
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
