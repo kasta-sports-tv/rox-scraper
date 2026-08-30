@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Wolves vs Stoke City
+#EXTINF:-1 group-title="football",Leeds vs Brentford
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Cardiff vs Sheffield Utd
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Fiorentina vs Frosinone
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Atlas vs QuerÃ©taro
-https://daffodil.formaturamaxi.com.br/vix.m3u8
-#EXTINF:-1 group-title="football",Pachuca vs Chivas
+#EXTINF:-1 group-title="football",Sunderland vs Fulham
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",GrÃªmio vs Chapecoense
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="football",AmÃ©rica vs Puebla
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="football",Santos Laguna vs Tigres
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="nba",Chicago Sky vs New York Liberty
+#EXTINF:-1 group-title="nba",Minnesota Lynx vs Atlanta Dream
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Toronto Tempo vs Phoenix Mercury
+#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Seattle Storm
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nfl",Jacksonville State vs North Dakota State
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="nfl",New Mexico State vs Florida State
-https://daffodil.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 group-title="nba",Golden State Valkyries vs Portland Fire
+https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 #EXTINF:-1 group-title="fighting",MVPW 6: Mayer vs. Cameron
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",Duel Arena: Perry vs Jenkins / Gypsy Crusader vs Azoulay
