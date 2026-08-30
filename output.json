@@ -3,9 +3,7 @@
     {
       "title": "Aberdeen vs Rangers",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Chelsea vs Brighton",
@@ -27,9 +25,7 @@
     {
       "title": "Paris vs Nice",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Freiburg vs Werder Bremen",
@@ -49,9 +45,7 @@
     {
       "title": "Rennes vs Le Mans",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Man United vs Ipswich",
@@ -66,9 +60,7 @@
     {
       "title": "Napoli vs Como",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Deportivo La CoruÃ±a vs Valencia",
@@ -95,23 +87,17 @@
     {
       "title": "Cagliari vs Inter Milan",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Lazio vs Genoa",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Monaco vs Marseille",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Corinthians vs Santos",
@@ -136,9 +122,7 @@
     {
       "title": "GrÃªmio vs Chapecoense",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Mirassol vs Palmeiras",
@@ -153,7 +137,9 @@
     {
       "title": "Toluca vs JuÃ¡rez",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     },
     {
       "title": "Independiente Rivadavia vs Racing Club",
@@ -163,7 +149,9 @@
     {
       "title": "Monterrey vs AtlÃ©tico San Luis",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -257,13 +245,15 @@
       "title": "Golden State Valkyries vs Portland Fire",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba3.m3u8"
       ]
     },
     {
       "title": "Connecticut Sun vs Dallas Wings",
       "page": "https://roxiestreams.info/wnba-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wnba4.m3u8"
+      ]
     }
   ],
   "nfl": [],

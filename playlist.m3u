@@ -1,27 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Aberdeen vs Rangers
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Sunderland vs Fulham
 https://daffodil.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 group-title="football",Paris vs Nice
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Rennes vs Le Mans
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Napoli vs Como
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Al Quadisiya vs Al Faisaly
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Cagliari vs Inter Milan
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Lazio vs Genoa
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Monaco vs Marseille
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",GrÃªmio vs Chapecoense
+#EXTINF:-1 group-title="football",Toluca vs JuÃ¡rez
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="football",Monterrey vs AtlÃ©tico San Luis
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Lynx vs Atlanta Dream
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Sparks vs Seattle Storm
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Portland Fire
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
+https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+#EXTINF:-1 group-title="nba",Connecticut Sun vs Dallas Wings
+https://daffodil.formaturamaxi.com.br/wnba4.m3u8
