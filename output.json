@@ -13,7 +13,9 @@
     {
       "title": "Wolves vs Stoke City",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     },
     {
       "title": "Middlesbrough vs West Bromwich",
@@ -38,7 +40,9 @@
     {
       "title": "Cardiff vs Sheffield Utd",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     },
     {
       "title": "Southampton vs Millwall",
@@ -83,7 +87,9 @@
     {
       "title": "Fiorentina vs Frosinone",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     },
     {
       "title": "Sassuolo vs Torino",
@@ -128,12 +134,16 @@
     {
       "title": "Atlas vs QuerÃ©taro",
       "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/vix.m3u8"
+      ]
     },
     {
       "title": "Pachuca vs Chivas",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     },
     {
       "title": "SÃ£o Paulo vs RB Bragantino",
@@ -158,7 +168,9 @@
     {
       "title": "AmÃ©rica vs Puebla",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     },
     {
       "title": "Portland Timbers vs Austin",
@@ -168,7 +180,9 @@
     {
       "title": "Santos Laguna vs Tigres",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -263,29 +277,27 @@
       "title": "Chicago Sky vs New York Liberty",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
       ]
     },
     {
       "title": "Toronto Tempo vs Phoenix Mercury",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wnba2.m3u8"
+      ]
     }
   ],
   "nfl": [
     {
       "title": "Detroit Lions vs Indianapolis Colts",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Chicago Bears vs Tennessee Titans",
       "page": "https://roxiestreams.info/nfl-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "North Carolina vs TCU",
@@ -305,7 +317,9 @@
     {
       "title": "Jacksonville State vs North Dakota State",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     },
     {
       "title": "Hawai'i vs Stanford",
@@ -315,7 +329,9 @@
     {
       "title": "New Mexico State vs Florida State",
       "page": "https://roxiestreams.info/ncaa-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa6.m3u8"
+      ]
     },
     {
       "title": "Memphis vs UNLV",
@@ -334,7 +350,9 @@
     {
       "title": "MVPW 6: Mayer vs. Cameron",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     },
     {
       "title": "Itauma vs. Hrgovic: Natural Born Thriller",
@@ -344,11 +362,18 @@
     {
       "title": "Duel Arena: Perry vs Jenkins / Gypsy Crusader vs Azoulay",
       "page": "https://roxiestreams.info/ppv-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     },
     {
       "title": "Lara vs. Ornelas",
       "page": "https://roxiestreams.info/ppv-streams-4",
+      "streams": []
+    },
+    {
+      "title": "AEW All-In",
+      "page": "https://roxiestreams.info/wwe-streams",
       "streams": []
     },
     {
