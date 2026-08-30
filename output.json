@@ -3,7 +3,9 @@
     {
       "title": "Aberdeen vs Rangers",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Chelsea vs Brighton",
@@ -13,26 +15,28 @@
     {
       "title": "Leeds vs Brentford",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Sunderland vs Fulham",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/ncaa5.m3u8"
       ]
     },
     {
       "title": "Paris vs Nice",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Freiburg vs Werder Bremen",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/one.m3u8"
+      ]
     },
     {
       "title": "Athletico-PR vs Fluminense",
@@ -47,7 +51,9 @@
     {
       "title": "Rennes vs Le Mans",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Man United vs Ipswich",
@@ -57,7 +63,9 @@
     {
       "title": "Napoli vs Como",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     },
     {
       "title": "Deportivo La CoruÃ±a vs Valencia",
@@ -67,7 +75,9 @@
     {
       "title": "Al Quadisiya vs Al Faisaly",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+      ]
     },
     {
       "title": "Asteras Tripolis vs Olympiacos",
@@ -82,17 +92,23 @@
     {
       "title": "Cagliari vs Inter Milan",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Lazio vs Genoa",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     },
     {
       "title": "Monaco vs Marseille",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Corinthians vs Santos",
@@ -215,7 +231,7 @@
     },
     {
       "title": "Cincinnati Reds vs Chicago Cubs",
-      "page": "https://roxiestreams.info/mlb-streams-14",
+      "page": "https://roxiestreams.info/mlb-streams-11",
       "streams": []
     }
   ],
@@ -256,30 +272,6 @@
     }
   ],
   "fighting": [
-    {
-      "title": "MVPW 6: Mayer vs. Cameron",
-      "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
-      ]
-    },
-    {
-      "title": "Itauma vs. Hrgovic: Natural Born Thriller",
-      "page": "https://roxiestreams.info/ppv-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Duel Arena: Perry vs Jenkins / Gypsy Crusader vs Azoulay",
-      "page": "https://roxiestreams.info/ppv-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
-      ]
-    },
-    {
-      "title": "Lara vs. Ornelas",
-      "page": "https://roxiestreams.info/ppv-streams-4",
-      "streams": []
-    },
     {
       "title": "WWE NXT: Heatwave",
       "page": "https://roxiestreams.info/wwe-streams",
