@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Sunderland vs Fulham
+#EXTINF:-1 group-title="football",Atalanta vs Bologna
 https://daffodil.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 group-title="football",Al Quadisiya vs Al Faisaly
-https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Toluca vs JuÃ¡rez
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="football",Monterrey vs AtlÃ©tico San Luis
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Lynx vs Atlanta Dream
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Sparks vs Seattle Storm
