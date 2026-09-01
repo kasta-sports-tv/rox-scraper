@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Osasuna vs Getafe
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Barcelona vs Rayo Vallecano
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Lynx vs Atlanta Dream
-https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Seattle Storm
-https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Golden State Valkyries vs Portland Fire
-https://daffodil.sandhost.qzz.io/wnba3.m3u8
-#EXTINF:-1 group-title="nba",Connecticut Sun vs Dallas Wings
-https://daffodil.sandhost.qzz.io/wnba4.m3u8
-#EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 group-title="football",Parma vs Cremonese
+https://daffodil.sandhost.qzz.io/prem.m3u8
+#EXTINF:-1 group-title="football",Al Hilal vs Al-Ahli
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",West Ham vs Wolves
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Torino vs Monza
+https://daffodil.sandhost.qzz.io/prem.m3u8
