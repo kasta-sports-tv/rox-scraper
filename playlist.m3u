@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Leece vs Roma
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Osasuna vs Getafe
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Atalanta vs Bologna
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Barcelona vs Rayo Vallecano
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Lynx vs Atlanta Dream
-https://daffodil.formaturamaxi.com.br/wnba.m3u8
+https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Sparks vs Seattle Storm
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Golden State Valkyries vs Portland Fire
-https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nba",Connecticut Sun vs Dallas Wings
-https://daffodil.formaturamaxi.com.br/wnba4.m3u8
+https://daffodil.sandhost.qzz.io/wnba4.m3u8
+#EXTINF:-1 group-title="fighting",WWE RAW
+https://daffodil.sandhost.qzz.io/wwe.m3u8
