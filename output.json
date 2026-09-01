@@ -4,16 +4,13 @@
       "title": "Parma vs Cremonese",
       "page": "https://roxiestreams.info/soccer-streams-9",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/prem.m3u8",
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
       ]
     },
     {
       "title": "Al Hilal vs Al-Ahli",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Chesterfield vs Gillingham",
@@ -23,9 +20,7 @@
     {
       "title": "West Ham vs Wolves",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Leicester vs Plymouth Argyle",
@@ -61,13 +56,15 @@
       "title": "Torino vs Monza",
       "page": "https://roxiestreams.info/soccer-streams-10",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
       ]
     },
     {
       "title": "AtlÃ©tico Mineiro vs Cruzeiro",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/foxd.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -181,7 +178,9 @@
     {
       "title": "Dana White's Contender Series",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     },
     {
       "title": "WWE NXT",
@@ -191,7 +190,9 @@
     {
       "title": "TNA",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     }
   ],
   "motorsports": []
