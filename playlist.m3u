@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Parma vs Cremonese
-https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",Torino vs Monza
-https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",AtlÃ©tico Mineiro vs Cruzeiro
+#EXTINF:-1 group-title="football",Falkirk vs Rangers
 https://daffodil.formaturamaxi.com.br/foxd.m3u8
-#EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",WWE NXT
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="football",Burnley vs Middlesbrough
+https://daffodil.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 group-title="football",Flamengo vs Mirassol
+https://daffodil.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="fighting",TNA
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
