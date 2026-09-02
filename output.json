@@ -16,9 +16,16 @@
       ]
     },
     {
+      "title": "Larissa vs Olympiakos Piraeus",
+      "page": "https://roxiestreams.info/soccer-streams-16",
+      "streams": []
+    },
+    {
       "title": "Celtic vs Aberdeen",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/celtic.m3u8"
+      ]
     },
     {
       "title": "Millwall vs Wrexham",
@@ -28,12 +35,16 @@
     {
       "title": "West Bromwich vs Charlton Athletic",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/vsport.m3u8"
+      ]
     },
     {
       "title": "QPR vs Cardiff City",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/qpr.m3u8"
+      ]
     },
     {
       "title": "OsnabrÃ¼ck vs Bayern MÃ¼nchen",
