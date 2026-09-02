@@ -185,7 +185,9 @@
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+      ]
     },
     {
       "title": "TNA",
