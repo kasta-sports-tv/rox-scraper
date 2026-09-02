@@ -3,16 +3,13 @@
     {
       "title": "Sassuolo vs Frosinone",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Udinese vs Venezia",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8",
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
     {
@@ -35,9 +32,7 @@
     {
       "title": "West Bromwich vs Charlton Athletic",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/vsport.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "QPR vs Cardiff City",
@@ -61,10 +56,7 @@
     {
       "title": "Burnley vs Middlesbrough",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8",
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Reading vs Mansfield",
@@ -74,9 +66,7 @@
     {
       "title": "Flamengo vs Mirassol",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Boca Juniors vs VÃ©lez Sarsfield",
