@@ -94,7 +94,9 @@
     {
       "title": "AmÃ©rica vs Monterrey",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
