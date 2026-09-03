@@ -1,14 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Palermo vs Mantova
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Diriyah vs Al Quadisiya
 https://daffodil.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="football",Hibernian vs Hearts
 https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",Cagliari vs Verona
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",GrÃªmio vs Internacional
-https://daffodil.formaturamaxi.com.br/qpr.m3u8
+https://daffodil.formaturamaxi.com.br/dgo.m3u8
+#EXTINF:-1 group-title="mlb",St. Louis Cardinals vs Los Angeles Dodgers
+https://daffodil.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 group-title="nfl",Massachusetts vs Rutgers
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Akron vs Wake Forest
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Arkansas-Pine Bluff vs Missouri
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Colorado vs Georgia Tech
+https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
+#EXTINF:-1 group-title="nfl",UAB vs Illinois
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="fighting",TNA
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown

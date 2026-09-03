@@ -3,16 +3,13 @@
     {
       "title": "Palermo vs Mantova",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Diriyah vs Al Quadisiya",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8",
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
       ]
     },
     {
@@ -30,9 +27,7 @@
     {
       "title": "Cagliari vs Verona",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Real Sociedad vs Celta Vigo",
@@ -43,7 +38,7 @@
       "title": "GrÃªmio vs Internacional",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/qpr.m3u8"
+        "https://daffodil.formaturamaxi.com.br/dgo.m3u8"
       ]
     }
   ],
@@ -91,7 +86,9 @@
     {
       "title": "St. Louis Cardinals vs Los Angeles Dodgers",
       "page": "https://roxiestreams.info/mlb-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mlb9.m3u8"
+      ]
     }
   ],
   "nba": [
@@ -116,7 +113,49 @@
       "streams": []
     }
   ],
-  "nfl": [],
+  "nfl": [
+    {
+      "title": "Massachusetts vs Rutgers",
+      "page": "https://roxiestreams.info/ncaa-streams-1",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
+    },
+    {
+      "title": "Akron vs Wake Forest",
+      "page": "https://roxiestreams.info/ncaa-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+      ]
+    },
+    {
+      "title": "Arkansas-Pine Bluff vs Missouri",
+      "page": "https://roxiestreams.info/ncaa-streams-3",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8",
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+      ]
+    },
+    {
+      "title": "Colorado vs Georgia Tech",
+      "page": "https://roxiestreams.info/ncaa-streams-4",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa4.m3u8"
+      ]
+    },
+    {
+      "title": "Idaho vs Utah",
+      "page": "https://roxiestreams.info/ncaa-streams-5",
+      "streams": []
+    },
+    {
+      "title": "UAB vs Illinois",
+      "page": "https://roxiestreams.info/ncaa-streams-1",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
+    }
+  ],
   "nhl": [
     {
       "title": "NHL Draft 2026",
