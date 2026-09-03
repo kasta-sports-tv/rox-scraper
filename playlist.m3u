@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Sassuolo vs Frosinone
+https://daffodil.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="football",Udinese vs Venezia
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Celtic vs Aberdeen
