@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Galatasaray vs Ä°stanbul BaÅakÅehir
-https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Lyon vs Auxerre
-https://daffodil.sandhost.qzz.io/bein.m3u8
-#EXTINF:-1 group-title="football",Al Shabab vs Al Hilal
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Stuttgart vs Koln
-https://daffodil.sandhost.qzz.io/one.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Genoa vs Como
 https://daffodil.sandhost.qzz.io/genoa.m3u8
 #EXTINF:-1 group-title="football",Liverpool vs Ipswich
 https://daffodil.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="football",PSG vs Monaco
-https://daffodil.sandhost.qzz.io/bein.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="mlb",Minnesota Twins vs Chicago White Sox
 https://daffodil.sandhost.qzz.io/mlb9.m3u8
 #EXTINF:-1 group-title="nfl",Indiana State vs Purdue
@@ -23,6 +17,8 @@ https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",Toledo vs Michigan State
 https://daffodil.sandhost.qzz.io/ncaa4.m3u8
+#EXTINF:-1 group-title="nfl",7 Miami vs Stanford
+https://daffodil.sandhost.qzz.io/ncaa5.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="fighting",Ruiz Jr vs Knyba

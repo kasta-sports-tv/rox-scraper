@@ -3,31 +3,24 @@
     {
       "title": "Galatasaray vs Ä°stanbul BaÅakÅehir",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Lyon vs Auxerre",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
         "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
       "title": "Al Shabab vs Al Hilal",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Stuttgart vs Koln",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Genoa vs Como",
@@ -52,7 +45,6 @@
       "title": "PSG vs Monaco",
       "page": "https://roxiestreams.info/soccer-streams-9",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8",
         "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
@@ -206,7 +198,9 @@
     {
       "title": "7 Miami vs Stanford",
       "page": "https://roxiestreams.info/ncaa-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa5.m3u8"
+      ]
     },
     {
       "title": "Fresno State vs USC",
