@@ -13,6 +13,18 @@ https://daffodil.sandhost.qzz.io/dep.m3u8
 https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Inter Milan vs Napoli
 https://daffodil.sandhost.qzz.io/ncaa12.m3u8
+#EXTINF:-1 group-title="football",Schalke 04 vs Bayern Munchen
+https://daffodil.sandhost.qzz.io/one.m3u8
+#EXTINF:-1 group-title="football",Rayo Vallecano vs Racing Santander
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Al Ittihad vs Al Nassr
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Roma vs Atalanta
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Nice vs Le Mans
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Villarreal vs Deportivo La Coruna
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",San Luis vs Chivas
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Atlanta Utd
