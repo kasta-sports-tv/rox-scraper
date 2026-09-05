@@ -1,31 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Lyon vs Auxerre
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Genoa vs Como
-https://daffodil.formaturamaxi.com.br/genoa.m3u8
-#EXTINF:-1 group-title="football",Liverpool vs Ipswich
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 group-title="football",PSG vs Monaco
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",New York City vs Nashville
-https://daffodil.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 group-title="mlb",Minnesota Twins vs Chicago White Sox
-https://daffodil.formaturamaxi.com.br/mlb9.m3u8
-#EXTINF:-1 group-title="nfl",Indiana State vs Purdue
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",UTEP vs Oklahoma
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Long Island University vs Kansas
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Toledo vs Michigan State
-https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 group-title="nfl",7 Miami vs Stanford
-https://daffodil.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 group-title="fighting",Ruiz Jr vs Knyba
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Taylor vs. Pili: Once Upon a Time
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="football",Lincoln City vs Southampton
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Borussia M'gladbach vs Elversberg
+https://daffodil.sandhost.qzz.io/one.m3u8
+#EXTINF:-1 group-title="football",Man City vs Coventry
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Burnley vs Bristol
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="football",QPR vs Middlesbrough
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Athletic Club vs Atletico Madrid
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Lens vs Lorient
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Schalke 04 vs Bayern Munchen
+https://daffodil.sandhost.qzz.io/one.m3u8
+#EXTINF:-1 group-title="football",Rayo Vallecano vs Racing Santander
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Roma vs Atalanta
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Nice vs Le Mans
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Villarreal vs Deportivo La Coruna
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",San Luis vs Chivas
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Inter Miami vs Atlanta Utd
+https://daffodil.sandhost.qzz.io/beines.m3u8
