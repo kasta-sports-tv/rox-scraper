@@ -20,9 +20,7 @@
     {
       "title": "Borussia M'gladbach vs Elversberg",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Brentford vs Sunderland",
@@ -90,9 +88,7 @@
     {
       "title": "Inter Milan vs Napoli",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/ncaa12.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Volos NFC vs Olympiakos Piraeus",
@@ -107,9 +103,7 @@
     {
       "title": "Schalke 04 vs Bayern Munchen",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Rayo Vallecano vs Racing Santander",
@@ -220,7 +214,9 @@
     {
       "title": "San Francisco Giants vs New York Mets",
       "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mlb.m3u8"
+      ]
     },
     {
       "title": "Chicago Cubs vs Miami Marlins",
@@ -376,9 +372,7 @@
     {
       "title": "Boise State vs Oregon",
       "page": "https://roxiestreams.info/ncaa-streams-12",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/ncaa12.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Texas State vs Texas",

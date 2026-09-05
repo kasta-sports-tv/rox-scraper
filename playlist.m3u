@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Lincoln City vs Southampton
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Borussia M'gladbach vs Elversberg
-https://daffodil.sandhost.qzz.io/one.m3u8
 #EXTINF:-1 group-title="football",Burnley vs Bristol
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",QPR vs Middlesbrough
@@ -11,10 +9,6 @@ https://daffodil.sandhost.qzz.io/golazo.m3u8
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Lens vs Lorient
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Inter Milan vs Napoli
-https://daffodil.sandhost.qzz.io/ncaa12.m3u8
-#EXTINF:-1 group-title="football",Schalke 04 vs Bayern Munchen
-https://daffodil.sandhost.qzz.io/one.m3u8
 #EXTINF:-1 group-title="football",Rayo Vallecano vs Racing Santander
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Al Ittihad vs Al Nassr
@@ -29,10 +23,10 @@ https://daffodil.sandhost.qzz.io/dep.m3u8
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Atlanta Utd
 https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="mlb",San Francisco Giants vs New York Mets
+https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="nfl",Bryant vs Army
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="nfl",Boise State vs Oregon
-https://daffodil.sandhost.qzz.io/ncaa12.m3u8
 #EXTINF:-1 group-title="nfl",Towson vs Navy
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="nfl",Wyoming vs Colorado State
