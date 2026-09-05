@@ -11,17 +11,23 @@ https://daffodil.sandhost.qzz.io/golazo.m3u8
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Lens vs Lorient
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Schalke 04 vs Bayern Munchen
-https://daffodil.sandhost.qzz.io/one.m3u8
-#EXTINF:-1 group-title="football",Rayo Vallecano vs Racing Santander
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Roma vs Atalanta
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Nice vs Le Mans
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Villarreal vs Deportivo La Coruna
-https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Inter Milan vs Napoli
+https://daffodil.sandhost.qzz.io/ncaa12.m3u8
 #EXTINF:-1 group-title="football",San Luis vs Chivas
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Atlanta Utd
 https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="nfl",Bryant vs Army
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="nfl",Boise State vs Oregon
+https://daffodil.sandhost.qzz.io/ncaa12.m3u8
+#EXTINF:-1 group-title="nfl",Towson vs Navy
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="nfl",Wyoming vs Colorado State
+https://daffodil.sandhost.qzz.io/ncaa13.m3u8
+#EXTINF:-1 group-title="nfl",Idaho State vs Utah State
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="nfl",Portland State vs San Diego State
+https://daffodil.sandhost.qzz.io/ncaa13.m3u8
+#EXTINF:-1 group-title="nfl",Western Kentucky vs Nevada
+https://daffodil.sandhost.qzz.io/cbssn.m3u8

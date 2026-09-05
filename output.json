@@ -90,71 +90,18 @@
     {
       "title": "Inter Milan vs Napoli",
       "page": "https://roxiestreams.info/soccer-streams-17",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa12.m3u8"
+      ]
+    },
+    {
+      "title": "Volos NFC vs Olympiakos Piraeus",
+      "page": "https://roxiestreams.info/soccer-streams-31",
       "streams": []
     },
     {
       "title": "Hull vs Aston Villa",
       "page": "https://roxiestreams.info/soccer-streams-18",
-      "streams": []
-    },
-    {
-      "title": "Schalke 04 vs Bayern Munchen",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
-    },
-    {
-      "title": "Rayo Vallecano vs Racing Santander",
-      "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
-    },
-    {
-      "title": "Al Ittihad vs Al Nassr",
-      "page": "https://roxiestreams.info/soccer-streams-19",
-      "streams": []
-    },
-    {
-      "title": "Roma vs Atalanta",
-      "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
-    },
-    {
-      "title": "Le Havre vs Brest",
-      "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
-    },
-    {
-      "title": "Nice vs Le Mans",
-      "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
-    },
-    {
-      "title": "Villarreal vs Deportivo La Coruna",
-      "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
-    },
-    {
-      "title": "Wrexhan vs Swansea",
-      "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
-    },
-    {
-      "title": "Celtic vs St. Mirren",
-      "page": "https://roxiestreams.info/soccer-streams-21",
-      "streams": []
-    },
-    {
-      "title": "RB Bragantino vs Bahia",
-      "page": "https://roxiestreams.info/soccer-streams-22",
       "streams": []
     },
     {
@@ -340,7 +287,9 @@
     {
       "title": "Bryant vs Army",
       "page": "https://roxiestreams.info/ncaa-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+      ]
     },
     {
       "title": "Liberty vs James Madison",
@@ -365,7 +314,9 @@
     {
       "title": "Boise State vs Oregon",
       "page": "https://roxiestreams.info/ncaa-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa12.m3u8"
+      ]
     },
     {
       "title": "Texas State vs Texas",
@@ -395,7 +346,9 @@
     {
       "title": "Towson vs Navy",
       "page": "https://roxiestreams.info/ncaa-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+      ]
     },
     {
       "title": "Oklahoma State vs Tulsa",
@@ -415,7 +368,9 @@
     {
       "title": "Wyoming vs Colorado State",
       "page": "https://roxiestreams.info/ncaa-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+      ]
     },
     {
       "title": "Missouri State vs Texas A&M",
@@ -430,7 +385,9 @@
     {
       "title": "Idaho State vs Utah State",
       "page": "https://roxiestreams.info/ncaa-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+      ]
     },
     {
       "title": "Clemson vs LSU",
@@ -470,7 +427,9 @@
     {
       "title": "Portland State vs San Diego State",
       "page": "https://roxiestreams.info/ncaa-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+      ]
     },
     {
       "title": "UNLV vs Hawai'i",
@@ -490,7 +449,9 @@
     {
       "title": "Western Kentucky vs Nevada",
       "page": "https://roxiestreams.info/ncaa-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+      ]
     }
   ],
   "nhl": [
