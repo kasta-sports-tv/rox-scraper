@@ -1,39 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Lincoln City vs Southampton
-https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Burnley vs Bristol
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",QPR vs Middlesbrough
 https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Athletic Club vs Atletico Madrid
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Lens vs Lorient
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Rayo Vallecano vs Racing Santander
-https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Al Ittihad vs Al Nassr
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Roma vs Atalanta
 https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Nice vs Le Mans
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Villarreal vs Deportivo La Coruna
-https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",San Luis vs Chivas
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Inter Miami vs Atlanta Utd
-https://daffodil.sandhost.qzz.io/beines.m3u8
+https://daffodil.sandhost.qzz.io/chivas.m3u8
 #EXTINF:-1 group-title="mlb",San Francisco Giants vs New York Mets
 https://daffodil.sandhost.qzz.io/mlb.m3u8
+#EXTINF:-1 group-title="mlb",Atlanta Braves vs Philadelphia Phillies
+https://daffodil.sandhost.qzz.io/mlb3.m3u8
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Cleveland Guardians
+https://daffodil.sandhost.qzz.io/mlb4.m3u8
+#EXTINF:-1 group-title="mlb",Los Angeles Angels vs Pittsburgh Pirates
+https://daffodil.sandhost.qzz.io/mlb5.m3u8
+#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Cincinnati Reds
+https://daffodil.sandhost.qzz.io/mlb6.m3u8
 #EXTINF:-1 group-title="nfl",Bryant vs Army
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="nfl",Towson vs Navy
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="nfl",Wyoming vs Colorado State
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
 #EXTINF:-1 group-title="nfl",Idaho State vs Utah State
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="nfl",Portland State vs San Diego State
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
 #EXTINF:-1 group-title="nfl",Western Kentucky vs Nevada
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
