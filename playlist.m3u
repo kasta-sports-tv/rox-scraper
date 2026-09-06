@@ -1,33 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Burnley vs Bristol
+#EXTINF:-1 group-title="football",Wolves vs Birmingham
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Everton vs Man United
+https://daffodil.sandhost.qzz.io/usa.m3u8
+#EXTINF:-1 group-title="football",Troyes vs Strasbourg
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Hamburger SV vs Mainz 05
+https://daffodil.sandhost.qzz.io/one.m3u8
+#EXTINF:-1 group-title="football",Angers SCO vs Rennes
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Arsenal vs Chelsea
+https://daffodil.sandhost.qzz.io/usa.m3u8
+#EXTINF:-1 group-title="football",Frankfurt vs Augsburg
+https://daffodil.sandhost.qzz.io/one.m3u8
+#EXTINF:-1 group-title="football",Bologna vs Sassuolo
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Marseille vs Paris
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Internacional vs Santos
+https://daffodil.sandhost.qzz.io/usa.m3u8
+#EXTINF:-1 group-title="football",Huachipato vs Colo-Colo
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",QPR vs Middlesbrough
+#EXTINF:-1 group-title="football",Botafogo vs Palmeiras
 https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Al Ittihad vs Al Nassr
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Roma vs Atalanta
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Philadelphia Union vs CF Montreal
-https://daffodil.sandhost.qzz.io/mls.m3u8
-#EXTINF:-1 group-title="football",Vancouver Whitecaps vs St. Louis City
-https://daffodil.sandhost.qzz.io/mls.m3u8
-#EXTINF:-1 group-title="mlb",Atlanta Braves vs Philadelphia Phillies
+#EXTINF:-1 group-title="football",Toluca vs Monterrey
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="mlb",Boston Red Sox vs Baltimore Orioles
 https://daffodil.sandhost.qzz.io/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Detroit Tigers vs Cleveland Guardians
-https://daffodil.sandhost.qzz.io/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Angels vs Pittsburgh Pirates
+https://daffodil.sandhost.qzz.io/mlb4.m3u8
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Cleveland Guardians
 https://daffodil.sandhost.qzz.io/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Cincinnati Reds
+#EXTINF:-1 group-title="mlb",San Francisco Giants vs New York Mets
 https://daffodil.sandhost.qzz.io/mlb6.m3u8
-#EXTINF:-1 group-title="nfl",Bryant vs Army
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="nfl",Towson vs Navy
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="nfl",Wyoming vs Colorado State
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",Idaho State vs Utah State
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="nfl",Portland State vs San Diego State
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",Western Kentucky vs Nevada
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
