@@ -10,9 +10,7 @@
     {
       "title": "Everton vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/usa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Troyes vs Strasbourg",
@@ -24,9 +22,7 @@
     {
       "title": "Hamburger SV vs Mainz 05",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Coritiba vs Mirassol",
@@ -48,16 +44,12 @@
     {
       "title": "Arsenal vs Chelsea",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/usa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Frankfurt vs Augsburg",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Bologna vs Sassuolo",
@@ -81,7 +73,9 @@
     {
       "title": "Juventus vs Milan",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/milan.m3u8"
+      ]
     },
     {
       "title": "Espanyol vs Sevilla",
@@ -96,9 +90,7 @@
     {
       "title": "Internacional vs Santos",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/usa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Remo vs Flamengo",
@@ -108,9 +100,7 @@
     {
       "title": "Huachipato vs Colo-Colo",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Botafogo vs Palmeiras",

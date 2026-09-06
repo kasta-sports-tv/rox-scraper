@@ -1,26 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Wolves vs Birmingham
 https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Everton vs Man United
-https://daffodil.sandhost.qzz.io/usa.m3u8
 #EXTINF:-1 group-title="football",Troyes vs Strasbourg
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Hamburger SV vs Mainz 05
-https://daffodil.sandhost.qzz.io/one.m3u8
 #EXTINF:-1 group-title="football",Angers SCO vs Rennes
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Arsenal vs Chelsea
-https://daffodil.sandhost.qzz.io/usa.m3u8
-#EXTINF:-1 group-title="football",Frankfurt vs Augsburg
-https://daffodil.sandhost.qzz.io/one.m3u8
 #EXTINF:-1 group-title="football",Bologna vs Sassuolo
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Marseille vs Paris
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Internacional vs Santos
-https://daffodil.sandhost.qzz.io/usa.m3u8
-#EXTINF:-1 group-title="football",Huachipato vs Colo-Colo
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="football",Juventus vs Milan
+https://daffodil.sandhost.qzz.io/milan.m3u8
 #EXTINF:-1 group-title="football",Botafogo vs Palmeiras
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Toluca vs Monterrey
