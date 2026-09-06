@@ -11,8 +11,6 @@ https://daffodil.sandhost.qzz.io/golazo.m3u8
 https://daffodil.sandhost.qzz.io/mls.m3u8
 #EXTINF:-1 group-title="football",Vancouver Whitecaps vs St. Louis City
 https://daffodil.sandhost.qzz.io/mls.m3u8
-#EXTINF:-1 group-title="mlb",San Francisco Giants vs New York Mets
-https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Atlanta Braves vs Philadelphia Phillies
 https://daffodil.sandhost.qzz.io/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Detroit Tigers vs Cleveland Guardians
