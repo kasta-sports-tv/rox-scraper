@@ -161,9 +161,7 @@
     {
       "title": "San Luis vs Chivas",
       "page": "https://roxiestreams.info/soccer-streams-25",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/chivas.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Inter Miami vs Atlanta Utd",
@@ -173,7 +171,9 @@
     {
       "title": "Philadelphia Union vs CF Montreal",
       "page": "https://roxiestreams.info/soccer-streams-27",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+      ]
     },
     {
       "title": "Fluminense vs Vasco Gama",
@@ -188,7 +188,9 @@
     {
       "title": "Vancouver Whitecaps vs St. Louis City",
       "page": "https://roxiestreams.info/soccer-streams-27",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+      ]
     },
     {
       "title": "Atlas vs Atlante",
@@ -418,7 +420,9 @@
     {
       "title": "Wyoming vs Colorado State",
       "page": "https://roxiestreams.info/ncaa-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+      ]
     },
     {
       "title": "Missouri State vs Texas A&M",
@@ -475,7 +479,9 @@
     {
       "title": "Portland State vs San Diego State",
       "page": "https://roxiestreams.info/ncaa-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+      ]
     },
     {
       "title": "UNLV vs Hawai'i",
