@@ -4,7 +4,7 @@
       "title": "Wolves vs Birmingham",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
     {
@@ -15,9 +15,7 @@
     {
       "title": "Troyes vs Strasbourg",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Hamburger SV vs Mainz 05",
@@ -37,9 +35,7 @@
     {
       "title": "Angers SCO vs Rennes",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Arsenal vs Chelsea",
@@ -55,7 +51,7 @@
       "title": "Bologna vs Sassuolo",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
     {
@@ -66,15 +62,13 @@
     {
       "title": "Marseille vs Paris",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Juventus vs Milan",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/milan.m3u8"
+        "https://daffodil.formaturamaxi.com.br/milan.m3u8"
       ]
     },
     {
@@ -111,7 +105,7 @@
       "title": "LeÃ³n vs America",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/unimas.m3u8"
+        "https://daffodil.formaturamaxi.com.br/unimas.m3u8"
       ]
     },
     {
@@ -125,11 +119,14 @@
       "streams": []
     },
     {
+      "title": "Cruz Azul vs Santos Laguna",
+      "page": "https://roxiestreams.info/soccer-streams-17",
+      "streams": []
+    },
+    {
       "title": "Toluca vs Monterrey",
       "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
@@ -147,28 +144,28 @@
       "title": "Boston Red Sox vs Baltimore Orioles",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb3.m3u8"
       ]
     },
     {
       "title": "Los Angeles Angels vs Pittsburgh Pirates",
       "page": "https://roxiestreams.info/mlb-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb4.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb4.m3u8"
       ]
     },
     {
       "title": "Detroit Tigers vs Cleveland Guardians",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb5.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb5.m3u8"
       ]
     },
     {
       "title": "San Francisco Giants vs New York Mets",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb6.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb6.m3u8"
       ]
     },
     {
@@ -253,7 +250,9 @@
     {
       "title": "Louisville vs Ole Miss",
       "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+      ]
     }
   ],
   "nhl": [
@@ -267,7 +266,9 @@
     {
       "title": "WWE Sunday's Main Event",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+      ]
     },
     {
       "title": "Dana White's Contender Series",

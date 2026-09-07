@@ -1,25 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Wolves vs Birmingham
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Troyes vs Strasbourg
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Angers SCO vs Rennes
-https://daffodil.sandhost.qzz.io/beines.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Bologna vs Sassuolo
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Marseille vs Paris
-https://daffodil.sandhost.qzz.io/beines.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Juventus vs Milan
-https://daffodil.sandhost.qzz.io/milan.m3u8
+https://daffodil.formaturamaxi.com.br/milan.m3u8
 #EXTINF:-1 group-title="football",LeÃ³n vs America
-https://daffodil.sandhost.qzz.io/unimas.m3u8
-#EXTINF:-1 group-title="football",Toluca vs Monterrey
-https://daffodil.sandhost.qzz.io/beines.m3u8
+https://daffodil.formaturamaxi.com.br/unimas.m3u8
 #EXTINF:-1 group-title="mlb",Boston Red Sox vs Baltimore Orioles
-https://daffodil.sandhost.qzz.io/mlb3.m3u8
+https://daffodil.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Angels vs Pittsburgh Pirates
-https://daffodil.sandhost.qzz.io/mlb4.m3u8
+https://daffodil.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Detroit Tigers vs Cleveland Guardians
-https://daffodil.sandhost.qzz.io/mlb5.m3u8
+https://daffodil.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 group-title="mlb",San Francisco Giants vs New York Mets
-https://daffodil.sandhost.qzz.io/mlb6.m3u8
+https://daffodil.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 group-title="nfl",Louisville vs Ole Miss
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="fighting",WWE Sunday's Main Event
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
