@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Wolves vs Birmingham
+#EXTINF:-1 group-title="football",Cagliari vs Lecce
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Bologna vs Sassuolo
+#EXTINF:-1 group-title="football",Udinese vs Lazio
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Juventus vs Milan
-https://daffodil.formaturamaxi.com.br/milan.m3u8
-#EXTINF:-1 group-title="football",Toluca vs Monterrey
-https://daffodil.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 group-title="mlb",Boston Red Sox vs Baltimore Orioles
+#EXTINF:-1 group-title="mlb",Los Angeles Angels vs Boston Red Sox
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Los Angeles Angels vs Pittsburgh Pirates
+#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Baltimore Orioles
 https://daffodil.formaturamaxi.com.br/mlb4.m3u8
-#EXTINF:-1 group-title="mlb",Detroit Tigers vs Cleveland Guardians
+#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs Kansas City Royals
 https://daffodil.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",San Francisco Giants vs New York Mets
+#EXTINF:-1 group-title="mlb",Chicago Cubs vs Milwaukee Brewers
 https://daffodil.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 group-title="nfl",Louisville vs Ole Miss
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="fighting",WWE Sunday's Main Event
+#EXTINF:-1 group-title="fighting",WWE RAW
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
