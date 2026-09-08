@@ -3,15 +3,14 @@
     {
       "title": "AEK Athens vs LASK Linz",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Club Brugge vs Aston Villa",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
@@ -24,7 +23,9 @@
     {
       "title": "Al Quadisiya vs Al-Ahli",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
+      ]
     },
     {
       "title": "Crystal Palace vs Middlesbrough",
@@ -40,7 +41,7 @@
       "title": "Dortmund vs Villarreal",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/milan.m3u8"
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
@@ -51,7 +52,9 @@
     {
       "title": "Real Madrid vs Inter Milan",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
+      ]
     },
     {
       "title": "Porto vs Man City",
@@ -74,7 +77,7 @@
       "streams": []
     },
     {
-      "title": "Fluminense vs Platense",
+      "title": "Santa Fe vs Vasco Gama",
       "page": "https://roxiestreams.info/soccer-streams-14",
       "streams": []
     },
