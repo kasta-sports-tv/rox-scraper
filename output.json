@@ -3,7 +3,10 @@
     {
       "title": "Barcelona vs Feyenoord",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt3.m3u8",
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     },
     {
       "title": "Stuttgart vs Viking",
@@ -15,7 +18,9 @@
     {
       "title": "Al Nassr vs Abha",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
+      ]
     },
     {
       "title": "Norwich City vs Birmingham City",
@@ -44,7 +49,9 @@
     {
       "title": "Sporting CP vs Galatasaray",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt3.m3u8"
+      ]
     },
     {
       "title": "PSG vs Slovan Bratislava",
@@ -231,6 +238,13 @@
     }
   ],
   "fighting": [
+    {
+      "title": "Super RIZIN 5",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
+    },
     {
       "title": "TNA",
       "page": "https://roxiestreams.info/ppv-streams-1",

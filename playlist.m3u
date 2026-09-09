@@ -1,10 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Barcelona vs Feyenoord
+https://daffodil.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="football",Stuttgart vs Viking
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",Al Nassr vs Abha
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 group-title="football",Norwich City vs Birmingham City
 https://daffodil.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 group-title="football",Liverpool vs AtlÃ©tico Madrid
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",Sporting CP vs Galatasaray
+https://daffodil.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="football",Santos vs Atletico Mineiro
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Toronto FC vs Nashville
@@ -25,6 +31,8 @@ https://daffodil.formaturamaxi.com.br/mlb6.m3u8
 https://daffodil.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 group-title="mlb",Cincinnati Reds vs Los Angeles Dodgers
 https://daffodil.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 group-title="fighting",Super RIZIN 5
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",TNA
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
