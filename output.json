@@ -105,6 +105,13 @@
       "streams": []
     },
     {
+      "title": "Houston Astros vs Philadelphia Phillies",
+      "page": "https://roxiestreams.info/mlb-streams-3",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mlb3.m3u8"
+      ]
+    },
+    {
       "title": "New York Mets vs Miami Marlins",
       "page": "https://roxiestreams.info/mlb-streams-4",
       "streams": [
@@ -170,7 +177,9 @@
     {
       "title": "Cincinnati Reds vs Los Angeles Dodgers",
       "page": "https://roxiestreams.info/mlb-streams-15",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mlb15.m3u8"
+      ]
     }
   ],
   "nba": [
@@ -215,7 +224,9 @@
     {
       "title": "Dana White's Contender Series",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     },
     {
       "title": "WWE NXT",

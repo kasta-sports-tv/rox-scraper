@@ -11,6 +11,8 @@ https://daffodil.formaturamaxi.com.br/beines.m3u8
 https://daffodil.formaturamaxi.com.br/bein3.m3u8
 #EXTINF:-1 group-title="football",Boca Juniors vs SÃ£o Paulo
 https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="mlb",Houston Astros vs Philadelphia Phillies
+https://daffodil.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",New York Mets vs Miami Marlins
 https://daffodil.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Angels vs Boston Red Sox
@@ -19,7 +21,11 @@ https://daffodil.formaturamaxi.com.br/mlb5.m3u8
 https://daffodil.formaturamaxi.com.br/mlb6.m3u8
 #EXTINF:-1 group-title="mlb",Chicago Cubs vs Milwaukee Brewers
 https://daffodil.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",Cincinnati Reds vs Los Angeles Dodgers
+https://daffodil.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 group-title="nfl",SMU vs Florida State
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="fighting",Dana White's Contender Series
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE NXT
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
