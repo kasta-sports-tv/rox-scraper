@@ -4,7 +4,6 @@
       "title": "PSV vs Shakhtar Donetsk",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8",
         "https://daffodil.sandhost.qzz.io/tnt3.m3u8"
       ]
     },
@@ -12,31 +11,33 @@
       "title": "FenerbahÃ§e vs Roma",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8",
+        "https://daffodil.sandhost.qzz.io/tnt2.m3u8"
       ]
     },
     {
       "title": "Slavia Praha vs Lens",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Man United vs Sabah",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
+      ]
     },
     {
       "title": "Como vs RB Leipzig",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+      ]
     },
     {
       "title": "Bayern MÃ¼nchen vs BodÃ¸ / Glimt",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/bein3.m3u8",
         "https://daffodil.sandhost.qzz.io/tnt2.m3u8"
       ]
     },
