@@ -3,22 +3,18 @@
 https://daffodil.sandhost.qzz.io/tnt3.m3u8
 #EXTINF:-1 group-title="football",FenerbahÃ§e vs Roma
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Man United vs Sabah
-https://daffodil.sandhost.qzz.io/tnt.m3u8
 #EXTINF:-1 group-title="football",Como vs RB Leipzig
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs BodÃ¸ / Glimt
-https://daffodil.sandhost.qzz.io/tnt2.m3u8
-#EXTINF:-1 group-title="football",Flamengo vs Independiente Del Valle
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Cienciano vs Torque
-https://daffodil.sandhost.qzz.io/tnt3.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="mlb",Texas Rangers vs Seattle Mariners
 https://daffodil.sandhost.qzz.io/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Colorado Rockies vs New York Yankees
 https://daffodil.sandhost.qzz.io/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Chicago White Sox
 https://daffodil.sandhost.qzz.io/mlb5.m3u8
+#EXTINF:-1 group-title="nfl",San Francisco 49ers vs Los Angeles Rams
+https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="fighting",Super RIZIN 5
 https://daffodil.sandhost.qzz.io/ppv.m3u8
 #EXTINF:-1 group-title="fighting",TNA

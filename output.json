@@ -11,8 +11,7 @@
       "title": "FenerbahÃ§e vs Roma",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8",
-        "https://daffodil.sandhost.qzz.io/tnt2.m3u8"
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
       ]
     },
     {
@@ -23,9 +22,7 @@
     {
       "title": "Man United vs Sabah",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Como vs RB Leipzig",
@@ -37,9 +34,7 @@
     {
       "title": "Bayern MÃ¼nchen vs BodÃ¸ / Glimt",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Stevenage vs Luton",
@@ -49,15 +44,13 @@
     {
       "title": "Flamengo vs Independiente Del Valle",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Cienciano vs Torque",
       "page": "https://roxiestreams.info/soccer-streams-9",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt3.m3u8"
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
@@ -125,7 +118,9 @@
     {
       "title": "San Francisco 49ers vs Los Angeles Rams",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
+      ]
     }
   ],
   "nhl": [
