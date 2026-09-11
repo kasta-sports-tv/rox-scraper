@@ -2,15 +2,17 @@
 #EXTINF:-1 group-title="football",Al-Ahli vs Al Hazm
 https://daffodil.formaturamaxi.com.br/foxd.m3u8
 #EXTINF:-1 group-title="football",Union Berlin vs Schalke
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+https://daffodil.formaturamaxi.com.br/berlin.m3u8
+#EXTINF:-1 group-title="football",Stenhousemuir vs Hearts
+https://daffodil.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 group-title="football",Venezia vs Fiorentina
+https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 group-title="football",Rennes vs Marseille
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Newell's Old Boys vs VÃ©lez Sarsfield
-https://daffodil.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 group-title="football",UTC Cajamarca vs Juan Pablo II College
-https://daffodil.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 group-title="football",Cienciano vs Torque
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",West Ham vs Wrexham
+https://daffodil.formaturamaxi.com.br/alt.m3u8
+#EXTINF:-1 group-title="football",Coritiba vs Athletico-PR
+https://daffodil.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="football",Tijuana vs QuerÃ©taro
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Atlante vs Pachuca

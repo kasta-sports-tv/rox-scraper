@@ -8,33 +8,45 @@
       ]
     },
     {
+      "title": "AZ vs Willem",
+      "page": "https://roxiestreams.info/soccer-streams-18",
+      "streams": []
+    },
+    {
       "title": "Union Berlin vs Schalke",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/berlin.m3u8"
       ]
     },
     {
       "title": "Stenhousemuir vs Hearts",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+      ]
     },
     {
       "title": "Venezia vs Fiorentina",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+      ]
     },
     {
       "title": "Rennes vs Marseille",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8",
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     },
     {
       "title": "West Ham vs Wrexham",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/alt.m3u8"
+      ]
     },
     {
       "title": "Sevilla vs Valencia",
@@ -44,16 +56,12 @@
     {
       "title": "Newell's Old Boys vs VÃ©lez Sarsfield",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "UTC Cajamarca vs Juan Pablo II College",
       "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fs1.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Defensa y Justicia vs Gimnasia Mendoza",
@@ -63,19 +71,14 @@
     {
       "title": "Coritiba vs Athletico-PR",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+      ]
     },
     {
       "title": "Cusco vs Melgar",
       "page": "https://roxiestreams.info/soccer-streams-16",
       "streams": []
-    },
-    {
-      "title": "Cienciano vs Torque",
-      "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
-      ]
     },
     {
       "title": "Boca Juniors vs Central Cordoba",
@@ -140,16 +143,6 @@
       "streams": [
         "https://daffodil.formaturamaxi.com.br/mlb6.m3u8"
       ]
-    },
-    {
-      "title": "Houston Astros vs Tampa Bay Rays",
-      "page": "https://roxiestreams.info/mlb-streams-7",
-      "streams": []
-    },
-    {
-      "title": "Los Angeles Dodgers vs Miami Marlins",
-      "page": "https://roxiestreams.info/mlb-streams-8",
-      "streams": []
     },
     {
       "title": "Philadelphia Phillies vs Atlanta Braves",
