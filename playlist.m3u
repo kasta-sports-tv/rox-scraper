@@ -1,23 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",PSV vs Shakhtar Donetsk
-https://daffodil.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 group-title="football",FenerbahÃ§e vs Roma
+#EXTINF:-1 group-title="football",Al-Ahli vs Al Hazm
+https://daffodil.formaturamaxi.com.br/foxd.m3u8
+#EXTINF:-1 group-title="football",Union Berlin vs Schalke
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Como vs RB Leipzig
+#EXTINF:-1 group-title="football",Rennes vs Marseille
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",Newell's Old Boys vs VÃ©lez Sarsfield
+https://daffodil.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 group-title="football",UTC Cajamarca vs Juan Pablo II College
+https://daffodil.formaturamaxi.com.br/fs1.m3u8
 #EXTINF:-1 group-title="football",Cienciano vs Torque
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="mlb",Texas Rangers vs Seattle Mariners
+#EXTINF:-1 group-title="football",Tijuana vs QuerÃ©taro
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Atlante vs Pachuca
+https://daffodil.formaturamaxi.com.br/santos.m3u8
+#EXTINF:-1 group-title="mlb",Los Angeles Angels vs Washington Nationals
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Colorado Rockies vs New York Yankees
+#EXTINF:-1 group-title="mlb",New York Mets vs New York Yankees
 https://daffodil.formaturamaxi.com.br/mlb4.m3u8
-#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Chicago White Sox
+#EXTINF:-1 group-title="mlb",Baltimore Orioles vs Toronto Blue Jays
 https://daffodil.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="nfl",San Francisco 49ers vs Los Angeles Rams
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="fighting",Super RIZIN 5
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",TNA
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="mlb",Kansas City Royals vs Boston Red Sox
+https://daffodil.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 group-title="mlb",Cincinnati Reds vs Milwaukee Brewers
+https://daffodil.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",San Diego Padres vs San Francisco Giants
+https://daffodil.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 group-title="nfl",Villanova vs Louisville
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Norfolk State vs Virginia
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
