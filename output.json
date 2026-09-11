@@ -145,6 +145,16 @@
       ]
     },
     {
+      "title": "Houston Astros vs Tampa Bay Rays",
+      "page": "https://roxiestreams.info/mlb-streams-7",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles Dodgers vs Miami Marlins",
+      "page": "https://roxiestreams.info/mlb-streams-8",
+      "streams": []
+    },
+    {
       "title": "Philadelphia Phillies vs Atlanta Braves",
       "page": "https://roxiestreams.info/mlb-streams-9",
       "streams": []
@@ -215,26 +225,25 @@
       ]
     },
     {
-      "title": "Norfolk State vs Virginia",
-      "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
-      ]
-    },
-    {
       "title": "Richmond vs NC State",
       "page": "https://roxiestreams.info/ncaa-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+      ]
     },
     {
       "title": "Rutgers vs Boston College",
       "page": "https://roxiestreams.info/ncaa-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa4.m3u8"
+      ]
     },
     {
       "title": "Missouri vs Kansas",
       "page": "https://roxiestreams.info/ncaa-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa5.m3u8"
+      ]
     }
   ],
   "nhl": [
@@ -250,6 +259,39 @@
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+      ]
+    },
+    {
+      "title": "ONE Samurai 3",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
+    },
+    {
+      "title": "Gamebred FC x RCC HARD 21",
+      "page": "https://roxiestreams.info/ppv-streams-2",
+      "streams": []
+    },
+    {
+      "title": "Misfits: McCann vs. Big Stacks",
+      "page": "https://roxiestreams.info/ppv-streams-3",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
+    },
+    {
+      "title": "Ryan Garcia vs Conor Benn (ZUFFA)",
+      "page": "https://roxiestreams.info/ppv-streams-3",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
+    },
+    {
+      "title": "Dana White's Contender Series",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
       ]
     }
   ],

@@ -31,7 +31,19 @@ https://daffodil.formaturamaxi.com.br/mlb10.m3u8
 https://daffodil.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 group-title="nfl",Villanova vs Louisville
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Norfolk State vs Virginia
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Richmond vs NC State
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Rutgers vs Boston College
+https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
+#EXTINF:-1 group-title="nfl",Missouri vs Kansas
+https://daffodil.formaturamaxi.com.br/ncaa5.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="fighting",ONE Samurai 3
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",Misfits: McCann vs. Big Stacks
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",Ryan Garcia vs Conor Benn (ZUFFA)
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",Dana White's Contender Series
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
