@@ -1,38 +1,90 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Al-Ahli vs Al Hazm
-https://daffodil.formaturamaxi.com.br/foxd.m3u8
-#EXTINF:-1 group-title="football",Union Berlin vs Schalke
-https://daffodil.formaturamaxi.com.br/berlin.m3u8
-#EXTINF:-1 group-title="football",Stenhousemuir vs Hearts
-https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",Venezia vs Fiorentina
-https://daffodil.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="football",Rennes vs Marseille
+#EXTINF:-1 group-title="football",Birmingham City vs Derby County
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",West Bromwich vs QPR
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Racing Santander vs Deportivo Alaves
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Dortmund vs Paderborn
+https://daffodil.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 group-title="football",Aston Villa vs Nottingham
 https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",West Ham vs Wrexham
+#EXTINF:-1 group-title="football",Bournemouth vs Brentford
 https://daffodil.formaturamaxi.com.br/alt.m3u8
-#EXTINF:-1 group-title="mlb",Los Angeles Angels vs Washington Nationals
+#EXTINF:-1 group-title="football",Chelsea vs Hull
+https://daffodil.formaturamaxi.com.br/usa.m3u8
+#EXTINF:-1 group-title="football",Liverpool vs Fulham
+https://daffodil.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 group-title="football",Middlesbrough vs Norwich
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Swansea City vs Burnley
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",Osasuna vs Espanyol
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Strasbourg vs Monaco
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Athletic Club vs Elche
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Tottenham vs Everton
+https://daffodil.formaturamaxi.com.br/ncaa13.m3u8
+#EXTINF:-1 group-title="football",KÃ¶ln vs Werder Bremen
+https://daffodil.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 group-title="football",Kilmarnock vs Aberdeen
+https://daffodil.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 group-title="football",Casa Pia vs Porto
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Atalanta vs Cagliari
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",Paris vs Lyon
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Arsenal vs Sunderland
+https://daffodil.formaturamaxi.com.br/usa.m3u8
+#EXTINF:-1 group-title="football",Orlando City SC vs Toronto
+https://daffodil.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Chicago Cubs
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",New York Mets vs New York Yankees
-https://daffodil.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 group-title="mlb",Baltimore Orioles vs Toronto Blue Jays
+https://daffodil.formaturamaxi.com.br/mlb4.m3u8
+#EXTINF:-1 group-title="mlb",Los Angeles Angels vs Washington Nationals
 https://daffodil.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Kansas City Royals vs Boston Red Sox
-https://daffodil.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Cincinnati Reds vs Milwaukee Brewers
-https://daffodil.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 group-title="mlb",San Diego Padres vs San Francisco Giants
+https://daffodil.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 group-title="mlb",Houston Astros vs Tampa Bay Rays
+https://daffodil.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",Seattle Mariners vs Athletics
 https://daffodil.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 group-title="nfl",Villanova vs Louisville
+#EXTINF:-1 group-title="nfl",Howard vs Indiana
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Richmond vs NC State
+#EXTINF:-1 group-title="nfl",Arizona State vs Texas A&M
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Rutgers vs Boston College
+#EXTINF:-1 group-title="nfl",Oklahoma vs Michigan
 https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 group-title="nfl",Missouri vs Kansas
-https://daffodil.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="nfl",East Tennessee State vs North Carolina
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="nfl",Rice vs Notre Dame
+https://daffodil.formaturamaxi.com.br/ncaa13.m3u8
+#EXTINF:-1 group-title="nfl",Alabama vs Kentucky
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Arizona vs BYU
+https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
+#EXTINF:-1 group-title="nfl",Utah State vs Washington
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",California vs Syracuse
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="nfl",Eastern Michigan vs Michigan State
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",San Diego State vs UCLA
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Western Illinois vs Wisconsin
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Ohio State vs Texas
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Iowa State vs Iowa
+https://daffodil.formaturamaxi.com.br/ncaa13.m3u8
+#EXTINF:-1 group-title="nfl",Georgia Southern vs Clemson
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="nfl",Louisiana vs USC
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="fighting",ONE Samurai 3
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",Gamebred FC x RCC HARD 21
