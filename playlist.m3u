@@ -8,15 +8,9 @@ https://daffodil.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="football",Venezia vs Fiorentina
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 group-title="football",Rennes vs Marseille
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",West Ham vs Wrexham
 https://daffodil.formaturamaxi.com.br/alt.m3u8
-#EXTINF:-1 group-title="football",Coritiba vs Athletico-PR
-https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",Tijuana vs QuerÃ©taro
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Atlante vs Pachuca
-https://daffodil.formaturamaxi.com.br/santos.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Angels vs Washington Nationals
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",New York Mets vs New York Yankees
@@ -41,9 +35,7 @@ https://daffodil.formaturamaxi.com.br/ncaa5.m3u8
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="fighting",ONE Samurai 3
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Misfits: McCann vs. Big Stacks
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Ryan Garcia vs Conor Benn (ZUFFA)
+#EXTINF:-1 group-title="fighting",Gamebred FC x RCC HARD 21
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",Dana White's Contender Series
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
