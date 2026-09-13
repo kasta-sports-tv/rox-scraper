@@ -28,7 +28,6 @@
       "title": "Lille vs Troyes",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8",
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
@@ -53,7 +52,6 @@
       "title": "Le Mans vs Lens",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8",
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
@@ -88,7 +86,6 @@
       "title": "PSG vs Brest",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8",
         "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
@@ -103,10 +100,15 @@
       "streams": []
     },
     {
+      "title": "Colo-Colo vs  Concepcion",
+      "page": "https://roxiestreams.info/soccer-streams-17",
+      "streams": []
+    },
+    {
       "title": "Chicago Fire vs New England",
       "page": "https://roxiestreams.info/soccer-streams-14",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
       ]
     },
     {
@@ -145,9 +147,7 @@
     {
       "title": "New York Mets vs New York Yankees",
       "page": "https://roxiestreams.info/mlb-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb4.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Baltimore Orioles vs Toronto Blue Jays",
@@ -286,9 +286,7 @@
     {
       "title": "Green Bay Packers vs Minnesota Vikings",
       "page": "https://roxiestreams.info/nfl-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Washington Commanders vs Philadelphia Eagles",
