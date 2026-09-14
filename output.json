@@ -3,9 +3,7 @@
     {
       "title": "Como vs Parma",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/como.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Torino vs Roma",
@@ -22,15 +20,12 @@
     {
       "title": "Inter Milan vs Udinese",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/como.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Leeds vs Newcastle",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/now.m3u8",
         "https://daffodil.formaturamaxi.com.br/usa.m3u8"
       ]
     },
@@ -49,9 +44,7 @@
     {
       "title": "LeÃ³n vs San Luis",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
