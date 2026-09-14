@@ -1,12 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Como vs Parma
+https://daffodil.formaturamaxi.com.br/como.m3u8
 #EXTINF:-1 group-title="football",Gaziantep FK vs FenerbahÃ§e
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Inter Milan vs Udinese
-https://daffodil.formaturamaxi.com.br/alt.m3u8
+https://daffodil.formaturamaxi.com.br/como.m3u8
 #EXTINF:-1 group-title="football",Leeds vs Newcastle
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Bahia vs Remo
-https://daffodil.formaturamaxi.com.br/alt.m3u8
+https://daffodil.formaturamaxi.com.br/now.m3u8
+#EXTINF:-1 group-title="football",Villarreal vs Real Betis
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",LeÃ³n vs San Luis
+https://daffodil.formaturamaxi.com.br/usa.m3u8
 #EXTINF:-1 group-title="mlb",Detroit Tigers vs Toronto Blue Jays
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Atlanta Braves vs Chicago Cubs
