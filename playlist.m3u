@@ -1,35 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Celta Vigo vs MÃ¡laga
+#EXTINF:-1 group-title="football",Gaziantep FK vs FenerbahÃ§e
 https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Coventry City vs Brighton
+#EXTINF:-1 group-title="football",Inter Milan vs Udinese
 https://daffodil.formaturamaxi.com.br/alt.m3u8
-#EXTINF:-1 group-title="football",Lille vs Troyes
+#EXTINF:-1 group-title="football",Leeds vs Newcastle
 https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Levante vs Barcelona
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Le Mans vs Lens
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Man United vs Man City
+#EXTINF:-1 group-title="football",Bahia vs Remo
 https://daffodil.formaturamaxi.com.br/alt.m3u8
-#EXTINF:-1 group-title="football",PSG vs Brest
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Chicago Fire vs New England
-https://daffodil.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Atlanta Braves
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Toronto Blue Jays
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Baltimore Orioles vs Toronto Blue Jays
+#EXTINF:-1 group-title="mlb",Atlanta Braves vs Chicago Cubs
 https://daffodil.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Houston Astros vs Tampa Bay Rays
+#EXTINF:-1 group-title="mlb",New York Yankees vs Minnesota Twins
 https://daffodil.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Chicago White Sox vs St. Louis Cardinals
+#EXTINF:-1 group-title="mlb",Miami Marlins vs Arizona Diamondbacks
 https://daffodil.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",San Diego Padres vs San Francisco Giants
-https://daffodil.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 group-title="nfl",Tampa Bay Buccaneers vs Cincinnati Bengals
+#EXTINF:-1 group-title="nfl",Denver Broncos vs Kansas City Chiefs
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",Dallas Cowboys vs New York Giants
-https://daffodil.formaturamaxi.com.br/nfl13.m3u8
-#EXTINF:-1 group-title="fighting",ONE Samurai 3
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",WWE RAW
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="fighting",Dana White's Contender Series
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",WWE NXT
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="fighting",TNA
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",WWE Smackdown
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
