@@ -3,12 +3,16 @@
     {
       "title": "Genoa vs SÃ¼dtirol",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
     },
     {
       "title": "Rayo Vallecano vs Espanyol",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+      ]
     },
     {
       "title": "Middlesbrough vs Millwall",
@@ -20,7 +24,9 @@
     {
       "title": "West Ham vs Fulham",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
     },
     {
       "title": "Arsenal vs Ipswich",
@@ -30,9 +36,7 @@
     {
       "title": "Liverpool vs Tottenham",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/usa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Reading vs Brentford",

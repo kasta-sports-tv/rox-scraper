@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Genoa vs SÃ¼dtirol
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Rayo Vallecano vs Espanyol
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Middlesbrough vs Millwall
 https://daffodil.sandhost.qzz.io/vsport.m3u8
-#EXTINF:-1 group-title="football",Liverpool vs Tottenham
-https://daffodil.sandhost.qzz.io/usa.m3u8
+#EXTINF:-1 group-title="football",West Ham vs Fulham
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Reading vs Brentford
 https://daffodil.sandhost.qzz.io/vsport.m3u8
 #EXTINF:-1 group-title="football",Elche vs Real Madrid
