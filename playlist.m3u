@@ -1,22 +1,26 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Gaziantep FK vs FenerbahÃ§e
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Leeds vs Newcastle
+#EXTINF:-1 group-title="football",Middlesbrough vs Millwall
+https://daffodil.sandhost.qzz.io/vsport.m3u8
+#EXTINF:-1 group-title="football",Liverpool vs Tottenham
 https://daffodil.sandhost.qzz.io/usa.m3u8
-#EXTINF:-1 group-title="football",Villarreal vs Real Betis
+#EXTINF:-1 group-title="football",Reading vs Brentford
+https://daffodil.sandhost.qzz.io/vsport.m3u8
+#EXTINF:-1 group-title="football",Elche vs Real Madrid
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="mlb",Detroit Tigers vs Toronto Blue Jays
+#EXTINF:-1 group-title="football",Puebla vs Toluca
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="mlb",Chicago White Sox vs Cleveland Guardians
 https://daffodil.sandhost.qzz.io/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Atlanta Braves vs Chicago Cubs
+#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Washington Nationals
 https://daffodil.sandhost.qzz.io/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",New York Yankees vs Minnesota Twins
+#EXTINF:-1 group-title="mlb",Detroit Tigers vs Toronto Blue Jays
 https://daffodil.sandhost.qzz.io/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Miami Marlins vs Arizona Diamondbacks
+#EXTINF:-1 group-title="mlb",San Francisco Giants vs St. Louis Cardinals
 https://daffodil.sandhost.qzz.io/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",Miami Marlins vs Arizona Diamondbacks
+https://daffodil.sandhost.qzz.io/mlb15.m3u8
 #EXTINF:-1 group-title="nfl",Denver Broncos vs Kansas City Chiefs
 https://daffodil.sandhost.qzz.io/nfl.m3u8
-#EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 group-title="fighting",Dana White's Contender Series
 https://daffodil.sandhost.qzz.io/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE NXT
