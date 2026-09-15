@@ -1,35 +1,35 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Genoa vs SÃ¼dtirol
-https://daffodil.sandhost.qzz.io/golazo.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Rayo Vallecano vs Espanyol
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Middlesbrough vs Millwall
-https://daffodil.sandhost.qzz.io/vsport.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",West Ham vs Fulham
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Reading vs Brentford
-https://daffodil.sandhost.qzz.io/vsport.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Elche vs Real Madrid
-https://daffodil.sandhost.qzz.io/dep.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Platense vs Fluminense
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",SÃ£o Paulo vs Boca Juniors
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Puebla vs Toluca
-https://daffodil.sandhost.qzz.io/dep.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="mlb",Chicago White Sox vs Cleveland Guardians
-https://daffodil.sandhost.qzz.io/mlb3.m3u8
+https://daffodil.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Philadelphia Phillies vs Washington Nationals
-https://daffodil.sandhost.qzz.io/mlb5.m3u8
+https://daffodil.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 group-title="mlb",Detroit Tigers vs Toronto Blue Jays
-https://daffodil.sandhost.qzz.io/mlb6.m3u8
+https://daffodil.formaturamaxi.com.br/mlb6.m3u8
 #EXTINF:-1 group-title="mlb",San Francisco Giants vs St. Louis Cardinals
-https://daffodil.sandhost.qzz.io/mlb10.m3u8
+https://daffodil.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 group-title="mlb",Miami Marlins vs Arizona Diamondbacks
-https://daffodil.sandhost.qzz.io/mlb15.m3u8
+https://daffodil.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 group-title="nfl",Denver Broncos vs Kansas City Chiefs
-https://daffodil.sandhost.qzz.io/nfl.m3u8
+https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.sandhost.qzz.io/ppv.m3u8
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE NXT
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="fighting",TNA
-https://daffodil.sandhost.qzz.io/ppv.m3u8
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8

@@ -4,28 +4,26 @@
       "title": "Genoa vs SÃ¼dtirol",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
     {
       "title": "Rayo Vallecano vs Espanyol",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
       ]
     },
     {
       "title": "Middlesbrough vs Millwall",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/vsport.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "West Ham vs Fulham",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
     {
@@ -41,9 +39,7 @@
     {
       "title": "Reading vs Brentford",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/vsport.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Fiorentina vs Pisa",
@@ -54,13 +50,16 @@
       "title": "Elche vs Real Madrid",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
       ]
     },
     {
       "title": "Platense vs Fluminense",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+      ]
     },
     {
       "title": "Vasco Gama vs Santa Fe",
@@ -70,13 +69,16 @@
     {
       "title": "SÃ£o Paulo vs Boca Juniors",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+      ]
     },
     {
       "title": "Puebla vs Toluca",
       "page": "https://roxiestreams.info/soccer-streams-11",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
       ]
     }
   ],
@@ -95,7 +97,7 @@
       "title": "Chicago White Sox vs Cleveland Guardians",
       "page": "https://roxiestreams.info/mlb-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb3.m3u8"
       ]
     },
     {
@@ -107,14 +109,14 @@
       "title": "Philadelphia Phillies vs Washington Nationals",
       "page": "https://roxiestreams.info/mlb-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb5.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb5.m3u8"
       ]
     },
     {
       "title": "Detroit Tigers vs Toronto Blue Jays",
       "page": "https://roxiestreams.info/mlb-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb6.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb6.m3u8"
       ]
     },
     {
@@ -136,7 +138,7 @@
       "title": "San Francisco Giants vs St. Louis Cardinals",
       "page": "https://roxiestreams.info/mlb-streams-10",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb10.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb10.m3u8"
       ]
     },
     {
@@ -163,7 +165,7 @@
       "title": "Miami Marlins vs Arizona Diamondbacks",
       "page": "https://roxiestreams.info/mlb-streams-15",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb15.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb15.m3u8"
       ]
     }
   ],
@@ -194,7 +196,7 @@
       "title": "Denver Broncos vs Kansas City Chiefs",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     }
   ],
@@ -210,28 +212,28 @@
       "title": "Dana White's Contender Series",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
       ]
     },
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     },
     {
       "title": "TNA",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
       ]
     },
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     }
   ],
