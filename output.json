@@ -11,8 +11,8 @@
       "title": "Omonia Nicosia vs Celta Vigo",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8",
-        "https://daffodil.formaturamaxi.com.br/tnt4.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tnt4.m3u8",
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
@@ -67,9 +67,7 @@
     {
       "title": "Olympiacos vs Jagiellonia BiaÅystok",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Coventry City vs Aston Villa",
@@ -91,31 +89,27 @@
     {
       "title": "AtlÃ©tico Mineiro vs Santos",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "LDU Quito vs Palmeiras",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8",
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
       ]
     },
     {
       "title": "GrÃªmio vs Botafogo",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Corinthians vs Estudiantes",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8",
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
       ]
     }
   ],
@@ -208,29 +202,34 @@
   ],
   "nba": [
     {
-      "title": "Minnesota Lynx vs Atlanta Dream",
+      "title": "Connecticut Sun vs Atlanta Dream",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": []
     },
     {
-      "title": "Los Angeles Sparks vs Seattle Storm",
+      "title": "Washington Mystics vs Chicago Sky",
       "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": []
     },
     {
-      "title": "Golden State Valkyries vs Portland Fire",
+      "title": "Los Angeles Sparks vs Dallas Wings",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": []
     },
     {
-      "title": "Connecticut Sun vs Dallas Wings",
+      "title": "Phoenix Mercury vs Portland Fire",
       "page": "https://roxiestreams.info/wnba-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Las Vegas Aces vs Seattle Storm",
+      "page": "https://roxiestreams.info/wnba-streams-5",
       "streams": []
     }
   ],
   "nfl": [
     {
-      "title": "Denver Broncos vs Kansas City Chiefs",
+      "title": "Detroit Lions vs Buffalo Bills",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/nfl.m3u8"

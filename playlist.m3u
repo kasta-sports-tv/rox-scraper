@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="football",Ararat-Armenia vs Sparta Praha
 https://daffodil.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="football",Omonia Nicosia vs Celta Vigo
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+https://daffodil.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 group-title="football",AtlÃ©tico Madrid vs Osasuna
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Fleetwood Town vs Sheffield
@@ -17,18 +17,12 @@ https://daffodil.formaturamaxi.com.br/tnt3.m3u8
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Sunderland vs AZ
 https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",Olympiacos vs Jagiellonia BiaÅystok
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="football",Barcelona vs Racing Santander
 https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",AtlÃ©tico Mineiro vs Santos
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="football",LDU Quito vs Palmeiras
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",GrÃªmio vs Botafogo
-https://daffodil.formaturamaxi.com.br/mls.m3u8
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Corinthians vs Estudiantes
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Minnesota Twins
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Cincinnati Reds
@@ -39,7 +33,7 @@ https://daffodil.formaturamaxi.com.br/mlb6.m3u8
 https://daffodil.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 group-title="mlb",Miami Marlins vs Arizona Diamondbacks
 https://daffodil.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 group-title="nfl",Denver Broncos vs Kansas City Chiefs
+#EXTINF:-1 group-title="nfl",Detroit Lions vs Buffalo Bills
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="fighting",TNA
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
