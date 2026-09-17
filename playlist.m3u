@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="football",Ararat-Armenia vs Sparta Praha
 https://daffodil.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="football",Omonia Nicosia vs Celta Vigo
-https://daffodil.formaturamaxi.com.br/tnt4.m3u8
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",AtlÃ©tico Madrid vs Osasuna
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Fleetwood Town vs Sheffield
@@ -20,9 +20,11 @@ https://daffodil.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="football",Barcelona vs Racing Santander
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",LDU Quito vs Palmeiras
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Inter Miami vs Cruz Azul
+https://daffodil.formaturamaxi.com.br/mls.m3u8
 #EXTINF:-1 group-title="football",Corinthians vs Estudiantes
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Minnesota Twins
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Cincinnati Reds
