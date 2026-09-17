@@ -10,9 +10,7 @@
     {
       "title": "OFI vs Hoffenheim",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt4.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Real Betis vs Getafe",
@@ -53,9 +51,7 @@
     {
       "title": "Juventus vs NEC",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt4.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Real Sociedad vs Bournemouth",
@@ -74,14 +70,15 @@
     {
       "title": "Flamengo vs Independiente Del Valle",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Torque vs Cienciano",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8",
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
       ]
     }
   ],

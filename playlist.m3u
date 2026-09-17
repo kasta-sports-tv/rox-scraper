@@ -1,20 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Levski Sofia vs Salzburg
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",OFI vs Hoffenheim
-https://daffodil.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 group-title="football",Real Betis vs Getafe
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Celtic vs FerencvÃ¡ros
 https://daffodil.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="football",Crystal Palace vs Lech PoznaÅ
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Juventus vs NEC
-https://daffodil.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 group-title="football",Real Sociedad vs Bournemouth
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",MÃ¡laga vs Villarrea
 https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Flamengo vs Independiente Del Valle
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Torque vs Cienciano
 https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="mlb",Athletics vs Tampa Bay Rays
