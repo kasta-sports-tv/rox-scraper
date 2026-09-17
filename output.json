@@ -24,16 +24,12 @@
     {
       "title": "Man City vs Norwich City",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/vsport.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "AFC Wimbledon vs MK Dons",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/vsport.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "BeÅiktaÅ vs Marseille",
@@ -44,14 +40,14 @@
       "title": "Celtic vs FerencvÃ¡ros",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
       ]
     },
     {
       "title": "Crystal Palace vs Lech PoznaÅ",
       "page": "https://roxiestreams.info/soccer-streams-9",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
       ]
     },
     {
@@ -64,7 +60,9 @@
     {
       "title": "Real Sociedad vs Bournemouth",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     },
     {
       "title": "MÃ¡laga vs Villarrea",
@@ -82,8 +80,8 @@
       "title": "Torque vs Cienciano",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8",
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     }
   ],
