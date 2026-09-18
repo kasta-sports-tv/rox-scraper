@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Union Berlin
-https://daffodil.formaturamaxi.com.br/vsport.m3u8
 #EXTINF:-1 group-title="football",Monaco vs Lens
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Brentford vs Chelsea
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="football",Espanyol vs Elche
 https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Bristol City vs Watford
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Tigres vs Juarez
 https://daffodil.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Baltimore Orioles
@@ -26,7 +22,7 @@ https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nba",New York Liberty vs Minnesota Lynx
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Portland Fire vs Golden State Valkyries
-https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nfl",Miami vs Wake Forest
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Portland State vs Oregon

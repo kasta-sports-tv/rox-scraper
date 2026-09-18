@@ -3,9 +3,7 @@
     {
       "title": "Bayern MÃ¼nchen vs Union Berlin",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/vsport.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Monza vs Sassuolo",
@@ -23,7 +21,8 @@
       "title": "Brentford vs Chelsea",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8",
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
       ]
     },
     {
@@ -36,9 +35,7 @@
     {
       "title": "Bristol City vs Watford",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Puebla vs Atlante",
@@ -159,7 +156,7 @@
       "title": "Portland Fire vs Golden State Valkyries",
       "page": "https://roxiestreams.info/wnba-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
       ]
     }
   ],
