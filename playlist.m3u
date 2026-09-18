@@ -12,15 +12,23 @@ https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",MÃ¡laga vs Villarrea
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Flamengo vs Independiente Del Valle
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Torque vs Cienciano
 https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Torque vs Cienciano
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="mlb",Athletics vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 group-title="mlb",Kansas City Royals vs Houston Astros
 https://daffodil.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 group-title="mlb",Philadelphia Phillies vs New York Mets
 https://daffodil.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 group-title="nba",Connecticut Sun vs Atlanta Dream
+https://daffodil.formaturamaxi.com.br/wnba.m3u8
+#EXTINF:-1 group-title="nba",Washington Mystics vs Chicago Sky
+https://daffodil.formaturamaxi.com.br/wnba2.m3u8
+#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Dallas Wings
+https://daffodil.formaturamaxi.com.br/wnba3.m3u8
+#EXTINF:-1 group-title="nba",Phoenix Mercury vs Portland Fire
+https://daffodil.formaturamaxi.com.br/wnba4.m3u8
 #EXTINF:-1 group-title="nfl",Detroit Lions vs Buffalo Bills
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="fighting",TNA
