@@ -1,43 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Levski Sofia vs Salzburg
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Real Betis vs Getafe
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Celtic vs FerencvÃ¡ros
-https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",Crystal Palace vs Lech PoznaÅ
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Real Sociedad vs Bournemouth
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",MÃ¡laga vs Villarrea
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Flamengo vs Independiente Del Valle
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Torque vs Cienciano
+#EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Union Berlin
+https://daffodil.formaturamaxi.com.br/vsport.m3u8
+#EXTINF:-1 group-title="football",Monaco vs Lens
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="mlb",Athletics vs Tampa Bay Rays
+#EXTINF:-1 group-title="football",Brentford vs Chelsea
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="football",Espanyol vs Elche
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Bristol City vs Watford
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Tigres vs Juarez
+https://daffodil.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Baltimore Orioles
 https://daffodil.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Kansas City Royals vs Houston Astros
+#EXTINF:-1 group-title="mlb",Boston Red Sox vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 group-title="mlb",Philadelphia Phillies vs New York Mets
 https://daffodil.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 group-title="nba",Connecticut Sun vs Atlanta Dream
+#EXTINF:-1 group-title="mlb",Atlanta Braves vs Houston Astros
+https://daffodil.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 group-title="mlb",San Francisco Giants vs Los Angeles Dodgers
+https://daffodil.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 group-title="nba",Indiana Fever vs Toronto Tempo
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",Washington Mystics vs Chicago Sky
+#EXTINF:-1 group-title="nba",New York Liberty vs Minnesota Lynx
 https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Dallas Wings
+#EXTINF:-1 group-title="nba",Portland Fire vs Golden State Valkyries
 https://daffodil.formaturamaxi.com.br/wnba3.m3u8
-#EXTINF:-1 group-title="nba",Phoenix Mercury vs Portland Fire
-https://daffodil.formaturamaxi.com.br/wnba4.m3u8
-#EXTINF:-1 group-title="nfl",Detroit Lions vs Buffalo Bills
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="fighting",TNA
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="nfl",Miami vs Wake Forest
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Portland State vs Oregon
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 group-title="fighting",RAF 13: Covington vs. Muhammad
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Hedges vs. Brown
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
