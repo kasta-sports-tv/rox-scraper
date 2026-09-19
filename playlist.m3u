@@ -1,37 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Monaco vs Lens
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Brentford vs Chelsea
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 group-title="football",Espanyol vs Elche
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Baltimore Orioles
-https://daffodil.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 group-title="mlb",Boston Red Sox vs Tampa Bay Rays
-https://daffodil.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 group-title="mlb",Philadelphia Phillies vs New York Mets
-https://daffodil.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 group-title="mlb",Atlanta Braves vs Houston Astros
-https://daffodil.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 group-title="mlb",San Francisco Giants vs Los Angeles Dodgers
-https://daffodil.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 group-title="nba",Indiana Fever vs Toronto Tempo
-https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nba",New York Liberty vs Minnesota Lynx
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Portland Fire vs Golden State Valkyries
-https://daffodil.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 group-title="nfl",Miami vs Wake Forest
+#EXTINF:-1 group-title="nfl",Coastal Carolina vs Delaware
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Houston vs Texas Tech
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Portland State vs Oregon
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 group-title="fighting",RAF 13: Covington vs. Muhammad
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Hedges vs. Brown
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="nfl",Temple vs Toledo
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Marshall vs Missouri State
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",South Dakota vs Boise State
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
