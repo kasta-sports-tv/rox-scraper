@@ -11,15 +11,19 @@ https://daffodil.formaturamaxi.com.br/one.m3u8
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Athletic Club vs Deportivo Alaves
 https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Paris vs Strasbourg
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Celta Vigo vs Racing Santander
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Stuttgart vs Dortmund
 https://daffodil.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 group-title="football",Trabzonspor vs Galatasaray
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Lyon vs Rennes
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Venezia vs Lazio
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Sevilla vs Barcelona
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",AtlÃ©tico San Luis vs Necaxa
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="nfl",Coastal Carolina vs Delaware
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8

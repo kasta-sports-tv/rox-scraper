@@ -75,7 +75,9 @@
     {
       "title": "Paris vs Strasbourg",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Roma vs Inter Milan",
@@ -104,7 +106,9 @@
     {
       "title": "Trabzonspor vs Galatasaray",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Angers SCO vs Troyes",
@@ -114,7 +118,9 @@
     {
       "title": "Lyon vs Rennes",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     },
     {
       "title": "Venezia vs Lazio",
@@ -158,9 +164,7 @@
     {
       "title": "AtlÃ©tico San Luis vs Necaxa",
       "page": "https://roxiestreams.info/soccer-streams-19",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Atlas vs Pumas",
@@ -346,11 +350,6 @@
       "streams": []
     },
     {
-      "title": "Akron vs Minnesota",
-      "page": "https://roxiestreams.info/ncaa-streams-4",
-      "streams": []
-    },
-    {
       "title": "North Texas vs Texas State",
       "page": "https://roxiestreams.info/ncaa-streams-10",
       "streams": []
@@ -358,11 +357,6 @@
     {
       "title": "NC State vs Vanderbilt",
       "page": "https://roxiestreams.info/ncaa-streams-12",
-      "streams": []
-    },
-    {
-      "title": "Maine vs Boston College",
-      "page": "https://roxiestreams.info/ncaa-streams-13",
       "streams": []
     },
     {
@@ -508,7 +502,7 @@
     },
     {
       "title": "Northern Illinois vs Arizona",
-      "page": "https://roxiestreams.info/ncaa-streams-17",
+      "page": "https://roxiestreams.info/ncaa-streams-13",
       "streams": []
     },
     {
