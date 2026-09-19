@@ -8,22 +8,30 @@
     {
       "title": "Barnsley vs Leicester",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
     },
     {
       "title": "Millwall vs West Ham",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Osasuna vs Rayo Vallceano",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+      ]
     },
     {
       "title": "Werder Bremen vs Augsburg",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/one.m3u8"
+      ]
     },
     {
       "title": "Arsenal vs Brighton",
@@ -43,7 +51,9 @@
     {
       "title": "Birmingham City vs Middlesbrough",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Gillingham vs Bristol Rovers",
@@ -51,14 +61,16 @@
       "streams": []
     },
     {
-      "title": "Barnsley vs Leicester",
-      "page": "https://roxiestreams.info/soccer-streams-6",
+      "title": "Wrexham vs Southampton",
+      "page": "https://roxiestreams.info/soccer-streams-24",
       "streams": []
     },
     {
       "title": "Athletic Club vs Deportivo Alaves",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+      ]
     },
     {
       "title": "Paris vs Strasbourg",
@@ -78,12 +90,16 @@
     {
       "title": "Celta Vigo vs Racing Santander",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+      ]
     },
     {
       "title": "Stuttgart vs Dortmund",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/one.m3u8"
+      ]
     },
     {
       "title": "Trabzonspor vs Galatasaray",
@@ -103,12 +119,16 @@
     {
       "title": "Venezia vs Lazio",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Sevilla vs Barcelona",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+      ]
     },
     {
       "title": "AtlÃ©tico Mineiro vs Chapecoense",
@@ -138,7 +158,9 @@
     {
       "title": "AtlÃ©tico San Luis vs Necaxa",
       "page": "https://roxiestreams.info/soccer-streams-19",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+      ]
     },
     {
       "title": "Atlas vs Pumas",
@@ -271,6 +293,11 @@
     }
   ],
   "nfl": [
+    {
+      "title": "College Gameday",
+      "page": "https://roxiestreams.info/ncaa-streams-9",
+      "streams": []
+    },
     {
       "title": "Coastal Carolina vs Delaware",
       "page": "https://roxiestreams.info/ncaa-streams-1",
