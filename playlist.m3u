@@ -1,26 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Barnsley vs Leicester
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="football",Millwall vs West Ham
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Osasuna vs Rayo Vallceano
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Birmingham City vs Middlesbrough
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Athletic Club vs Deportivo Alaves
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Paris vs Strasbourg
-https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Celta Vigo vs Racing Santander
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Trabzonspor vs Galatasaray
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Lyon vs Rennes
-https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Venezia vs Lazio
-https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Sevilla vs Barcelona
 https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="nba",Chicago Sky vs Atlanta Dream
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nfl",Coastal Carolina vs Delaware
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Temple vs Toledo

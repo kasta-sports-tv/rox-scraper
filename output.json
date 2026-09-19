@@ -15,9 +15,7 @@
     {
       "title": "Millwall vs West Ham",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Osasuna vs Rayo Vallceano",
@@ -49,9 +47,7 @@
     {
       "title": "Birmingham City vs Middlesbrough",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Gillingham vs Bristol Rovers",
@@ -73,9 +69,7 @@
     {
       "title": "Paris vs Strasbourg",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Roma vs Inter Milan",
@@ -102,9 +96,7 @@
     {
       "title": "Trabzonspor vs Galatasaray",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Angers SCO vs Troyes",
@@ -114,16 +106,12 @@
     {
       "title": "Lyon vs Rennes",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Venezia vs Lazio",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Sevilla vs Barcelona",
@@ -284,7 +272,9 @@
     {
       "title": "Chicago Sky vs Atlanta Dream",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+      ]
     },
     {
       "title": "Seattle Storm vs Golden State Valkyries",
