@@ -25,7 +25,15 @@ https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 https://daffodil.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 group-title="nfl",Miami vs Wake Forest
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Houston vs Texas Tech
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",Portland State vs Oregon
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 group-title="fighting",RAF 13: Covington vs. Muhammad
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",Hedges vs. Brown
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",Dana White's Contender Series
+https://daffodil.formaturamaxi.com.br/ppv.m3u8

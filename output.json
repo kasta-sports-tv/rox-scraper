@@ -171,7 +171,9 @@
     {
       "title": "Houston vs Texas Tech",
       "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+      ]
     },
     {
       "title": "Portland State vs Oregon",
@@ -199,12 +201,16 @@
     {
       "title": "RAF 13: Covington vs. Muhammad",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     },
     {
       "title": "Hedges vs. Brown",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     },
     {
       "title": "Cruz vs. Bravo",
@@ -214,7 +220,9 @@
     {
       "title": "Dana White's Contender Series",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     }
   ],
   "motorsports": []
