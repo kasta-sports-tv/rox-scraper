@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Fiorentina vs Napoli
-https://daffodil.sandhost.qzz.io/fubo.m3u8
 #EXTINF:-1 group-title="football",Celtic vs Rangers
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Wolves vs West Bromwich
@@ -15,8 +13,6 @@ https://daffodil.sandhost.qzz.io/cbssn.m3u8
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Nice vs Lille
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Fulham vs Man United
-https://daffodil.sandhost.qzz.io/fubo.m3u8
 #EXTINF:-1 group-title="football",Juventus vs Atalanta
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Deportivo La CoruÃ±a vs Real Betis
@@ -27,3 +23,9 @@ https://daffodil.sandhost.qzz.io/beines.m3u8
 https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Valencia vs Real Sociedad
 https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Benfica vs Porto
+https://daffodil.sandhost.qzz.io/benfica.m3u8
+#EXTINF:-1 group-title="nba",Washington Mystics vs Indiana Fever
+https://daffodil.sandhost.qzz.io/wnba3.m3u8
+#EXTINF:-1 group-title="nba",Seattle Storm vs Las Vegas Aces
+https://daffodil.sandhost.qzz.io/wnba3.m3u8

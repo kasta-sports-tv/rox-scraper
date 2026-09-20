@@ -3,9 +3,7 @@
     {
       "title": "Fiorentina vs Napoli",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Celtic vs Rangers",
@@ -84,9 +82,7 @@
     {
       "title": "Fulham vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Schalke 04 vs Elversberg",
@@ -147,6 +143,13 @@
       "title": "VitÃ³ria vs Cruzeiro",
       "page": "https://roxiestreams.info/soccer-streams-14",
       "streams": []
+    },
+    {
+      "title": "Benfica vs Porto",
+      "page": "https://roxiestreams.info/soccer-streams-23",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/benfica.m3u8"
+      ]
     },
     {
       "title": "Flamengo vs RB Bragantino",
@@ -260,7 +263,9 @@
     {
       "title": "Washington Mystics vs Indiana Fever",
       "page": "https://roxiestreams.info/wnba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
+      ]
     },
     {
       "title": "Portland Fire vs Los Angeles Sparks",
@@ -270,7 +275,9 @@
     {
       "title": "Seattle Storm vs Las Vegas Aces",
       "page": "https://roxiestreams.info/wnba-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
+      ]
     }
   ],
   "nfl": [
