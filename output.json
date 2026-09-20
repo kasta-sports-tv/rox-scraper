@@ -15,9 +15,7 @@
     {
       "title": "Wolves vs West Bromwich",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Getafe vs Malaga",
@@ -51,9 +49,7 @@
     {
       "title": "Parma vs Genoa",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Bayer Leverkusen vs Leipzig",
@@ -270,13 +266,15 @@
     {
       "title": "Portland Fire vs Los Angeles Sparks",
       "page": "https://roxiestreams.info/wnba-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
+      ]
     },
     {
       "title": "Seattle Storm vs Las Vegas Aces",
       "page": "https://roxiestreams.info/wnba-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba3.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
       ]
     }
   ],
