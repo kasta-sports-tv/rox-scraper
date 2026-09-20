@@ -1,29 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Barnsley vs Leicester
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="football",Osasuna vs Rayo Vallceano
+#EXTINF:-1 group-title="football",Fiorentina vs Napoli
+https://daffodil.sandhost.qzz.io/fubo.m3u8
+#EXTINF:-1 group-title="football",Celtic vs Rangers
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Wolves vs West Bromwich
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="football",Getafe vs Malaga
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Athletic Club vs Deportivo Alaves
+#EXTINF:-1 group-title="football",Auxerre vs Brest
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Parma vs Genoa
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="football",GrÃªmio vs Palmeiras
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",AtlÃ©tico Madrid vs Real Madrid
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Celta Vigo vs Racing Santander
+#EXTINF:-1 group-title="football",Nice vs Lille
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Fulham vs Man United
+https://daffodil.sandhost.qzz.io/fubo.m3u8
+#EXTINF:-1 group-title="football",Juventus vs Atalanta
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Deportivo La CoruÃ±a vs Real Betis
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="football",Sevilla vs Barcelona
+#EXTINF:-1 group-title="football",Marseille vs PSG
+https://daffodil.sandhost.qzz.io/beines.m3u8
+#EXTINF:-1 group-title="football",Milan vs Lecce
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Valencia vs Real Sociedad
 https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 group-title="nba",Chicago Sky vs Atlanta Dream
+#EXTINF:-1 group-title="nba",New York Liberty vs Toronto Tempo
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nfl",Coastal Carolina vs Delaware
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Tulane vs Kansas State
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",Temple vs Toledo
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",SMU vs Louisville
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",Marshall vs Missouri State
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",New Mexico vs Oklahoma
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",South Dakota vs Boise State
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Northern Illinois vs Arizona
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
