@@ -313,7 +313,9 @@
     {
       "title": "Tulane vs Kansas State",
       "page": "https://roxiestreams.info/ncaa-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+      ]
     },
     {
       "title": "Bowling Green vs Iowa State",
@@ -370,7 +372,9 @@
     {
       "title": "SMU vs Louisville",
       "page": "https://roxiestreams.info/ncaa-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+      ]
     },
     {
       "title": "Utah State vs Utah",
@@ -447,7 +451,9 @@
     {
       "title": "New Mexico vs Oklahoma",
       "page": "https://roxiestreams.info/ncaa-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+      ]
     },
     {
       "title": "West Virginia vs Virginia",
@@ -489,7 +495,9 @@
     {
       "title": "Northern Illinois vs Arizona",
       "page": "https://roxiestreams.info/ncaa-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
+      ]
     },
     {
       "title": "North Dakota State vs Sacramento State",
