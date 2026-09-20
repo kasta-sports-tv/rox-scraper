@@ -36,16 +36,12 @@
     {
       "title": "Leeds vs Crystal Palace",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/leeds.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Man City vs Sunderland",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/city.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Auxerre vs Brest",
@@ -69,9 +65,7 @@
     {
       "title": "GrÃªmio vs Palmeiras",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "AtlÃ©tico Madrid vs Real Madrid",
@@ -263,18 +257,6 @@
     }
   ],
   "nba": [
-    {
-      "title": "Minnesota Lynx vs Connecticut Sun",
-      "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
-    },
-    {
-      "title": "New York Liberty vs Toronto Tempo",
-      "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
-      ]
-    },
     {
       "title": "Washington Mystics vs Indiana Fever",
       "page": "https://roxiestreams.info/wnba-streams-3",
