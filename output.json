@@ -25,8 +25,7 @@
       "title": "Getafe vs Malaga",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8",
-        "https://daffodil.sandhost.qzz.io/ncaa5.m3u8"
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
       ]
     },
     {
@@ -37,12 +36,16 @@
     {
       "title": "Leeds vs Crystal Palace",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/leeds.m3u8"
+      ]
     },
     {
       "title": "Man City vs Sunderland",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/city.m3u8"
+      ]
     },
     {
       "title": "Auxerre vs Brest",
@@ -74,8 +77,7 @@
       "title": "AtlÃ©tico Madrid vs Real Madrid",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8",
-        "https://daffodil.sandhost.qzz.io/ncaa5.m3u8"
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
       ]
     },
     {
@@ -108,8 +110,7 @@
       "title": "Deportivo La CoruÃ±a vs Real Betis",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8",
-        "https://daffodil.sandhost.qzz.io/ncaa5.m3u8"
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
       ]
     },
     {
@@ -140,8 +141,7 @@
       "title": "Valencia vs Real Sociedad",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8",
-        "https://daffodil.sandhost.qzz.io/ncaa5.m3u8"
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
       ]
     },
     {
