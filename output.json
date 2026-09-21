@@ -160,7 +160,9 @@
     {
       "title": "Inter Miami vs San Diego",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+      ]
     },
     {
       "title": "Pachuca vs Tijuana",

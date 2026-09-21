@@ -21,6 +21,8 @@ https://daffodil.sandhost.qzz.io/golazo.m3u8
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Benfica vs Porto
 https://daffodil.sandhost.qzz.io/benfica.m3u8
+#EXTINF:-1 group-title="football",Inter Miami vs San Diego
+https://daffodil.sandhost.qzz.io/mls.m3u8
 #EXTINF:-1 group-title="nba",Washington Mystics vs Indiana Fever
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nba",Portland Fire vs Los Angeles Sparks
