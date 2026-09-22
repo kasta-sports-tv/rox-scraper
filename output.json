@@ -39,7 +39,9 @@
     {
       "title": "Tampa Bay Rays vs New York Yankees",
       "page": "https://roxiestreams.info/mlb-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mlb2.m3u8"
+      ]
     },
     {
       "title": "Toronto Blue Jays vs Baltimore Orioles",
@@ -108,8 +110,10 @@
     },
     {
       "title": "San Diego Padres vs Los Angeles Dodgers",
-      "page": "https://roxiestreams.info/mlb-streams-16",
-      "streams": []
+      "page": "https://roxiestreams.info/mlb-streams-2",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mlb2.m3u8"
+      ]
     }
   ],
   "nba": [
@@ -124,7 +128,7 @@
       "title": "Minnesota Lynx vs Indiana Fever",
       "page": "https://roxiestreams.info/wnba-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
       ]
     },
     {
@@ -138,14 +142,14 @@
       "title": "Los Angeles Sparks vs Las Vegas Aces",
       "page": "https://roxiestreams.info/wnba-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
       ]
     },
     {
       "title": "Golden State Valkyries vs Portland Fire",
       "page": "https://roxiestreams.info/wnba-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba5.m3u8"
       ]
     }
   ],
