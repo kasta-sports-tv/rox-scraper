@@ -1,21 +1,21 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Azerbaijan vs Tajikistan
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Turks And Caicos Islands vs Montserrat
+https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Bahamas vs Sain Martin
-https://daffodil.sandhost.qzz.io/golazo.m3u8
+https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="football",Aruba vs Antigua & Barbuda
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs New York Yankees
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",Seattle Sounders vs Real Salt Lake
+https://daffodil.sandhost.qzz.io/mls.m3u8
+#EXTINF:-1 group-title="mlb",Toronto Blue Jays vs Baltimore Orioles
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",San Diego Padres vs Los Angeles Dodgers
+#EXTINF:-1 group-title="mlb",Toronto Blue Jays vs Baltimore Orioles
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
-#EXTINF:-1 group-title="nba",Connecticut Sun vs Washington Mystics
+#EXTINF:-1 group-title="nba",Atlanta Dream vs New York Liberty
 https://daffodil.sandhost.qzz.io/wnba.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Lynx vs Indiana Fever
-https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Toronto Tempo vs Chicago Sky
-https://daffodil.sandhost.qzz.io/wnba3.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Sparks vs Las Vegas Aces
+#EXTINF:-1 group-title="nba",Dallas Wings vs Seattle Storm
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nhl",NHL Draft 2026
 https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.sandhost.qzz.io/ppv.m3u8
