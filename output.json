@@ -173,7 +173,9 @@
     {
       "title": "Dana White's Contender Series",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
+      ]
     },
     {
       "title": "WWE NXT",

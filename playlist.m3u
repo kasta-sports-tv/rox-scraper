@@ -19,3 +19,5 @@ https://daffodil.sandhost.qzz.io/wnba2.m3u8
 https://daffodil.sandhost.qzz.io/wnba5.m3u8
 #EXTINF:-1 group-title="nhl",NHL Draft 2026
 https://daffodil.sandhost.qzz.io/nhl.m3u8
+#EXTINF:-1 group-title="fighting",Dana White's Contender Series
+https://daffodil.sandhost.qzz.io/ppv.m3u8
