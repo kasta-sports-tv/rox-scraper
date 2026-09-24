@@ -1,37 +1,25 @@
 {
   "soccer": [
     {
-      "title": "Japan vs Uruguay",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
-    },
-    {
-      "title": "South Korea vs Ecuador",
-      "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
-      ]
-    },
-    {
       "title": "Andorra vs Malta",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
       ]
     },
     {
       "title": "Serbia vs Greece",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
       ]
     },
     {
       "title": "Portugal vs Wales",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+      ]
     },
     {
       "title": "Norway vs Denmark",
@@ -41,7 +29,9 @@
     {
       "title": "Netherlands vs Germany",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/two.m3u8"
+      ]
     },
     {
       "title": "Dominican Republic vs Nicaragua",
@@ -54,7 +44,7 @@
       "title": "Haiti vs Trinidad & Tobago",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
       ]
     },
     {
