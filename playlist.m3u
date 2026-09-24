@@ -15,8 +15,12 @@ https://daffodil.sandhost.qzz.io/mls.m3u8
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
 #EXTINF:-1 group-title="nba",Toronto Tempo vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
+#EXTINF:-1 group-title="nba",Chicago Sky vs Washington Mystics
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nba",Indiana Fever vs Minnesota Lynx
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
+#EXTINF:-1 group-title="nba",Golden State Valkyries vs Los Angeles Sparks
+https://daffodil.sandhost.qzz.io/wnba2.m3u8
 #EXTINF:-1 group-title="nfl",Liberty vs Coastal Carolina
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
 #EXTINF:-1 group-title="nhl",NHL Draft 2026

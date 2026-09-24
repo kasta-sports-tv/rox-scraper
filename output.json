@@ -138,7 +138,9 @@
     {
       "title": "Chicago Sky vs Washington Mystics",
       "page": "https://roxiestreams.info/wnba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+      ]
     },
     {
       "title": "Indiana Fever vs Minnesota Lynx",
@@ -150,7 +152,9 @@
     {
       "title": "Golden State Valkyries vs Los Angeles Sparks",
       "page": "https://roxiestreams.info/wnba-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba2.m3u8"
+      ]
     },
     {
       "title": "Las Vegas Aces vs Phoenix Mercury",
