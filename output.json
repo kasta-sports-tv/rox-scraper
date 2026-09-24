@@ -3,9 +3,7 @@
     {
       "title": "Andorra vs Malta",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Serbia vs Greece",
@@ -17,9 +15,7 @@
     {
       "title": "Portugal vs Wales",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Norway vs Denmark",
@@ -29,9 +25,7 @@
     {
       "title": "Netherlands vs Germany",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/two.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Dominican Republic vs Nicaragua",
@@ -43,9 +37,7 @@
     {
       "title": "Haiti vs Trinidad & Tobago",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Costa Rica vs CuraÃ§ao",
@@ -177,8 +169,13 @@
   ],
   "fighting": [
     {
-      "title": "TNA",
+      "title": "UFC BJJ 11: Musumeci vs Mitchell",
       "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
+    },
+    {
+      "title": "TNA",
+      "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": []
     },
     {
