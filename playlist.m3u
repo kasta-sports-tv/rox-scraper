@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Australia vs Brazil
-https://daffodil.sandhost.qzz.io/brazil.m3u8
 #EXTINF:-1 group-title="football",Georgia vs Northern Ireland
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Armenia vs Latvia
 https://daffodil.sandhost.qzz.io/fubo.m3u8
-#EXTINF:-1 group-title="football",Turkey vs France
-https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Italy vs Belgium
+https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="football",Sweden vs Romania
 https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Portugal vs Wales
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Morocco vs Gabon
-https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",Egypt vs Angola
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Grenada vs Cuba
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Jamaica vs Guatemala
 https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="mlb",Chicago Cubs vs Boston Red Sox
+#EXTINF:-1 group-title="football",Suriname vs Honduras
+https://daffodil.sandhost.qzz.io/fubo.m3u8
+#EXTINF:-1 group-title="football",El Salvador vs Martinique
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="mlb",Baltimore Orioles vs New York Yankees
+https://daffodil.sandhost.qzz.io/mlb2.m3u8
+#EXTINF:-1 group-title="mlb",Baltimore Orioles vs New York Yankees
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
 #EXTINF:-1 group-title="mlb",Cincinnati Reds vs Toronto Blue Jays
 https://daffodil.sandhost.qzz.io/mlb8.m3u8
