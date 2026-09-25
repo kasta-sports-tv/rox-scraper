@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Serbia vs Greece
-https://daffodil.sandhost.qzz.io/fubo.m3u8
-#EXTINF:-1 group-title="football",Dominican Republic vs Nicaragua
+#EXTINF:-1 group-title="football",Turkey vs France
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Sweden vs Romania
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Portugal vs Wales
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Morocco vs Gabon
 https://daffodil.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 group-title="mlb",Chicago White Sox vs Kansas City Royals
+#EXTINF:-1 group-title="football",Grenada vs Cuba
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Jamaica vs Guatemala
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="mlb",Chicago Cubs vs Boston Red Sox
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs New York Yankees
+#EXTINF:-1 group-title="mlb",Cincinnati Reds vs Toronto Blue Jays
 https://daffodil.sandhost.qzz.io/mlb8.m3u8
 #EXTINF:-1 group-title="nba",Toronto Tempo vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
@@ -17,7 +25,9 @@ https://daffodil.sandhost.qzz.io/wnba3.m3u8
 https://daffodil.sandhost.qzz.io/wnba4.m3u8
 #EXTINF:-1 group-title="nba",Las Vegas Aces vs Phoenix Mercury
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
-#EXTINF:-1 group-title="nfl",Liberty vs Coastal Carolina
+#EXTINF:-1 group-title="nfl",Army vs Temple
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Navy vs UAB
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
 #EXTINF:-1 group-title="nhl",NHL Draft 2026
 https://daffodil.sandhost.qzz.io/nhl.m3u8
