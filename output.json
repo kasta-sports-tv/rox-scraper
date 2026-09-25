@@ -3,7 +3,9 @@
     {
       "title": "Australia vs Brazil",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/brazil.m3u8"
+      ]
     },
     {
       "title": "India vs Panama",
@@ -13,12 +15,16 @@
     {
       "title": "Georgia vs Northern Ireland",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+      ]
     },
     {
       "title": "Armenia vs Latvia",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
+      ]
     },
     {
       "title": "Turkey vs France",
@@ -249,7 +255,9 @@
     {
       "title": "Clemson vs California",
       "page": "https://roxiestreams.info/ncaa-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa.m3u8"
+      ]
     }
   ],
   "nhl": [
