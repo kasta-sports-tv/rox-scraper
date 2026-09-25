@@ -11,6 +11,8 @@ https://daffodil.sandhost.qzz.io/fsp.m3u8
 https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Grenada vs Cuba
 https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Colo-Colo vs Audax Italiano
+https://daffodil.sandhost.qzz.io/colo.m3u8
 #EXTINF:-1 group-title="football",Jamaica vs Guatemala
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Suriname vs Honduras
@@ -35,6 +37,8 @@ https://daffodil.sandhost.qzz.io/wnba4.m3u8
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nfl",Army vs Temple
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Howard vs Rutgers
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",Navy vs UAB
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Clemson vs California

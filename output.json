@@ -70,7 +70,9 @@
     {
       "title": "Colo-Colo vs Audax Italiano",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/colo.m3u8"
+      ]
     },
     {
       "title": "Jamaica vs Guatemala",
@@ -245,7 +247,9 @@
     {
       "title": "Howard vs Rutgers",
       "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
+      ]
     },
     {
       "title": "Navy vs UAB",
@@ -280,6 +284,26 @@
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
+      "streams": []
+    },
+    {
+      "title": "Zuffa Boxing 11: Fisher vs. Pirotton",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
+    },
+    {
+      "title": "Davies vs. Collins: Home Stretch",
+      "page": "https://roxiestreams.info/ppv-streams-2",
+      "streams": []
+    },
+    {
+      "title": "Inoue vs. Tenshin II",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
+    },
+    {
+      "title": "Dana White's Contender Series",
+      "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": []
     }
   ],
