@@ -10,9 +10,7 @@
     {
       "title": "Cambridge United vs Wimbledon",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Plymouth Argyle vs Burton Albion",
@@ -46,7 +44,9 @@
     {
       "title": "Oldham Athletic vs Salford",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/foot.m3u8"
+      ]
     },
     {
       "title": "Czech Republic vs Croatia",
@@ -58,20 +58,15 @@
     {
       "title": "England vs Spain",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
+      ]
     },
     {
       "title": "North Macedonia vs Switzerland",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
         "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
-    },
-    {
-      "title": "Mexico vs Colombia",
-      "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
@@ -105,6 +100,13 @@
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
         "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
+    },
+    {
+      "title": "Mexico vs Colombia",
+      "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
       ]
     },
     {
@@ -269,11 +271,6 @@
       "streams": []
     },
     {
-      "title": "Bucknell vs Pittsburgh",
-      "page": "https://roxiestreams.info/ncaa-streams-6",
-      "streams": []
-    },
-    {
       "title": "Virginia Tech vs Boston College",
       "page": "https://roxiestreams.info/ncaa-streams-7",
       "streams": []
@@ -281,7 +278,9 @@
     {
       "title": "San Diego State vs Toledo",
       "page": "https://roxiestreams.info/ncaa-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa8.m3u8"
+      ]
     },
     {
       "title": "Colorado State vs UTSA",
@@ -357,7 +356,9 @@
     {
       "title": "New Mexico vs New Mexico State",
       "page": "https://roxiestreams.info/ncaa-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa8.m3u8"
+      ]
     },
     {
       "title": "Houston vs Georgia Southern",
@@ -431,7 +432,9 @@
     {
       "title": "Troy vs Utah State",
       "page": "https://roxiestreams.info/ncaa-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa8.m3u8"
+      ]
     },
     {
       "title": "App State vs NC State",
@@ -484,6 +487,16 @@
   ],
   "fighting": [
     {
+      "title": "Zuffa Boxing 11: Fisher vs. Pirotton",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
+    },
+    {
+      "title": "Oktagon 94",
+      "page": "https://roxiestreams.info/ppv-streams-4",
+      "streams": []
+    },
+    {
       "title": "Davies vs. Collins: Home Stretch",
       "page": "https://roxiestreams.info/ppv-streams-2",
       "streams": []
@@ -494,25 +507,14 @@
       "streams": []
     },
     {
-      "title": "Zuffa Boxing 11: Fisher vs. Pirotton",
-      "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/f1.m3u8"
-      ]
-    },
-    {
       "title": "Inoue vs. Tenshin II",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/f1.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Dana White's Contender Series",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/f1.m3u8"
-      ]
+      "streams": []
     }
   ],
   "motorsports": []
