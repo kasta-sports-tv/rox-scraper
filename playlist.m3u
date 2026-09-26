@@ -15,8 +15,10 @@ https://daffodil.sandhost.qzz.io/fsp.m3u8
 https://daffodil.sandhost.qzz.io/colo.m3u8
 #EXTINF:-1 group-title="football",Jamaica vs Guatemala
 https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Suriname vs Honduras
-https://daffodil.sandhost.qzz.io/fubo.m3u8
+#EXTINF:-1 group-title="football",Atlante vs Monterrey
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Tijuana vs Atlas
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",El Salvador vs Martinique
 https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="mlb",Baltimore Orioles vs New York Yankees

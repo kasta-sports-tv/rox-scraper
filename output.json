@@ -84,19 +84,21 @@
     {
       "title": "Atlante vs Monterrey",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Suriname vs Honduras",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Tijuana vs Atlas",
-      "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "page": "https://roxiestreams.info/soccer-streams-13",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "El Salvador vs Martinique",
@@ -294,6 +296,11 @@
     {
       "title": "Davies vs. Collins: Home Stretch",
       "page": "https://roxiestreams.info/ppv-streams-2",
+      "streams": []
+    },
+    {
+      "title": "BKFC 94",
+      "page": "https://roxiestreams.info/ppv-streams-3",
       "streams": []
     },
     {
