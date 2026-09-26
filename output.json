@@ -73,7 +73,7 @@
       "title": "USA vs Peru",
       "page": "https://roxiestreams.info/soccer-streams-10",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+        "https://daffodil.sandhost.qzz.io/usa.m3u8"
       ]
     },
     {
@@ -180,7 +180,9 @@
     {
       "title": "Tampa Bay Rays vs Philadelphia Phillies",
       "page": "https://roxiestreams.info/mlb-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
+      ]
     },
     {
       "title": "Arizona Diamondbacks vs San Diego Padres",
@@ -344,11 +346,6 @@
       "streams": []
     },
     {
-      "title": "William & Mary vs Duke",
-      "page": "https://roxiestreams.info/ncaa-streams-6",
-      "streams": []
-    },
-    {
       "title": "Boise State vs Western Michigan",
       "page": "https://roxiestreams.info/ncaa-streams-5",
       "streams": []
@@ -368,11 +365,6 @@
     {
       "title": "Vanderbilt vs Auburn",
       "page": "https://roxiestreams.info/ncaa-streams-10",
-      "streams": []
-    },
-    {
-      "title": "Wisconsin vs Penn State",
-      "page": "https://roxiestreams.info/ncaa-streams-12",
       "streams": []
     },
     {
@@ -421,7 +413,7 @@
     },
     {
       "title": "Oregon vs USC",
-      "page": "https://roxiestreams.info/ncaa-streams-17",
+      "page": "https://roxiestreams.info/ncaa-streams-6",
       "streams": []
     },
     {

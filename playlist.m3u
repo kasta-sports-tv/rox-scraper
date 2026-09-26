@@ -14,7 +14,7 @@ https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="football",North Macedonia vs Switzerland
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",USA vs Peru
-https://daffodil.sandhost.qzz.io/tudn.m3u8
+https://daffodil.sandhost.qzz.io/usa.m3u8
 #EXTINF:-1 group-title="football",Saint Vincent & The Grenadines vs French Guiana
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Canada vs Chile
@@ -29,6 +29,8 @@ https://daffodil.sandhost.qzz.io/fsp.m3u8
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
 #EXTINF:-1 group-title="mlb",Colorado Rockies vs Chicago White Sox
 https://daffodil.sandhost.qzz.io/mlb8.m3u8
+#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Philadelphia Phillies
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nba",Toronto Tempo vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Chicago Sky vs Washington Mystics
