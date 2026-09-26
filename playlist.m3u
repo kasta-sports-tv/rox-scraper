@@ -3,16 +3,12 @@
 https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="football",Cambridge United vs Wimbledon
 https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Plymouth Argyle vs Burton Albion
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",York City vs Gillingham
-https://daffodil.sandhost.qzz.io/fubo.m3u8
 #EXTINF:-1 group-title="football",Bulgaria vs Luxembourg
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Iceland vs Estonia
-https://daffodil.sandhost.qzz.io/fs2.m3u8
+https://daffodil.sandhost.qzz.io/tubi.m3u8
 #EXTINF:-1 group-title="football",Czech Republic vs Croatia
-https://daffodil.sandhost.qzz.io/fs2.m3u8
+https://daffodil.sandhost.qzz.io/tubi.m3u8
 #EXTINF:-1 group-title="football",North Macedonia vs Switzerland
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Mexico vs Colombia
