@@ -1,31 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Georgia vs Northern Ireland
+#EXTINF:-1 group-title="football",Scotland vs Slovenia
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",Cambridge United vs Wimbledon
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Plymouth Argyle vs Burton Albion
 https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Armenia vs Latvia
+#EXTINF:-1 group-title="football",York City vs Gillingham
 https://daffodil.sandhost.qzz.io/fubo.m3u8
-#EXTINF:-1 group-title="football",Italy vs Belgium
-https://daffodil.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 group-title="football",Sweden vs Romania
+#EXTINF:-1 group-title="football",Bulgaria vs Luxembourg
 https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Egypt vs Angola
+#EXTINF:-1 group-title="football",Iceland vs Estonia
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",Czech Republic vs Croatia
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",North Macedonia vs Switzerland
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Mexico vs Colombia
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Grenada vs Cuba
+#EXTINF:-1 group-title="football",USA vs Peru
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Saint Vincent & The Grenadines vs French Guiana
 https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Colo-Colo vs Audax Italiano
+#EXTINF:-1 group-title="football",Canada vs Chile
 https://daffodil.sandhost.qzz.io/colo.m3u8
-#EXTINF:-1 group-title="football",Jamaica vs Guatemala
+#EXTINF:-1 group-title="football",Chivas vs Queretaro
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Sint Maarten vs Belize
 https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Atlante vs Monterrey
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Tijuana vs Atlas
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",El Salvador vs Martinique
-https://daffodil.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 group-title="mlb",Baltimore Orioles vs New York Yankees
+#EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Detroit Tigers
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Baltimore Orioles vs New York Yankees
-https://daffodil.sandhost.qzz.io/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Cincinnati Reds vs Toronto Blue Jays
+#EXTINF:-1 group-title="mlb",Colorado Rockies vs Chicago White Sox
 https://daffodil.sandhost.qzz.io/mlb8.m3u8
 #EXTINF:-1 group-title="nba",Toronto Tempo vs Connecticut Sun
 https://daffodil.sandhost.qzz.io/wnba.m3u8
@@ -37,13 +41,29 @@ https://daffodil.sandhost.qzz.io/wnba3.m3u8
 https://daffodil.sandhost.qzz.io/wnba4.m3u8
 #EXTINF:-1 group-title="nba",Las Vegas Aces vs Phoenix Mercury
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
-#EXTINF:-1 group-title="nfl",Army vs Temple
+#EXTINF:-1 group-title="nfl",Texas vs Tennessee
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Howard vs Rutgers
+#EXTINF:-1 group-title="nfl",Illinois vs Ohio State
 https://daffodil.sandhost.qzz.io/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Navy vs UAB
+#EXTINF:-1 group-title="nfl",Hawai'i vs Wyoming
+https://daffodil.sandhost.qzz.io/ncaa13.m3u8
+#EXTINF:-1 group-title="nfl",Ole Miss vs Florida
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Clemson vs California
+#EXTINF:-1 group-title="nfl",Utah vs Iowa State
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Central Michigan vs Miami
+https://daffodil.sandhost.qzz.io/ncaa13.m3u8
+#EXTINF:-1 group-title="nfl",Texas A&M vs LSU
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Rice vs Fresno State
+https://daffodil.sandhost.qzz.io/ncaa13.m3u8
+#EXTINF:-1 group-title="nfl",Minnesota vs Washington
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nhl",NHL Draft 2026
 https://daffodil.sandhost.qzz.io/nhl.m3u8
+#EXTINF:-1 group-title="fighting",Zuffa Boxing 11: Fisher vs. Pirotton
+https://daffodil.sandhost.qzz.io/f1.m3u8
+#EXTINF:-1 group-title="fighting",Inoue vs. Tenshin II
+https://daffodil.sandhost.qzz.io/f1.m3u8
+#EXTINF:-1 group-title="fighting",Dana White's Contender Series
+https://daffodil.sandhost.qzz.io/f1.m3u8
