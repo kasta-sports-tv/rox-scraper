@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Lituania vs Azerbaijan
 https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",Denmark vs Wales
+https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Serbia vs Netherlands
 https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="football",Germany vs Greece
@@ -35,29 +37,5 @@ https://daffodil.sandhost.qzz.io/wnba2.m3u8
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nba",Dallas Wings vs Golden State Valkyries
 https://daffodil.sandhost.qzz.io/wnba4.m3u8
-#EXTINF:-1 group-title="nfl",Texas vs Tennessee
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Illinois vs Ohio State
-https://daffodil.sandhost.qzz.io/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",San Diego State vs Toledo
-https://daffodil.sandhost.qzz.io/ncaa8.m3u8
-#EXTINF:-1 group-title="nfl",Hawai'i vs Wyoming
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",Ole Miss vs Florida
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Utah vs Iowa State
-https://daffodil.sandhost.qzz.io/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",New Mexico vs New Mexico State
-https://daffodil.sandhost.qzz.io/ncaa8.m3u8
-#EXTINF:-1 group-title="nfl",Central Michigan vs Miami
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",Texas A&M vs LSU
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Troy vs Utah State
-https://daffodil.sandhost.qzz.io/ncaa8.m3u8
-#EXTINF:-1 group-title="nfl",Rice vs Fresno State
-https://daffodil.sandhost.qzz.io/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",Minnesota vs Washington
-https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nhl",NHL Draft 2026
 https://daffodil.sandhost.qzz.io/nhl.m3u8
