@@ -5,9 +5,11 @@ https://daffodil.sandhost.qzz.io/fs2.m3u8
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Serbia vs Netherlands
 https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",Pumas vs San Luis
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Germany vs Greece
 https://daffodil.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 group-title="football",Norway vs Portugal
+#EXTINF:-1 group-title="football",Israel vs Ireland
 https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Racing Club vs Boca Juniors
 https://daffodil.sandhost.qzz.io/tubi.m3u8
@@ -21,18 +23,16 @@ https://daffodil.sandhost.qzz.io/fs2.m3u8
 https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Trinidad & Tobago vs Dominican Republic
 https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",LeÃ³n vs JuÃ¡rez
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Necaxa vs AmÃ©rica
 https://daffodil.sandhost.qzz.io/usa.m3u8
 #EXTINF:-1 group-title="mlb",Baltimore Orioles vs New York Yankees
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
-#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Kansas City Royals
-https://daffodil.sandhost.qzz.io/mlb8.m3u8
-#EXTINF:-1 group-title="mlb",Arizona Diamondbacks vs San Diego Padres
-https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nba",New York Liberty vs Minnesota Lynx
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Indiana Fever vs Las Vegas Aces
-https://daffodil.sandhost.qzz.io/wnba2.m3u8
+https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Washington Mystics vs Atlanta Dream
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
 #EXTINF:-1 group-title="nba",Dallas Wings vs Golden State Valkyries
