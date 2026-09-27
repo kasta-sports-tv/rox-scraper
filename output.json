@@ -10,9 +10,7 @@
     {
       "title": "Denmark vs Wales",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Serbia vs Netherlands",
@@ -38,9 +36,7 @@
     {
       "title": "Israel vs Ireland",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Norway vs Portugal",
@@ -50,22 +46,18 @@
     {
       "title": "Racing Club vs Boca Juniors",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tubi.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Bolivia vs Paraguay",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/foot.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Columbus Crew vs Inter Miami",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
       ]
     },
     {
