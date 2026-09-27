@@ -86,27 +86,29 @@
     {
       "title": "Cruz Azul vs Toluca",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Canada vs Chile",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/colo.m3u8"
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
       ]
     },
     {
       "title": "Chivas vs Queretaro",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+        "https://daffodil.sandhost.qzz.io/usa.m3u8"
       ]
     },
     {
       "title": "Mexico vs Colombia",
       "page": "https://roxiestreams.info/soccer-streams-9",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     },
     {
@@ -119,12 +121,16 @@
     {
       "title": "Santos Laguna vs Pachuca",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Tigres vs Puebla",
-      "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "page": "https://roxiestreams.info/soccer-streams-10",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/usa.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -496,6 +502,11 @@
     {
       "title": "BKFC 94",
       "page": "https://roxiestreams.info/ppv-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Cejudo vs. Walton",
+      "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": []
     },
     {

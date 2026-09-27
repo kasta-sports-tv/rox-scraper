@@ -17,14 +17,20 @@ https://daffodil.sandhost.qzz.io/fsp.m3u8
 https://daffodil.sandhost.qzz.io/usa.m3u8
 #EXTINF:-1 group-title="football",Saint Vincent & The Grenadines vs French Guiana
 https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Canada vs Chile
-https://daffodil.sandhost.qzz.io/colo.m3u8
-#EXTINF:-1 group-title="football",Chivas vs Queretaro
+#EXTINF:-1 group-title="football",Cruz Azul vs Toluca
 https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Canada vs Chile
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Chivas vs Queretaro
+https://daffodil.sandhost.qzz.io/usa.m3u8
 #EXTINF:-1 group-title="football",Mexico vs Colombia
-https://daffodil.sandhost.qzz.io/beines.m3u8
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Sint Maarten vs Belize
 https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Santos Laguna vs Pachuca
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="football",Tigres vs Puebla
+https://daffodil.sandhost.qzz.io/usa.m3u8
 #EXTINF:-1 group-title="mlb",Pittsburgh Pirates vs Detroit Tigers
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
 #EXTINF:-1 group-title="mlb",Colorado Rockies vs Chicago White Sox
