@@ -1,84 +1,52 @@
 {
   "soccer": [
     {
-      "title": "Lituania vs Azerbaijan",
+      "title": "Georgia vs Ukraine",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": []
     },
     {
-      "title": "Denmark vs Wales",
+      "title": "Armenia vs Montenegro",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
     },
     {
-      "title": "Serbia vs Netherlands",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
-    },
-    {
-      "title": "Pumas vs San Luis",
+      "title": "Latvia vs Cyprus",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
         "https://daffodil.sandhost.qzz.io/tudn.m3u8"
       ]
     },
     {
-      "title": "Germany vs Greece",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
-    },
-    {
-      "title": "Israel vs Ireland",
+      "title": "Turkey vs Italy",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     },
     {
-      "title": "Norway vs Portugal",
+      "title": "Northern Ireland vs Hungary",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": []
     },
     {
-      "title": "Racing Club vs Boca Juniors",
+      "title": "Romania vs Bosnia and Herzegovina",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": []
     },
     {
-      "title": "Bolivia vs Paraguay",
+      "title": "Sweden vs Poland",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": []
     },
     {
-      "title": "Columbus Crew vs Inter Miami",
+      "title": "Belgium vs France",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
         "https://daffodil.sandhost.qzz.io/mls.m3u8"
       ]
     },
     {
-      "title": "Haiti vs Costa Rica",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
-    },
-    {
-      "title": "CuraÃ§ao vs Nicaragua",
+      "title": "Guatemala vs El Salvador",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
-    },
-    {
-      "title": "Trinidad & Tobago vs Dominican Republic",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
-    },
-    {
-      "title": "LeÃ³n vs JuÃ¡rez",
-      "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
-      ]
-    },
-    {
-      "title": "Necaxa vs AmÃ©rica",
-      "page": "https://roxiestreams.info/soccer-streams-10",
       "streams": []
     }
   ],

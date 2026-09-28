@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Pumas vs San Luis
+#EXTINF:-1 group-title="football",Latvia vs Cyprus
 https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Columbus Crew vs Inter Miami
+#EXTINF:-1 group-title="football",Belgium vs France
 https://daffodil.sandhost.qzz.io/mls.m3u8
-#EXTINF:-1 group-title="football",LeÃ³n vs JuÃ¡rez
-https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="mlb",Baltimore Orioles vs New York Yankees
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
 #EXTINF:-1 group-title="nba",New York Liberty vs Minnesota Lynx
