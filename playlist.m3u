@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Latvia vs Cyprus
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Belgium vs France
-https://daffodil.sandhost.qzz.io/mls.m3u8
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Sweden vs Poland
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Cuba vs Bonaire
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",St. Kitts & Nevis vs Grenada
+https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="mlb",Baltimore Orioles vs New York Yankees
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
 #EXTINF:-1 group-title="nba",New York Liberty vs Minnesota Lynx
@@ -11,5 +15,7 @@ https://daffodil.sandhost.qzz.io/wnba.m3u8
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Washington Mystics vs Atlanta Dream
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
+#EXTINF:-1 group-title="nfl",Philadelphia Eagles vs Chicago Bears
+https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="nhl",NHL Draft 2026
 https://daffodil.sandhost.qzz.io/nhl.m3u8
