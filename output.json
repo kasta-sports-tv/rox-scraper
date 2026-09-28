@@ -3,9 +3,7 @@
     {
       "title": "Lituania vs Azerbaijan",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Denmark vs Wales",
@@ -15,9 +13,7 @@
     {
       "title": "Serbia vs Netherlands",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Pumas vs San Luis",
@@ -29,9 +25,7 @@
     {
       "title": "Germany vs Greece",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Israel vs Ireland",
@@ -63,23 +57,17 @@
     {
       "title": "Haiti vs Costa Rica",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "CuraÃ§ao vs Nicaragua",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Trinidad & Tobago vs Dominican Republic",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "LeÃ³n vs JuÃ¡rez",
@@ -150,9 +138,7 @@
     {
       "title": "Dallas Wings vs Golden State Valkyries",
       "page": "https://roxiestreams.info/wnba-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/wnba4.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nfl": [

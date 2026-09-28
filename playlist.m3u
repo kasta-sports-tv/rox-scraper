@@ -1,20 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Lituania vs Azerbaijan
-https://daffodil.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 group-title="football",Serbia vs Netherlands
-https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="football",Pumas vs San Luis
 https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Germany vs Greece
-https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="football",Columbus Crew vs Inter Miami
 https://daffodil.sandhost.qzz.io/mls.m3u8
-#EXTINF:-1 group-title="football",Haiti vs Costa Rica
-https://daffodil.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 group-title="football",CuraÃ§ao vs Nicaragua
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-#EXTINF:-1 group-title="football",Trinidad & Tobago vs Dominican Republic
-https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 group-title="football",LeÃ³n vs JuÃ¡rez
 https://daffodil.sandhost.qzz.io/tudn.m3u8
 #EXTINF:-1 group-title="football",Necaxa vs AmÃ©rica
@@ -27,7 +15,5 @@ https://daffodil.sandhost.qzz.io/wnba.m3u8
 https://daffodil.sandhost.qzz.io/wnba.m3u8
 #EXTINF:-1 group-title="nba",Washington Mystics vs Atlanta Dream
 https://daffodil.sandhost.qzz.io/wnba3.m3u8
-#EXTINF:-1 group-title="nba",Dallas Wings vs Golden State Valkyries
-https://daffodil.sandhost.qzz.io/wnba4.m3u8
 #EXTINF:-1 group-title="nhl",NHL Draft 2026
 https://daffodil.sandhost.qzz.io/nhl.m3u8
