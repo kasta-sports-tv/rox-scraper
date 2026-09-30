@@ -3,14 +3,14 @@
     {
       "title": "Eritrea vs South Africa",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
+      ]
     },
     {
       "title": "Lithuania vs Andorra",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/bein.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "New York RB vs St. Louis City",
@@ -31,20 +31,20 @@
     },
     {
       "title": "Chicago White Sox vs Houston Astros",
-      "page": "https://roxiestreams.info/mlb-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb2.m3u8"
-      ]
+      "page": "https://roxiestreams.info/mlb-streams-1",
+      "streams": []
     },
     {
       "title": "Boston Red Sox vs New York Yankees",
-      "page": "https://roxiestreams.info/mlb-streams-3",
+      "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": []
     },
     {
       "title": "Chicago Cubs vs San Diego Padres",
-      "page": "https://roxiestreams.info/mlb-streams-4",
-      "streams": []
+      "page": "https://roxiestreams.info/mlb-streams-2",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mlb2.m3u8"
+      ]
     }
   ],
   "nba": [
