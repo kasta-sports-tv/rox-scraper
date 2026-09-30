@@ -1,103 +1,24 @@
 {
   "soccer": [
     {
-      "title": "Brazil vs Australia",
+      "title": "Eritrea vs South Africa",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": []
     },
     {
-      "title": "Lesotho vs Morocco",
+      "title": "Lithuania vs Andorra",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
+      ]
     },
     {
-      "title": "South Sudan vs Egypt",
+      "title": "New York RB vs St. Louis City",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": []
     },
     {
-      "title": "Finland vs Belarus",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
-    },
-    {
-      "title": "Moldova vs Faroe Islands",
-      "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
-    },
-    {
-      "title": "Guinea-Bissau vs Nigeria",
-      "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Czech Republic vs England",
-      "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
-    },
-    {
-      "title": "Luxembourg vs Iceland",
-      "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
-    },
-    {
-      "title": "Scotland vs Switzerland",
-      "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
-    },
-    {
-      "title": "Slovenia vs North Macedonia",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
-    },
-    {
-      "title": "Spain vs Croatia",
-      "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
-    },
-    {
-      "title": "British Virgin Islands vs Turks & Caicos Islands",
-      "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
-    },
-    {
-      "title": "Congo vs Cameroon",
-      "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Gabon vs Niger",
-      "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
-    },
-    {
-      "title": "French Guiana vs Sint Maarten",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
-    },
-    {
-      "title": "Anguilla vs Aruba",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
-    },
-    {
-      "title": "USA vs Chile",
-      "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
-      ]
-    },
-    {
-      "title": "Mexico vs Peru",
-      "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
-    },
-    {
-      "title": "Belize vs Saint Vincent & Grenadines",
+      "title": "Argentina vs Bolivia",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     }
@@ -110,20 +31,20 @@
     },
     {
       "title": "Chicago White Sox vs Houston Astros",
-      "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": []
-    },
-    {
-      "title": "Boston Red Sox vs New York Yankees",
-      "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": []
-    },
-    {
-      "title": "Chicago Cubs vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-2",
       "streams": [
         "https://daffodil.sandhost.qzz.io/mlb2.m3u8"
       ]
+    },
+    {
+      "title": "Boston Red Sox vs New York Yankees",
+      "page": "https://roxiestreams.info/mlb-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Chicago Cubs vs San Diego Padres",
+      "page": "https://roxiestreams.info/mlb-streams-4",
+      "streams": []
     }
   ],
   "nba": [
@@ -149,49 +70,36 @@
   ],
   "nhl": [
     {
-      "title": "Florida Panthers vs Carolina Hurricanes",
+      "title": "Pittsburgh Penguins vs Philadelphia Flyers",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {
-      "title": "Montreal Canadiens vs Toronto Maple Leafs",
+      "title": "New York Islanders vs Toronto Maple Leafs",
       "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
       ]
     },
     {
-      "title": "New York Rangers vs Boston Bruins",
-      "page": "https://roxiestreams.info/nhl-streams-1",
+      "title": "Los Angeles Kings vs Colorado Avalanche",
+      "page": "https://roxiestreams.info/nhl-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
-      ]
-    },
-    {
-      "title": "Vancouver Canucks vs Edmonton Oilers",
-      "page": "https://roxiestreams.info/nhl-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
-      ]
-    },
-    {
-      "title": "Chicago Blackhawks vs Vegas Golden Knights",
-      "page": "https://roxiestreams.info/nhl-streams-1",
-      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl2.m3u8",
         "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     }
   ],
   "fighting": [
     {
-      "title": "Dana White's Contender Series",
+      "title": "TNA",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": []
     },
     {
-      "title": "WWE NXT",
+      "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": []
     }

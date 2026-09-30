@@ -1,21 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Moldova vs Faroe Islands
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",British Virgin Islands vs Turks & Caicos Islands
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",USA vs Chile
-https://daffodil.sandhost.qzz.io/tnt.m3u8
-#EXTINF:-1 group-title="mlb",Chicago Cubs vs San Diego Padres
+#EXTINF:-1 group-title="football",Lithuania vs Andorra
+https://daffodil.sandhost.qzz.io/bein.m3u8
+#EXTINF:-1 group-title="mlb",Chicago White Sox vs Houston Astros
 https://daffodil.sandhost.qzz.io/mlb2.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Lynx vs New York Liberty
 https://daffodil.sandhost.qzz.io/wnba2.m3u8
-#EXTINF:-1 group-title="nhl",Florida Panthers vs Carolina Hurricanes
+#EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs Philadelphia Flyers
 https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Montreal Canadiens vs Toronto Maple Leafs
+#EXTINF:-1 group-title="nhl",New York Islanders vs Toronto Maple Leafs
 https://daffodil.sandhost.qzz.io/nhl2.m3u8
-#EXTINF:-1 group-title="nhl",New York Rangers vs Boston Bruins
-https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Vancouver Canucks vs Edmonton Oilers
+#EXTINF:-1 group-title="nhl",Los Angeles Kings vs Colorado Avalanche
 https://daffodil.sandhost.qzz.io/nhl2.m3u8
-#EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Vegas Golden Knights
-https://daffodil.sandhost.qzz.io/nhl.m3u8
