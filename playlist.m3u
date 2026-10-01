@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Guinea vs Kenya
-https://daffodil.sandhost.qzz.io/mls.m3u8
+#EXTINF:-1 group-title="football",Japan vs Ecaudor
+https://daffodil.sandhost.qzz.io/ecu.m3u8
+#EXTINF:-1 group-title="football",Azerbaijan vs Liechtenstein
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Wales vs Norway
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 group-title="football",Greece vs Netherlands
+https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="nfl",Western Kentucky vs New Mexico State
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",North Texas vs Tulsa

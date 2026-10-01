@@ -3,19 +3,21 @@
     {
       "title": "Japan vs Ecaudor",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ecu.m3u8"
+      ]
     },
     {
       "title": "Guinea vs Kenya",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/mls.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Azerbaijan vs Liechtenstein",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+      ]
     },
     {
       "title": "Ireland vs Austria",
@@ -30,12 +32,16 @@
     {
       "title": "Wales vs Norway",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
+      ]
     },
     {
       "title": "Greece vs Netherlands",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+      ]
     },
     {
       "title": "Germany vs Serbia",
