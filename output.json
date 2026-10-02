@@ -46,9 +46,7 @@
     {
       "title": "SÃ£o Paulo vs Santos",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Martinique vs Honduras",
@@ -126,12 +124,14 @@
     },
     {
       "title": "St. Louis Blues vs Dallas Stars",
-      "page": "https://roxiestreams.info/nhl-streams-4",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-1",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+      ]
     },
     {
       "title": "Anaheim Ducks vs Vegas Golden Knights",
-      "page": "https://roxiestreams.info/nhl-streams-5",
+      "page": "https://roxiestreams.info/nhl-streams-4",
       "streams": []
     }
   ],
@@ -139,7 +139,9 @@
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+      ]
     },
     {
       "title": "ONE FN 48: Erdogan vs. Elliott",
