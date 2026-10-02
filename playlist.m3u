@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Azerbaijan vs Liechtenstein
-https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Wales vs Norway
 https://daffodil.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 group-title="football",Greece vs Netherlands
-https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",Cruz Azul vs AmÃ©rica
+https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 group-title="nba",Indiana Fever vs Las Vegas Aces
+https://daffodil.sandhost.qzz.io/wnba.m3u8
+#EXTINF:-1 group-title="nfl",Pittsburgh Steelers vs Cleveland Browns
+https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Western Kentucky vs New Mexico State
 https://daffodil.sandhost.qzz.io/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",North Texas vs Tulsa
 https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nhl",Buffalo Sabres vs Columbus Blue Jackets
-https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Tampa Bay Lightning vs New York Rangers
-https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Minnesota Wild vs Nashville Predators
-https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Utah Mammoth
 https://daffodil.sandhost.qzz.io/nhl.m3u8

@@ -13,9 +13,7 @@
     {
       "title": "Azerbaijan vs Liechtenstein",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Ireland vs Austria",
@@ -37,9 +35,7 @@
     {
       "title": "Greece vs Netherlands",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Germany vs Serbia",
@@ -49,7 +45,9 @@
     {
       "title": "Cruz Azul vs AmÃ©rica",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -63,14 +61,18 @@
     {
       "title": "Indiana Fever vs Las Vegas Aces",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
+      ]
     }
   ],
   "nfl": [
     {
       "title": "Pittsburgh Steelers vs Cleveland Browns",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
+      ]
     },
     {
       "title": "Western Kentucky vs New Mexico State",
@@ -103,16 +105,12 @@
     {
       "title": "Tampa Bay Lightning vs New York Rangers",
       "page": "https://roxiestreams.info/nhl-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Minnesota Wild vs Nashville Predators",
       "page": "https://roxiestreams.info/nhl-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Seattle Kraken vs Calgary Flames",
@@ -122,9 +120,7 @@
     {
       "title": "Chicago Blackhawks vs Utah Mammoth",
       "page": "https://roxiestreams.info/nhl-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Florida Panthers vs San Jose Sharks",
