@@ -7,16 +7,16 @@ https://daffodil.formaturamaxi.com.br/fs2.m3u8
 https://daffodil.formaturamaxi.com.br/ncaa8.m3u8
 #EXTINF:-1 group-title="football",Belarus vs San Marino
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Croatia vs England
-https://daffodil.formaturamaxi.com.br/eng.m3u8
 #EXTINF:-1 group-title="football",Estonia vs Luxembourg
 https://daffodil.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 group-title="football",CÃ¡diz vs Leganes
 https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",North Macedonia vs Scotland
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="football",Switzerland vs Slovenia
+https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 group-title="football",Spain vs Czech Republic
-https://daffodil.formaturamaxi.com.br/usa.m3u8
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 group-title="football",Sint Maarten vs Saint Vincent & Grenadines
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="football",USA vs Mexico
@@ -51,3 +51,5 @@ https://daffodil.formaturamaxi.com.br/ncaa8.m3u8
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Buffalo Sabres
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 group-title="fighting",Whittaker vs. Wallace
+https://daffodil.formaturamaxi.com.br/ppv.m3u8

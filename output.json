@@ -56,9 +56,7 @@
     {
       "title": "Croatia vs England",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/eng.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Estonia vs Luxembourg",
@@ -89,13 +87,15 @@
     {
       "title": "Switzerland vs Slovenia",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+      ]
     },
     {
       "title": "Spain vs Czech Republic",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
     {
@@ -460,7 +460,9 @@
     {
       "title": "Whittaker vs. Wallace",
       "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     }
   ],
   "motorsports": []
