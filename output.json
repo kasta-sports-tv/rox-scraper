@@ -8,7 +8,9 @@
     {
       "title": "Finland vs Albania",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+      ]
     },
     {
       "title": "Burton Albion vs Huddersfield",
@@ -29,7 +31,7 @@
       "title": "Reading vs Bradford",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fs2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
       ]
     },
     {
@@ -52,7 +54,9 @@
     {
       "title": "Estonia vs Luxembourg",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+      ]
     },
     {
       "title": "CÃ¡diz vs Leganes",
@@ -113,7 +117,9 @@
     {
       "title": "Belize vs French Guiana",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+      ]
     }
   ],
   "mlb": [
