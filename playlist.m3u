@@ -1,30 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Azerbaijan vs Lithuania
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 group-title="football",Kosovo vs Austria
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 group-title="football",Malta vs Andorra
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
+#EXTINF:-1 group-title="football",Netherlands vs Serbia
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="football",Greece vs Germany
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="football",Trinidad And Tobago vs CuraÃ§ao
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 group-title="football",Costa Rica vs Haiti
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 group-title="football",Chivas vs AmÃ©rica
-https://daffodil.formaturamaxi.com.br/ncaa8.m3u8
-#EXTINF:-1 group-title="football",Nicaragua vs Dominican Republic
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="mlb",Atlanta Braves vs Los Angeles Dodgers
 https://daffodil.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 group-title="nba",Las Vegas Aces vs Golden State Valkyries
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
 #EXTINF:-1 group-title="nfl",Indianapolis Colts vs Washington Commanders (London)
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 group-title="nfl",New England Patriots vs Buffalo Bills
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",Dallas Cowboys vs Houston Texans
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 group-title="nfl",Kansas City Chiefs vs Las Vegas Raiders
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",Denver Broncos vs San Francisco 49ers
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 group-title="nfl",Detroit Lions vs Carolina Panthers
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nhl",Winnipeg Jets vs Detroit Red Wings
