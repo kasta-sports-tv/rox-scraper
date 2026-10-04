@@ -118,14 +118,14 @@
     {
       "title": "Monterrey vs Toluca",
       "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     },
     {
       "title": "USA vs Mexico",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Belize vs French Guiana",
@@ -398,17 +398,23 @@
     {
       "title": "Washington Capitals vs Tampa Bay Lightning",
       "page": "https://roxiestreams.info/nhl-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
+      ]
     },
     {
       "title": "Ottawa Senators vs Toronto Maple Leafs",
       "page": "https://roxiestreams.info/nhl-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
+      ]
     },
     {
       "title": "Carolina Hurricanes vs Philadelphia Flyers",
       "page": "https://roxiestreams.info/nhl-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl5.m3u8"
+      ]
     },
     {
       "title": "Utah Mammoth vs Columbus Blue Jackets",
@@ -423,7 +429,9 @@
     {
       "title": "New Jersey Devils vs New York Islanders",
       "page": "https://roxiestreams.info/nhl-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl8.m3u8"
+      ]
     },
     {
       "title": "Boston Bruins vs Minnesota Wild",
@@ -438,11 +446,13 @@
     {
       "title": "St. Louis Blues vs Colorado Avalanche",
       "page": "https://roxiestreams.info/nhl-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl11.m3u8"
+      ]
     },
     {
       "title": "Calgary Flames vs Vancouver Canucks",
-      "page": "https://roxiestreams.info/nhl-streams-12",
+      "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": []
     },
     {
