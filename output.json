@@ -54,9 +54,7 @@
     {
       "title": "Chivas vs AmÃ©rica",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Nicaragua vs Dominican Republic",
@@ -107,16 +105,14 @@
       "title": "Indianapolis Colts vs Washington Commanders (London)",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
-        "https://daffodil.formaturamaxi.com.br/tsn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tsn.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     },
     {
       "title": "New England Patriots vs Buffalo Bills",
       "page": "https://roxiestreams.info/nfl-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "New York Jets vs Chicago Bears",
@@ -152,8 +148,8 @@
       "title": "Dallas Cowboys vs Houston Texans",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
-        "https://daffodil.formaturamaxi.com.br/tsn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tsn.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     },
     {
@@ -164,9 +160,7 @@
     {
       "title": "Kansas City Chiefs vs Las Vegas Raiders",
       "page": "https://roxiestreams.info/nfl-streams-11",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Denver Broncos vs San Francisco 49ers",
