@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",France vs Belgium
+#EXTINF:-1 group-title="football",Ukraine vs Hungary
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="football",Bosnia & Herzegovina vs Poland
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="football",Northern Ireland vs Georgia
+#EXTINF:-1 group-title="football",Cuba vs St. Kitts & Nevis
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="football",Bermuda vs Barbados
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 group-title="mlb",Chicago White Sox vs Cleveland Guardians
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+https://daffodil.formaturamaxi.com.br/mlbalt.m3u8
 #EXTINF:-1 group-title="mlb",New York Yankees vs Tampa Bay Rays
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+https://daffodil.formaturamaxi.com.br/mlbalt.m3u8
 #EXTINF:-1 group-title="nfl",Atlanta Falcons vs New Orleans Saints
-https://daffodil.formaturamaxi.com.br/tsn.m3u8
+https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Tampa Bay Lightning
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Winnipeg Jets vs Pittsburgh Penguins
