@@ -1,21 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Ukraine vs Hungary
+#EXTINF:-1 group-title="football",India vs Uruguay
+https://daffodil.formaturamaxi.com.br/sony.m3u8
+#EXTINF:-1 group-title="football",Kazakhstan vs Faroe Islands
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 group-title="football",England vs Czech Republic
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 group-title="football",Croatia vs Spain
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Bosnia & Herzegovina vs Poland
+#EXTINF:-1 group-title="football",Scotland vs Slovenia
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="football",Switzerland vs North Macedonia
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="football",Cuba vs St. Kitts & Nevis
+#EXTINF:-1 group-title="football",Saint Vincent & Grenadines vs Sint Maarten
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 group-title="football",Antigua & Barbuda vs Aruba
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Bermuda vs Barbados
+#EXTINF:-1 group-title="football",Colombia vs Peru
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="mlb",Chicago White Sox vs Cleveland Guardians
+#EXTINF:-1 group-title="football",French Guiana vs Belize
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 group-title="football",Mexico vs Chile
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Atlanta Braves
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="mlb",New York Yankees vs Tampa Bay Rays
+#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs San Diego Padres
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nfl",Atlanta Falcons vs New Orleans Saints
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Tampa Bay Lightning
+#EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Montreal Canadiens
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Winnipeg Jets vs Pittsburgh Penguins
+#EXTINF:-1 group-title="nhl",Ottawa Senators vs Detroit Red Wings
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",San Jose Sharks vs Dallas Stars
+#EXTINF:-1 group-title="nhl",Utah Mammoth vs New Jersey Devils
 https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 group-title="nhl",Minnesota Wild vs Buffalo Sabres
+https://daffodil.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 group-title="fighting",Dana White's Contender Series
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
