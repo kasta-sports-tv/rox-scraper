@@ -12,9 +12,9 @@ https://daffodil.sandhost.qzz.io/usa.m3u8
 #EXTINF:-1 group-title="football",Mexico vs Chile
 https://daffodil.sandhost.qzz.io/uni.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Atlanta Braves
-https://daffodil.sandhost.qzz.io/mlb.m3u8
+https://daffodil.sandhost.qzz.io/mlbalt.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs San Diego Padres
-https://daffodil.sandhost.qzz.io/mlb.m3u8
+https://daffodil.sandhost.qzz.io/mlbalt.m3u8
 #EXTINF:-1 group-title="nfl",Atlanta Falcons vs New Orleans Saints
 https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Montreal Canadiens
