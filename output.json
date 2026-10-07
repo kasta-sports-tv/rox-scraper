@@ -8,37 +8,33 @@
     {
       "title": "Kazakhstan vs Faroe Islands",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "England vs Czech Republic",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Croatia vs Spain",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/spain.m3u8",
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/spain.m3u8",
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
       ]
     },
     {
       "title": "Scotland vs Slovenia",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
       ]
     },
     {
       "title": "Switzerland vs North Macedonia",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
       ]
     },
     {
@@ -49,9 +45,7 @@
     {
       "title": "Saint Vincent & Grenadines vs Sint Maarten",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Argentina vs Benin (Messi's Farewell)",
@@ -62,33 +56,31 @@
       "title": "Antigua & Barbuda vs Aruba",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
       ]
     },
     {
       "title": "Colombia vs Peru",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "USA vs Canada",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/usa.m3u8"
+      ]
     },
     {
       "title": "French Guiana vs Belize",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fs2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Mexico vs Chile",
       "page": "https://roxiestreams.info/soccer-streams-10",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+        "https://daffodil.sandhost.qzz.io/uni.m3u8"
       ]
     }
   ],
@@ -97,14 +89,16 @@
       "title": "Los Angeles Dodgers vs Atlanta Braves",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
+        "https://daffodil.sandhost.qzz.io/mlb.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlbalt.m3u8"
       ]
     },
     {
       "title": "Milwaukee Brewers vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
+        "https://daffodil.sandhost.qzz.io/mlb.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlbalt.m3u8"
       ]
     }
   ],
@@ -126,7 +120,7 @@
     },
     {
       "title": "Los Angeles Lakers vs Golden State Warriors",
-      "page": "https://roxiestreams.info/nba-streams-4",
+      "page": "https://roxiestreams.info/nba-streams-1",
       "streams": []
     }
   ],
@@ -135,7 +129,7 @@
       "title": "Atlanta Falcons vs New Orleans Saints",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
       ]
     }
   ],
@@ -144,7 +138,7 @@
       "title": "Carolina Hurricanes vs Montreal Canadiens",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {
@@ -156,21 +150,21 @@
       "title": "Ottawa Senators vs Detroit Red Wings",
       "page": "https://roxiestreams.info/nhl-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl3.m3u8"
       ]
     },
     {
       "title": "Utah Mammoth vs New Jersey Devils",
       "page": "https://roxiestreams.info/nhl-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl4.m3u8"
       ]
     },
     {
       "title": "Minnesota Wild vs Buffalo Sabres",
       "page": "https://roxiestreams.info/nhl-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl5.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl5.m3u8"
       ]
     },
     {
@@ -190,8 +184,10 @@
     },
     {
       "title": "Florida Panthers vs Los Angeles Kings",
-      "page": "https://roxiestreams.info/nhl-streams-9",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-1",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
+      ]
     }
   ],
   "fighting": [
@@ -199,12 +195,17 @@
       "title": "Dana White's Contender Series",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
       ]
     },
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
+      "streams": []
+    },
+    {
+      "title": "AEW",
+      "page": "https://roxiestreams.info/ncaa-streams-5",
       "streams": []
     },
     {

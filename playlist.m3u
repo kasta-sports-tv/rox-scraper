@@ -1,37 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Kazakhstan vs Faroe Islands
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 group-title="football",England vs Czech Republic
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 group-title="football",Croatia vs Spain
-https://daffodil.formaturamaxi.com.br/spain.m3u8
+https://daffodil.sandhost.qzz.io/spain.m3u8
 #EXTINF:-1 group-title="football",Scotland vs Slovenia
-https://daffodil.formaturamaxi.com.br/fsp.m3u8
+https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 group-title="football",Switzerland vs North Macedonia
-https://daffodil.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="football",Saint Vincent & Grenadines vs Sint Maarten
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
+https://daffodil.sandhost.qzz.io/fubo.m3u8
 #EXTINF:-1 group-title="football",Antigua & Barbuda vs Aruba
-https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",Colombia vs Peru
-https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="football",French Guiana vs Belize
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 group-title="football",USA vs Canada
+https://daffodil.sandhost.qzz.io/usa.m3u8
 #EXTINF:-1 group-title="football",Mexico vs Chile
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/uni.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Atlanta Braves
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs San Diego Padres
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="nfl",Atlanta Falcons vs New Orleans Saints
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
+https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Montreal Canadiens
-https://daffodil.formaturamaxi.com.br/nhl.m3u8
+https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Ottawa Senators vs Detroit Red Wings
-https://daffodil.formaturamaxi.com.br/nhl3.m3u8
+https://daffodil.sandhost.qzz.io/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",Utah Mammoth vs New Jersey Devils
-https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+https://daffodil.sandhost.qzz.io/nhl4.m3u8
 #EXTINF:-1 group-title="nhl",Minnesota Wild vs Buffalo Sabres
-https://daffodil.formaturamaxi.com.br/nhl5.m3u8
+https://daffodil.sandhost.qzz.io/nhl5.m3u8
+#EXTINF:-1 group-title="nhl",Florida Panthers vs Los Angeles Kings
+https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+https://daffodil.sandhost.qzz.io/ppv.m3u8
