@@ -19,8 +19,8 @@
       "title": "Croatia vs Spain",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/spain.m3u8",
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8",
+        "https://daffodil.sandhost.qzz.io/spain.m3u8"
       ]
     },
     {
@@ -89,16 +89,16 @@
       "title": "Los Angeles Dodgers vs Atlanta Braves",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlbalt.m3u8",
-        "https://daffodil.sandhost.qzz.io/mlb.m3u8"
+        "https://daffodil.sandhost.qzz.io/mlb.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlbalt.m3u8"
       ]
     },
     {
       "title": "Milwaukee Brewers vs San Diego Padres",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlbalt.m3u8",
-        "https://daffodil.sandhost.qzz.io/mlb.m3u8"
+        "https://daffodil.sandhost.qzz.io/mlb.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlbalt.m3u8"
       ]
     }
   ],
