@@ -1,31 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Croatia vs Spain
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Scotland vs Slovenia
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",Switzerland vs North Macedonia
-https://daffodil.sandhost.qzz.io/fubo.m3u8
-#EXTINF:-1 group-title="football",Antigua & Barbuda vs Aruba
-https://daffodil.sandhost.qzz.io/fsp.m3u8
-#EXTINF:-1 group-title="football",USA vs Canada
-https://daffodil.sandhost.qzz.io/usa.m3u8
-#EXTINF:-1 group-title="football",Mexico vs Chile
-https://daffodil.sandhost.qzz.io/uni.m3u8
+#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Chicago White Sox
+https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Atlanta Braves
-https://daffodil.sandhost.qzz.io/mlb.m3u8
+https://daffodil.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs New York Yankees
+https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs San Diego Padres
-https://daffodil.sandhost.qzz.io/mlb.m3u8
-#EXTINF:-1 group-title="nfl",Atlanta Falcons vs New Orleans Saints
-https://daffodil.sandhost.qzz.io/nfl.m3u8
-#EXTINF:-1 group-title="nhl",Carolina Hurricanes vs Montreal Canadiens
-https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Ottawa Senators vs Detroit Red Wings
-https://daffodil.sandhost.qzz.io/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Utah Mammoth vs New Jersey Devils
-https://daffodil.sandhost.qzz.io/nhl4.m3u8
-#EXTINF:-1 group-title="nhl",Minnesota Wild vs Buffalo Sabres
-https://daffodil.sandhost.qzz.io/nhl5.m3u8
-#EXTINF:-1 group-title="nhl",Florida Panthers vs Los Angeles Kings
-https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="fighting",Dana White's Contender Series
-https://daffodil.sandhost.qzz.io/ppv.m3u8
+https://daffodil.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Indiana Pacers
+https://daffodil.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 group-title="nba",Golden State Warriors vs Portland Trail Blazers
+https://daffodil.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 group-title="nfl",Jacksonville State vs Kennesaw State
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",New Mexico State vs Florida International
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs Washington Capitals
+https://daffodil.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 group-title="nhl",Colorado Avalanche vs Winnipeg Jets
+https://daffodil.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 group-title="nhl",Edmonton Oilers vs Anaheim Ducks
+https://daffodil.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 group-title="fighting",TNA
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
