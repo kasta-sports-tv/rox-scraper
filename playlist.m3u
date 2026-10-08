@@ -3,15 +3,11 @@
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Tampa Bay Rays vs New York Yankees
 https://daffodil.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Indiana Pacers
+#EXTINF:-1 group-title="nba",Boston Celtics vs Cleveland Cavaliers
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",Golden State Warriors vs Portland Trail Blazers
-https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",New York Liberty vs Atlanta Dream
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nba",Las Vegas Aces vs Golden State Valkyries
-https://daffodil.formaturamaxi.com.br/wnba2.m3u8
-#EXTINF:-1 group-title="nfl",New Mexico State vs Florida International
+#EXTINF:-1 group-title="nfl",Tampa Bay Buccaneers vs Dallas Cowboys
+https://daffodil.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 group-title="nfl",Missouri State vs Western Kentucky
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Ottawa Senators
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
