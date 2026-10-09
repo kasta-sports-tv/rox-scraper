@@ -11,6 +11,11 @@
       "streams": []
     },
     {
+      "title": "AtlÃ©tico Nacional vs Deportes Tolima",
+      "page": "https://roxiestreams.info/soccer-streams-5",
+      "streams": []
+    },
+    {
       "title": "Fluminense vs Coritiba",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": []
@@ -18,6 +23,11 @@
     {
       "title": "Palmeiras vs Bahia",
       "page": "https://roxiestreams.info/soccer-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Fortaleza CEIF vs Millonarios",
+      "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": []
     }
   ],
@@ -65,7 +75,9 @@
     {
       "title": "Sacramento Kings vs Los Angeles Lakers",
       "page": "https://roxiestreams.info/nba-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+      ]
     }
   ],
   "nfl": [
@@ -91,7 +103,9 @@
     {
       "title": "South Florida vs UTSA",
       "page": "https://roxiestreams.info/ncaa-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+      ]
     },
     {
       "title": "South Alabama vs Arkansas State",

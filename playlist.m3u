@@ -7,10 +7,14 @@ https://daffodil.formaturamaxi.com.br/nba.m3u8
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Philadelphia 76ers vs Brooklyn Nets
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 group-title="nba",Sacramento Kings vs Los Angeles Lakers
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Tampa Bay Buccaneers vs Dallas Cowboys
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Missouri State vs Western Kentucky
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",South Florida vs UTSA
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Ottawa Senators
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Utah Mammoth vs Boston Bruins
