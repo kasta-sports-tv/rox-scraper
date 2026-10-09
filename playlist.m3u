@@ -1,33 +1,33 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Al Kholood vs Al Quadisiya
+https://daffodil.formaturamaxi.com.br/foxd.m3u8
+#EXTINF:-1 group-title="football",Al Fateh vs Al-Ahli
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 group-title="football",Al Nassr vs Diriyah
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="football",MÃ¡laga vs Espanyol
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Puebla vs LeÃ³n
 https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="football",Deportivo Garcilaso vs Sport Huancayo
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="mlb",Cleveland Guardians vs Chicago White Sox
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="nba",Boston Celtics vs Cleveland Cavaliers
+#EXTINF:-1 group-title="football",TapatÃ­o vs CA La Paz
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 group-title="nba",Houston Rockets vs Dallas Mavericks
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",New Orleans Pelicans vs Miami Heat
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Philadelphia 76ers vs Brooklyn Nets
-https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Sacramento Kings vs Los Angeles Lakers
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Tampa Bay Buccaneers vs Dallas Cowboys
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",Missouri State vs Western Kentucky
+#EXTINF:-1 group-title="nba",Memphis Grizzlies vs Chicago Bulls
+https://daffodil.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 group-title="nba",Atlanta Dream vs New York Liberty
+https://daffodil.formaturamaxi.com.br/wnba2.m3u8
+#EXTINF:-1 group-title="nfl",Washington State vs Utah State
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",South Florida vs UTSA
+#EXTINF:-1 group-title="nfl",Wyoming vs San JosÃ© State
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Ottawa Senators
+#EXTINF:-1 group-title="nhl",Seattle Kraken vs Detroit Red Wings
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Utah Mammoth vs Boston Bruins
+#EXTINF:-1 group-title="nhl",New York Rangers vs Washington Capitals
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 group-title="nhl",Dallas Stars vs Buffalo Sabres
+#EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs Columbus Blue Jackets
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Nashville Predators vs Montreal Canadiens
+#EXTINF:-1 group-title="nhl",Anaheim Ducks vs Winnipeg Jets
 https://daffodil.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 group-title="nhl",Minnesota Wild vs Tampa Bay Lightning
-https://daffodil.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 group-title="fighting",TNA
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
