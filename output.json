@@ -1,33 +1,77 @@
 {
   "soccer": [
     {
-      "title": "Santos vs Flamengo",
+      "title": "Galatasaray vs KasÄ±mpaÅa",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": []
     },
     {
-      "title": "Athletico-PR vs Athletico Mineiro",
+      "title": "Aldosivi vs Sarmiento",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
     },
     {
-      "title": "AtlÃ©tico Nacional vs Deportes Tolima",
-      "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
-    },
-    {
-      "title": "Fluminense vs Coritiba",
+      "title": "Al Nassr vs Diriyah",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": []
     },
     {
-      "title": "Palmeiras vs Bahia",
+      "title": "Borussia Dortmund vs Werder Bremen",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     },
     {
-      "title": "Fortaleza CEIF vs Millonarios",
+      "title": "Lens vs Olympique Lyonnais",
       "page": "https://roxiestreams.info/soccer-streams-5",
+      "streams": []
+    },
+    {
+      "title": "MÃ¡laga vs Espanyol",
+      "page": "https://roxiestreams.info/soccer-streams-6",
+      "streams": []
+    },
+    {
+      "title": "Sporting Braga vs Sporting CP",
+      "page": "https://roxiestreams.info/soccer-streams-7",
+      "streams": []
+    },
+    {
+      "title": "Gimnasia La Plata vs AtlÃ©tico TucumÃ¡n",
+      "page": "https://roxiestreams.info/soccer-streams-8",
+      "streams": []
+    },
+    {
+      "title": "Instituto vs Boca Juniors",
+      "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": []
+    },
+    {
+      "title": "UniÃ³n Santa Fe vs Defensa y Justicia",
+      "page": "https://roxiestreams.info/soccer-streams-10",
+      "streams": []
+    },
+    {
+      "title": "Puebla vs LeÃ³n",
+      "page": "https://roxiestreams.info/soccer-streams-11",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
+      ]
+    },
+    {
+      "title": "Deportivo Garcilaso vs Sport Huancayo",
+      "page": "https://roxiestreams.info/soccer-streams-12",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+      ]
+    },
+    {
+      "title": "TapatÃ­o vs CA La Paz",
+      "page": "https://roxiestreams.info/soccer-streams-13",
+      "streams": []
+    },
+    {
+      "title": "Tigres UANL vs Toluca",
+      "page": "https://roxiestreams.info/soccer-streams-14",
       "streams": []
     }
   ],
