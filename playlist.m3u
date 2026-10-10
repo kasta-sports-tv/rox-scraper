@@ -19,6 +19,8 @@ https://daffodil.formaturamaxi.com.br/dep.m3u8
 https://daffodil.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 group-title="football",Napoli vs Frosinone
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Inter Miami vs DC United
+https://daffodil.formaturamaxi.com.br/mls.m3u8
 #EXTINF:-1 group-title="football",SÃ£o Paulo vs Vitoria
 https://daffodil.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 group-title="football",Atlas vs Chivas
@@ -35,6 +37,8 @@ https://daffodil.formaturamaxi.com.br/nba2.m3u8
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 group-title="nba",Sacramento Kings vs Golden State Warriors
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Indiana vs Nebraska
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Texas A&M vs Missouri
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",UCF vs Oklahoma State
@@ -47,6 +51,8 @@ https://daffodil.formaturamaxi.com.br/ncaa8.m3u8
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",UCLA vs Oregon
 https://daffodil.formaturamaxi.com.br/ncaa11.m3u8
+#EXTINF:-1 group-title="nfl",Houston vs Kansas State
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Duke vs Georgia Tech
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Illinois vs Michigan State
@@ -81,8 +87,12 @@ https://daffodil.formaturamaxi.com.br/nhl3.m3u8
 https://daffodil.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 group-title="nhl",Utah Mammoth vs Buffalo Sabres
 https://daffodil.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 group-title="nhl",Detroit Red Wings vs Montreal Canadiens
+https://daffodil.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 group-title="nhl",Toronto Maple Leafs vs Colorado Avalanche
 https://daffodil.formaturamaxi.com.br/nhl11.m3u8
+#EXTINF:-1 group-title="nhl",Anaheim Ducks vs Calgary Flames
+https://daffodil.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 group-title="fighting",ESSEX vs DAPPER (Misfits)
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE: Money In The Bank

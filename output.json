@@ -153,7 +153,9 @@
     {
       "title": "Inter Miami vs DC United",
       "page": "https://roxiestreams.info/soccer-streams-19",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/mls.m3u8"
+      ]
     },
     {
       "title": "Orlando City vs Columbus Crew",
@@ -255,7 +257,9 @@
     {
       "title": "Indiana vs Nebraska",
       "page": "https://roxiestreams.info/ncaa-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
     },
     {
       "title": "Texas A&M vs Missouri",
@@ -332,7 +336,9 @@
     {
       "title": "Houston vs Kansas State",
       "page": "https://roxiestreams.info/ncaa-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
     },
     {
       "title": "Duke vs Georgia Tech",
@@ -502,8 +508,10 @@
     },
     {
       "title": "Detroit Red Wings vs Montreal Canadiens",
-      "page": "https://roxiestreams.info/nhl-streams-6",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+      ]
     },
     {
       "title": "Nashville Predators vs Ottawa Senators",
@@ -539,12 +547,14 @@
     },
     {
       "title": "Anaheim Ducks vs Calgary Flames",
-      "page": "https://roxiestreams.info/nhl-streams-13",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+      ]
     },
     {
       "title": "Los Angeles Kings vs Vegas Golden Knights",
-      "page": "https://roxiestreams.info/nhl-streams-14",
+      "page": "https://roxiestreams.info/nhl-streams-13",
       "streams": []
     }
   ],
