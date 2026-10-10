@@ -45,12 +45,16 @@ https://daffodil.formaturamaxi.com.br/ncaa7.m3u8
 https://daffodil.formaturamaxi.com.br/ncaa8.m3u8
 #EXTINF:-1 group-title="nfl",Texas vs Oklahoma
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",UCLA vs Oregon
+https://daffodil.formaturamaxi.com.br/ncaa11.m3u8
 #EXTINF:-1 group-title="nfl",Duke vs Georgia Tech
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Illinois vs Michigan State
 https://daffodil.formaturamaxi.com.br/ncaa13.m3u8
 #EXTINF:-1 group-title="nfl",Tulsa vs Navy
 https://daffodil.formaturamaxi.com.br/ncaa7.m3u8
+#EXTINF:-1 group-title="nfl",UConn vs Temple
+https://daffodil.formaturamaxi.com.br/ncaa14.m3u8
 #EXTINF:-1 group-title="nfl",Maryland vs Ohio State
 https://daffodil.formaturamaxi.com.br/ncaa8.m3u8
 #EXTINF:-1 group-title="nfl",UAB vs Memphis
@@ -61,6 +65,8 @@ https://daffodil.formaturamaxi.com.br/ncaa13.m3u8
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",Air Force vs Northern Illinois
 https://daffodil.formaturamaxi.com.br/ncaa7.m3u8
+#EXTINF:-1 group-title="nfl",James Madison vs Georgia Southern
+https://daffodil.formaturamaxi.com.br/ncaa14.m3u8
 #EXTINF:-1 group-title="nfl",Minnesota vs Purdue
 https://daffodil.formaturamaxi.com.br/ncaa8.m3u8
 #EXTINF:-1 group-title="nfl",Hawai'i vs Arizona State
