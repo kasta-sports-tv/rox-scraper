@@ -21,12 +21,14 @@ https://daffodil.formaturamaxi.com.br/one.m3u8
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs DC United
 https://daffodil.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 group-title="football",SÃ£o Paulo vs Vitoria
-https://daffodil.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 group-title="football",Orlando City vs Columbus Crew
+https://daffodil.formaturamaxi.com.br/tsn5.m3u8
 #EXTINF:-1 group-title="football",Atlas vs Chivas
-https://daffodil.formaturamaxi.com.br/benfica.m3u8
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="football",LAFC vs Vancouver Whitecaps
+https://daffodil.formaturamaxi.com.br/tsn5.m3u8
 #EXTINF:-1 group-title="football",AmÃ©rica vs Monterrey
-https://daffodil.formaturamaxi.com.br/benfica.m3u8
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="mlb",Chicago White Sox vs Cleveland Guardians
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Clippers vs Toronto Raptors
@@ -35,7 +37,7 @@ https://daffodil.formaturamaxi.com.br/nba.m3u8
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Detroit Pistons vs Washington Wizards
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Sacramento Kings vs Golden State Warriors
+#EXTINF:-1 group-title="nba",San Antonio Spurs vs Phoenix Suns
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Indiana vs Nebraska
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8

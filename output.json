@@ -160,14 +160,14 @@
     {
       "title": "Orlando City vs Columbus Crew",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tsn5.m3u8"
+      ]
     },
     {
       "title": "SÃ£o Paulo vs Vitoria",
       "page": "https://roxiestreams.info/soccer-streams-21",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tsn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "River Plate vs Estudiantes Rio Cuarto",
@@ -178,19 +178,21 @@
       "title": "Atlas vs Chivas",
       "page": "https://roxiestreams.info/soccer-streams-23",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/benfica.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
       ]
     },
     {
       "title": "LAFC vs Vancouver Whitecaps",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tsn5.m3u8"
+      ]
     },
     {
       "title": "AmÃ©rica vs Monterrey",
       "page": "https://roxiestreams.info/soccer-streams-23",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/benfica.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
       ]
     }
   ],
@@ -238,14 +240,14 @@
     {
       "title": "Sacramento Kings vs Golden State Warriors",
       "page": "https://roxiestreams.info/nba-streams-6",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "San Antonio Spurs vs Phoenix Suns",
       "page": "https://roxiestreams.info/nba-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+      ]
     }
   ],
   "nfl": [
