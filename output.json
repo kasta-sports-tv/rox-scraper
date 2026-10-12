@@ -24,25 +24,21 @@
     {
       "title": "Levante vs Sevilla",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Coritiba vs Botafogo",
-      "page": "https://roxiestreams.info/soccer-streams-5",
+      "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     },
     {
       "title": "Chapecoense vs Athletico-PR",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
-      ]
+      "page": "https://roxiestreams.info/soccer-streams-5",
+      "streams": []
     },
     {
-      "title": "GrÃªmio vs Internacional",
-      "page": "https://roxiestreams.info/soccer-streams-5",
+      "title": "RB Bragantino vs Cruzeiro",
+      "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": []
     }
   ],
@@ -58,6 +54,7 @@
       "title": "Cleveland Guardians vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-2",
       "streams": [
+        "https://daffodil.formaturamaxi.com.br/mlb.m3u8",
         "https://daffodil.formaturamaxi.com.br/mlb2.m3u8"
       ]
     }
