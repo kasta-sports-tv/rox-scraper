@@ -156,12 +156,16 @@
     {
       "title": "Pachuca vs Necaxa",
       "page": "https://roxiestreams.info/soccer-streams-18",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     },
     {
       "title": "Pumas vs  Cruz Azul",
       "page": "https://roxiestreams.info/soccer-streams-18",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -208,16 +212,16 @@
       "title": "Philadelphia Eagles vs Jacksonville Jaguars",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
-        "https://daffodil.formaturamaxi.com.br/foot.m3u8"
+        "https://daffodil.formaturamaxi.com.br/foot.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     },
     {
       "title": "Chicago Bears vs Green Bay Packers",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
-        "https://daffodil.formaturamaxi.com.br/foot.m3u8"
+        "https://daffodil.formaturamaxi.com.br/foot.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     },
     {
@@ -268,9 +272,9 @@
       "title": "Detroit Lions vs Arizona Cardinals",
       "page": "https://roxiestreams.info/nfl-streams-11",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl8.m3u8",
+        "https://daffodil.formaturamaxi.com.br/foot.m3u8",
         "https://daffodil.formaturamaxi.com.br/lions.m3u8",
-        "https://daffodil.formaturamaxi.com.br/foot.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl8.m3u8"
       ]
     },
     {

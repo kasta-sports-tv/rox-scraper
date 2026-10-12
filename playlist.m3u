@@ -27,6 +27,10 @@ https://daffodil.formaturamaxi.com.br/benfica.m3u8
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Racing Santander vs Valencia
 https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Pachuca vs Necaxa
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="football",Pumas vs  Cruz Azul
+https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="mlb",Los Angeles Dodgers vs Milwaukee Brewers
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Dallas Mavericks vs Houston Rockets
@@ -38,15 +42,15 @@ https://daffodil.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 group-title="nba",Chicago Bulls vs Denver Nuggets
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nfl",Philadelphia Eagles vs Jacksonville Jaguars
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
+https://daffodil.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 group-title="nfl",Chicago Bears vs Green Bay Packers
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
+https://daffodil.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 group-title="nfl",Houston Texans vs Tennessee Titans
 https://daffodil.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 group-title="nfl",Indianapolis Colts vs Pittsburgh Steelers
 https://daffodil.formaturamaxi.com.br/nfl8.m3u8
 #EXTINF:-1 group-title="nfl",Detroit Lions vs Arizona Cardinals
-https://daffodil.formaturamaxi.com.br/nfl8.m3u8
+https://daffodil.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 group-title="nfl",San Francisco 49ers vs Seattle Seahawks
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Baltimore Ravens vs Atlanta Falcons
