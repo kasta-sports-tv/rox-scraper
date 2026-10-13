@@ -17,9 +17,7 @@
     {
       "title": "Coventry City vs Newcastle",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Levante vs Sevilla",
@@ -54,8 +52,8 @@
       "title": "Cleveland Guardians vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8",
-        "https://daffodil.formaturamaxi.com.br/mlb2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb2.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
       ]
     }
   ],
@@ -97,8 +95,7 @@
       "title": "Buffalo Bills vs Los Angeles Rams",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
-        "https://daffodil.formaturamaxi.com.br/foot.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     }
   ],
