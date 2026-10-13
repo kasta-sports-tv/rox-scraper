@@ -6,13 +6,15 @@ https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Champions League Goals Show
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Arsenal vs Lille
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
+https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="football",Barcelona vs Galatasaray
 https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Viking
 https://daffodil.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 group-title="football",RB Leipzig vs PSV
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",Boca Juniors vs Vasco Gama
+https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="mlb",Cleveland Guardians vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Cleveland Cavaliers vs Orlando Magic
@@ -34,7 +36,11 @@ https://daffodil.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 group-title="nhl",Seattle Kraken vs Philadelphia Flyers
 https://daffodil.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 group-title="nhl",Colorado Avalanche vs Dallas Stars
-https://daffodil.formaturamaxi.com.br/nhl11.m3u8
+https://daffodil.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 group-title="nhl",Toronto Maple Leafs vs Utah Mammoth
+https://daffodil.formaturamaxi.com.br/nhl13.m3u8
+#EXTINF:-1 group-title="nhl",Boston Bruins vs San Jose Sharks
+https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="fighting",Dana White's Contender Series
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE NXT

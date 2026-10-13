@@ -40,8 +40,8 @@
       "title": "Arsenal vs Lille",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt.m3u8",
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlb.m3u8",
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
       ]
     },
     {
@@ -89,7 +89,9 @@
     {
       "title": "Boca Juniors vs Vasco Gama",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -206,9 +208,9 @@
     },
     {
       "title": "Colorado Avalanche vs Dallas Stars",
-      "page": "https://roxiestreams.info/nhl-streams-11",
+      "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl11.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
       ]
     },
     {
@@ -219,7 +221,9 @@
     {
       "title": "Toronto Maple Leafs vs Utah Mammoth",
       "page": "https://roxiestreams.info/nhl-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl13.m3u8"
+      ]
     },
     {
       "title": "Calgary Flames vs Anaheim Ducks",
@@ -233,8 +237,10 @@
     },
     {
       "title": "Boston Bruins vs San Jose Sharks",
-      "page": "https://roxiestreams.info/nhl-streams-16",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-1",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+      ]
     }
   ],
   "fighting": [
