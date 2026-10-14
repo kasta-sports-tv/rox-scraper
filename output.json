@@ -4,14 +4,15 @@
       "title": "LASK Linz vs Liverpool",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt4.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tnt2.m3u8"
       ]
     },
     {
       "title": "Feyenoord vs Como",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8",
+        "https://daffodil.formaturamaxi.com.br/tnt4.m3u8"
       ]
     },
     {
@@ -28,28 +29,28 @@
       "title": "Champions League Goals Show",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
     {
       "title": "Aston Villa vs Fenerbahce",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt2.m3u8"
+      ]
     },
     {
       "title": "BodÃ¸ / Glimt vs Dortmund",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8",
-        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
       "title": "Man City vs PSG",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt2.m3u8",
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
       ]
     },
     {
@@ -67,9 +68,7 @@
     {
       "title": "Shakhtar Donetsk vs Athens",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Slovan Bratislava vs Stuttgart",

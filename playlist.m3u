@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",LASK Linz vs Liverpool
-https://daffodil.formaturamaxi.com.br/tnt4.m3u8
+https://daffodil.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 group-title="football",Feyenoord vs Como
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Champions League Goals Show
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",BodÃ¸ / Glimt vs Dortmund
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="football",Man City vs PSG
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Aston Villa vs Fenerbahce
 https://daffodil.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 group-title="football",BodÃ¸ / Glimt vs Dortmund
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",Man City vs PSG
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="football",Roma vs Real Madrid
 https://daffodil.formaturamaxi.com.br/tnt4.m3u8
-#EXTINF:-1 group-title="football",Shakhtar Donetsk vs Athens
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs New York City
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Los Angeles Dodgers
