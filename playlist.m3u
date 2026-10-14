@@ -6,7 +6,7 @@ https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Champions League Goals Show
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Arsenal vs Lille
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="football",Barcelona vs Galatasaray
 https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Viking
@@ -23,6 +23,8 @@ https://daffodil.formaturamaxi.com.br/nba.m3u8
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Indiana Pacers vs Oklahoma City Thunder
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 group-title="nba",Golden State Warriors vs Los Angeles Lakers
+https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="nfl",Buffalo Bills vs Los Angeles Rams
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 group-title="nhl",New Jersey Devils vs Detroit Red Wings
