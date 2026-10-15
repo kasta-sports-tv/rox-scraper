@@ -4,8 +4,8 @@
       "title": "Lyon vs Crystal Palace",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt.m3u8",
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8",
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
       ]
     },
     {
@@ -46,27 +46,14 @@
     {
       "title": "Celta Vigo vs Juventus",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt5.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Hearts vs NordsjÃ¦lland",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt4.m3u8",
-        "https://daffodil.formaturamaxi.com.br/tudn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tnt4.m3u8"
       ]
-    },
-    {
-      "title": "Real Betis vs Porto",
-      "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
-    },
-    {
-      "title": "KÃ¸benhavn vs Sporting Braga/a>",
-      "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
     },
     {
       "title": "Marseille vs Olympiakos",
@@ -74,7 +61,7 @@
       "streams": []
     },
     {
-      "title": "LMansfield Town vs Oxford",
+      "title": "Mansfield Town vs Oxford",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": []
     },
@@ -127,9 +114,7 @@
     {
       "title": "East Carolina vs UAB",
       "page": "https://roxiestreams.info/ncaa-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Georgia Southern vs Old Dominion",
