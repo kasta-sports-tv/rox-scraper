@@ -13,18 +13,20 @@ https://daffodil.formaturamaxi.com.br/tnt2.m3u8
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Hearts vs NordsjÃ¦lland
 https://daffodil.formaturamaxi.com.br/tnt4.m3u8
-#EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Cleveland Guardians
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Los Angeles Dodgers
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 group-title="football",Estudiantes vs Flamengo
+https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="nba",Toronto Raptors vs New York Knicks
 https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="nba",Oklahoma City Thunder vs Houston Rockets
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nfl",Seattle Seahawks vs Denver Broncos
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 group-title="nfl",East Carolina vs UAB
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Georgia Southern vs Old Dominion
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Colorado State vs Texas State
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nhl",Buffalo Sabres vs Toronto Maple Leafs
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="nhl",New York Islanders vs Ottawa Senators

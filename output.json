@@ -68,23 +68,21 @@
     {
       "title": "Estudiantes vs Flamengo",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+      ]
     }
   ],
   "mlb": [
     {
       "title": "Tampa Bay Rays vs Cleveland Guardians",
       "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Milwaukee Brewers vs Los Angeles Dodgers",
       "page": "https://roxiestreams.info/mlb-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nba": [
@@ -114,7 +112,9 @@
     {
       "title": "East Carolina vs UAB",
       "page": "https://roxiestreams.info/ncaa-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
     },
     {
       "title": "Georgia Southern vs Old Dominion",
@@ -126,7 +126,9 @@
     {
       "title": "Colorado State vs Texas State",
       "page": "https://roxiestreams.info/ncaa-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+      ]
     }
   ],
   "nhl": [
