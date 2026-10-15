@@ -1,16 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Lyon vs Crystal Palace
-https://daffodil.formaturamaxi.com.br/tnt2.m3u8
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="football",Salzburg vs Milan
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+https://daffodil.formaturamaxi.com.br/tnt5.m3u8
+#EXTINF:-1 group-title="football",Torreense vs Sunderland
+https://daffodil.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 group-title="football",Bournemouth vs Sturm Graz
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="football",Brighton vs Kauno Zalgiris
 https://daffodil.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 group-title="football",Benfica vs Celtic
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Celta Vigo vs Juventus
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
+https://daffodil.formaturamaxi.com.br/tnt5.m3u8
 #EXTINF:-1 group-title="football",Hearts vs NordsjÃ¦lland
-https://daffodil.formaturamaxi.com.br/tudn.m3u8
+https://daffodil.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 group-title="mlb",Tampa Bay Rays vs Cleveland Guardians
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Los Angeles Dodgers
