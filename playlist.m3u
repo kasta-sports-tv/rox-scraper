@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Frankfurt vs KÃ¶ln
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Frosinone vs Sassuolo
-https://daffodil.formaturamaxi.com.br/tnt5.m3u8
+https://daffodil.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 group-title="football",Le Mans vs Toulouse
-https://daffodil.formaturamaxi.com.br/tnt2.m3u8
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Burnley vs Wolves
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Deportivo La CoruÃ±a vs Levante
-https://daffodil.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 group-title="football",Mirassol vs Internacional
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Necaxa vs Atlas
+https://daffodil.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 group-title="nba",Miami Heat vs Orlando Magic
 https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="nba",Boston Celtics vs Philadelphia 76ers
