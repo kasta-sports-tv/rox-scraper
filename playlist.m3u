@@ -1,45 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Lyon vs Crystal Palace
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Salzburg vs Milan
-https://daffodil.formaturamaxi.com.br/tnt5.m3u8
-#EXTINF:-1 group-title="football",Torreense vs Sunderland
-https://daffodil.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 group-title="football",Bournemouth vs Sturm Graz
+#EXTINF:-1 group-title="football",Frankfurt vs KÃ¶ln
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Brighton vs Kauno Zalgiris
+#EXTINF:-1 group-title="football",Frosinone vs Sassuolo
+https://daffodil.formaturamaxi.com.br/tnt5.m3u8
+#EXTINF:-1 group-title="football",Le Mans vs Toulouse
 https://daffodil.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 group-title="football",Benfica vs Celtic
+#EXTINF:-1 group-title="football",Burnley vs Wolves
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 group-title="football",Deportivo La CoruÃ±a vs Levante
+https://daffodil.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 group-title="football",Mirassol vs Internacional
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Hearts vs NordsjÃ¦lland
-https://daffodil.formaturamaxi.com.br/tnt4.m3u8
-#EXTINF:-1 group-title="football",Estudiantes vs Flamengo
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="nba",Toronto Raptors vs New York Knicks
+#EXTINF:-1 group-title="nba",Miami Heat vs Orlando Magic
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",Oklahoma City Thunder vs Houston Rockets
+#EXTINF:-1 group-title="nba",Boston Celtics vs Philadelphia 76ers
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nfl",Seattle Seahawks vs Denver Broncos
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",East Carolina vs UAB
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Georgia Southern vs Old Dominion
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Colorado State vs Texas State
+#EXTINF:-1 group-title="nba",Toronto Raptors vs Detroit Pistons
+https://daffodil.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 group-title="nba",Milwaukee Bucks vs Indiana Pacers
+https://daffodil.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 group-title="nba",Charlotte Hornets vs Memphis Grizzlies
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nhl",Buffalo Sabres vs Toronto Maple Leafs
+#EXTINF:-1 group-title="nba",Denver Nuggets vs Los Angeles Lakers
+https://daffodil.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 group-title="nfl",Memphis vs Tulane
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Washington vs Purdue
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",App State vs Coastal Carolina
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs Colorado Avalanche
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",New York Islanders vs Ottawa Senators
+#EXTINF:-1 group-title="nhl",Boston Bruins vs Anaheim Ducks
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 group-title="nhl",Seattle Kraken vs Tampa Bay Lightning
-https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Vancouver Canucks vs Florida Panthers
-https://daffodil.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 group-title="nhl",New York Rangers vs New Jersey Devils
-https://daffodil.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 group-title="nhl",Calgary Flames vs Vegas Golden Knights
-https://daffodil.formaturamaxi.com.br/nhl11.m3u8
-#EXTINF:-1 group-title="fighting",TNA
+#EXTINF:-1 group-title="fighting",The Inner Circle 35
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 group-title="fighting",ONE Samurai 4
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
