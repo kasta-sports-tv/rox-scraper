@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Frankfurt vs KÃ¶ln
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Frosinone vs Sassuolo
 https://daffodil.formaturamaxi.com.br/tnt5.m3u8
 #EXTINF:-1 group-title="football",Le Mans vs Toulouse
@@ -36,6 +36,6 @@ https://daffodil.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 group-title="fighting",The Inner Circle 35
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="fighting",ONE Samurai 4
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
