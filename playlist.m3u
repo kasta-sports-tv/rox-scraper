@@ -1,29 +1,45 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Middlesbrough vs Cardiff
-https://daffodil.sandhost.qzz.io/ncaa10.m3u8
+https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
 #EXTINF:-1 group-title="football",Watford vs Charlton Athletic
-https://daffodil.sandhost.qzz.io/golazo.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Manchester City vs Ipswich
-https://daffodil.sandhost.qzz.io/fubo.m3u8
+https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 group-title="football",Southampton vs Bolton Wanderers
-https://daffodil.sandhost.qzz.io/golazo.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Swansea City vs West Ham
-https://daffodil.sandhost.qzz.io/ncaa10.m3u8
+https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
 #EXTINF:-1 group-title="football",Bologna vs Inter Milan
-https://daffodil.sandhost.qzz.io/golazo.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Roma vs Genoa
-https://daffodil.sandhost.qzz.io/golazo.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="nfl",College Gameday
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Florida vs Texas
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Mississippi State vs LSU
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Florida Atlantic vs Army
-https://daffodil.sandhost.qzz.io/ncaa10.m3u8
+https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+#EXTINF:-1 group-title="nfl",Auburn vs Georgia
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Alabama vs Tennessee
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",UNLV vs Air Force
-https://daffodil.sandhost.qzz.io/ncaa10.m3u8
+https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+#EXTINF:-1 group-title="nfl",Florida State vs Miami
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Nevada vs North Dakota State
-https://daffodil.sandhost.qzz.io/ncaa10.m3u8
+https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+#EXTINF:-1 group-title="nfl",Notre Dame vs BYU
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Utah vs Colorado
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Fresno State vs San Diego State
-https://daffodil.sandhost.qzz.io/ncaa10.m3u8
+https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
 #EXTINF:-1 group-title="fighting",ONE Samurai 4
-https://daffodil.sandhost.qzz.io/ppv.m3u8
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",Fundora vs. Hadribeaj: The Fight
-https://daffodil.sandhost.qzz.io/ppv.m3u8
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 group-title="fighting",RAF 14: Tsarukyan vs. Danis
-https://daffodil.sandhost.qzz.io/ppv.m3u8
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
