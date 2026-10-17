@@ -8,12 +8,16 @@
     {
       "title": "Middlesbrough vs Cardiff",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+      ]
     },
     {
       "title": "Watford vs Charlton Athletic",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Espanyol vs AtlÃ©tico Madrid",
@@ -48,12 +52,16 @@
     {
       "title": "Southampton vs Bolton Wanderers",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Swansea City vs West Ham",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+      ]
     },
     {
       "title": "Villarreal vs Elche",
@@ -68,7 +76,9 @@
     {
       "title": "Bologna vs Inter Milan",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Bayern MÃ¼nchen vs Leipzig",
@@ -93,7 +103,9 @@
     {
       "title": "Roma vs Genoa",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Valencia vs Athletic Club",
@@ -204,7 +216,9 @@
     {
       "title": "Florida Atlantic vs Army",
       "page": "https://roxiestreams.info/ncaa-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+      ]
     },
     {
       "title": "Georgia State vs James Madison",
@@ -259,7 +273,9 @@
     {
       "title": "UNLV vs Air Force",
       "page": "https://roxiestreams.info/ncaa-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+      ]
     },
     {
       "title": "Washington State vs Oregon State",
@@ -284,7 +300,9 @@
     {
       "title": "Nevada vs North Dakota State",
       "page": "https://roxiestreams.info/ncaa-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+      ]
     },
     {
       "title": "Notre Dame vs BYU",
@@ -334,7 +352,9 @@
     {
       "title": "Fresno State vs San Diego State",
       "page": "https://roxiestreams.info/ncaa-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+      ]
     },
     {
       "title": "New Mexico vs Hawai'i",
