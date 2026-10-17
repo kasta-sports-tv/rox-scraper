@@ -1,27 +1,29 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Middlesbrough vs Cardiff
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+https://daffodil.sandhost.qzz.io/ncaa10.m3u8
 #EXTINF:-1 group-title="football",Watford vs Charlton Athletic
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Manchester City vs Ipswich
+https://daffodil.sandhost.qzz.io/fubo.m3u8
 #EXTINF:-1 group-title="football",Southampton vs Bolton Wanderers
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Swansea City vs West Ham
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+https://daffodil.sandhost.qzz.io/ncaa10.m3u8
 #EXTINF:-1 group-title="football",Bologna vs Inter Milan
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Roma vs Genoa
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="nfl",Florida Atlantic vs Army
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+https://daffodil.sandhost.qzz.io/ncaa10.m3u8
 #EXTINF:-1 group-title="nfl",UNLV vs Air Force
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+https://daffodil.sandhost.qzz.io/ncaa10.m3u8
 #EXTINF:-1 group-title="nfl",Nevada vs North Dakota State
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+https://daffodil.sandhost.qzz.io/ncaa10.m3u8
 #EXTINF:-1 group-title="nfl",Fresno State vs San Diego State
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
+https://daffodil.sandhost.qzz.io/ncaa10.m3u8
 #EXTINF:-1 group-title="fighting",ONE Samurai 4
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+https://daffodil.sandhost.qzz.io/ppv.m3u8
 #EXTINF:-1 group-title="fighting",Fundora vs. Hadribeaj: The Fight
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+https://daffodil.sandhost.qzz.io/ppv.m3u8
 #EXTINF:-1 group-title="fighting",RAF 14: Tsarukyan vs. Danis
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+https://daffodil.sandhost.qzz.io/ppv.m3u8

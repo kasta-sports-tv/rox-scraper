@@ -9,14 +9,14 @@
       "title": "Middlesbrough vs Cardiff",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa10.m3u8"
       ]
     },
     {
       "title": "Watford vs Charlton Athletic",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -42,7 +42,9 @@
     {
       "title": "Manchester City vs Ipswich",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fubo.m3u8"
+      ]
     },
     {
       "title": "Accrington Stanley vs Gillingham",
@@ -53,15 +55,20 @@
       "title": "Southampton vs Bolton Wanderers",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
       "title": "Swansea City vs West Ham",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa10.m3u8"
       ]
+    },
+    {
+      "title": "Oldham Athletic vs Cheltenham Town",
+      "page": "https://roxiestreams.info/soccer-streams-18",
+      "streams": []
     },
     {
       "title": "Villarreal vs Elche",
@@ -77,7 +84,7 @@
       "title": "Bologna vs Inter Milan",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -104,7 +111,7 @@
       "title": "Roma vs Genoa",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -217,7 +224,7 @@
       "title": "Florida Atlantic vs Army",
       "page": "https://roxiestreams.info/ncaa-streams-10",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa10.m3u8"
       ]
     },
     {
@@ -274,7 +281,7 @@
       "title": "UNLV vs Air Force",
       "page": "https://roxiestreams.info/ncaa-streams-10",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa10.m3u8"
       ]
     },
     {
@@ -301,7 +308,7 @@
       "title": "Nevada vs North Dakota State",
       "page": "https://roxiestreams.info/ncaa-streams-10",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa10.m3u8"
       ]
     },
     {
@@ -353,7 +360,7 @@
       "title": "Fresno State vs San Diego State",
       "page": "https://roxiestreams.info/ncaa-streams-10",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa10.m3u8"
       ]
     },
     {
@@ -444,7 +451,7 @@
       "title": "ONE Samurai 4",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
       ]
     },
     {
@@ -456,14 +463,14 @@
       "title": "Fundora vs. Hadribeaj: The Fight",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
       ]
     },
     {
       "title": "RAF 14: Tsarukyan vs. Danis",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+        "https://daffodil.sandhost.qzz.io/ppv.m3u8"
       ]
     }
   ],
