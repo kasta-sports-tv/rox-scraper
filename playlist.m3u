@@ -3,18 +3,14 @@
 https://daffodil.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 group-title="football",Burnley vs Wolves
 https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Necaxa vs Atlas
-https://daffodil.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 group-title="nba",Boston Celtics vs Philadelphia 76ers
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Toronto Raptors vs Detroit Pistons
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Milwaukee Bucks vs Indiana Pacers
-https://daffodil.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 group-title="nba",Charlotte Hornets vs Memphis Grizzlies
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 group-title="nba",Washington Wizards vs New Orleans Pelicans
 https://daffodil.formaturamaxi.com.br/nba8.m3u8
+#EXTINF:-1 group-title="nba",Utah Jazz vs Phoenix Suns
+https://daffodil.formaturamaxi.com.br/nba11.m3u8
 #EXTINF:-1 group-title="nba",Denver Nuggets vs Los Angeles Lakers
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Memphis vs Tulane
