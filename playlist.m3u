@@ -1,31 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Frankfurt vs KÃ¶ln
-https://daffodil.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 group-title="football",Burnley vs Wolves
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="nba",Boston Celtics vs Philadelphia 76ers
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Toronto Raptors vs Detroit Pistons
-https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Washington Wizards vs New Orleans Pelicans
-https://daffodil.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 group-title="nba",Utah Jazz vs Phoenix Suns
-https://daffodil.formaturamaxi.com.br/nba11.m3u8
-#EXTINF:-1 group-title="nba",Denver Nuggets vs Los Angeles Lakers
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Memphis vs Tulane
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Washington vs Purdue
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",App State vs Coastal Carolina
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs Colorado Avalanche
-https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Boston Bruins vs Anaheim Ducks
-https://daffodil.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 group-title="fighting",The Inner Circle 35
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",WWE Smackdown
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 group-title="fighting",ONE Samurai 4
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",Fundora vs. Hadribeaj: The Fight
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="fighting",RAF 14: Tsarukyan vs. Danis
 https://daffodil.formaturamaxi.com.br/ppv.m3u8
