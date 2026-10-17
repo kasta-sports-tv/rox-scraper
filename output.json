@@ -3,7 +3,9 @@
     {
       "title": "Everton vs Chelsea",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
+      ]
     },
     {
       "title": "Middlesbrough vs Cardiff",
@@ -202,9 +204,7 @@
     {
       "title": "Florida vs Texas",
       "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Mississippi State vs LSU",
@@ -265,9 +265,7 @@
     {
       "title": "Alabama vs Tennessee",
       "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Missouri vs Ole Miss",
@@ -338,9 +336,7 @@
     {
       "title": "Notre Dame vs BYU",
       "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Wisconsin vs UCLA",
