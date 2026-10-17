@@ -120,11 +120,6 @@
       "streams": []
     },
     {
-      "title": "Minnesota United vs St. Louis City",
-      "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
-    },
-    {
       "title": "Botafogo vs Chapecoense",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": []
@@ -140,8 +135,13 @@
       "streams": []
     },
     {
-      "title": "Atlanta United vs Inter Miami",
-      "page": "https://roxiestreams.info/soccer-streams-16",
+      "title": "Santos Laguna vs QuerÃ©taro",
+      "page": "https://roxiestreams.info/soccer-streams-19",
+      "streams": []
+    },
+    {
+      "title": "Guadalajara vs Tigres UANL",
+      "page": "https://roxiestreams.info/soccer-streams-20",
       "streams": []
     },
     {
@@ -150,13 +150,33 @@
       "streams": []
     },
     {
+      "title": "Atlanta United vs Inter Miami",
+      "page": "https://roxiestreams.info/soccer-streams-16",
+      "streams": []
+    },
+    {
       "title": "SÃ£o Paulo vs Vasco Gama",
       "page": "https://roxiestreams.info/soccer-streams-17",
       "streams": []
     },
     {
+      "title": "Toluca vs AtlÃ©tico San Luis",
+      "page": "https://roxiestreams.info/soccer-streams-21",
+      "streams": []
+    },
+    {
+      "title": "LeÃ³n vs AmÃ©rica",
+      "page": "https://roxiestreams.info/soccer-streams-22",
+      "streams": []
+    },
+    {
       "title": "Seattle Sounders FC vs CF MontrÃ©al",
       "page": "https://roxiestreams.info/soccer-streams-14",
+      "streams": []
+    },
+    {
+      "title": "Cruz Azul vs JuÃ¡rez",
+      "page": "https://roxiestreams.info/soccer-streams-21",
       "streams": []
     }
   ],
@@ -473,7 +493,9 @@
     {
       "title": "DUBOIS VS WARDLEY II",
       "page": "https://roxiestreams.info/ppv-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+      ]
     },
     {
       "title": "Fundora vs. Hadribeaj: The Fight",
