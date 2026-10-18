@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Brighton vs Crystal Palace
-https://daffodil.sandhost.qzz.io/prem.m3u8
-#EXTINF:-1 group-title="football",Leeds vs Man United
-https://daffodil.sandhost.qzz.io/prem.m3u8
 #EXTINF:-1 group-title="football",Celtic vs Hearts
 https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Nottingham Forest vs Arsenal
-https://daffodil.sandhost.qzz.io/prem.m3u8
+#EXTINF:-1 group-title="nfl",Chicago Bears vs Atlanta Falcons
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",New York Jets vs New England Patriots
+https://daffodil.sandhost.qzz.io/nfl5.m3u8
+#EXTINF:-1 group-title="nfl",Carolina Panthers vs Philadelphia Eagles
+https://daffodil.sandhost.qzz.io/nfl7.m3u8
+#EXTINF:-1 group-title="nfl",Arizona Cardinals vs Los Angeles Rams
+https://daffodil.sandhost.qzz.io/nfl9.m3u8
