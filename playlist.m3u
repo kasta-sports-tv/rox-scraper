@@ -1,35 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Everton vs Chelsea
+#EXTINF:-1 group-title="football",Fiorentina vs Como
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Middlesbrough vs Cardiff
+#EXTINF:-1 group-title="football",Bournemouth vs Sunderland
 https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 group-title="football",Manchester City vs Ipswich
+#EXTINF:-1 group-title="football",Paris vs Rennes
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="football",Swansea City vs West Ham
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 group-title="nfl",College Gameday
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Mississippi State vs LSU
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Florida Atlantic vs Army
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 group-title="nfl",Auburn vs Georgia
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",UNLV vs Air Force
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 group-title="nfl",Florida State vs Miami
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Nevada vs North Dakota State
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 group-title="nfl",Utah vs Colorado
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Fresno State vs San Diego State
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 group-title="fighting",ONE Samurai 4
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",DUBOIS VS WARDLEY II
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",Fundora vs. Hadribeaj: The Fight
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 group-title="fighting",RAF 14: Tsarukyan vs. Danis
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 group-title="football",Juventus vs Lazio
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
