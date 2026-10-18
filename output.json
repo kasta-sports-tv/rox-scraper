@@ -184,12 +184,17 @@
     {
       "title": "Los Angeles Chargers vs Kansas City Chiefs",
       "page": "https://roxiestreams.info/nfl-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl7.m3u8",
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
+      ]
     },
     {
       "title": "Buffalo Bills vs Las Vegas Raiders",
       "page": "https://roxiestreams.info/nfl-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl5.m3u8"
+      ]
     },
     {
       "title": "Dallas Cowboys vs Green Bay Packers",
