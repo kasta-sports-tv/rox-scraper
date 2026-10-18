@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Fiorentina vs Como
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Bournemouth vs Sunderland
-https://daffodil.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 group-title="football",Paris vs Rennes
-https://daffodil.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="football",Juventus vs Lazio
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 group-title="football",Brighton vs Crystal Palace
+https://daffodil.sandhost.qzz.io/prem.m3u8
+#EXTINF:-1 group-title="football",Leeds vs Man United
+https://daffodil.sandhost.qzz.io/prem.m3u8
+#EXTINF:-1 group-title="football",Celtic vs Hearts
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="football",Nottingham Forest vs Arsenal
+https://daffodil.sandhost.qzz.io/prem.m3u8

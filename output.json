@@ -3,26 +3,26 @@
     {
       "title": "Fiorentina vs Como",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Bournemouth vs Sunderland",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa10.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Brighton vs Crystal Palace",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Leeds vs Man United",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Angers SCO vs Marseille",
@@ -37,7 +37,9 @@
     {
       "title": "Celtic vs Hearts",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+      ]
     },
     {
       "title": "Lorient vs Monaco",
@@ -47,14 +49,14 @@
     {
       "title": "Paris vs Rennes",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Nottingham Forest vs Arsenal",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Borussia M'gladbach vs Hoffenheim",
@@ -74,9 +76,7 @@
     {
       "title": "Juventus vs Lazio",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Lyon vs Nice",
