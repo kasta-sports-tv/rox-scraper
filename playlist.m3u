@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Celtic vs Hearts
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="nfl",Houston Texans vs Jacksonville Jaguars
+https://daffodil.formaturamaxi.com.br/nflalt.m3u8
 #EXTINF:-1 group-title="nfl",Chicago Bears vs Atlanta Falcons
-https://daffodil.sandhost.qzz.io/nfl2.m3u8
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",New York Jets vs New England Patriots
-https://daffodil.sandhost.qzz.io/nfl5.m3u8
+https://daffodil.formaturamaxi.com.br/nfl5.m3u8
 #EXTINF:-1 group-title="nfl",Carolina Panthers vs Philadelphia Eagles
-https://daffodil.sandhost.qzz.io/nfl7.m3u8
-#EXTINF:-1 group-title="nfl",Arizona Cardinals vs Los Angeles Rams
-https://daffodil.sandhost.qzz.io/nfl9.m3u8
-#EXTINF:-1 group-title="nfl",Los Angeles Chargers vs Kansas City Chiefs
-https://daffodil.sandhost.qzz.io/nfl7.m3u8
-#EXTINF:-1 group-title="nfl",Buffalo Bills vs Las Vegas Raiders
-https://daffodil.sandhost.qzz.io/nfl5.m3u8
+https://daffodil.formaturamaxi.com.br/nflalt.m3u8
+#EXTINF:-1 group-title="nfl",Dallas Cowboys vs Green Bay Packers
+https://daffodil.formaturamaxi.com.br/nflalt.m3u8

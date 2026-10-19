@@ -34,7 +34,7 @@
       "title": "Celtic vs Hearts",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
@@ -131,13 +131,15 @@
     {
       "title": "Houston Texans vs Jacksonville Jaguars",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
+      ]
     },
     {
       "title": "Chicago Bears vs Atlanta Falcons",
       "page": "https://roxiestreams.info/nfl-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
       ]
     },
     {
@@ -154,7 +156,7 @@
       "title": "New York Jets vs New England Patriots",
       "page": "https://roxiestreams.info/nfl-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl5.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl5.m3u8"
       ]
     },
     {
@@ -166,7 +168,7 @@
       "title": "Carolina Panthers vs Philadelphia Eagles",
       "page": "https://roxiestreams.info/nfl-streams-7",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl7.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
       ]
     },
     {
@@ -177,29 +179,25 @@
     {
       "title": "Arizona Cardinals vs Los Angeles Rams",
       "page": "https://roxiestreams.info/nfl-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl9.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Los Angeles Chargers vs Kansas City Chiefs",
       "page": "https://roxiestreams.info/nfl-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl7.m3u8",
-        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Buffalo Bills vs Las Vegas Raiders",
       "page": "https://roxiestreams.info/nfl-streams-11",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl5.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Dallas Cowboys vs Green Bay Packers",
       "page": "https://roxiestreams.info/nfl-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl12.m3u8"
+      ]
     }
   ],
   "nhl": [
