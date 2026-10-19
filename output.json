@@ -3,16 +3,12 @@
     {
       "title": "Al-Fayha vs Al-Ahli",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/foxd.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Monza vs Cagliari",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Al Hilal vs Al Hazm",
@@ -24,9 +20,7 @@
     {
       "title": "Parma vs Torino",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Getafe vs Rayo Vallecano",
@@ -43,9 +37,7 @@
     {
       "title": "Corinthians vs Vitoria",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
@@ -59,23 +51,25 @@
     {
       "title": "Atlanta Dream vs Golden State Valkyries",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+      ]
     }
   ],
   "nfl": [
     {
       "title": "Washington Commanders vs San Francisco 49ers",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nhl": [
     {
       "title": "Anaheim Ducks vs New York Rangers",
       "page": "https://roxiestreams.info/nhl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+      ]
     },
     {
       "title": "Colorado Avalanche vs Philadelphia Flyers",
@@ -90,7 +84,9 @@
     {
       "title": "Pittsburgh Penguins vs Utah Mammoth",
       "page": "https://roxiestreams.info/nhl-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
+      ]
     }
   ],
   "fighting": [
