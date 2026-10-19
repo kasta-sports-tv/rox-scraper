@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Celtic vs Hearts
+#EXTINF:-1 group-title="football",Corinthians vs Vitoria
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="nfl",Houston Texans vs Jacksonville Jaguars
-https://daffodil.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 group-title="nfl",Chicago Bears vs Atlanta Falcons
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",New York Jets vs New England Patriots
-https://daffodil.formaturamaxi.com.br/nfl5.m3u8
-#EXTINF:-1 group-title="nfl",Carolina Panthers vs Philadelphia Eagles
-https://daffodil.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 group-title="nfl",Dallas Cowboys vs Green Bay Packers
+#EXTINF:-1 group-title="nfl",Washington Commanders vs San Francisco 49ers
 https://daffodil.formaturamaxi.com.br/nflalt.m3u8
