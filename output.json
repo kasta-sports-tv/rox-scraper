@@ -17,9 +17,7 @@
     {
       "title": "FenerbahÃ§e vs Slavia Praha",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Al Nassr vs NEOM",
@@ -34,6 +32,16 @@
       "streams": [
         "https://daffodil.sandhost.qzz.io/wolves.m3u8"
       ]
+    },
+    {
+      "title": "Walsall vs Oldham Athletic",
+      "page": "https://roxiestreams.info/soccer-streams-19",
+      "streams": []
+    },
+    {
+      "title": "UEFA Goals Show",
+      "page": "https://roxiestreams.info/soccer-streams-4",
+      "streams": []
     },
     {
       "title": "Atletico Madrid vs Stuttgart",
