@@ -14,7 +14,7 @@
       "title": "Al Hilal vs Al Hazm",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "title": "Tottenham vs Coventry",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "title": "Atlanta Dream vs Golden State Valkyries",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+        "https://daffodil.sandhost.qzz.io/wnba.m3u8"
       ]
     }
   ],
@@ -60,7 +60,9 @@
     {
       "title": "Washington Commanders vs San Francisco 49ers",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8"
+      ]
     }
   ],
   "nhl": [
@@ -68,7 +70,7 @@
       "title": "Anaheim Ducks vs New York Rangers",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {
@@ -85,7 +87,7 @@
       "title": "Pittsburgh Penguins vs Utah Mammoth",
       "page": "https://roxiestreams.info/nhl-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl4.m3u8"
       ]
     }
   ],
@@ -93,12 +95,16 @@
     {
       "title": "WWE RAW",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
     },
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
     },
     {
       "title": "RAF 14: Tsarukyan vs. Danis",
