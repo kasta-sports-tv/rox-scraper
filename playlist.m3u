@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Lille vs Galatasaray
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Levante vs Athletic Club
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Arsenal vs Bayern MÃ¼nchen
-https://daffodil.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="football",Club Brugge vs Lens
-https://daffodil.formaturamaxi.com.br/prem.m3u8
+https://daffodil.sandhost.qzz.io/tnt.m3u8
+#EXTINF:-1 group-title="football",Inter Milan vs Shakhtar Donetsk
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
+#EXTINF:-1 group-title="football",Real Betis vs Feyenoord
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="nhl",Florida Panthers vs Ottawa Senators
-https://daffodil.formaturamaxi.com.br/nhl2.m3u8
+https://daffodil.sandhost.qzz.io/nhl2.m3u8

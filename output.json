@@ -4,7 +4,7 @@
       "title": "Lille vs Galatasaray",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -16,13 +16,8 @@
       "title": "Levante vs Athletic Club",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
       ]
-    },
-    {
-      "title": "Real Madrid vs RB Leipzig",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
     },
     {
       "title": "UEFA Goals Show",
@@ -33,7 +28,7 @@
       "title": "Arsenal vs Bayern MÃ¼nchen",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
       ]
     },
     {
@@ -44,23 +39,30 @@
     {
       "title": "Club Brugge vs Lens",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Inter Milan vs Shakhtar Donetsk",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+      ]
     },
     {
       "title": "Real Betis vs Feyenoord",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
     },
     {
       "title": "Sporting CP vs LASK Linz",
       "page": "https://roxiestreams.info/soccer-streams-11",
+      "streams": []
+    },
+    {
+      "title": "Real Madrid vs RB Leipzig",
+      "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
     },
     {
@@ -184,7 +186,7 @@
       "title": "Florida Panthers vs Ottawa Senators",
       "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
       ]
     }
   ],
