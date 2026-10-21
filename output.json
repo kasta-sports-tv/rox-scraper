@@ -4,15 +4,13 @@
       "title": "Al Taawon vs Al Quadisiya",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
       ]
     },
     {
       "title": "Dortmund vs Sabah",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "FenerbahÃ§e vs Slavia Praha",
@@ -23,14 +21,14 @@
       "title": "Al Nassr vs NEOM",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
       ]
     },
     {
       "title": "Wolves vs Portsmouth",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wolves.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wolves.m3u8"
       ]
     },
     {
@@ -46,9 +44,7 @@
     {
       "title": "Atletico Madrid vs Stuttgart",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Barcelona vs PSG",
@@ -59,7 +55,7 @@
       "title": "Liverpool vs Villarreal",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
       ]
     },
     {
@@ -81,7 +77,7 @@
       "title": "Porto vs PSV",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
@@ -153,30 +149,38 @@
     {
       "title": "South Alabama vs Marshall",
       "page": "https://roxiestreams.info/ncaa-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+      ]
     }
   ],
   "nhl": [
     {
       "title": "San Jose Sharks vs Montreal Canadiens",
       "page": "https://roxiestreams.info/nhl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+      ]
     },
     {
       "title": "Colorado Avalanche vs New Jersey Devils",
       "page": "https://roxiestreams.info/nhl-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+      ]
     },
     {
       "title": "Anaheim Ducks vs New York Islanders",
       "page": "https://roxiestreams.info/nhl-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
+      ]
     },
     {
       "title": "Los Angeles Kings vs Washington Capitals",
       "page": "https://roxiestreams.info/nhl-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl4.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
       ]
     },
     {
@@ -220,7 +224,7 @@
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     },
     {
