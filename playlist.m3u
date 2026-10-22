@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Jablonec vs Brighton
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Lech PoznaÅ vs Sunderland
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="football",Juventus vs Rennes
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Bournemouth vs Milan
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Hoffenheim vs Lyon
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="nba",Denver Nuggets vs Oklahoma City Thunder
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nfl",New England Patriots vs Chicago Bears

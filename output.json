@@ -8,20 +8,21 @@
     {
       "title": "Lech PoznaÅ vs Sunderland",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/prem.m3u8"
+      ]
     },
     {
       "title": "Jablonec vs Brighton",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Juventus vs Rennes",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
@@ -38,7 +39,8 @@
       "title": "Bournemouth vs Milan",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
@@ -54,9 +56,7 @@
     {
       "title": "Hoffenheim vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Monaco vs Freiburg",
