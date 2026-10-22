@@ -5,6 +5,10 @@ https://daffodil.formaturamaxi.com.br/dep.m3u8
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="football",Inter Milan vs Shakhtar Donetsk
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="football",Torque vs Atletico Mineiro
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Palmeiras vs Fluminense
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="nba",Milwaukee Bucks vs Washington Wizards
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nfl",New Mexico State vs Sam Houston
