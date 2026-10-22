@@ -3,9 +3,7 @@
     {
       "title": "Lille vs Galatasaray",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Como vs Manchester United",
@@ -16,7 +14,7 @@
       "title": "Levante vs Athletic Club",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
       ]
     },
     {
@@ -28,7 +26,7 @@
       "title": "Arsenal vs Bayern MÃ¼nchen",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
       ]
     },
     {
@@ -45,15 +43,13 @@
       "title": "Inter Milan vs Shakhtar Donetsk",
       "page": "https://roxiestreams.info/soccer-streams-9",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
       ]
     },
     {
       "title": "Real Betis vs Feyenoord",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Sporting CP vs LASK Linz",
@@ -116,7 +112,9 @@
     {
       "title": "Milwaukee Bucks vs Washington Wizards",
       "page": "https://roxiestreams.info/nba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+      ]
     },
     {
       "title": "Minnesota Timberwolves vs Miami Heat",
@@ -173,20 +171,24 @@
     {
       "title": "New Mexico State vs Sam Houston",
       "page": "https://roxiestreams.info/ncaa-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
     }
   ],
   "nhl": [
     {
       "title": "Philadelphia Flyers vs Buffalo Sabres",
       "page": "https://roxiestreams.info/nhl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+      ]
     },
     {
       "title": "Florida Panthers vs Ottawa Senators",
       "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
       ]
     }
   ],
