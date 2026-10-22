@@ -1,19 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Levante vs Athletic Club
+#EXTINF:-1 group-title="football",Jablonec vs Brighton
 https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Arsenal vs Bayern MÃ¼nchen
+#EXTINF:-1 group-title="football",Juventus vs Rennes
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Bournemouth vs Milan
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Inter Milan vs Shakhtar Donetsk
+#EXTINF:-1 group-title="football",Hoffenheim vs Lyon
 https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Torque vs Atletico Mineiro
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Palmeiras vs Fluminense
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="nba",Milwaukee Bucks vs Washington Wizards
+#EXTINF:-1 group-title="nba",Denver Nuggets vs Oklahoma City Thunder
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nfl",New Mexico State vs Sam Houston
+#EXTINF:-1 group-title="nfl",New England Patriots vs Chicago Bears
+https://daffodil.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 group-title="nfl",James Madison vs App State
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Buffalo Sabres
+#EXTINF:-1 group-title="nfl",East Carolina vs Memphis
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nhl",Nashville Predators vs Boston Bruins
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Florida Panthers vs Ottawa Senators
+#EXTINF:-1 group-title="nhl",New York Rangers vs Toronto Maple Leafs
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 group-title="nhl",San Jose Sharks vs Ottawa Senators
+https://daffodil.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 group-title="nhl",Anaheim Ducks vs New Jersey Devils
+https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 group-title="fighting",WWE Smackdown
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
