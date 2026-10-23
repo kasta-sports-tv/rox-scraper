@@ -67,7 +67,9 @@
     {
       "title": "Flamengo vs Estudiantes",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
+      ]
     }
   ],
   "mlb": [
@@ -109,7 +111,9 @@
     {
       "title": "Liberty vs Kennesaw State",
       "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+      ]
     },
     {
       "title": "East Carolina vs Memphis",
@@ -185,7 +189,7 @@
     },
     {
       "title": "Detroit Red Wings vs Vancouver Canucks",
-      "page": "https://roxiestreams.info/nhl-streams-12",
+      "page": "https://roxiestreams.info/nhl-streams-5",
       "streams": []
     }
   ],
