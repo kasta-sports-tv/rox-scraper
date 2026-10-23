@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Lech PoznaÅ vs Sunderland
+#EXTINF:-1 group-title="football",Al Nassr vs Al Faisaly
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 group-title="football",Al Ittihad vs Diriyah
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="football",Al Quadisiya vs Al Hilal
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="football",Ipswich Town vs Nottingham Forest
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Bournemouth vs Milan
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Flamengo vs Estudiantes
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="nfl",New England Patriots vs Chicago Bears
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",James Madison vs App State
+#EXTINF:-1 group-title="nfl",Duke vs Virginia
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Liberty vs Kennesaw State
+#EXTINF:-1 group-title="nfl",Massachusetts vs UConn
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",East Carolina vs Memphis
+#EXTINF:-1 group-title="nfl",Army vs Tulsa
 https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",NC State vs Stanford
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nhl",Nashville Predators vs Boston Bruins
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="nhl",New York Rangers vs Toronto Maple Leafs
