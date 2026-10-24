@@ -4,8 +4,8 @@
       "title": "Aston Villa vs Manchester City",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt.m3u8",
-        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+        "https://daffodil.sandhost.qzz.io/prem.m3u8",
+        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
       ]
     },
     {
@@ -23,9 +23,7 @@
     {
       "title": "Sheffield United vs Derby County",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/plus.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Rayo Vallecano vs Elche",
@@ -48,7 +46,6 @@
       "title": "Arsenal vs Everton",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8",
         "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
     },
@@ -60,11 +57,6 @@
     {
       "title": "Barnet vs Oldham Athletic",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
-    },
-    {
-      "title": "Gillingham vs Grimsby",
-      "page": "https://roxiestreams.info/soccer-streams-11",
       "streams": []
     },
     {
@@ -97,7 +89,7 @@
       "title": "Chelsea vs Tottenham",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
     },
     {
@@ -294,11 +286,6 @@
     {
       "title": "California vs SMU",
       "page": "https://roxiestreams.info/ncaa-streams-5",
-      "streams": []
-    },
-    {
-      "title": "Rutgers vs Northwestern",
-      "page": "https://roxiestreams.info/ncaa-streams-6",
       "streams": []
     },
     {
