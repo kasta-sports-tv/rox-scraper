@@ -3,13 +3,16 @@
     {
       "title": "Aston Villa vs Manchester City",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tnt.m3u8",
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
+      ]
     },
     {
       "title": "Charlton Athletic vs Norwich City",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -21,14 +24,14 @@
       "title": "Sheffield United vs Derby County",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+        "https://daffodil.sandhost.qzz.io/plus.m3u8"
       ]
     },
     {
       "title": "Rayo Vallecano vs Elche",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
       ]
     },
     {
@@ -39,15 +42,14 @@
     {
       "title": "RB Leipzig vs Elversberg",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Arsenal vs Everton",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8",
+        "https://daffodil.sandhost.qzz.io/prem.m3u8"
       ]
     },
     {
@@ -69,7 +71,7 @@
       "title": "West Ham vs Southampton",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -81,14 +83,14 @@
       "title": "Racing Santander vs Espanyol",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
       ]
     },
     {
       "title": "Napoli vs Roma",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
@@ -101,9 +103,7 @@
     {
       "title": "Dortmund vs Frankfurt",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "CF MontrÃ©al vs Nashville",
@@ -114,19 +114,21 @@
       "title": "Lazio vs Parma",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/fsp.m3u8"
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
       ]
     },
     {
       "title": "Lens vs Paris",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+      ]
     },
     {
       "title": "AtlÃ©tico Madrid vs Deportivo La CoruÃ±a",
       "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
       ]
     },
     {
