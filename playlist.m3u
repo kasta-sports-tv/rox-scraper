@@ -1,50 +1,40 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Inter Milan vs Fiorentina
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
+https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="football",Celtic vs Hibernian
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Liverpool vs Brighton
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Rennes vs Strasbourg
-https://daffodil.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 group-title="football",Real Sociedad vs Levante
-https://daffodil.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 group-title="football",Barcelona vs Real Madrid
+https://daffodil.formaturamaxi.com.br/foot.m3u8
+#EXTINF:-1 group-title="football",Athletic Club vs Getafe
+https://daffodil.formaturamaxi.com.br/getafe.m3u8
+#EXTINF:-1 group-title="football",Monaco vs Lille
 https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Celta de Vigo vs Real Betis
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Marseille vs Le Havre
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Lecce vs Juventus
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Real Sociedad vs Levante
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",Udinese vs Milan
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Barcelona vs Real Madrid
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Indiana Pacers vs Brooklyn Nets
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Detroit Pistons vs Philadelphia 76ers
 https://daffodil.formaturamaxi.com.br/nba6.m3u8
-#EXTINF:-1 group-title="nfl",College GameDay
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Pittsburgh vs Miami
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Indiana vs Michigan
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Texas Tech vs Cincinnati
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Western Michigan vs Toledo
-https://daffodil.formaturamaxi.com.br/ncaa9.m3u8
-#EXTINF:-1 group-title="nfl",BYU vs UCF
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Michigan State vs UCLA
-https://daffodil.formaturamaxi.com.br/ncaa12.m3u8
-#EXTINF:-1 group-title="nfl",Tennessee vs South Carolina
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Iowa vs Minnesota
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",North Texas vs Navy
-https://daffodil.formaturamaxi.com.br/ncaa9.m3u8
-#EXTINF:-1 group-title="nfl",Colorado vs Oklahoma State
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Virginia Tech vs Clemson
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Utah State vs Texas State
-https://daffodil.formaturamaxi.com.br/ncaa9.m3u8
-#EXTINF:-1 group-title="nfl",Houston vs Utah
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Pittsburgh Steelers vs New Orleans Saints
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",San Francisco 49ers vs Atlanta Falcons
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",Miami Dolphins vs New York Jets
+https://daffodil.formaturamaxi.com.br/nfl5.m3u8
+#EXTINF:-1 group-title="nfl",Cincinnati Bengals vs Baltimore Ravens
+https://daffodil.formaturamaxi.com.br/nflalt.m3u8
+#EXTINF:-1 group-title="nfl",Kansas City Chiefs vs Seattle Seahawks
+https://daffodil.formaturamaxi.com.br/nfl12.m3u8
 #EXTINF:-1 group-title="nhl",Florida Panthers vs Chicago Blackhawks
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="nhl",New York Islanders vs Dallas Stars
