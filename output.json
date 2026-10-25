@@ -24,7 +24,9 @@
     {
       "title": "Crystal Palace vs Newcastle",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
+      ]
     },
     {
       "title": "Liverpool vs Brighton",
@@ -51,6 +53,11 @@
     {
       "title": "Atalanta vs Frosinone",
       "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": []
+    },
+    {
+      "title": "Olympiacos vs Kalamata",
+      "page": "https://roxiestreams.info/soccer-streams-21",
       "streams": []
     },
     {
@@ -231,7 +238,7 @@
       "title": "Miami Dolphins vs New York Jets",
       "page": "https://roxiestreams.info/nfl-streams-5",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl5.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl5.m3u8"
       ]
     },
     {
@@ -243,7 +250,7 @@
       "title": "Cincinnati Bengals vs Baltimore Ravens",
       "page": "https://roxiestreams.info/nfl-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
+        "https://daffodil.sandhost.qzz.io/nflalt.m3u8"
       ]
     },
     {
@@ -270,8 +277,8 @@
       "title": "Kansas City Chiefs vs Seattle Seahawks",
       "page": "https://roxiestreams.info/nfl-streams-12",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl12.m3u8",
-        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl12.m3u8",
+        "https://daffodil.sandhost.qzz.io/nflalt.m3u8"
       ]
     }
   ],
@@ -280,28 +287,28 @@
       "title": "Florida Panthers vs Chicago Blackhawks",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {
       "title": "New York Islanders vs Dallas Stars",
       "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
       ]
     },
     {
       "title": "Montreal Canadiens vs Winnipeg Jets",
       "page": "https://roxiestreams.info/nhl-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl3.m3u8"
       ]
     },
     {
       "title": "Colorado Avalanche vs Nashville Predators",
       "page": "https://roxiestreams.info/nhl-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl4.m3u8"
       ]
     },
     {

@@ -5,6 +5,8 @@ https://daffodil.formaturamaxi.com.br/cbssn.m3u8
 https://daffodil.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 group-title="football",Athletic Club vs Getafe
 https://daffodil.formaturamaxi.com.br/getafe.m3u8
+#EXTINF:-1 group-title="football",Crystal Palace vs Newcastle
+https://daffodil.formaturamaxi.com.br/usa.m3u8
 #EXTINF:-1 group-title="football",Monaco vs Lille
 https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Celta de Vigo vs Real Betis
@@ -30,16 +32,16 @@ https://daffodil.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",San Francisco 49ers vs Atlanta Falcons
 https://daffodil.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",Miami Dolphins vs New York Jets
-https://daffodil.formaturamaxi.com.br/nfl5.m3u8
+https://daffodil.sandhost.qzz.io/nfl5.m3u8
 #EXTINF:-1 group-title="nfl",Cincinnati Bengals vs Baltimore Ravens
-https://daffodil.formaturamaxi.com.br/nflalt.m3u8
+https://daffodil.sandhost.qzz.io/nflalt.m3u8
 #EXTINF:-1 group-title="nfl",Kansas City Chiefs vs Seattle Seahawks
-https://daffodil.formaturamaxi.com.br/nfl12.m3u8
+https://daffodil.sandhost.qzz.io/nfl12.m3u8
 #EXTINF:-1 group-title="nhl",Florida Panthers vs Chicago Blackhawks
-https://daffodil.formaturamaxi.com.br/nhl.m3u8
+https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="nhl",New York Islanders vs Dallas Stars
-https://daffodil.formaturamaxi.com.br/nhl2.m3u8
+https://daffodil.sandhost.qzz.io/nhl2.m3u8
 #EXTINF:-1 group-title="nhl",Montreal Canadiens vs Winnipeg Jets
-https://daffodil.formaturamaxi.com.br/nhl3.m3u8
+https://daffodil.sandhost.qzz.io/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",Colorado Avalanche vs Nashville Predators
-https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+https://daffodil.sandhost.qzz.io/nhl4.m3u8
