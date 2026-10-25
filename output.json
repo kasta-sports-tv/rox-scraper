@@ -168,13 +168,13 @@
       ]
     },
     {
-      "title": "Monterrey vs Chivas",
-      "page": "https://roxiestreams.info/soccer-streams-23",
+      "title": "Santos vs Bahia",
+      "page": "https://roxiestreams.info/soccer-streams-24",
       "streams": []
     },
     {
-      "title": "Santos vs Bahia",
-      "page": "https://roxiestreams.info/soccer-streams-24",
+      "title": "Monterrey vs Chivas",
+      "page": "https://roxiestreams.info/soccer-streams-23",
       "streams": []
     },
     {
@@ -502,7 +502,9 @@
     {
       "title": "Toronto Maple Leafs vs Edmonton Oilers",
       "page": "https://roxiestreams.info/nhl-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl9.m3u8"
+      ]
     },
     {
       "title": "Tampa Bay Lightning vs Utah Mammoth",
@@ -511,8 +513,10 @@
     },
     {
       "title": "Detroit Red Wings vs Calgary Flames",
-      "page": "https://roxiestreams.info/nhl-streams-11",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-9",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl9.m3u8"
+      ]
     },
     {
       "title": "Minnesota Wild vs Seattle Kraken",

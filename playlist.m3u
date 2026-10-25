@@ -65,3 +65,7 @@ https://daffodil.formaturamaxi.com.br/nhl2.m3u8
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",New York Rangers vs Ottawa Senators
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 group-title="nhl",Toronto Maple Leafs vs Edmonton Oilers
+https://daffodil.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 group-title="nhl",Detroit Red Wings vs Calgary Flames
+https://daffodil.formaturamaxi.com.br/nhl9.m3u8
