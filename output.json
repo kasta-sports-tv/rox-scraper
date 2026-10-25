@@ -110,11 +110,6 @@
       ]
     },
     {
-      "title": "Independiente vs Boca Juniors",
-      "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
-    },
-    {
       "title": "Barcelona vs Real Madrid",
       "page": "https://roxiestreams.info/soccer-streams-15",
       "streams": [
@@ -139,11 +134,6 @@
     {
       "title": "QuerÃ©taro vs Cruz Azul",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
-    },
-    {
-      "title": "AmÃ©rica vs Pachuca",
-      "page": "https://roxiestreams.info/soccer-streams-19",
       "streams": []
     },
     {
@@ -261,7 +251,8 @@
       "title": "Green Bay Packers vs Detroit Lions",
       "page": "https://roxiestreams.info/nfl-streams-10",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nfl7.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8",
+        "https://daffodil.sandhost.qzz.io/nfl10.m3u8"
       ]
     },
     {
