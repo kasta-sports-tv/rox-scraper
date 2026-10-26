@@ -128,7 +128,7 @@
     },
     {
       "title": "Atlas vs Puebla",
-      "page": "https://roxiestreams.info/soccer-streams-19",
+      "page": "https://roxiestreams.info/soccer-streams-23",
       "streams": []
     },
     {
@@ -202,8 +202,8 @@
       "title": "Pittsburgh Steelers vs New Orleans Saints",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8",
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
       ]
     },
     {
@@ -226,9 +226,7 @@
     {
       "title": "Miami Dolphins vs New York Jets",
       "page": "https://roxiestreams.info/nfl-streams-5",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl5.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Tampa Bay Buccaneers vs Carolina Panthers",
