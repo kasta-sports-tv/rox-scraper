@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",BeÅiktaÅ vs Ä°stanbul BaÅakÅehir
+https://daffodil.formaturamaxi.com.br/bein4.m3u8
+#EXTINF:-1 group-title="football",Santa Clara vs Benfica
+https://daffodil.formaturamaxi.com.br/bein4.m3u8
 #EXTINF:-1 group-title="football",2026 Ballon d'Or
-https://daffodil.formaturamaxi.com.br/foot.m3u8
+https://daffodil.formaturamaxi.com.br/balon.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Cleveland Cavaliers
@@ -8,7 +12,7 @@ https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Phoenix Suns vs Oklahoma City Thunder
 https://daffodil.formaturamaxi.com.br/nba6.m3u8
 #EXTINF:-1 group-title="nfl",Dallas Cowboys vs Philadelphia Eagles
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
+https://daffodil.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 group-title="nhl",Los Angeles Kings vs New York Rangers
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Toronto Maple Leafs vs Calgary Flames

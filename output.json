@@ -1,15 +1,34 @@
 {
   "soccer": [
     {
+      "title": "BeÅiktaÅ vs Ä°stanbul BaÅakÅehir",
+      "page": "https://roxiestreams.info/soccer-streams-8",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
+      ]
+    },
+    {
+      "title": "Rizespor vs Trabzonspor",
+      "page": "https://roxiestreams.info/soccer-streams-9",
+      "streams": []
+    },
+    {
+      "title": "Galatasaray vs FenerbahÃ§e",
+      "page": "https://roxiestreams.info/soccer-streams-10",
+      "streams": []
+    },
+    {
       "title": "Santa Clara vs Benfica",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
+      ]
     },
     {
       "title": "2026 Ballon d'Or",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/foot.m3u8"
+        "https://daffodil.formaturamaxi.com.br/balon.m3u8"
       ]
     },
     {
@@ -108,8 +127,8 @@
       "title": "Dallas Cowboys vs Philadelphia Eagles",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     }
   ],
