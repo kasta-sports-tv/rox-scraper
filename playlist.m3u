@@ -1,34 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Celtic vs Hibernian
+#EXTINF:-1 group-title="football",2026 Ballon d'Or
 https://daffodil.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 group-title="football",Monaco vs Lille
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Celta de Vigo vs Real Betis
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Marseille vs Le Havre
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Lecce vs Juventus
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Real Sociedad vs Levante
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Udinese vs Milan
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Barcelona vs Real Madrid
-https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="nba",Indiana Pacers vs Brooklyn Nets
+#EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Cleveland Cavaliers
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Detroit Pistons vs Philadelphia 76ers
+#EXTINF:-1 group-title="nba",Phoenix Suns vs Oklahoma City Thunder
 https://daffodil.formaturamaxi.com.br/nba6.m3u8
-#EXTINF:-1 group-title="nfl",Pittsburgh Steelers vs New Orleans Saints
+#EXTINF:-1 group-title="nfl",Dallas Cowboys vs Philadelphia Eagles
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",San Francisco 49ers vs Atlanta Falcons
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Green Bay Packers vs Detroit Lions
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Kansas City Chiefs vs Seattle Seahawks
-https://daffodil.formaturamaxi.com.br/nfl12.m3u8
 #EXTINF:-1 group-title="nhl",Los Angeles Kings vs New York Rangers
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Toronto Maple Leafs vs Calgary Flames
