@@ -4,7 +4,7 @@
       "title": "BeÅiktaÅ vs Ä°stanbul BaÅakÅehir",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
+        "https://daffodil.sandhost.qzz.io/bein4.m3u8"
       ]
     },
     {
@@ -15,31 +15,38 @@
     {
       "title": "Galatasaray vs FenerbahÃ§e",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/bein4.m3u8"
+      ]
     },
     {
       "title": "Santa Clara vs Benfica",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
+        "https://daffodil.sandhost.qzz.io/bein4.m3u8"
       ]
     },
     {
       "title": "2026 Ballon d'Or",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/balon.m3u8"
+        "https://daffodil.sandhost.qzz.io/balon.m3u8",
+        "https://daffodil.sandhost.qzz.io/set.m3u8"
       ]
     },
     {
       "title": "PSG vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/beines.m3u8"
+      ]
     },
     {
       "title": "Sevilla vs Osasuna",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/dep.m3u8"
+      ]
     },
     {
       "title": "Walsall vs Salford",
@@ -62,7 +69,7 @@
       "title": "Milwaukee Brewers vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
+        "https://daffodil.sandhost.qzz.io/mlb.m3u8"
       ]
     }
   ],
@@ -76,7 +83,7 @@
       "title": "Minnesota Timberwolves vs Cleveland Cavaliers",
       "page": "https://roxiestreams.info/nba-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nba2.m3u8"
       ]
     },
     {
@@ -98,7 +105,7 @@
       "title": "Phoenix Suns vs Oklahoma City Thunder",
       "page": "https://roxiestreams.info/nba-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba6.m3u8"
+        "https://daffodil.sandhost.qzz.io/nba6.m3u8"
       ]
     },
     {
@@ -127,8 +134,8 @@
       "title": "Dallas Cowboys vs Philadelphia Eagles",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl2.m3u8",
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl.m3u8",
+        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
       ]
     }
   ],
@@ -137,21 +144,21 @@
       "title": "Los Angeles Kings vs New York Rangers",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {
       "title": "Toronto Maple Leafs vs Calgary Flames",
       "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
       ]
     },
     {
       "title": "Detroit Red Wings vs Edmonton Oilers",
       "page": "https://roxiestreams.info/nhl-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl3.m3u8"
       ]
     }
   ],
@@ -160,14 +167,14 @@
       "title": "WWE RAW",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
       ]
     },
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
       ]
     },
     {
