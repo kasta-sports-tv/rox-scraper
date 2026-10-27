@@ -1,31 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",BeÅiktaÅ vs Ä°stanbul BaÅakÅehir
+#EXTINF:-1 group-title="football",Sassuolo vs Lazio
 https://daffodil.sandhost.qzz.io/bein4.m3u8
-#EXTINF:-1 group-title="football",Galatasaray vs FenerbahÃ§e
-https://daffodil.sandhost.qzz.io/bein4.m3u8
-#EXTINF:-1 group-title="football",Santa Clara vs Benfica
-https://daffodil.sandhost.qzz.io/bein4.m3u8
-#EXTINF:-1 group-title="football",2026 Ballon d'Or
+#EXTINF:-1 group-title="football",Roma vs Cagliari
 https://daffodil.sandhost.qzz.io/set.m3u8
-#EXTINF:-1 group-title="football",PSG vs Lyon
+#EXTINF:-1 group-title="football",Bradford City vs Peterborough United
 https://daffodil.sandhost.qzz.io/beines.m3u8
-#EXTINF:-1 group-title="football",Sevilla vs Osasuna
+#EXTINF:-1 group-title="football",Torino vs Como
 https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
 https://daffodil.sandhost.qzz.io/mlb.m3u8
-#EXTINF:-1 group-title="nba",Minnesota Timberwolves vs Cleveland Cavaliers
+#EXTINF:-1 group-title="nba",Detroit Pistons vs New York Knicks
 https://daffodil.sandhost.qzz.io/nba2.m3u8
-#EXTINF:-1 group-title="nba",Phoenix Suns vs Oklahoma City Thunder
-https://daffodil.sandhost.qzz.io/nba6.m3u8
-#EXTINF:-1 group-title="nfl",Dallas Cowboys vs Philadelphia Eagles
-https://daffodil.sandhost.qzz.io/nfl.m3u8
-#EXTINF:-1 group-title="nhl",Los Angeles Kings vs New York Rangers
+#EXTINF:-1 group-title="nfl",Delaware vs Western Kentucky
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Sam Houston vs Missouri State
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
+#EXTINF:-1 group-title="nhl",Columbus Blue Jackets vs Philadelphia Flyers
 https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Toronto Maple Leafs vs Calgary Flames
+#EXTINF:-1 group-title="nhl",Boston Bruins vs Carolina Hurricanes
 https://daffodil.sandhost.qzz.io/nhl2.m3u8
-#EXTINF:-1 group-title="nhl",Detroit Red Wings vs Edmonton Oilers
+#EXTINF:-1 group-title="nhl",Los Angeles Kings vs Chicago Blackhawks
 https://daffodil.sandhost.qzz.io/nhl3.m3u8
-#EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 group-title="nhl",Montreal Canadiens vs St. Louis Blues
+https://daffodil.sandhost.qzz.io/nhl4.m3u8
+#EXTINF:-1 group-title="nhl",Ottawa Senators vs Vegas Golden Knights
+https://daffodil.sandhost.qzz.io/nhl9.m3u8
 #EXTINF:-1 group-title="fighting",WWE NXT
 https://daffodil.sandhost.qzz.io/wwe.m3u8
