@@ -30,7 +30,6 @@
       "title": "2026 Ballon d'Or",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/balon.m3u8",
         "https://daffodil.sandhost.qzz.io/set.m3u8"
       ]
     },
@@ -69,7 +68,8 @@
       "title": "Milwaukee Brewers vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/mlb.m3u8"
+        "https://daffodil.sandhost.qzz.io/mlb.m3u8",
+        "https://daffodil.sandhost.qzz.io/mlbalt.m3u8"
       ]
     }
   ],
@@ -135,7 +135,7 @@
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
         "https://daffodil.sandhost.qzz.io/nfl.m3u8",
-        "https://daffodil.sandhost.qzz.io/nfl2.m3u8"
+        "https://daffodil.sandhost.qzz.io/nflalt.m3u8"
       ]
     }
   ],
