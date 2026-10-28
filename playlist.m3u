@@ -1,43 +1,47 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Milan vs Bologna
-https://daffodil.sandhost.qzz.io/tnt.m3u8
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="football",Inter Milan vs Venezia
-https://daffodil.sandhost.qzz.io/now.m3u8
+https://daffodil.formaturamaxi.com.br/now.m3u8
+#EXTINF:-1 group-title="football",Manchester City vs Brighton
+https://daffodil.formaturamaxi.com.br/bein4.m3u8
 #EXTINF:-1 group-title="football",Aston Villa vs Bournemouth
-https://daffodil.sandhost.qzz.io/golazo.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Fulham vs Crystal Palace
-https://daffodil.sandhost.qzz.io/fulham.m3u8
+https://daffodil.formaturamaxi.com.br/fulham.m3u8
 #EXTINF:-1 group-title="football",Genoa vs Juventus
-https://daffodil.sandhost.qzz.io/now.m3u8
+https://daffodil.formaturamaxi.com.br/now.m3u8
 #EXTINF:-1 group-title="football",Monza vs Napoli
-https://daffodil.sandhost.qzz.io/tnt.m3u8
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 group-title="football",Hearts vs Rangers
+https://daffodil.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 group-title="football",Chelsea vs Liverpool
-https://daffodil.sandhost.qzz.io/bein4.m3u8
+https://daffodil.formaturamaxi.com.br/itv.m3u8
 #EXTINF:-1 group-title="football",RB Bragantino vs Chapecoense
-https://daffodil.sandhost.qzz.io/dep.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Inter Miami vs Cincinnati
-https://daffodil.sandhost.qzz.io/golazo.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Toronto FC vs DC United
-https://daffodil.sandhost.qzz.io/dep.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Vancouver Whitecaps vs San Diego
-https://daffodil.sandhost.qzz.io/dep.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
-https://daffodil.sandhost.qzz.io/mlb.m3u8
+https://daffodil.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 group-title="nba",Washington Wizards vs Cleveland Cavaliers
-https://daffodil.sandhost.qzz.io/nba2.m3u8
+https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Philadelphia 76ers vs Indiana Pacers
-https://daffodil.sandhost.qzz.io/nba2.m3u8
+https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",New York Knicks vs Chicago Bulls
-https://daffodil.sandhost.qzz.io/nba6.m3u8
+https://daffodil.formaturamaxi.com.br/nba6.m3u8
 #EXTINF:-1 group-title="nfl",Kennesaw State vs Middle Tennessee
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Jacksonville State vs New Mexico State
-https://daffodil.sandhost.qzz.io/ncaa2.m3u8
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Washington Capitals
-https://daffodil.sandhost.qzz.io/nhl.m3u8
+https://daffodil.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Calgary Flames vs Edmonton Oilers
-https://daffodil.sandhost.qzz.io/nhl2.m3u8
+https://daffodil.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 group-title="nhl",New Jersey Devils vs Colorado Avalanche
-https://daffodil.sandhost.qzz.io/nhl3.m3u8
+https://daffodil.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",Toronto Maple Leafs vs Seattle Kraken
-https://daffodil.sandhost.qzz.io/nhl4.m3u8
+https://daffodil.formaturamaxi.com.br/nhl4.m3u8
