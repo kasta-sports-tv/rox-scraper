@@ -1,37 +1,27 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Milan vs Bologna
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="football",Inter Milan vs Venezia
-https://daffodil.formaturamaxi.com.br/now.m3u8
 #EXTINF:-1 group-title="football",Manchester City vs Brighton
 https://daffodil.formaturamaxi.com.br/bein4.m3u8
-#EXTINF:-1 group-title="football",Aston Villa vs Bournemouth
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Fulham vs Crystal Palace
 https://daffodil.formaturamaxi.com.br/fulham.m3u8
-#EXTINF:-1 group-title="football",Genoa vs Juventus
-https://daffodil.formaturamaxi.com.br/now.m3u8
 #EXTINF:-1 group-title="football",Monza vs Napoli
 https://daffodil.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="football",Hearts vs Rangers
 https://daffodil.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 group-title="football",Chelsea vs Liverpool
-https://daffodil.formaturamaxi.com.br/itv.m3u8
-#EXTINF:-1 group-title="football",RB Bragantino vs Chapecoense
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Inter Miami vs Cincinnati
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="football",Toronto FC vs DC United
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 group-title="football",Vancouver Whitecaps vs San Diego
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+https://daffodil.formaturamaxi.com.br/mlbalt.m3u8
 #EXTINF:-1 group-title="nba",Washington Wizards vs Cleveland Cavaliers
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Philadelphia 76ers vs Indiana Pacers
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
+https://daffodil.formaturamaxi.com.br/nba6.m3u8
 #EXTINF:-1 group-title="nba",New York Knicks vs Chicago Bulls
+https://daffodil.formaturamaxi.com.br/nba6.m3u8
+#EXTINF:-1 group-title="nba",Oklahoma City Thunder vs Dallas Mavericks
 https://daffodil.formaturamaxi.com.br/nba6.m3u8
 #EXTINF:-1 group-title="nfl",Kennesaw State vs Middle Tennessee
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
