@@ -15,6 +15,11 @@
       ]
     },
     {
+      "title": "Al Riyadh vs Al Quadisiya",
+      "page": "https://roxiestreams.info/soccer-streams-7",
+      "streams": []
+    },
+    {
       "title": "Fiorentina vs Atalanta",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
@@ -25,13 +30,15 @@
       "title": "Everton vs Newcastle",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
       ]
     },
     {
       "title": "AtlÃ©tico Mineiro vs Cruzeiro",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Vasco Gama vs Flamengo",
