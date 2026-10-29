@@ -10,9 +10,7 @@
     {
       "title": "Al Nassr vs Al Kholood",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Al Riyadh vs Al Quadisiya",
@@ -36,9 +34,7 @@
     {
       "title": "AtlÃ©tico Mineiro vs Cruzeiro",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Vasco Gama vs Flamengo",
@@ -48,9 +44,7 @@
     {
       "title": "GrÃªmio vs Athletico-PR",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fulham.m3u8"
-      ]
+      "streams": []
     }
   ],
   "mlb": [
@@ -84,9 +78,7 @@
     {
       "title": "Golden State Valkyries vs Atlanta Dream",
       "page": "https://roxiestreams.info/wnba-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nfl": [
@@ -94,8 +86,8 @@
       "title": "Carolina Panthers vs Green Bay Packers",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
-        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     },
     {
@@ -194,5 +186,11 @@
       ]
     }
   ],
-  "motorsports": []
+  "motorsports": [
+    {
+      "title": "World Short Track Championship",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "streams": []
+    }
+  ]
 }
