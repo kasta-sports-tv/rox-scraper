@@ -1,25 +1,27 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Konyaspor vs Galatasaray
+https://daffodil.formaturamaxi.com.br/bein4.m3u8
+#EXTINF:-1 group-title="football",Le Havre vs PSG
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Lille vs Lens
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",JuÃ¡rez vs QuerÃ©taro
+https://daffodil.formaturamaxi.com.br/bein4.m3u8
+#EXTINF:-1 group-title="football",AtlÃ©tico San Luis vs Atlas
+https://daffodil.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 group-title="nba",Sacramento Kings vs New Orleans Pelicans
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nfl",Carolina Panthers vs Green Bay Packers
-https://daffodil.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 group-title="nfl",Florida Atlantic vs North Texas
+#EXTINF:-1 group-title="nfl",Tulane vs Charlotte
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Troy vs James Madison
+#EXTINF:-1 group-title="nfl",Baylor vs UCF
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nhl",Winnipeg Jets vs Tampa Bay Lightning
+#EXTINF:-1 group-title="nfl",Kent State vs Sacramento State
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nhl",New Jersey Devils vs Vegas Golden Knights
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Utah Mammoth vs Pittsburgh Penguins
+#EXTINF:-1 group-title="nhl",Winnipeg Jets vs Florida Panthers
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 group-title="nhl",Columbus Blue Jackets vs Carolina Hurricanes
+#EXTINF:-1 group-title="nhl",Seattle Kraken vs Calgary Flames
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Detroit Red Wings
-https://daffodil.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 group-title="nhl",Buffalo Sabres vs Anaheim Ducks
-https://daffodil.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 group-title="nhl",Vancouver Canucks vs San Jose Sharks
-https://daffodil.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 group-title="fighting",WWE Smackdown
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
