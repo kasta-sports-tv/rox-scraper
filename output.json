@@ -3,9 +3,7 @@
     {
       "title": "Frosinone vs Lecce",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/now.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Al Nassr vs Al Kholood",
@@ -20,16 +18,12 @@
     {
       "title": "Fiorentina vs Atalanta",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/now.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Everton vs Newcastle",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "AtlÃ©tico Mineiro vs Cruzeiro",
@@ -168,8 +162,10 @@
     },
     {
       "title": "Vancouver Canucks vs San Jose Sharks",
-      "page": "https://roxiestreams.info/nhl-streams-11",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+      ]
     }
   ],
   "fighting": [
