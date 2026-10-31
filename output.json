@@ -3,16 +3,13 @@
     {
       "title": "Konyaspor vs Galatasaray",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Le Havre vs PSG",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     },
     {
@@ -33,14 +30,15 @@
     {
       "title": "Villarreal vs Espanyol",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+      ]
     },
     {
       "title": "Lille vs Lens",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
       ]
     },
     {
@@ -51,16 +49,12 @@
     {
       "title": "JuÃ¡rez vs QuerÃ©taro",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein4.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "AtlÃ©tico San Luis vs Atlas",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/foot.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Puebla vs Pumas",
@@ -80,8 +74,57 @@
   ],
   "nba": [
     {
-      "title": "Atlanta Dream vs Golden State Valkyries",
-      "page": "https://roxiestreams.info/wnba-streams-1",
+      "title": "Charlotte Hornets vs Washington Wizards",
+      "page": "https://roxiestreams.info/nba-streams-1",
+      "streams": []
+    },
+    {
+      "title": "Chicago Bulls vs Boston Celtics",
+      "page": "https://roxiestreams.info/nba-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+      ]
+    },
+    {
+      "title": "Detroit Pistons vs Brooklyn Nets",
+      "page": "https://roxiestreams.info/nba-streams-3",
+      "streams": []
+    },
+    {
+      "title": "New York Knicks vs Philadelphia 76ers",
+      "page": "https://roxiestreams.info/nba-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Orlando Magic vs Toronto Raptors",
+      "page": "https://roxiestreams.info/nba-streams-5",
+      "streams": []
+    },
+    {
+      "title": "Indiana Pacers vs Miami Heat",
+      "page": "https://roxiestreams.info/nba-streams-6",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba6.m3u8"
+      ]
+    },
+    {
+      "title": "Houston Rockets vs Dallas Mavericks",
+      "page": "https://roxiestreams.info/nba-streams-7",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles Clippers vs Minnesota Timberwolves",
+      "page": "https://roxiestreams.info/nba-streams-8",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles Lakers vs Golden State Warriors",
+      "page": "https://roxiestreams.info/nba-streams-9",
+      "streams": []
+    },
+    {
+      "title": "Denver Nuggets vs Phoenix Suns",
+      "page": "https://roxiestreams.info/nba-streams-5",
       "streams": []
     }
   ],
@@ -140,11 +183,5 @@
       ]
     }
   ],
-  "motorsports": [
-    {
-      "title": "World Short Track Championship",
-      "page": "https://roxiestreams.info/ppv-streams-1",
-      "streams": []
-    }
-  ]
+  "motorsports": []
 }

@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Konyaspor vs Galatasaray
-https://daffodil.formaturamaxi.com.br/bein4.m3u8
 #EXTINF:-1 group-title="football",Le Havre vs PSG
 https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Villarreal vs Espanyol
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Lille vs Lens
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",JuÃ¡rez vs QuerÃ©taro
-https://daffodil.formaturamaxi.com.br/bein4.m3u8
-#EXTINF:-1 group-title="football",AtlÃ©tico San Luis vs Atlas
-https://daffodil.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
 https://daffodil.formaturamaxi.com.br/mlbalt.m3u8
+#EXTINF:-1 group-title="nba",Chicago Bulls vs Boston Celtics
+https://daffodil.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 group-title="nba",Indiana Pacers vs Miami Heat
+https://daffodil.formaturamaxi.com.br/nba6.m3u8
 #EXTINF:-1 group-title="nfl",Tulane vs Charlotte
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Baylor vs UCF
