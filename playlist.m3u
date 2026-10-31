@@ -1,67 +1,75 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Chelsea vs Manchester United
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
+https://daffodil.sandhost.qzz.io/ncaa12.m3u8
 #EXTINF:-1 group-title="football",Lincoln City vs Birmingham City
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Levante vs AtlÃ©tico Madrid
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Bologna vs Monza
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Brentford vs Nottingham
-https://daffodil.formaturamaxi.com.br/tnt.m3u8
+https://daffodil.sandhost.qzz.io/ncaa12.m3u8
 #EXTINF:-1 group-title="football",West Ham vs West Bromwich Albion
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Wolves vs Cardiff City
+https://daffodil.sandhost.qzz.io/wolves.m3u8
 #EXTINF:-1 group-title="football",Rayo Vallecano vs Celta Vigo
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
+#EXTINF:-1 group-title="football",Real Betis vs MÃ¡laga
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Bayern MÃ¼nchen vs Dortmund
-https://daffodil.formaturamaxi.com.br/tsn.m3u8
+https://daffodil.sandhost.qzz.io/ncaa12.m3u8
+#EXTINF:-1 group-title="football",Milan vs Inter Milan
+https://daffodil.sandhost.qzz.io/golazo.m3u8
 #EXTINF:-1 group-title="football",Barcelona vs Deportivo AlavÃ©s
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
-https://daffodil.formaturamaxi.com.br/mlbalt.m3u8
+https://daffodil.sandhost.qzz.io/mlbalt.m3u8
 #EXTINF:-1 group-title="nba",Philadelphia 76ers vs Charlotte Hornets
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
+https://daffodil.sandhost.qzz.io/nba2.m3u8
 #EXTINF:-1 group-title="nba",Minnesota Timberwolves vs San Antonio Spurs
-https://daffodil.formaturamaxi.com.br/nba6.m3u8
+https://daffodil.sandhost.qzz.io/nba6.m3u8
 #EXTINF:-1 group-title="nfl",College GameDay
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",Notre Dame vs Navy
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Arizona vs Texas Tech
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",SMU vs Syracuse
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+https://daffodil.sandhost.qzz.io/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Bowling Green vs Western Michigan
-https://daffodil.formaturamaxi.com.br/ncaa9.m3u8
-#EXTINF:-1 group-title="nfl",Kansas State vs Colorado
-https://daffodil.formaturamaxi.com.br/ncaa12.m3u8
+https://daffodil.sandhost.qzz.io/ncaa9.m3u8
 #EXTINF:-1 group-title="nfl",Florida vs Georgia
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Colorado State vs Utah State
+https://daffodil.sandhost.qzz.io/ncaa12.m3u8
 #EXTINF:-1 group-title="nfl",Florida International vs Liberty
-https://daffodil.formaturamaxi.com.br/ncaa9.m3u8
+https://daffodil.sandhost.qzz.io/ncaa9.m3u8
 #EXTINF:-1 group-title="nfl",Utah vs Cincinnati
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",Virginia vs Wake Forest
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+https://daffodil.sandhost.qzz.io/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Washington State vs San Diego State
-https://daffodil.formaturamaxi.com.br/ncaa9.m3u8
+https://daffodil.sandhost.qzz.io/ncaa9.m3u8
 #EXTINF:-1 group-title="nfl",Miami vs North Carolina
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Mississippi State vs Texas
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",Georgia Tech vs Pittsburgh
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+https://daffodil.sandhost.qzz.io/ncaa3.m3u8
 #EXTINF:-1 group-title="nfl",Northern Illinois vs UNLV
-https://daffodil.formaturamaxi.com.br/ncaa9.m3u8
+https://daffodil.sandhost.qzz.io/ncaa9.m3u8
+#EXTINF:-1 group-title="nfl",Oregon State vs Fresno State
+https://daffodil.sandhost.qzz.io/ncaa12.m3u8
 #EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Boston Bruins
-https://daffodil.formaturamaxi.com.br/nhl.m3u8
+https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="nhl",St. Louis Blues vs Detroit Red Wings
-https://daffodil.formaturamaxi.com.br/nhl2.m3u8
+https://daffodil.sandhost.qzz.io/nhl2.m3u8
 #EXTINF:-1 group-title="nhl",Tampa Bay Lightning vs Nashville Predators
-https://daffodil.formaturamaxi.com.br/nhl3.m3u8
+https://daffodil.sandhost.qzz.io/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",Edmonton Oilers vs New York Islanders
-https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+https://daffodil.sandhost.qzz.io/nhl4.m3u8
 #EXTINF:-1 group-title="nhl",Columbus Blue Jackets vs Dallas Stars
-https://daffodil.formaturamaxi.com.br/nhl9.m3u8
+https://daffodil.sandhost.qzz.io/nhl9.m3u8
 #EXTINF:-1 group-title="fighting",Canelo vs. Mbilli: Mexico vs. The World
-https://daffodil.formaturamaxi.com.br/ppv.m3u8
+https://daffodil.sandhost.qzz.io/ppvalt.m3u8
