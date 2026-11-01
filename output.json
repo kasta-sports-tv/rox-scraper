@@ -220,8 +220,8 @@
       "title": "Atlanta Dream vs Golden State Valkyries",
       "page": "https://roxiestreams.info/wnba-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa12.m3u8",
-        "https://daffodil.formaturamaxi.com.br/wnba.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wnba.m3u8",
+        "https://daffodil.formaturamaxi.com.br/ncaa12.m3u8"
       ]
     }
   ],
@@ -451,66 +451,45 @@
   ],
   "nhl": [
     {
-      "title": "Chicago Blackhawks vs Boston Bruins",
+      "title": "Winnipeg Jets vs Carolina Hurricanes",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
       ]
     },
     {
-      "title": "St. Louis Blues vs Detroit Red Wings",
+      "title": "Minnesota Wild vs Washington Capitals",
       "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
       ]
     },
     {
-      "title": "Tampa Bay Lightning vs Nashville Predators",
+      "title": "Utah Mammoth vs Philadelphia Flyers",
       "page": "https://roxiestreams.info/nhl-streams-3",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
       ]
     },
     {
-      "title": "Edmonton Oilers vs New York Islanders",
+      "title": "Edmonton Oilers vs New York Rangers",
       "page": "https://roxiestreams.info/nhl-streams-4",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
       ]
     },
     {
-      "title": "Pittsburgh Penguins vs Montreal Canadiens",
-      "page": "https://roxiestreams.info/nhl-streams-7",
+      "title": "Ottawa Senators vs Anaheim Ducks",
+      "page": "https://roxiestreams.info/nhl-streams-5",
       "streams": []
-    },
-    {
-      "title": "Toronto Maple Leafs vs Vancouver Canucks",
-      "page": "https://roxiestreams.info/nhl-streams-8",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl8.m3u8"
-      ]
-    },
-    {
-      "title": "Columbus Blue Jackets vs Dallas Stars",
-      "page": "https://roxiestreams.info/nhl-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl9.m3u8"
-      ]
-    },
-    {
-      "title": "Calgary Flames vs Colorado Avalanche",
-      "page": "https://roxiestreams.info/nhl-streams-8",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl8.m3u8"
-      ]
     }
   ],
   "fighting": [
     {
-      "title": "Canelo vs. Mbilli: Mexico vs. The World",
-      "page": "https://roxiestreams.info/ppv-streams-1",
+      "title": "WWE RAW",
+      "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ppv.m3u8"
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
       ]
     }
   ],
