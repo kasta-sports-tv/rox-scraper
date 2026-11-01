@@ -1,51 +1,53 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Como vs Venezia
-https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",Getafe vs Sevilla
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Falkirk vs Celtic
-https://daffodil.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 group-title="football",Lazio vs Cagliari
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.sandhost.qzz.io/foot.m3u8
 #EXTINF:-1 group-title="football",Sheffield Wednesday vs Blackpool
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
+https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Strasbourg vs Auxerre
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Racing Santander vs Real Madrid
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Lyon vs Angers SCO
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Elche vs Valencia
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",Marseille vs Toulouse
-https://daffodil.formaturamaxi.com.br/beines.m3u8
+https://daffodil.sandhost.qzz.io/beines.m3u8
 #EXTINF:-1 group-title="football",Athletic Club vs Real Sociedad
-https://daffodil.formaturamaxi.com.br/dep.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 group-title="football",GrÃªmio vs AtlÃ©tico Mineiro
-https://daffodil.formaturamaxi.com.br/wolves.m3u8
-#EXTINF:-1 group-title="football",Portland Timbers vs Houston Dynamo
-https://daffodil.formaturamaxi.com.br/ncaa12.m3u8
+https://daffodil.sandhost.qzz.io/wolves.m3u8
+#EXTINF:-1 group-title="football",Cruz Azul vs LeÃ³n
+https://daffodil.sandhost.qzz.io/ncaa12.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
-https://daffodil.formaturamaxi.com.br/mlb.m3u8
+https://daffodil.sandhost.qzz.io/mlb.m3u8
 #EXTINF:-1 group-title="nba",Brooklyn Nets vs Indiana Pacers
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
+https://daffodil.sandhost.qzz.io/nba2.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Clippers vs Golden State Warriors
-https://daffodil.formaturamaxi.com.br/nba3.m3u8
+https://daffodil.sandhost.qzz.io/nba3.m3u8
 #EXTINF:-1 group-title="nfl",Baltimore Ravens vs Buffalo Bills
-https://daffodil.formaturamaxi.com.br/nflalt.m3u8
+https://daffodil.sandhost.qzz.io/nfl.m3u8
 #EXTINF:-1 group-title="nfl",Tennessee Titans vs Cincinnati Bengals
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
+#EXTINF:-1 group-title="nfl",Minnesota Vikings vs Detroit Lions
+https://daffodil.sandhost.qzz.io/nfl4.m3u8
+#EXTINF:-1 group-title="nfl",Cleveland Browns vs Pittsburgh Steelers
+https://daffodil.sandhost.qzz.io/nfl6.m3u8
+#EXTINF:-1 group-title="nfl",Indianapolis Colts vs Jacksonville Jaguars
+https://daffodil.sandhost.qzz.io/nfl8.m3u8
 #EXTINF:-1 group-title="nfl",Kansas City Chiefs vs Denver Broncos
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
+https://daffodil.sandhost.qzz.io/nfl2.m3u8
 #EXTINF:-1 group-title="nfl",Philadelphia Eagles vs Washington Commanders
-https://daffodil.formaturamaxi.com.br/nflalt.m3u8
+https://daffodil.sandhost.qzz.io/nflalt.m3u8
 #EXTINF:-1 group-title="nhl",Winnipeg Jets vs Carolina Hurricanes
-https://daffodil.formaturamaxi.com.br/nhl.m3u8
+https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Minnesota Wild vs Washington Capitals
-https://daffodil.formaturamaxi.com.br/nhl2.m3u8
+https://daffodil.sandhost.qzz.io/nhl2.m3u8
 #EXTINF:-1 group-title="nhl",Utah Mammoth vs Philadelphia Flyers
-https://daffodil.formaturamaxi.com.br/nhl3.m3u8
+https://daffodil.sandhost.qzz.io/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",Edmonton Oilers vs New York Rangers
-https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+https://daffodil.sandhost.qzz.io/nhl4.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+https://daffodil.sandhost.qzz.io/wwe.m3u8
