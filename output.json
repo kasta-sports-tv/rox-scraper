@@ -126,9 +126,7 @@
     {
       "title": "Cruz Azul vs LeÃ³n",
       "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa12.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Portland Timbers vs Houston Dynamo",
@@ -141,8 +139,8 @@
       "title": "Milwaukee Brewers vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8",
-        "https://daffodil.formaturamaxi.com.br/mlbalt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlbalt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
       ]
     }
   ],
@@ -169,7 +167,9 @@
     {
       "title": "Toronto Raptors vs Los Angeles Lakers",
       "page": "https://roxiestreams.info/nba-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+      ]
     }
   ],
   "nfl": [
