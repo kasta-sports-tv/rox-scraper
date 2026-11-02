@@ -3,31 +3,37 @@
     {
       "title": "Sassuolo vs Fiorentina",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Lorient vs Brest",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
+        "https://daffodil.formaturamaxi.com.br/xtraes.m3u8"
       ]
     },
     {
       "title": "Atalanta vs Parma",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Deportivo La CoruÃ±a vs Osasuna",
       "page": "https://roxiestreams.info/soccer-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/foot.m3u8"
+        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
       ]
     },
     {
       "title": "Newcastle United vs Everton",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
+      ]
     },
     {
       "title": "Benfica vs Alverca",
@@ -47,8 +53,8 @@
       "title": "Milwaukee Brewers vs Tampa Bay Rays",
       "page": "https://roxiestreams.info/mlb-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/mlb.m3u8",
-        "https://daffodil.formaturamaxi.com.br/mlbalt.m3u8"
+        "https://daffodil.formaturamaxi.com.br/mlbalt.m3u8",
+        "https://daffodil.formaturamaxi.com.br/mlb.m3u8"
       ]
     }
   ],
