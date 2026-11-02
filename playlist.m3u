@@ -1,51 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Getafe vs Sevilla
+#EXTINF:-1 group-title="football",Lorient vs Brest
 https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Falkirk vs Celtic
+#EXTINF:-1 group-title="football",Deportivo La CoruÃ±a vs Osasuna
 https://daffodil.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 group-title="football",Sheffield Wednesday vs Blackpool
-https://daffodil.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="football",Strasbourg vs Auxerre
+#EXTINF:-1 group-title="football",Benfica vs Alverca
 https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Racing Santander vs Real Madrid
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Lyon vs Angers SCO
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Elche vs Valencia
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="football",Marseille vs Toulouse
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Athletic Club vs Real Sociedad
-https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="mlb",Milwaukee Brewers vs Tampa Bay Rays
-https://daffodil.formaturamaxi.com.br/mlbalt.m3u8
-#EXTINF:-1 group-title="nba",Brooklyn Nets vs Indiana Pacers
+https://daffodil.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 group-title="nba",Detroit Pistons vs Charlotte Hornets
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Clippers vs Golden State Warriors
+#EXTINF:-1 group-title="nba",Atlanta Hawks vs Indiana Pacers
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Toronto Raptors vs Los Angeles Lakers
+#EXTINF:-1 group-title="nba",Brooklyn Nets vs New York Knicks
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 group-title="nfl",Baltimore Ravens vs Buffalo Bills
+#EXTINF:-1 group-title="nba",Chicago Bulls vs Philadelphia 76ers
+https://daffodil.formaturamaxi.com.br/nba6.m3u8
+#EXTINF:-1 group-title="nfl",Chicago Bears vs Seattle Seahawks
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",Tennessee Titans vs Cincinnati Bengals
-https://daffodil.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 group-title="nfl",Minnesota Vikings vs Detroit Lions
-https://daffodil.formaturamaxi.com.br/nfl4.m3u8
-#EXTINF:-1 group-title="nfl",Indianapolis Colts vs Jacksonville Jaguars
-https://daffodil.formaturamaxi.com.br/nfl8.m3u8
-#EXTINF:-1 group-title="nfl",Los Angeles Chargers vs Los Angeles Rams
-https://daffodil.formaturamaxi.com.br/nfl9.m3u8
-#EXTINF:-1 group-title="nfl",Kansas City Chiefs vs Denver Broncos
-https://daffodil.formaturamaxi.com.br/nfl4.m3u8
-#EXTINF:-1 group-title="nfl",Philadelphia Eagles vs Washington Commanders
-https://daffodil.formaturamaxi.com.br/nfl12.m3u8
-#EXTINF:-1 group-title="nhl",Winnipeg Jets vs Carolina Hurricanes
+#EXTINF:-1 group-title="nhl",Vegas Golden Knights vs Boston Bruins
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Minnesota Wild vs Washington Capitals
+#EXTINF:-1 group-title="nhl",Detroit Red Wings vs Florida Panthers
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 group-title="nhl",Utah Mammoth vs Philadelphia Flyers
+#EXTINF:-1 group-title="nhl",Colorado Avalanche vs Chicago Blackhawks
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Edmonton Oilers vs New York Rangers
-https://daffodil.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 group-title="nhl",Calgary Flames vs San Jose Sharks
+https://daffodil.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 group-title="fighting",WWE RAW
 https://daffodil.formaturamaxi.com.br/wwe.m3u8
