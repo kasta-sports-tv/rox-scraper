@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Galatasaray vs Stuttgart
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",BodÃ¸ / Glimt vs Lille
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
-#EXTINF:-1 group-title="football",Feyenoord vs Inter Milan
-https://daffodil.sandhost.qzz.io/golazo.m3u8
-#EXTINF:-1 group-title="football",Manchester United vs Roma
-https://daffodil.sandhost.qzz.io/now.m3u8
+#EXTINF:-1 group-title="nfl",Ohio vs Akron
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Buffalo vs Miami (OH)
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
+#EXTINF:-1 group-title="nhl",Utah Mammoth vs Toronto Maple Leafs
+https://daffodil.sandhost.qzz.io/nhl.m3u8
+#EXTINF:-1 group-title="nhl",St. Louis Blues vs New York Rangers
+https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 group-title="nhl",Vegas Golden Knights vs Pittsburgh Penguins
+https://daffodil.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 group-title="nhl",Edmonton Oilers vs New Jersey Devils
+https://daffodil.formaturamaxi.com.br/nhl9.m3u8
