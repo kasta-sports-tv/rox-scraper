@@ -3,23 +3,17 @@
     {
       "title": "Sassuolo vs Fiorentina",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Lorient vs Brest",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/xtraes.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Atalanta vs Parma",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Deportivo La CoruÃ±a vs Osasuna",
@@ -81,9 +75,7 @@
     {
       "title": "Brooklyn Nets vs New York Knicks",
       "page": "https://roxiestreams.info/nba-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Washington Wizards vs Orlando Magic",
@@ -129,7 +121,7 @@
     },
     {
       "title": "Phoenix Suns vs Golden State Warriors",
-      "page": "https://roxiestreams.info/nba-streams-13",
+      "page": "https://roxiestreams.info/nba-streams-4",
       "streams": []
     },
     {
@@ -139,8 +131,10 @@
     },
     {
       "title": "Miami Heat vs Los Angeles Lakers",
-      "page": "https://roxiestreams.info/nba-streams-15",
-      "streams": []
+      "page": "https://roxiestreams.info/nba-streams-6",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba6.m3u8"
+      ]
     }
   ],
   "nfl": [
@@ -148,7 +142,8 @@
       "title": "Chicago Bears vs Seattle Seahawks",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8",
+        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
       ]
     }
   ],
@@ -170,9 +165,7 @@
     {
       "title": "Colorado Avalanche vs Chicago Blackhawks",
       "page": "https://roxiestreams.info/nhl-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Calgary Flames vs San Jose Sharks",
