@@ -8,12 +8,16 @@
     {
       "title": "AEK Athens vs Real Madrid",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt3.m3u8"
+      ]
     },
     {
       "title": "FenerbahÃ§e vs Liverpool",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
+      ]
     },
     {
       "title": "Cardiff City vs West Ham",
@@ -28,7 +32,9 @@
     {
       "title": "Arsenal vs Slavia Praha",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
+      ]
     },
     {
       "title": "Dortmund vs Real Betis",
@@ -73,7 +79,9 @@
     {
       "title": "Flamengo vs GrÃªmio",
       "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/tnt3.m3u8"
+      ]
     },
     {
       "title": "SÃ£o Paulo vs Corinthians",

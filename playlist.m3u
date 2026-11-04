@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",AEK Athens vs Real Madrid
+https://daffodil.formaturamaxi.com.br/tnt3.m3u8
+#EXTINF:-1 group-title="football",FenerbahÃ§e vs Liverpool
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 group-title="football",Arsenal vs Slavia Praha
+https://daffodil.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 group-title="football",Flamengo vs GrÃªmio
+https://daffodil.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="nfl",Ball State vs Massachusetts
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nfl",Toledo vs Sacramento State
