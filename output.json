@@ -8,9 +8,7 @@
     {
       "title": "AEK Athens vs Real Madrid",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "FenerbahÃ§e vs Liverpool",
@@ -30,11 +28,14 @@
       "streams": []
     },
     {
+      "title": "UEFA Goals Show",
+      "page": "https://roxiestreams.info/soccer-streams-18",
+      "streams": []
+    },
+    {
       "title": "Arsenal vs Slavia Praha",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Dortmund vs Real Betis",
@@ -54,7 +55,9 @@
     {
       "title": "Porto vs Napoli",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/cbssn.m3u8"
+      ]
     },
     {
       "title": "PSV vs Club Brugge",
@@ -79,9 +82,7 @@
     {
       "title": "Flamengo vs GrÃªmio",
       "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "SÃ£o Paulo vs Corinthians",
@@ -99,7 +100,9 @@
     {
       "title": "Philadelphia 76ers vs Detroit Pistons",
       "page": "https://roxiestreams.info/nba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nba.m3u8"
+      ]
     },
     {
       "title": "Atlanta Hawks vs Washington Wizards",
@@ -154,7 +157,9 @@
     {
       "title": "Dallas Mavericks vs San Antonio Spurs",
       "page": "https://roxiestreams.info/nba-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nba.m3u8"
+      ]
     },
     {
       "title": "Los Angeles Lakers vs Sacramento Kings",
@@ -172,14 +177,14 @@
       "title": "Ball State vs Massachusetts",
       "page": "https://roxiestreams.info/ncaa-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa.m3u8"
       ]
     },
     {
       "title": "Toledo vs Sacramento State",
       "page": "https://roxiestreams.info/ncaa-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
       ]
     },
     {
@@ -193,7 +198,7 @@
       "title": "Ottawa Senators vs Buffalo Sabres",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {
@@ -210,11 +215,16 @@
       "title": "Calgary Flames vs Seattle Kraken",
       "page": "https://roxiestreams.info/nhl-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl4.m3u8"
       ]
     }
   ],
   "fighting": [
+    {
+      "title": "WWE NXT",
+      "page": "https://roxiestreams.info/wwe-streams",
+      "streams": []
+    },
     {
       "title": "TNA",
       "page": "https://roxiestreams.info/ppv-streams-1",
