@@ -1,23 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Thun vs Hearts
-https://daffodil.sandhost.qzz.io/tnt3.m3u8
-#EXTINF:-1 group-title="football",Celtic vs BeÅiktaÅ
-https://daffodil.sandhost.qzz.io/tnt3.m3u8
-#EXTINF:-1 group-title="nba",Orlando Magic vs Phoenix Suns
-https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nfl",UTSA vs Florida Atlantic
-https://daffodil.sandhost.qzz.io/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",James Madison vs Southern Miss
-https://daffodil.sandhost.qzz.io/ncaa2.m3u8
-#EXTINF:-1 group-title="nhl",Utah Mammoth vs Montreal Canadiens
-https://daffodil.sandhost.qzz.io/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Tampa Bay Lightning
-https://daffodil.sandhost.qzz.io/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",St. Louis Blues vs New Jersey Devils
-https://daffodil.sandhost.qzz.io/nhl4.m3u8
-#EXTINF:-1 group-title="nhl",Philadelphia Flyers vs New York Rangers
-https://daffodil.sandhost.qzz.io/nhl6.m3u8
-#EXTINF:-1 group-title="nhl",Boston Bruins vs Pittsburgh Penguins
-https://daffodil.sandhost.qzz.io/nhl7.m3u8
-#EXTINF:-1 group-title="nhl",Vancouver Canucks vs Winnipeg Jets
-https://daffodil.sandhost.qzz.io/nhl9.m3u8
+#EXTINF:-1 group-title="football",Derby County vs Bolton Wanderers
+https://daffodil.formaturamaxi.com.br/tnt3.m3u8
+#EXTINF:-1 group-title="football",Necaxa vs Tijuana
+https://daffodil.formaturamaxi.com.br/tnt3.m3u8
+#EXTINF:-1 group-title="nba",Washington Wizards vs Atlanta Hawks
+https://daffodil.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 group-title="nfl",Virginia Tech vs SMU
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",South Florida vs East Carolina
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",TCU vs Arizona
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nhl",Columbus Blue Jackets vs Buffalo Sabres
+https://daffodil.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 group-title="nhl",Anaheim Ducks vs Calgary Flames
+https://daffodil.formaturamaxi.com.br/nhl3.m3u8
