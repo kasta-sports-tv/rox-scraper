@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="football",Hamburger SV vs Borussia M'gladbach
+https://daffodil.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 group-title="football",Toulouse vs Strasbourg
+https://daffodil.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 group-title="football",Derby County vs Bolton Wanderers
-https://daffodil.formaturamaxi.com.br/tnt3.m3u8
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Sevilla vs Deportivo AlavÃ©s
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 group-title="football",Necaxa vs Tijuana
 https://daffodil.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="nba",Washington Wizards vs Atlanta Hawks
