@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Crystal Palace vs Hoffenheim
-https://daffodil.sandhost.qzz.io/tnt.m3u8
-#EXTINF:-1 group-title="football",Real Sociedad vs Lyon
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Thun vs Hearts
 https://daffodil.sandhost.qzz.io/tnt3.m3u8
-#EXTINF:-1 group-title="football",Bayer Leverkusen vs Marseille
-https://daffodil.sandhost.qzz.io/cbssn.m3u8
 #EXTINF:-1 group-title="football",Celtic vs BeÅiktaÅ
 https://daffodil.sandhost.qzz.io/tnt3.m3u8
-#EXTINF:-1 group-title="football",Sunderland vs Dinamo Zagreb
-https://daffodil.sandhost.qzz.io/tnt.m3u8
 #EXTINF:-1 group-title="nba",Orlando Magic vs Phoenix Suns
 https://daffodil.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nfl",UTSA vs Florida Atlantic
@@ -19,9 +11,13 @@ https://daffodil.sandhost.qzz.io/ncaa.m3u8
 https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nhl",Utah Mammoth vs Montreal Canadiens
 https://daffodil.sandhost.qzz.io/nhl.m3u8
+#EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Tampa Bay Lightning
+https://daffodil.sandhost.qzz.io/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",St. Louis Blues vs New Jersey Devils
 https://daffodil.sandhost.qzz.io/nhl4.m3u8
 #EXTINF:-1 group-title="nhl",Philadelphia Flyers vs New York Rangers
 https://daffodil.sandhost.qzz.io/nhl6.m3u8
+#EXTINF:-1 group-title="nhl",Boston Bruins vs Pittsburgh Penguins
+https://daffodil.sandhost.qzz.io/nhl7.m3u8
 #EXTINF:-1 group-title="nhl",Vancouver Canucks vs Winnipeg Jets
 https://daffodil.sandhost.qzz.io/nhl9.m3u8

@@ -8,16 +8,12 @@
     {
       "title": "Crystal Palace vs Hoffenheim",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Real Sociedad vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Milan vs FerencvÃ¡ros",
@@ -44,9 +40,7 @@
     {
       "title": "Bayer Leverkusen vs Marseille",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/cbssn.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Benfica vs Lech PoznaÅ",
@@ -68,9 +62,7 @@
     {
       "title": "Sunderland vs Dinamo Zagreb",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Palmeiras vs Remo",
@@ -135,7 +127,9 @@
     {
       "title": "Chicago Blackhawks vs Tampa Bay Lightning",
       "page": "https://roxiestreams.info/nhl-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl3.m3u8"
+      ]
     },
     {
       "title": "St. Louis Blues vs New Jersey Devils",
@@ -159,7 +153,9 @@
     {
       "title": "Boston Bruins vs Pittsburgh Penguins",
       "page": "https://roxiestreams.info/nhl-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl7.m3u8"
+      ]
     },
     {
       "title": "Dallas Stars vs Columbus Blue Jackets",
