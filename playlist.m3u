@@ -1,50 +1,56 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Bristol City vs Norwich City
-https://daffodil.formaturamaxi.com.br/ncaa6.m3u8
+https://daffodil.sandhost.qzz.io/ncaa6.m3u8
+#EXTINF:-1 group-title="football",Leeds United vs Tottenham
+https://daffodil.sandhost.qzz.io/ncaa14.m3u8
+#EXTINF:-1 group-title="football",Mainz 05 vs Bayern MÃ¼nchen
+https://daffodil.sandhost.qzz.io/ncaa14.m3u8
 #EXTINF:-1 group-title="football",Fulham vs Newcastle
-https://daffodil.formaturamaxi.com.br/ncaa13.m3u8
-#EXTINF:-1 group-title="football",Watford vs Middlesbrough
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Parma vs Bologna
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Nottingham vs Manchester City
-https://daffodil.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 group-title="football",Roma vs Sassuolo
-https://daffodil.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="football",Boca Juniors vs Defensa Y Justicia
-https://daffodil.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 group-title="nba",Denver Nuggets vs Indiana Pacers
-https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nfl",NCAA GameDay
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",BYU vs Utah
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",UCLA vs Minnesota
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Clemson vs Syracuse
-https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 group-title="nfl",North Carolina vs UConn
-https://daffodil.formaturamaxi.com.br/ncaa6.m3u8
-#EXTINF:-1 group-title="nfl",Alabama vs LSU
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Cincinnati vs Houston
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Penn State vs Washington
-https://daffodil.formaturamaxi.com.br/ncaa13.m3u8
-#EXTINF:-1 group-title="nfl",Temple vs Navy
-https://daffodil.formaturamaxi.com.br/ncaa6.m3u8
-#EXTINF:-1 group-title="nfl",UCF vs Kansas
-https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 group-title="nfl",Sam Houston vs Jacksonville State
-https://daffodil.formaturamaxi.com.br/ncaa6.m3u8
-#EXTINF:-1 group-title="nfl",Georgia vs Ole Miss
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Iowa vs Northwestern
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Colorado vs Arizona State
-https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 group-title="nfl",Hawai'i vs UTEP
 https://daffodil.sandhost.qzz.io/ncaa13.m3u8
+#EXTINF:-1 group-title="football",Watford vs Middlesbrough
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Parma vs Bologna
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Stuttgart vs Werder Bremen
+https://daffodil.sandhost.qzz.io/ncaa14.m3u8
+#EXTINF:-1 group-title="football",Roma vs Sassuolo
+https://daffodil.sandhost.qzz.io/golazo.m3u8
+#EXTINF:-1 group-title="football",Boca Juniors vs Defensa Y Justicia
+https://daffodil.sandhost.qzz.io/tnt3.m3u8
+#EXTINF:-1 group-title="nba",Denver Nuggets vs Indiana Pacers
+https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nfl",NCAA GameDay
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",BYU vs Utah
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",UCLA vs Minnesota
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Clemson vs Syracuse
+https://daffodil.sandhost.qzz.io/ncaa4.m3u8
+#EXTINF:-1 group-title="nfl",North Carolina vs UConn
+https://daffodil.sandhost.qzz.io/ncaa6.m3u8
+#EXTINF:-1 group-title="nfl",Oklahoma State vs Kansas State
+https://daffodil.sandhost.qzz.io/ncaa11.m3u8
+#EXTINF:-1 group-title="nfl",Alabama vs LSU
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Cincinnati vs Houston
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Temple vs Navy
+https://daffodil.sandhost.qzz.io/ncaa6.m3u8
+#EXTINF:-1 group-title="nfl",UCF vs Kansas
+https://daffodil.sandhost.qzz.io/ncaa4.m3u8
+#EXTINF:-1 group-title="nfl",Boise State vs Colorado State
+https://daffodil.sandhost.qzz.io/ncaa14.m3u8
+#EXTINF:-1 group-title="nfl",Sam Houston vs Jacksonville State
+https://daffodil.sandhost.qzz.io/ncaa6.m3u8
+#EXTINF:-1 group-title="nfl",Georgia vs Ole Miss
+https://daffodil.sandhost.qzz.io/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Iowa vs Northwestern
+https://daffodil.sandhost.qzz.io/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Colorado vs Arizona State
+https://daffodil.sandhost.qzz.io/ncaa4.m3u8
+#EXTINF:-1 group-title="nfl",Fresno State vs Utah State
+https://daffodil.sandhost.qzz.io/ncaa14.m3u8
 #EXTINF:-1 group-title="nfl",Wyoming vs UNLV
 https://daffodil.sandhost.qzz.io/ncaa6.m3u8
 #EXTINF:-1 group-title="nhl",Florida Panthers vs Washington Capitals
