@@ -35,14 +35,14 @@
     {
       "title": "Fulham vs Newcastle",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa13.m3u8"
+      ]
     },
     {
       "title": "Birmingham City vs Swansea City",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Cardiff City vs Burnley",
@@ -52,14 +52,14 @@
     {
       "title": "Blackburn Rovers vs West Ham",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fana.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Watford vs Middlesbrough",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Espanyol vs Deportivo La CoruÃ±a",
@@ -69,14 +69,14 @@
     {
       "title": "Galatasaray vs Amed SK",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fana.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Parma vs Bologna",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
+      ]
     },
     {
       "title": "Altrincham vs Notts County",
@@ -438,7 +438,7 @@
       "title": "Hawai'i vs UTEP",
       "page": "https://roxiestreams.info/ncaa-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa13.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa13.m3u8"
       ]
     },
     {
@@ -450,7 +450,7 @@
       "title": "Wyoming vs UNLV",
       "page": "https://roxiestreams.info/ncaa-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa6.m3u8"
+        "https://daffodil.sandhost.qzz.io/ncaa6.m3u8"
       ]
     }
   ],
@@ -459,7 +459,7 @@
       "title": "Florida Panthers vs Washington Capitals",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {
@@ -471,14 +471,14 @@
       "title": "New York Rangers vs Seattle Kraken",
       "page": "https://roxiestreams.info/nhl-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl3.m3u8"
       ]
     },
     {
       "title": "Montreal Canadiens vs Toronto Maple Leafs",
       "page": "https://roxiestreams.info/nhl-streams-4",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl4.m3u8"
       ]
     },
     {
@@ -490,14 +490,14 @@
       "title": "New Jersey Devils vs New York Islanders",
       "page": "https://roxiestreams.info/nhl-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl6.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl6.m3u8"
       ]
     },
     {
       "title": "Chicago Blackhawks vs Carolina Hurricanes",
       "page": "https://roxiestreams.info/nhl-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl7.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl7.m3u8"
       ]
     },
     {
@@ -509,7 +509,7 @@
       "title": "Tampa Bay Lightning vs Minnesota Wild",
       "page": "https://roxiestreams.info/nhl-streams-9",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl9.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl9.m3u8"
       ]
     },
     {
@@ -533,7 +533,7 @@
       "title": "WWE Crown Jewel",
       "page": "https://roxiestreams.info/wwe-streams",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
+        "https://daffodil.sandhost.qzz.io/usa.m3u8"
       ]
     },
     {
