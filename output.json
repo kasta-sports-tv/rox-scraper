@@ -61,9 +61,7 @@
     {
       "title": "Watford vs Middlesbrough",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Espanyol vs Deportivo La CoruÃ±a",
@@ -78,9 +76,7 @@
     {
       "title": "Parma vs Bologna",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Altrincham vs Notts County",
@@ -117,9 +113,7 @@
     {
       "title": "Roma vs Sassuolo",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "St. Mirren vs Rangers",
@@ -144,9 +138,7 @@
     {
       "title": "Boca Juniors vs Defensa Y Justicia",
       "page": "https://roxiestreams.info/soccer-streams-18",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "AtlÃ©tico Mineiro vs GrÃªmio",
@@ -241,15 +233,15 @@
     },
     {
       "title": "UCLA vs Minnesota",
+      "page": "https://roxiestreams.info/ncaa-streams-3",
+      "streams": []
+    },
+    {
+      "title": "Texas vs Missouri",
       "page": "https://roxiestreams.info/ncaa-streams-2",
       "streams": [
         "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
       ]
-    },
-    {
-      "title": "Texas vs Missouri",
-      "page": "https://roxiestreams.info/ncaa-streams-3",
-      "streams": []
     },
     {
       "title": "Iowa State vs Baylor",
@@ -304,8 +296,10 @@
     },
     {
       "title": "Texas A&M vs South Carolina",
-      "page": "https://roxiestreams.info/ncaa-streams-3",
-      "streams": []
+      "page": "https://roxiestreams.info/ncaa-streams-2",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
+      ]
     },
     {
       "title": "Alabama vs LSU",
@@ -326,10 +320,8 @@
     },
     {
       "title": "Cincinnati vs Houston",
-      "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
-      ]
+      "page": "https://roxiestreams.info/ncaa-streams-3",
+      "streams": []
     },
     {
       "title": "Penn State vs Washington",
@@ -374,8 +366,10 @@
     },
     {
       "title": "Kentucky vs Tennessee",
-      "page": "https://roxiestreams.info/ncaa-streams-3",
-      "streams": []
+      "page": "https://roxiestreams.info/ncaa-streams-2",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
+      ]
     },
     {
       "title": "Sam Houston vs Jacksonville State",
@@ -398,10 +392,8 @@
     },
     {
       "title": "Iowa vs Northwestern",
-      "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
-      ]
+      "page": "https://roxiestreams.info/ncaa-streams-3",
+      "streams": []
     },
     {
       "title": "Colorado vs Arizona State",
@@ -437,8 +429,10 @@
     },
     {
       "title": "West Virginia vs Texas Tech",
-      "page": "https://roxiestreams.info/ncaa-streams-3",
-      "streams": []
+      "page": "https://roxiestreams.info/ncaa-streams-2",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/ncaa2.m3u8"
+      ]
     },
     {
       "title": "Fresno State vs Utah State",
@@ -487,14 +481,14 @@
     },
     {
       "title": "Montreal Canadiens vs Toronto Maple Leafs",
-      "page": "https://roxiestreams.info/nhl-streams-4",
+      "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl4.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {
       "title": "Utah Mammoth vs Ottawa Senators",
-      "page": "https://roxiestreams.info/nhl-streams-5",
+      "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": []
     },
     {
@@ -535,8 +529,10 @@
     },
     {
       "title": "Vancouver Canucks vs Edmonton Oilers",
-      "page": "https://roxiestreams.info/nhl-streams-12",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-1",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
+      ]
     }
   ],
   "fighting": [
