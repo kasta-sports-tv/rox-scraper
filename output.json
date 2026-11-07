@@ -3,16 +3,12 @@
     {
       "title": "Hamburger SV vs Borussia M'gladbach",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Toulouse vs Strasbourg",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Oxford City vs Leicester City",
@@ -27,33 +23,31 @@
     {
       "title": "Derby County vs Bolton Wanderers",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Everton vs Coventry City",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
+      ]
     },
     {
       "title": "Sevilla vs Deportivo AlavÃ©s",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "VitÃ³ria vs Fluminense",
       "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fana.m3u8"
+      ]
     },
     {
       "title": "Necaxa vs Tijuana",
       "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/tnt3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "AtlÃ©tico San Luis vs JuÃ¡rez",
@@ -139,7 +133,9 @@
     {
       "title": "New Mexico vs Nevada",
       "page": "https://roxiestreams.info/ncaa-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa4.m3u8"
+      ]
     },
     {
       "title": "TCU vs Arizona",
@@ -159,15 +155,15 @@
     },
     {
       "title": "San Jose Sharks vs Minnesota Wild",
-      "page": "https://roxiestreams.info/nhl-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Anaheim Ducks vs Calgary Flames",
       "page": "https://roxiestreams.info/nhl-streams-3",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
       ]
+    },
+    {
+      "title": "Anaheim Ducks vs Calgary Flames",
+      "page": "https://roxiestreams.info/nhl-streams-2",
+      "streams": []
     }
   ],
   "fighting": [
@@ -179,12 +175,16 @@
     {
       "title": "WWE Smackdown",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
+      ]
     },
     {
       "title": "WWE Crown Jewel",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
+      ]
     }
   ],
   "motorsports": []
