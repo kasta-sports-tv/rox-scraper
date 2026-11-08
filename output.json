@@ -23,9 +23,7 @@
     {
       "title": "Genoa vs Milan",
       "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/bein2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Monza vs Atalanta",
@@ -125,6 +123,11 @@
       "streams": []
     },
     {
+      "title": "Olympiakos Piraeus vs PAOK",
+      "page": "https://roxiestreams.info/soccer-streams-24",
+      "streams": []
+    },
+    {
       "title": "Lens vs Marseille",
       "page": "https://roxiestreams.info/soccer-streams-4",
       "streams": []
@@ -137,7 +140,9 @@
     {
       "title": "Vasco Gama vs Palmeiras",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fana.m3u8"
+      ]
     },
     {
       "title": "AtlÃ©tico Madrid vs Barcelona",
@@ -151,7 +156,7 @@
     },
     {
       "title": "LeÃ³n vs Chivas",
-      "page": "https://roxiestreams.info/soccer-streams-22",
+      "page": "https://roxiestreams.info/soccer-streams-23",
       "streams": []
     }
   ],
@@ -216,7 +221,9 @@
     {
       "title": "Detroit Lions vs Miami Dolphins",
       "page": "https://roxiestreams.info/nfl-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl4.m3u8"
+      ]
     },
     {
       "title": "Cleveland Browns vs New Orleans Saints",
@@ -231,7 +238,9 @@
     {
       "title": "Los Angeles Rams vs Washington Commanders",
       "page": "https://roxiestreams.info/nfl-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl7.m3u8"
+      ]
     },
     {
       "title": "Denver Broncos vs Carolina Panthers",
@@ -251,7 +260,9 @@
     {
       "title": "Las Vegas Raiders vs San Francisco 49ers",
       "page": "https://roxiestreams.info/nfl-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl4.m3u8"
+      ]
     },
     {
       "title": "Arizona Cardinals vs Seattle Seahawks",
@@ -286,9 +297,9 @@
     },
     {
       "title": "New Jersey Devils vs Toronto Maple Leafs",
-      "page": "https://roxiestreams.info/nhl-streams-4",
+      "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl4.m3u8"
+        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
       ]
     },
     {

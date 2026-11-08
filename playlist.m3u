@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Genoa vs Milan
-https://daffodil.sandhost.qzz.io/bein2.m3u8
 #EXTINF:-1 group-title="football",Monza vs Atalanta
 https://daffodil.sandhost.qzz.io/ncaa6.m3u8
 #EXTINF:-1 group-title="football",Brighton vs Brentford
@@ -13,15 +11,23 @@ https://daffodil.sandhost.qzz.io/usa.m3u8
 https://daffodil.sandhost.qzz.io/tnt3.m3u8
 #EXTINF:-1 group-title="football",Manchester United vs Aston Villa
 https://daffodil.sandhost.qzz.io/usa.m3u8
+#EXTINF:-1 group-title="football",Vasco Gama vs Palmeiras
+https://daffodil.sandhost.qzz.io/fana.m3u8
 #EXTINF:-1 group-title="nba",Philadelphia 76ers vs Chicago Bulls
 https://daffodil.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nba",Utah Jazz vs Minnesota Timberwolves
 https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nfl",Detroit Lions vs Miami Dolphins
+https://daffodil.sandhost.qzz.io/nfl4.m3u8
+#EXTINF:-1 group-title="nfl",Los Angeles Rams vs Washington Commanders
+https://daffodil.sandhost.qzz.io/nfl7.m3u8
+#EXTINF:-1 group-title="nfl",Las Vegas Raiders vs San Francisco 49ers
+https://daffodil.sandhost.qzz.io/nfl4.m3u8
 #EXTINF:-1 group-title="nhl",Florida Panthers vs Boston Bruins
 https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Tampa Bay Lightning vs Winnipeg Jets
 https://daffodil.sandhost.qzz.io/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",New Jersey Devils vs Toronto Maple Leafs
-https://daffodil.sandhost.qzz.io/nhl4.m3u8
+https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs Anaheim Ducks
 https://daffodil.sandhost.qzz.io/nhl6.m3u8
