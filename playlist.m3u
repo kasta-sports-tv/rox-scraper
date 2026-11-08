@@ -11,6 +11,8 @@ https://daffodil.sandhost.qzz.io/ncaa13.m3u8
 https://daffodil.sandhost.qzz.io/ncaa14.m3u8
 #EXTINF:-1 group-title="nba",Denver Nuggets vs Indiana Pacers
 https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 group-title="nba",New York Knicks vs Cleveland Cavaliers
+https://daffodil.sandhost.qzz.io/nba.m3u8
 #EXTINF:-1 group-title="nfl",NCAA GameDay
 https://daffodil.sandhost.qzz.io/ncaa2.m3u8
 #EXTINF:-1 group-title="nfl",BYU vs Utah
@@ -57,6 +59,8 @@ https://daffodil.sandhost.qzz.io/nhl.m3u8
 https://daffodil.sandhost.qzz.io/nhl6.m3u8
 #EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Carolina Hurricanes
 https://daffodil.sandhost.qzz.io/nhl7.m3u8
+#EXTINF:-1 group-title="nhl",San Jose Sharks vs Dallas Stars
+https://daffodil.sandhost.qzz.io/nhl8.m3u8
 #EXTINF:-1 group-title="nhl",Tampa Bay Lightning vs Minnesota Wild
 https://daffodil.sandhost.qzz.io/nhl9.m3u8
 #EXTINF:-1 group-title="nhl",Vancouver Canucks vs Edmonton Oilers
