@@ -1,162 +1,23 @@
 {
   "soccer": [
     {
-      "title": "Napoli vs Lazio",
+      "title": "Plymouth Parkway vs Berkhamsted",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": []
     },
     {
-      "title": "Stafford Rangers vs Grimsby",
-      "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Elche vs Real Betis",
-      "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
-    },
-    {
-      "title": "Rennes vs Lille",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
-    },
-    {
-      "title": "Genoa vs Milan",
-      "page": "https://roxiestreams.info/soccer-streams-5",
-      "streams": []
-    },
-    {
-      "title": "Monza vs Atalanta",
-      "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/ncaa6.m3u8"
-      ]
-    },
-    {
-      "title": "Brighton vs Brentford",
-      "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/plus.m3u8"
-      ]
-    },
-    {
-      "title": "Crystal Palace vs Liverpool",
-      "page": "https://roxiestreams.info/soccer-streams-8",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/nbcsn.m3u8"
-      ]
-    },
-    {
-      "title": "Ipswich Town vs AFC Bournemouth",
-      "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
-    },
-    {
-      "title": "Sunderland vs Chelsea",
-      "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/usa.m3u8"
-      ]
-    },
-    {
-      "title": "Cray Wanderers vs Stockport County",
-      "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/tnt3.m3u8"
-      ]
-    },
-    {
-      "title": "KÃ¶ln vs Bayer Leverkusen",
-      "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
-    },
-    {
-      "title": "Wimborne Town vs Crawley Town",
-      "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
-    },
-    {
-      "title": "Real Sociedad vs Rayo Vallecano",
-      "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
-    },
-    {
-      "title": "Angers SCO vs Nice",
-      "page": "https://roxiestreams.info/soccer-streams-15",
-      "streams": []
-    },
-    {
-      "title": "Brest vs Lyon",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
-    },
-    {
-      "title": "Freiburg vs Union Berlin",
-      "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
-    },
-    {
-      "title": "Manchester United vs Aston Villa",
-      "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/usa.m3u8"
-      ]
-    },
-    {
-      "title": "Inter Milan vs Como",
+      "title": "Anaitasuna FT vs Deportivo AlavÃ©s",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": []
     },
     {
-      "title": "Oldham Athletic vs Sheffield Wednesday",
+      "title": "Northampton Town vs Gillingham",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": []
     },
     {
-      "title": "Villarreal vs Getafe",
+      "title": "Leicester City vs Walsall",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": []
-    },
-    {
-      "title": "Hoffenheim vs Schalke 04",
-      "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
-    },
-    {
-      "title": "Olympiakos Piraeus vs PAOK",
-      "page": "https://roxiestreams.info/soccer-streams-24",
-      "streams": []
-    },
-    {
-      "title": "Lens vs Marseille",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
-    },
-    {
-      "title": "Fiorentina vs Juventus",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": []
-    },
-    {
-      "title": "Vasco Gama vs Palmeiras",
-      "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fana.m3u8"
-      ]
-    },
-    {
-      "title": "AtlÃ©tico Madrid vs Barcelona",
-      "page": "https://roxiestreams.info/soccer-streams-21",
-      "streams": []
-    },
-    {
-      "title": "QuerÃ©taro vs Puebla",
-      "page": "https://roxiestreams.info/soccer-streams-22",
-      "streams": []
-    },
-    {
-      "title": "LeÃ³n vs Chivas",
-      "page": "https://roxiestreams.info/soccer-streams-23",
       "streams": []
     }
   ],
