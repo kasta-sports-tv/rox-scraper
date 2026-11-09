@@ -15,14 +15,14 @@ https://daffodil.sandhost.qzz.io/usa.m3u8
 https://daffodil.sandhost.qzz.io/fana.m3u8
 #EXTINF:-1 group-title="nba",Philadelphia 76ers vs Chicago Bulls
 https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nba",Utah Jazz vs Minnesota Timberwolves
-https://daffodil.sandhost.qzz.io/nba.m3u8
-#EXTINF:-1 group-title="nfl",Detroit Lions vs Miami Dolphins
-https://daffodil.sandhost.qzz.io/nfl4.m3u8
-#EXTINF:-1 group-title="nfl",Los Angeles Rams vs Washington Commanders
-https://daffodil.sandhost.qzz.io/nfl7.m3u8
+#EXTINF:-1 group-title="nfl",Green Bay Packers vs New England Patriots
+https://daffodil.sandhost.qzz.io/packers.m3u8
 #EXTINF:-1 group-title="nfl",Las Vegas Raiders vs San Francisco 49ers
-https://daffodil.sandhost.qzz.io/nfl4.m3u8
+https://daffodil.sandhost.qzz.io/nfl11.m3u8
+#EXTINF:-1 group-title="nfl",Arizona Cardinals vs Seattle Seahawks
+https://daffodil.sandhost.qzz.io/seahawks.m3u8
+#EXTINF:-1 group-title="nfl",Tampa Bay Buccaneers vs Chicago Bears
+https://daffodil.sandhost.qzz.io/nas.m3u8
 #EXTINF:-1 group-title="nhl",Florida Panthers vs Boston Bruins
 https://daffodil.sandhost.qzz.io/nhl.m3u8
 #EXTINF:-1 group-title="nhl",Tampa Bay Lightning vs Winnipeg Jets
