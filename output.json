@@ -27,23 +27,29 @@
       "title": "Los Angeles Lakers vs Atlanta Hawks",
       "page": "https://roxiestreams.info/nba-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
       ]
     },
     {
       "title": "Cleveland Cavaliers vs Charlotte Hornets",
       "page": "https://roxiestreams.info/nba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+      ]
     },
     {
       "title": "Washington Wizards vs Detroit Pistons",
       "page": "https://roxiestreams.info/nba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba3.m3u8"
+      ]
     },
     {
       "title": "Memphis Grizzlies vs Toronto Raptors",
       "page": "https://roxiestreams.info/nba-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba4.m3u8"
+      ]
     },
     {
       "title": "Indiana Pacers vs Dallas Mavericks",
@@ -59,7 +65,7 @@
       "title": "San Antonio Spurs vs Phoenix Suns",
       "page": "https://roxiestreams.info/nba-streams-7",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nba7.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba7.m3u8"
       ]
     },
     {
@@ -72,7 +78,9 @@
     {
       "title": "Buffalo Bills vs Minnesota Vikings",
       "page": "https://roxiestreams.info/nfl-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+      ]
     }
   ],
   "nhl": [
@@ -80,7 +88,7 @@
       "title": "New York Rangers vs Edmonton Oilers",
       "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
       ]
     },
     {
@@ -92,7 +100,7 @@
       "title": "New York Islanders vs San Jose Sharks",
       "page": "https://roxiestreams.info/nhl-streams-3",
       "streams": [
-        "https://daffodil.sandhost.qzz.io/nhl3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
       ]
     }
   ],
@@ -100,16 +108,12 @@
     {
       "title": "WWE RAW",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/usa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/usa.m3u8"
-      ]
+      "streams": []
     }
   ],
   "motorsports": []
