@@ -28,7 +28,9 @@
     {
       "title": "Los Angeles Clippers vs Phoenix Suns",
       "page": "https://roxiestreams.info/nba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba3.m3u8"
+      ]
     },
     {
       "title": "Miami Heat vs Utah Jazz",
@@ -42,11 +44,31 @@
     },
     {
       "title": "Oklahoma City Thunder vs Portland Trail Blazers",
-      "page": "https://roxiestreams.info/nba-streams-6",
+      "page": "https://roxiestreams.info/nba-streams-2",
       "streams": []
     }
   ],
-  "nfl": [],
+  "nfl": [
+    {
+      "title": "Western Michigan vs Akron",
+      "page": "https://roxiestreams.info/ncaa-streams-1",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
+    },
+    {
+      "title": "Kent State vs Bowling Green",
+      "page": "https://roxiestreams.info/ncaa-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+      ]
+    },
+    {
+      "title": "Ohio vs Miami (OH)",
+      "page": "https://roxiestreams.info/ncaa-streams-3",
+      "streams": []
+    }
+  ],
   "nhl": [
     {
       "title": "Colorado Avalanche vs Toronto Maple Leafs",
@@ -58,7 +80,9 @@
     {
       "title": "Minnesota Wild vs Montreal Canadiens",
       "page": "https://roxiestreams.info/nhl-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
+      ]
     },
     {
       "title": "Washington Capitals vs Ottawa Senators",
@@ -77,7 +101,9 @@
     {
       "title": "Florida Panthers vs Columbus Blue Jackets",
       "page": "https://roxiestreams.info/nhl-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl5.m3u8"
+      ]
     },
     {
       "title": "Detroit Red Wings vs St. Louis Blues",

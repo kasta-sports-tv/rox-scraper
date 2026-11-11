@@ -1,12 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="nba",Milwaukee Bucks vs New York Knicks
 https://daffodil.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 group-title="nba",Los Angeles Clippers vs Phoenix Suns
+https://daffodil.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 group-title="nfl",Western Michigan vs Akron
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Kent State vs Bowling Green
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 group-title="nhl",Colorado Avalanche vs Toronto Maple Leafs
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 group-title="nhl",Minnesota Wild vs Montreal Canadiens
+https://daffodil.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 group-title="nhl",Washington Capitals vs Ottawa Senators
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 group-title="nhl",New Jersey Devils vs Winnipeg Jets
 https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 group-title="nhl",Florida Panthers vs Columbus Blue Jackets
+https://daffodil.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 group-title="nhl",Detroit Red Wings vs St. Louis Blues
 https://daffodil.formaturamaxi.com.br/nhl6.m3u8
 #EXTINF:-1 group-title="nhl",Nashville Predators vs Los Angeles Kings
