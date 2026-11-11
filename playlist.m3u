@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="nba",Milwaukee Bucks vs New York Knicks
+#EXTINF:-1 group-title="nba",Washington Wizards vs Indiana Pacers
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",Los Angeles Clippers vs Phoenix Suns
+#EXTINF:-1 group-title="nba",Boston Celtics vs Toronto Raptors
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nfl",Western Michigan vs Akron
+#EXTINF:-1 group-title="nba",Brooklyn Nets vs New Orleans Pelicans
+https://daffodil.formaturamaxi.com.br/nba7.m3u8
+#EXTINF:-1 group-title="nfl",Buffalo vs Ball State
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Kent State vs Bowling Green
+#EXTINF:-1 group-title="nfl",Sacramento State vs Central Michigan
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nhl",Minnesota Wild vs Montreal Canadiens
+#EXTINF:-1 group-title="nhl",New York Rangers vs Calgary Flames
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 group-title="nhl",Washington Capitals vs Ottawa Senators
+#EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Edmonton Oilers
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Florida Panthers vs Columbus Blue Jackets
+#EXTINF:-1 group-title="nhl",Nashville Predators vs Anaheim Ducks
 https://daffodil.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 group-title="nhl",Detroit Red Wings vs St. Louis Blues
+#EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs San Jose Sharks
 https://daffodil.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 group-title="nhl",Nashville Predators vs Los Angeles Kings
-https://daffodil.formaturamaxi.com.br/nhl7.m3u8
