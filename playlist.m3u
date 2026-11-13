@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Senegal vs Sudan
-https://daffodil.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="football",England vs Croatia
 https://daffodil.formaturamaxi.com.br/eng.m3u8
 #EXTINF:-1 group-title="nba",Toronto Raptors vs Philadelphia 76ers
@@ -19,6 +17,8 @@ https://daffodil.formaturamaxi.com.br/nhl.m3u8
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 group-title="nhl",Minnesota Wild vs Toronto Maple Leafs
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 group-title="nhl",Colorado Avalanche vs Ottawa Senators
+https://daffodil.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 group-title="nhl",Washington Capitals vs New Jersey Devils
 https://daffodil.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 group-title="nhl",Tampa Bay Lightning vs Columbus Blue Jackets
@@ -29,3 +29,5 @@ https://daffodil.formaturamaxi.com.br/nhl7.m3u8
 https://daffodil.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 group-title="nhl",Winnipeg Jets vs Dallas Stars
 https://daffodil.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 group-title="nhl",New York Islanders vs Los Angeles Kings
+https://daffodil.formaturamaxi.com.br/nhl3.m3u8
