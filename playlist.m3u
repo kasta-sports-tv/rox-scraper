@@ -17,19 +17,55 @@ https://daffodil.formaturamaxi.com.br/bein.m3u8
 https://daffodil.formaturamaxi.com.br/colo.m3u8
 #EXTINF:-1 group-title="football",Montserrat vs Nicaragua
 https://daffodil.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 group-title="nba",New York Knicks vs Indiana Pacers
+#EXTINF:-1 group-title="nba",Denver Nuggets vs New Orleans Pelicans
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",Cleveland Cavaliers vs Miami Heat
+#EXTINF:-1 group-title="nba",Detroit Pistons vs Miami Heat
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Golden State Warriors vs San Antonio Spurs
-https://daffodil.formaturamaxi.com.br/nba7.m3u8
-#EXTINF:-1 group-title="nfl",Florida State vs Pittsburgh
+#EXTINF:-1 group-title="nfl",Duke vs Miami
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Illinois vs UCLA
+#EXTINF:-1 group-title="nfl",Northwestern vs Ohio State
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Houston vs Colorado
+#EXTINF:-1 group-title="nfl",Wake Forest vs SMU
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Cincinnati vs Iowa State
+https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
+#EXTINF:-1 group-title="nfl",Syracuse vs NC State
+https://daffodil.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 group-title="nfl",Tennessee vs Texas A&M
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Missouri vs Georgia
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nhl",New York Rangers vs Vancouver Canucks
+#EXTINF:-1 group-title="nfl",USC vs Indiana
+https://daffodil.formaturamaxi.com.br/ncaa13.m3u8
+#EXTINF:-1 group-title="nfl",Baylor vs BYU
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",California vs Virginia
+https://daffodil.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 group-title="nfl",Florida vs Kentucky
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",Utah vs Arizona
+https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 group-title="nfl",Texas vs LSU
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nfl",Stanford vs Virginia Tech
+https://daffodil.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 group-title="nfl",Texas Tech vs Oklahoma State
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nhl",Seattle Kraken vs Carolina Hurricanes
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Nashville Predators vs Vegas Golden Knights
+#EXTINF:-1 group-title="nhl",Winnipeg Jets vs Chicago Blackhawks
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 group-title="nhl",Minnesota Wild vs Boston Bruins
+https://daffodil.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 group-title="nhl",Edmonton Oilers vs Toronto Maple Leafs
+https://daffodil.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 group-title="nhl",Colorado Avalanche vs Montreal Canadiens
+https://daffodil.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 group-title="nhl",Detroit Red Wings vs Tampa Bay Lightning
+https://daffodil.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 group-title="nhl",Ottawa Senators vs Pittsburgh Penguins
+https://daffodil.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 group-title="nhl",New Jersey Devils vs Washington Capitals
+https://daffodil.formaturamaxi.com.br/nhl8.m3u8
+#EXTINF:-1 group-title="nhl",Philadelphia Flyers vs Columbus Blue Jackets
+https://daffodil.formaturamaxi.com.br/nhl9.m3u8
