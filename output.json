@@ -31,7 +31,9 @@
     {
       "title": "Egypt vs Malawi",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+      ]
     },
     {
       "title": "Liechtenstein vs Azerbaijan",
@@ -42,15 +44,13 @@
       "title": "Scotland vs North Macedonia",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
       ]
     },
     {
       "title": "Slovenia vs Switzerland",
       "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/eng.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Netherlands vs Greece",
@@ -70,9 +70,7 @@
     {
       "title": "Luxembourg vs Estonia",
       "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Morocco vs Niger",
@@ -85,7 +83,7 @@
       "title": "Colo-Colo vs Racing Club",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+        "https://daffodil.formaturamaxi.com.br/colo.m3u8"
       ]
     },
     {
@@ -106,14 +104,14 @@
     {
       "title": "Ecuador vs Costa Rica",
       "page": "https://roxiestreams.info/soccer-streams-16",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/usa.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Montserrat vs Nicaragua",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+      ]
     },
     {
       "title": "Peru vs Bolivia",
