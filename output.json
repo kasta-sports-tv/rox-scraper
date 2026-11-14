@@ -3,9 +3,7 @@
     {
       "title": "Japan vs Brazil",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/sportv.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Kosovo vs Israel",
@@ -35,6 +33,7 @@
       "title": "Uganda vs Botswana",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
         "https://daffodil.formaturamaxi.com.br/bein.m3u8"
       ]
     },
@@ -53,31 +52,29 @@
     {
       "title": "Angola vs South Sudan",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": []
-    },
-    {
-      "title": "Algeria vs Togo",
-      "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/bein.m3u8"
       ]
     },
     {
-      "title": "Basque Country vs Venezuela",
-      "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
+      "title": "Algeria vs Togo",
+      "page": "https://roxiestreams.info/soccer-streams-6",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/beines.m3u8",
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+      ]
     },
     {
       "title": "Austria vs Ireland Republic",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/colo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Romania vs Poland",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+      ]
     },
     {
       "title": "Sweden vs Bosnia & Herzegovina",
@@ -181,14 +178,14 @@
       ]
     },
     {
-      "title": "Northwestern vs Ohio State",
+      "title": "Wake Forest vs SMU",
       "page": "https://roxiestreams.info/ncaa-streams-2",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
       ]
     },
     {
-      "title": "Wake Forest vs SMU",
+      "title": "Northwestern vs Ohio State",
       "page": "https://roxiestreams.info/ncaa-streams-3",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
@@ -202,52 +199,49 @@
       ]
     },
     {
-      "title": "Auburn vs Mississippi State",
+      "title": "Syracuse vs NC State",
       "page": "https://roxiestreams.info/ncaa-streams-5",
       "streams": []
     },
     {
-      "title": "Syracuse vs NC State",
+      "title": "Wisconsin vs Maryland",
       "page": "https://roxiestreams.info/ncaa-streams-6",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/ncaa6.m3u8"
       ]
     },
     {
-      "title": "Wisconsin vs Maryland",
+      "title": "James Madison vs UConn",
       "page": "https://roxiestreams.info/ncaa-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa7.m3u8"
+      ]
     },
     {
-      "title": "James Madison vs UConn",
+      "title": "Georgia Tech vs Clemson",
       "page": "https://roxiestreams.info/ncaa-streams-8",
       "streams": []
     },
     {
-      "title": "Georgia Tech vs Clemson",
+      "title": "Nebraska vs Rutgers",
       "page": "https://roxiestreams.info/ncaa-streams-9",
       "streams": []
     },
     {
-      "title": "Nebraska vs Rutgers",
+      "title": "Alabama vs Vanderbilt",
       "page": "https://roxiestreams.info/ncaa-streams-10",
       "streams": []
     },
     {
-      "title": "Alabama vs Vanderbilt",
+      "title": "Kansas State vs TCU",
       "page": "https://roxiestreams.info/ncaa-streams-11",
       "streams": []
     },
     {
-      "title": "Kansas State vs TCU",
-      "page": "https://roxiestreams.info/ncaa-streams-12",
-      "streams": []
-    },
-    {
       "title": "Tennessee vs Texas A&M",
-      "page": "https://roxiestreams.info/ncaa-streams-3",
+      "page": "https://roxiestreams.info/ncaa-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
       ]
     },
     {
@@ -258,6 +252,11 @@
       ]
     },
     {
+      "title": "Boston College vs Notre Dame",
+      "page": "https://roxiestreams.info/ncaa-streams-12",
+      "streams": []
+    },
+    {
       "title": "USC vs Indiana",
       "page": "https://roxiestreams.info/ncaa-streams-13",
       "streams": [
@@ -265,57 +264,47 @@
       ]
     },
     {
-      "title": "Baylor vs BYU",
-      "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
-      ]
-    },
-    {
-      "title": "Boston College vs Notre Dame",
-      "page": "https://roxiestreams.info/ncaa-streams-14",
-      "streams": []
-    },
-    {
       "title": "Michigan vs Oregon",
-      "page": "https://roxiestreams.info/ncaa-streams-7",
-      "streams": []
-    },
-    {
-      "title": "Arizona State vs UCF",
-      "page": "https://roxiestreams.info/ncaa-streams-5",
-      "streams": []
-    },
-    {
-      "title": "California vs Virginia",
       "page": "https://roxiestreams.info/ncaa-streams-6",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/ncaa6.m3u8"
       ]
     },
     {
+      "title": "Kansas vs West Virginia",
+      "page": "https://roxiestreams.info/ncaa-streams-14",
+      "streams": []
+    },
+    {
+      "title": "California vs Virginia",
+      "page": "https://roxiestreams.info/ncaa-streams-5",
+      "streams": []
+    },
+    {
       "title": "Middle Tennessee vs Liberty",
+      "page": "https://roxiestreams.info/ncaa-streams-7",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa7.m3u8"
+      ]
+    },
+    {
+      "title": "Fresno State vs Texas State",
       "page": "https://roxiestreams.info/ncaa-streams-8",
       "streams": []
     },
     {
-      "title": "Fresno State vs Texas State",
-      "page": "https://roxiestreams.info/ncaa-streams-9",
+      "title": "Auburn vs Mississippi State",
+      "page": "https://roxiestreams.info/ncaa-streams-10",
       "streams": []
     },
     {
-      "title": "Ole Miss vs Oklahoma",
+      "title": "Arizona State vs UCF",
       "page": "https://roxiestreams.info/ncaa-streams-11",
       "streams": []
     },
     {
       "title": "Washington vs Michigan State",
-      "page": "https://roxiestreams.info/ncaa-streams-10",
-      "streams": []
-    },
-    {
-      "title": "Kansas vs West Virginia",
-      "page": "https://roxiestreams.info/ncaa-streams-12",
+      "page": "https://roxiestreams.info/ncaa-streams-9",
       "streams": []
     },
     {
@@ -325,6 +314,13 @@
     },
     {
       "title": "Florida vs Kentucky",
+      "page": "https://roxiestreams.info/ncaa-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+      ]
+    },
+    {
+      "title": "Baylor vs BYU",
       "page": "https://roxiestreams.info/ncaa-streams-3",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
@@ -332,24 +328,21 @@
     },
     {
       "title": "Louisville vs North Carolina",
-      "page": "https://roxiestreams.info/ncaa-streams-5",
+      "page": "https://roxiestreams.info/ncaa-streams-14",
       "streams": []
     },
     {
       "title": "Minnesota vs Penn State",
-      "page": "https://roxiestreams.info/ncaa-streams-7",
-      "streams": []
+      "page": "https://roxiestreams.info/ncaa-streams-6",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa6.m3u8"
+      ]
     },
     {
       "title": "San JosÃ© State vs Air Force",
-      "page": "https://roxiestreams.info/ncaa-streams-8",
-      "streams": []
-    },
-    {
-      "title": "Utah vs Arizona",
-      "page": "https://roxiestreams.info/ncaa-streams-2",
+      "page": "https://roxiestreams.info/ncaa-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+        "https://daffodil.formaturamaxi.com.br/ncaa7.m3u8"
       ]
     },
     {
@@ -361,36 +354,34 @@
     },
     {
       "title": "Purdue vs Iowa",
-      "page": "https://roxiestreams.info/ncaa-streams-14",
-      "streams": []
-    },
-    {
-      "title": "Stanford vs Virginia Tech",
-      "page": "https://roxiestreams.info/ncaa-streams-6",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa6.m3u8"
-      ]
-    },
-    {
-      "title": "UNLV vs New Mexico",
-      "page": "https://roxiestreams.info/ncaa-streams-9",
-      "streams": []
-    },
-    {
-      "title": "South Carolina vs Arkansas",
-      "page": "https://roxiestreams.info/ncaa-streams-11",
-      "streams": []
-    },
-    {
-      "title": "North Texas vs UTSA",
       "page": "https://roxiestreams.info/ncaa-streams-12",
       "streams": []
     },
     {
+      "title": "Stanford vs Virginia Tech",
+      "page": "https://roxiestreams.info/ncaa-streams-5",
+      "streams": []
+    },
+    {
+      "title": "UNLV vs New Mexico",
+      "page": "https://roxiestreams.info/ncaa-streams-8",
+      "streams": []
+    },
+    {
+      "title": "South Carolina vs Arkansas",
+      "page": "https://roxiestreams.info/ncaa-streams-10",
+      "streams": []
+    },
+    {
+      "title": "North Texas vs UTSA",
+      "page": "https://roxiestreams.info/ncaa-streams-11",
+      "streams": []
+    },
+    {
       "title": "Texas Tech vs Oklahoma State",
-      "page": "https://roxiestreams.info/ncaa-streams-3",
+      "page": "https://roxiestreams.info/ncaa-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
       ]
     },
     {
@@ -400,17 +391,28 @@
     },
     {
       "title": "Wyoming vs UTEP",
-      "page": "https://roxiestreams.info/ncaa-streams-7",
-      "streams": []
+      "page": "https://roxiestreams.info/ncaa-streams-6",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa6.m3u8"
+      ]
+    },
+    {
+      "title": "Utah vs Arizona",
+      "page": "https://roxiestreams.info/ncaa-streams-3",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa3.m3u8"
+      ]
     },
     {
       "title": "Colorado State vs Washington State",
-      "page": "https://roxiestreams.info/ncaa-streams-8",
-      "streams": []
+      "page": "https://roxiestreams.info/ncaa-streams-7",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa7.m3u8"
+      ]
     },
     {
       "title": "North Dakota State vs Hawai'i",
-      "page": "https://roxiestreams.info/ncaa-streams-9",
+      "page": "https://roxiestreams.info/ncaa-streams-8",
       "streams": []
     }
   ],
@@ -438,16 +440,16 @@
     },
     {
       "title": "Edmonton Oilers vs Toronto Maple Leafs",
-      "page": "https://roxiestreams.info/nhl-streams-4",
+      "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl4.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
       ]
     },
     {
       "title": "Colorado Avalanche vs Montreal Canadiens",
-      "page": "https://roxiestreams.info/nhl-streams-5",
+      "page": "https://roxiestreams.info/nhl-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl5.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl2.m3u8"
       ]
     },
     {
@@ -500,8 +502,10 @@
     },
     {
       "title": "Calgary Flames vs Los Angeles Kings",
-      "page": "https://roxiestreams.info/nhl-streams-14",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-7",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl7.m3u8"
+      ]
     }
   ],
   "fighting": [
