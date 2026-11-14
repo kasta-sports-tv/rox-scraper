@@ -1,126 +1,135 @@
 {
   "soccer": [
     {
-      "title": "Zambia vs Burundi",
+      "title": "Japan vs Brazil",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.formaturamaxi.com.br/sportv.m3u8"
       ]
     },
     {
-      "title": "Nigeria vs Tanzania",
+      "title": "Kosovo vs Israel",
       "page": "https://roxiestreams.info/soccer-streams-2",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
       ]
     },
     {
-      "title": "South Africa vs Kenya",
-      "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
-      ]
-    },
-    {
-      "title": "Moldova vs Kazakhstan",
+      "title": "Colchester United vs Gillingham",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
-      ]
-    },
-    {
-      "title": "Egypt vs Malawi",
-      "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
-      ]
-    },
-    {
-      "title": "Liechtenstein vs Azerbaijan",
-      "page": "https://roxiestreams.info/soccer-streams-5",
       "streams": []
     },
     {
-      "title": "Scotland vs North Macedonia",
+      "title": "Shrewsbury Town vs Oldham Athletic",
+      "page": "https://roxiestreams.info/soccer-streams-4",
+      "streams": []
+    },
+    {
+      "title": "Stockport vs Reading",
+      "page": "https://roxiestreams.info/soccer-streams-5",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/plus.m3u8"
+      ]
+    },
+    {
+      "title": "Uganda vs Botswana",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
+        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+      ]
+    },
+    {
+      "title": "Georgia vs Hungary",
+      "page": "https://roxiestreams.info/soccer-streams-2",
+      "streams": [
         "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
       ]
     },
     {
-      "title": "Slovenia vs Switzerland",
-      "page": "https://roxiestreams.info/soccer-streams-7",
-      "streams": []
-    },
-    {
-      "title": "Netherlands vs Greece",
+      "title": "Norway vs Wales",
       "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": []
     },
     {
-      "title": "Serbia vs Germany",
-      "page": "https://roxiestreams.info/soccer-streams-9",
-      "streams": []
-    },
-    {
-      "title": "Bulgaria vs Iceland",
+      "title": "Angola vs South Sudan",
       "page": "https://roxiestreams.info/soccer-streams-10",
       "streams": []
     },
     {
-      "title": "Luxembourg vs Estonia",
-      "page": "https://roxiestreams.info/soccer-streams-11",
-      "streams": []
-    },
-    {
-      "title": "Morocco vs Niger",
-      "page": "https://roxiestreams.info/soccer-streams-1",
+      "title": "Algeria vs Togo",
+      "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/bein.m3u8"
       ]
     },
     {
-      "title": "Colo-Colo vs Racing Club",
+      "title": "Basque Country vs Venezuela",
+      "page": "https://roxiestreams.info/soccer-streams-11",
+      "streams": []
+    },
+    {
+      "title": "Austria vs Ireland Republic",
       "page": "https://roxiestreams.info/soccer-streams-12",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/colo.m3u8"
       ]
     },
     {
-      "title": "Argentina vs Uruguay",
+      "title": "Romania vs Poland",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": []
     },
     {
-      "title": "Saint Martin vs El Salvador",
-      "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": []
+      "title": "Sweden vs Bosnia & Herzegovina",
+      "page": "https://roxiestreams.info/soccer-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+      ]
     },
     {
-      "title": "Colombia vs Chile",
+      "title": "Portugal vs Denmark",
       "page": "https://roxiestreams.info/soccer-streams-15",
       "streams": []
     },
     {
-      "title": "Ecuador vs Costa Rica",
+      "title": "Mirassol vs AtlÃ©tico Mineiro",
       "page": "https://roxiestreams.info/soccer-streams-16",
       "streams": []
     },
     {
-      "title": "Montserrat vs Nicaragua",
+      "title": "Haiti vs USA",
       "page": "https://roxiestreams.info/soccer-streams-17",
       "streams": [
         "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
       ]
     },
     {
-      "title": "Peru vs Bolivia",
+      "title": "Banfield vs Boca Juniors",
       "page": "https://roxiestreams.info/soccer-streams-18",
       "streams": []
     },
     {
-      "title": "Guatemala vs Canada",
+      "title": "QuerÃ©taro vs Monterrey",
       "page": "https://roxiestreams.info/soccer-streams-19",
+      "streams": []
+    },
+    {
+      "title": "Chapecoense vs Vasco Gama",
+      "page": "https://roxiestreams.info/soccer-streams-20",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fana.m3u8"
+      ]
+    },
+    {
+      "title": "Saint Vincent vs Belize",
+      "page": "https://roxiestreams.info/soccer-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fsp.m3u8"
+      ]
+    },
+    {
+      "title": "Jamaica vs Mexico",
+      "page": "https://roxiestreams.info/soccer-streams-21",
       "streams": []
     }
   ],
@@ -157,6 +166,13 @@
     }
   ],
   "nfl": [
+    {
+      "title": "NCAA GameDay",
+      "page": "https://roxiestreams.info/ncaa-streams-2",
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
+      ]
+    },
     {
       "title": "Duke vs Miami",
       "page": "https://roxiestreams.info/ncaa-streams-1",
@@ -490,11 +506,6 @@
   ],
   "fighting": [
     {
-      "title": "WWE Smackdown",
-      "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
-    },
-    {
       "title": "Zuffa Boxing 13: Adames vs. Warburton",
       "page": "https://roxiestreams.info/ppv-streams-1",
       "streams": []
@@ -505,7 +516,7 @@
       "streams": []
     },
     {
-      "title": "RAF: Chimaev vs. Covington",
+      "title": "RAF: Chimaev vs. Weidman",
       "page": "https://roxiestreams.info/ppv-streams-3",
       "streams": []
     },
