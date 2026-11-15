@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="nfl",New England Patriots vs Detroit Lions
-https://daffodil.sandhost.qzz.io/nfl7.m3u8
+https://daffodil.formaturamaxi.com.br/nfl7.m3u8
 #EXTINF:-1 group-title="nfl",Miami Dolphins vs Indianapolis Colts
-https://daffodil.sandhost.qzz.io/nfl6.m3u8
+https://daffodil.formaturamaxi.com.br/nfl6.m3u8
 #EXTINF:-1 group-title="nfl",Carolina Panthers vs New Orleans Saints
-https://daffodil.sandhost.qzz.io/nfl7.m3u8
+https://daffodil.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 group-title="nfl",Los Angeles Rams vs Arizona Cardinals
+https://daffodil.formaturamaxi.com.br/nfl10.m3u8
+#EXTINF:-1 group-title="nfl",San Francisco 49ers vs Dallas Cowboys
+https://daffodil.formaturamaxi.com.br/nfl7.m3u8
