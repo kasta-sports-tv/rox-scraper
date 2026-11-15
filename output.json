@@ -99,7 +99,7 @@
       "title": "New England Patriots vs Detroit Lions",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl7.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl7.m3u8"
       ]
     },
     {
@@ -125,13 +125,15 @@
     {
       "title": "Miami Dolphins vs Indianapolis Colts",
       "page": "https://roxiestreams.info/nfl-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nfl6.m3u8"
+      ]
     },
     {
       "title": "Carolina Panthers vs New Orleans Saints",
       "page": "https://roxiestreams.info/nfl-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl7.m3u8"
+        "https://daffodil.sandhost.qzz.io/nfl7.m3u8"
       ]
     },
     {
