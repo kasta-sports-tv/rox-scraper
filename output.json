@@ -86,7 +86,9 @@
     {
       "title": "Atlanta Hawks vs Milwaukee Bucks",
       "page": "https://roxiestreams.info/nba-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba8.m3u8"
+      ]
     },
     {
       "title": "Oklahoma City Thunder vs Sacramento Kings",
@@ -99,7 +101,7 @@
       "title": "New England Patriots vs Detroit Lions",
       "page": "https://roxiestreams.info/nfl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl7.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     },
     {
@@ -115,7 +117,9 @@
     {
       "title": "Minnesota Vikings vs Green Bay Packers",
       "page": "https://roxiestreams.info/nfl-streams-4",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+      ]
     },
     {
       "title": "Jacksonville Jaguars vs Tennessee Titans",
@@ -132,9 +136,7 @@
     {
       "title": "Carolina Panthers vs New Orleans Saints",
       "page": "https://roxiestreams.info/nfl-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl7.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Buffalo Bills vs New York Jets",
@@ -149,21 +151,21 @@
     {
       "title": "Los Angeles Rams vs Arizona Cardinals",
       "page": "https://roxiestreams.info/nfl-streams-10",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl10.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "San Francisco 49ers vs Dallas Cowboys",
       "page": "https://roxiestreams.info/nfl-streams-11",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl7.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
       ]
     },
     {
       "title": "Pittsburgh Steelers vs Cincinnati Bengals",
       "page": "https://roxiestreams.info/nfl-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl.m3u8"
+      ]
     },
     {
       "title": "Ole Miss vs Oklahoma",
@@ -184,7 +186,7 @@
     },
     {
       "title": "Calgary Flames vs Anaheim Ducks",
-      "page": "https://roxiestreams.info/nhl-streams-3",
+      "page": "https://roxiestreams.info/nba-streams-1",
       "streams": []
     },
     {
@@ -195,7 +197,9 @@
     {
       "title": "Nashville Predators vs San Jose Sharks",
       "page": "https://roxiestreams.info/nhl-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl5.m3u8"
+      ]
     }
   ],
   "fighting": [
