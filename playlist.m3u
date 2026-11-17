@@ -1,9 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="nba",Chicago Bulls vs Cleveland Cavaliers
+#EXTINF:-1 group-title="football",Malawi vs Egypt
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Tanzania vs Nigeria
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Kenya vs South Africa
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Gambia vs Ivory Coast
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Rwanda vs Mali
+https://daffodil.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="football",Hungary vs Northern Ireland
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",Niger vs Morocco
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="football",French Guiana vs Saint Vincent And The Grenadines
+https://daffodil.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 group-title="nba",Portland Trail Blazers vs Minnesota Timberwolves
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Memphis Grizzlies vs Washington Wizards
+#EXTINF:-1 group-title="nba",Detroit Pistons vs San Antonio Spurs
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Phoenix Suns vs Denver Nuggets
-https://daffodil.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 group-title="nfl",Los Angeles Chargers vs Baltimore Ravens
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 group-title="nhl",Ottawa Senators vs Winnipeg Jets
+https://daffodil.formaturamaxi.com.br/nhl5.m3u8
