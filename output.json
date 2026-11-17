@@ -63,9 +63,7 @@
     {
       "title": "Hungary vs Northern Ireland",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Ireland Republic vs Kosovo",
@@ -75,7 +73,9 @@
     {
       "title": "Israel vs Austria",
       "page": "https://roxiestreams.info/soccer-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fubo.m3u8"
+      ]
     },
     {
       "title": "Denmark vs Norway",
@@ -117,9 +117,7 @@
     {
       "title": "French Guiana vs Saint Vincent And The Grenadines",
       "page": "https://roxiestreams.info/soccer-streams-10",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "El Salvador vs Saint Martin",
