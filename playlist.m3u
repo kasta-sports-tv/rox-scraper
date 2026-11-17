@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Sudan vs Senegal
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Namibia vs Cameroon
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Somalia vs Ghana
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Eritrea vs Guinea
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Iceland vs Luxembourg
-https://daffodil.formaturamaxi.com.br/fubo.m3u8
+#EXTINF:-1 group-title="nba",Chicago Bulls vs Cleveland Cavaliers
+https://daffodil.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 group-title="nba",Memphis Grizzlies vs Washington Wizards
+https://daffodil.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 group-title="nba",Phoenix Suns vs Denver Nuggets
 https://daffodil.formaturamaxi.com.br/nba8.m3u8
 #EXTINF:-1 group-title="nfl",Los Angeles Chargers vs Baltimore Ravens
