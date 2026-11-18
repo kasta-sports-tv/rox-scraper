@@ -1,23 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Tanzania vs Nigeria
+#EXTINF:-1 group-title="football",Cruzeiro vs Palmeiras
 https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Gambia vs Ivory Coast
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="football",Niger vs Morocco
-https://daffodil.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="nba",Portland Trail Blazers vs Minnesota Timberwolves
+#EXTINF:-1 group-title="nba",Houston Rockets vs Indiana Pacers
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Detroit Pistons vs San Antonio Spurs
+#EXTINF:-1 group-title="nba",Milwaukee Bucks vs Miami Heat
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Charlotte Hornets vs Los Angeles Lakers
+#EXTINF:-1 group-title="nba",Chicago Bulls vs Brooklyn Nets
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nfl",Ball State vs Ohio
+#EXTINF:-1 group-title="nba",Atlanta Hawks vs Oklahoma City Thunder
+https://daffodil.formaturamaxi.com.br/nba8.m3u8
+#EXTINF:-1 group-title="nfl",Central Michigan vs Buffalo
 https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Miami (OH) vs Kent State
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nhl",Los Angeles Kings vs Boston Bruins
+#EXTINF:-1 group-title="nhl",Boston Bruins vs Detroit Red Wings
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Columbus Blue Jackets vs New York Islanders
+#EXTINF:-1 group-title="nhl",Colorado Avalanche vs Utah Mammoth
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Ottawa Senators vs Winnipeg Jets
-https://daffodil.formaturamaxi.com.br/nhl5.m3u8
