@@ -18,9 +18,7 @@
     {
       "title": "Cruzeiro vs Palmeiras",
       "page": "https://roxiestreams.info/soccer-streams-4",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "GrÃªmio vs Bahia",
@@ -38,7 +36,9 @@
     {
       "title": "Memphis Grizzlies vs Cleveland Cavaliers",
       "page": "https://roxiestreams.info/nba-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
+      ]
     },
     {
       "title": "Houston Rockets vs Indiana Pacers",
@@ -62,9 +62,7 @@
     {
       "title": "Chicago Bulls vs Brooklyn Nets",
       "page": "https://roxiestreams.info/nba-streams-5",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Washington Wizards vs Toronto Raptors",
@@ -91,7 +89,9 @@
     {
       "title": "Boston Celtics vs Denver Nuggets",
       "page": "https://roxiestreams.info/nba-streams-10",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba3.m3u8"
+      ]
     },
     {
       "title": "Utah Jazz vs Los Angeles Lakers",
@@ -108,7 +108,9 @@
     {
       "title": "Akron vs Massachusetts",
       "page": "https://roxiestreams.info/ncaa-streams-1",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/ncaa.m3u8"
+      ]
     },
     {
       "title": "Central Michigan vs Buffalo",
@@ -133,9 +135,9 @@
     },
     {
       "title": "Colorado Avalanche vs Utah Mammoth",
-      "page": "https://roxiestreams.info/nhl-streams-3",
+      "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl.m3u8"
       ]
     }
   ],
