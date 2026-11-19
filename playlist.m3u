@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="nba",Houston Rockets vs Indiana Pacers
+#EXTINF:-1 group-title="nba",Portland Trail Blazers vs Milwaukee Bucks
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Milwaukee Bucks vs Miami Heat
+#EXTINF:-1 group-title="nba",New York Knicks vs Minnesota Timberwolves
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Atlanta Hawks vs Oklahoma City Thunder
-https://daffodil.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 group-title="nba",Boston Celtics vs Denver Nuggets
-https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nfl",Akron vs Massachusetts
+#EXTINF:-1 group-title="nfl",Indianapolis Colts vs Houston Texans
+https://daffodil.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 group-title="nfl",Rice vs Temple
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 group-title="nhl",Boston Bruins vs Detroit Red Wings
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
