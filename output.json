@@ -36,9 +36,7 @@
     {
       "title": "Memphis Grizzlies vs Cleveland Cavaliers",
       "page": "https://roxiestreams.info/nba-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Houston Rockets vs Indiana Pacers",
@@ -51,7 +49,8 @@
       "title": "Milwaukee Bucks vs Miami Heat",
       "page": "https://roxiestreams.info/nba-streams-3",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba3.m3u8",
+        "https://daffodil.formaturamaxi.com.br/bucks.m3u8"
       ]
     },
     {
@@ -90,7 +89,8 @@
       "title": "Boston Celtics vs Denver Nuggets",
       "page": "https://roxiestreams.info/nba-streams-10",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba3.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nba3.m3u8",
+        "https://daffodil.formaturamaxi.com.br/bucks.m3u8"
       ]
     },
     {
@@ -115,9 +115,7 @@
     {
       "title": "Central Michigan vs Buffalo",
       "page": "https://roxiestreams.info/ncaa-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/ncaa2.m3u8"
-      ]
+      "streams": []
     }
   ],
   "nhl": [
