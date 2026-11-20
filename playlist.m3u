@@ -1,19 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="nba",Portland Trail Blazers vs Milwaukee Bucks
+#EXTINF:-1 group-title="football",UEFA Nations League Draw
+https://daffodil.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 group-title="football",Al-Ahli vs Al Nassr
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="football",Athletic Club vs Espanyol
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",JuÃ¡rez vs Atlas
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 group-title="nba",Orlando Magic vs Brooklyn Nets
 https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",New York Knicks vs Minnesota Timberwolves
+#EXTINF:-1 group-title="nba",Indiana Pacers vs Cleveland Cavaliers
 https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nfl",Indianapolis Colts vs Houston Texans
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",Rice vs Temple
+#EXTINF:-1 group-title="nba",Houston Rockets vs Denver Nuggets
+https://daffodil.formaturamaxi.com.br/nba8.m3u8
+#EXTINF:-1 group-title="nfl",Iowa State vs UCF
 https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nhl",Los Angeles Kings vs Toronto Maple Leafs
+#EXTINF:-1 group-title="nfl",Bowling Green vs Toledo
+https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 group-title="nfl",New Mexico vs Wyoming
+https://daffodil.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 group-title="nhl",Edmonton Oilers vs Carolina Hurricanes
 https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",St. Louis Blues vs Pittsburgh Penguins
+#EXTINF:-1 group-title="nhl",Buffalo Sabres vs Florida Panthers
 https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Montreal Canadiens vs Carolina Hurricanes
+#EXTINF:-1 group-title="nhl",Washington Capitals vs Boston Bruins
 https://daffodil.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 group-title="nhl",New York Islanders vs Winnipeg Jets
+#EXTINF:-1 group-title="nhl",Columbus Blue Jackets vs Toronto Maple Leafs
 https://daffodil.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 group-title="nhl",Dallas Stars vs Vegas Golden Knights
-https://daffodil.formaturamaxi.com.br/nhl.m3u8
