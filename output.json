@@ -24,7 +24,7 @@
       "title": "Galatasaray vs Samsunspor",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -36,14 +36,14 @@
       "title": "Lazio vs Lecce",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beinhk.m3u8"
+        "https://daffodil.sandhost.qzz.io/beinhk.m3u8"
       ]
     },
     {
       "title": "Dortmund vs M'gladbach",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/one.m3u8"
+        "https://daffodil.sandhost.qzz.io/one.m3u8"
       ]
     },
     {
@@ -85,21 +85,21 @@
       "title": "Nice vs PSG",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
       "title": "Parma vs Roma",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beinhk.m3u8"
+        "https://daffodil.sandhost.qzz.io/beinhk.m3u8"
       ]
     },
     {
       "title": "Schalke 04 vs Stuttgart",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/one.m3u8"
+        "https://daffodil.sandhost.qzz.io/one.m3u8"
       ]
     },
     {
@@ -131,19 +131,21 @@
       "title": "Lille vs Lyon",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
       "title": "Monaco vs Auxerre",
       "page": "https://roxiestreams.info/soccer-streams-19",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
+      ]
     },
     {
       "title": "Napoli vs Torino",
       "page": "https://roxiestreams.info/soccer-streams-6",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/beinhk.m3u8"
+        "https://daffodil.sandhost.qzz.io/beinhk.m3u8"
       ]
     },
     {
@@ -165,7 +167,7 @@
       "title": "AtlÃ©tico Mineiro vs Boca Juniors",
       "page": "https://roxiestreams.info/soccer-streams-13",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/bein.m3u8"
+        "https://daffodil.sandhost.qzz.io/bein.m3u8"
       ]
     },
     {
@@ -296,6 +298,11 @@
     {
       "title": "Houston vs West Virginia",
       "page": "https://roxiestreams.info/ncaa-streams-12",
+      "streams": []
+    },
+    {
+      "title": "Chattanooga vs Alabama",
+      "page": "https://roxiestreams.info/ncaa-streams-17",
       "streams": []
     },
     {
@@ -453,7 +460,9 @@
     {
       "title": "Chicago Blackhawks vs Calgary Flames",
       "page": "https://roxiestreams.info/nhl-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
+      ]
     },
     {
       "title": "Buffalo Sabres vs Florida Panthers",
@@ -477,13 +486,15 @@
     },
     {
       "title": "Philadelphia Flyers vs Montreal Canadiens",
-      "page": "https://roxiestreams.info/nhl-streams-7",
+      "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": []
     },
     {
       "title": "Los Angeles Kings vs Ottawa Senators",
-      "page": "https://roxiestreams.info/nhl-streams-8",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-2",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
+      ]
     },
     {
       "title": "New York Islanders vs Detroit Red Wings",
@@ -507,8 +518,10 @@
     },
     {
       "title": "Minnesota Wild vs Vancouver Canucks",
-      "page": "https://roxiestreams.info/nhl-streams-13",
-      "streams": []
+      "page": "https://roxiestreams.info/nhl-streams-2",
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nhl2.m3u8"
+      ]
     },
     {
       "title": "Seattle Kraken vs San Jose Sharks",

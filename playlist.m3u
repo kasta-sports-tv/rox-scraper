@@ -1,19 +1,27 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Galatasaray vs Samsunspor
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Lazio vs Lecce
-https://daffodil.formaturamaxi.com.br/beinhk.m3u8
+https://daffodil.sandhost.qzz.io/beinhk.m3u8
 #EXTINF:-1 group-title="football",Dortmund vs M'gladbach
-https://daffodil.formaturamaxi.com.br/one.m3u8
+https://daffodil.sandhost.qzz.io/one.m3u8
 #EXTINF:-1 group-title="football",Nice vs PSG
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Parma vs Roma
-https://daffodil.formaturamaxi.com.br/beinhk.m3u8
+https://daffodil.sandhost.qzz.io/beinhk.m3u8
 #EXTINF:-1 group-title="football",Schalke 04 vs Stuttgart
-https://daffodil.formaturamaxi.com.br/one.m3u8
+https://daffodil.sandhost.qzz.io/one.m3u8
 #EXTINF:-1 group-title="football",Lille vs Lyon
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.sandhost.qzz.io/bein.m3u8
+#EXTINF:-1 group-title="football",Monaco vs Auxerre
+https://daffodil.sandhost.qzz.io/bein.m3u8
 #EXTINF:-1 group-title="football",Napoli vs Torino
-https://daffodil.formaturamaxi.com.br/beinhk.m3u8
+https://daffodil.sandhost.qzz.io/beinhk.m3u8
 #EXTINF:-1 group-title="football",AtlÃ©tico Mineiro vs Boca Juniors
-https://daffodil.formaturamaxi.com.br/bein.m3u8
+https://daffodil.sandhost.qzz.io/bein.m3u8
+#EXTINF:-1 group-title="nhl",Chicago Blackhawks vs Calgary Flames
+https://daffodil.sandhost.qzz.io/nhl2.m3u8
+#EXTINF:-1 group-title="nhl",Los Angeles Kings vs Ottawa Senators
+https://daffodil.sandhost.qzz.io/nhl2.m3u8
+#EXTINF:-1 group-title="nhl",Minnesota Wild vs Vancouver Canucks
+https://daffodil.sandhost.qzz.io/nhl2.m3u8
