@@ -1,31 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",UEFA Nations League Draw
+#EXTINF:-1 group-title="football",Gillingham vs Crewe Alexandra
 https://daffodil.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 group-title="football",Athletic Club vs Espanyol
+#EXTINF:-1 group-title="football",Bayer Leverkusen vs Paderborn
 https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="nba",Orlando Magic vs Brooklyn Nets
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 group-title="nba",Indiana Pacers vs Cleveland Cavaliers
-https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nba",Houston Rockets vs Denver Nuggets
-https://daffodil.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 group-title="nba",Sacramento Kings vs Los Angeles Lakers
-https://daffodil.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 group-title="nfl",Iowa State vs UCF
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nfl",Clemson vs Duke
-https://daffodil.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 group-title="nfl",Bowling Green vs Toledo
-https://daffodil.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 group-title="nfl",Oregon vs Michigan State
-https://daffodil.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 group-title="nfl",New Mexico vs Wyoming
-https://daffodil.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 group-title="nhl",Edmonton Oilers vs Carolina Hurricanes
-https://daffodil.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 group-title="nhl",Buffalo Sabres vs Florida Panthers
-https://daffodil.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 group-title="nhl",Washington Capitals vs Boston Bruins
-https://daffodil.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 group-title="nhl",Columbus Blue Jackets vs Toronto Maple Leafs
-https://daffodil.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 group-title="football",Schalke 04 vs Stuttgart
+https://daffodil.formaturamaxi.com.br/dep.m3u8
