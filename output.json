@@ -35,9 +35,7 @@
     {
       "title": "Lazio vs Lecce",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beinhk.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Dortmund vs M'gladbach",
@@ -91,9 +89,7 @@
     {
       "title": "Parma vs Roma",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beinhk.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Schalke 04 vs Stuttgart",
@@ -144,9 +140,7 @@
     {
       "title": "Napoli vs Torino",
       "page": "https://roxiestreams.info/soccer-streams-6",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/beinhk.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Motherwell vs Rangers",
@@ -183,7 +177,9 @@
     {
       "title": "Inter Miami vs Columbus Crew",
       "page": "https://roxiestreams.info/soccer-streams-25",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+      ]
     },
     {
       "title": "Chapecoense vs Cruzeiro",
@@ -192,13 +188,15 @@
     },
     {
       "title": "Pumas vs Monterrey",
-      "page": "https://roxiestreams.info/soccer-streams-23",
+      "page": "https://roxiestreams.info/soccer-streams-28",
       "streams": []
     },
     {
       "title": "Tigres vs AmÃ©rica",
       "page": "https://roxiestreams.info/soccer-streams-27",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/mls.m3u8"
+      ]
     }
   ],
   "mlb": [],
