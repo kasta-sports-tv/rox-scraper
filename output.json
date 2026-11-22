@@ -98,7 +98,9 @@
     {
       "title": "Nashville SC vs Cincinnati",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fs1.m3u8"
+      ]
     },
     {
       "title": "Fluminense vs Mirassol",
@@ -123,7 +125,9 @@
     {
       "title": "Chicago Fire vs Charlotte",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/fs1.m3u8"
+      ]
     },
     {
       "title": "QuerÃ©taro vs Necaxa",
@@ -146,7 +150,9 @@
     {
       "title": "Oklahoma City Thunder vs Miami Heat",
       "page": "https://roxiestreams.info/nba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+      ]
     },
     {
       "title": "Orlando Magic vs Washington Wizards",
@@ -166,7 +172,9 @@
     {
       "title": "Indiana Pacers vs New York Knicks",
       "page": "https://roxiestreams.info/nba-streams-6",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+      ]
     },
     {
       "title": "Boston Celtics vs Golden State Warriors",
@@ -188,9 +196,7 @@
     {
       "title": "Tennessee Titans vs Dallas Cowboys",
       "page": "https://roxiestreams.info/nfl-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Tampa Bay Buccaneers vs Detroit Lions",
@@ -210,19 +216,21 @@
     {
       "title": "Baltimore Ravens vs Carolina Panthers",
       "page": "https://roxiestreams.info/nfl-streams-7",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl7.m3u8"
+      ]
     },
     {
       "title": "New York Jets vs Los Angeles Chargers",
       "page": "https://roxiestreams.info/nfl-streams-8",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nfl8.m3u8"
+      ]
     },
     {
       "title": "Las Vegas Raiders vs Denver Broncos",
       "page": "https://roxiestreams.info/nfl-streams-9",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nfl3.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Jacksonville Jaguars vs New York Giants",
@@ -232,7 +240,9 @@
     {
       "title": "Minnesota Vikings vs San Francisco 49ers",
       "page": "https://roxiestreams.info/nfl-streams-11",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nflalt.m3u8"
+      ]
     }
   ],
   "nhl": [
