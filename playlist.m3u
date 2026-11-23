@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Nashville SC vs Cincinnati
+#EXTINF:-1 group-title="football",Monza vs Fiorentina
+https://daffodil.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="football",Levante vs Elche
+https://daffodil.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="football",St. Louis City vs Los Angeles FC
 https://daffodil.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 group-title="football",Chicago Fire vs Charlotte
-https://daffodil.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 group-title="nba",Detroit Pistons vs Atlanta Hawks
+#EXTINF:-1 group-title="nba",Memphis Grizzlies vs Charlotte Hornets
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",Boston Celtics vs Golden State Warriors
+#EXTINF:-1 group-title="nba",Phoenix Suns vs New Orleans Pelicans
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nfl",Miami Dolphins vs Buffalo Bills
+#EXTINF:-1 group-title="nfl",Cincinnati Bengals vs Washington Commanders
 https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",Baltimore Ravens vs Carolina Panthers
-https://daffodil.formaturamaxi.com.br/nfl7.m3u8
-#EXTINF:-1 group-title="nfl",New York Jets vs Los Angeles Chargers
-https://daffodil.formaturamaxi.com.br/nfl8.m3u8
-#EXTINF:-1 group-title="nfl",Jacksonville Jaguars vs New York Giants
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nfl",Minnesota Vikings vs San Francisco 49ers
-https://daffodil.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs Dallas Stars
+#EXTINF:-1 group-title="nhl",Los Angeles Kings vs Montreal Canadiens
 https://daffodil.formaturamaxi.com.br/nhl2.m3u8
