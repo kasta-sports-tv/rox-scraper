@@ -1,6 +1,11 @@
 {
   "soccer": [
     {
+      "title": "Hammarby vs IFK GÃ¶teborg",
+      "page": "https://roxiestreams.info/soccer-streams-8",
+      "streams": []
+    },
+    {
       "title": "Monza vs Fiorentina",
       "page": "https://roxiestreams.info/soccer-streams-1",
       "streams": [
@@ -10,9 +15,7 @@
     {
       "title": "Levante vs Elche",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/dep.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Brentford vs Everton",
@@ -54,7 +57,9 @@
     {
       "title": "Portland Trail Blazers vs Philadelphia 76ers",
       "page": "https://roxiestreams.info/nba-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
+      ]
     },
     {
       "title": "Oklahoma City Thunder vs Indiana Pacers",
@@ -79,9 +84,7 @@
     {
       "title": "Phoenix Suns vs New Orleans Pelicans",
       "page": "https://roxiestreams.info/nba-streams-7",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Los Angeles Clippers vs Houston Rockets",
@@ -143,7 +146,7 @@
     },
     {
       "title": "Minnesota Wild vs San Jose Sharks",
-      "page": "https://roxiestreams.info/nhl-streams-7",
+      "page": "https://roxiestreams.info/nhl-streams-1",
       "streams": []
     }
   ],
@@ -151,12 +154,16 @@
     {
       "title": "WWE RAW",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+      ]
     },
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/wwe.m3u8"
+      ]
     }
   ],
   "motorsports": []
