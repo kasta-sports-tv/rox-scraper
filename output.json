@@ -3,14 +3,14 @@
     {
       "title": "Galatasaray vs Aston Villa",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "BodÃ¸ / Glimt vs LASK Linz",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
     },
     {
       "title": "Norwich City vs QPR",
@@ -40,14 +40,14 @@
     {
       "title": "Como vs AEK Athens",
       "page": "https://roxiestreams.info/soccer-streams-13",
-      "streams": [
-        "https://daffodil.sandhost.qzz.io/fs1.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Feyenoord vs Porto",
       "page": "https://roxiestreams.info/soccer-streams-14",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/golazo.m3u8"
+      ]
     },
     {
       "title": "Manchester City vs Napoli",
@@ -62,7 +62,9 @@
     {
       "title": "Real Madrid vs PSV",
       "page": "https://roxiestreams.info/soccer-streams-17",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/tudn.m3u8"
+      ]
     },
     {
       "title": "Slovan Bratislava vs Real Betis",
