@@ -89,7 +89,9 @@
     {
       "title": "SJ Earthquakes vs Houston Dynamo",
       "page": "https://roxiestreams.info/soccer-streams-20",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/fs1.m3u8"
+      ]
     }
   ],
   "mlb": [],
@@ -109,7 +111,9 @@
     {
       "title": "Dallas Mavericks vs Denver Nuggets",
       "page": "https://roxiestreams.info/nba-streams-3",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/nba.m3u8"
+      ]
     }
   ],
   "nfl": [
@@ -130,7 +134,9 @@
     {
       "title": "WWE NXT",
       "page": "https://roxiestreams.info/wwe-streams",
-      "streams": []
+      "streams": [
+        "https://daffodil.sandhost.qzz.io/wwe.m3u8"
+      ]
     }
   ],
   "motorsports": []
