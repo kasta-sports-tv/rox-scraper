@@ -10,9 +10,7 @@
     {
       "title": "Slavia Praha vs Villarreal",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Burnley vs Birmingham",
@@ -29,9 +27,7 @@
     {
       "title": "AtlÃ©tico Madrid vs Viking",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Club Brugge vs Liverpool",
@@ -103,9 +99,7 @@
     {
       "title": "Chicago Bulls vs Charlotte Hornets",
       "page": "https://roxiestreams.info/nba-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/nba2.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Cleveland Cavaliers vs New York Knicks",
@@ -221,7 +215,9 @@
     {
       "title": "San Jose Sharks vs Anaheim Ducks",
       "page": "https://roxiestreams.info/nhl-streams-14",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl14.m3u8"
+      ]
     }
   ],
   "fighting": [],

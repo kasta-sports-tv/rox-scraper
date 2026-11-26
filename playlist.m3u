@@ -1,17 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="football",Barcelona vs Sabah
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 group-title="football",Slavia Praha vs Villarreal
-https://daffodil.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 group-title="football",Burnley vs Birmingham
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="football",AtlÃ©tico Madrid vs Viking
-https://daffodil.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 group-title="football",PSG vs Roma
 https://daffodil.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 group-title="nba",Miami Heat vs Philadelphia 76ers
 https://daffodil.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 group-title="nba",Chicago Bulls vs Charlotte Hornets
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 group-title="nba",Los Angeles Clippers vs Memphis Grizzlies
 https://daffodil.formaturamaxi.com.br/nba5.m3u8
+#EXTINF:-1 group-title="nhl",San Jose Sharks vs Anaheim Ducks
+https://daffodil.formaturamaxi.com.br/nhl14.m3u8
