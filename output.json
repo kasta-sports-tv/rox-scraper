@@ -3,23 +3,17 @@
     {
       "title": "Werder Bremen vs Borussia M'gladbach",
       "page": "https://roxiestreams.info/soccer-streams-1",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/one.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Brest vs Paris",
       "page": "https://roxiestreams.info/soccer-streams-2",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beines.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Venezia vs Bologna",
       "page": "https://roxiestreams.info/soccer-streams-3",
-      "streams": [
-        "https://daffodil.formaturamaxi.com.br/beinhk.m3u8"
-      ]
+      "streams": []
     },
     {
       "title": "Chelsea vs Nottingham",
@@ -39,6 +33,16 @@
     {
       "title": "Fluminense vs Cruzeiro",
       "page": "https://roxiestreams.info/soccer-streams-7",
+      "streams": []
+    },
+    {
+      "title": "Columbus Crew vs Inter Miami",
+      "page": "https://roxiestreams.info/soccer-streams-8",
+      "streams": []
+    },
+    {
+      "title": "Real Salt Lake vs Vancouver Whitecaps",
+      "page": "https://roxiestreams.info/soccer-streams-8",
       "streams": []
     }
   ],
@@ -195,7 +199,9 @@
     {
       "title": "Ottawa Senators vs Tampa Bay Lightning",
       "page": "https://roxiestreams.info/nhl-streams-5",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl5.m3u8"
+      ]
     },
     {
       "title": "Vancouver Canucks vs Philadelphia Flyers",
@@ -230,7 +236,9 @@
     {
       "title": "New York Rangers vs Chicago Blackhawks",
       "page": "https://roxiestreams.info/nhl-streams-12",
-      "streams": []
+      "streams": [
+        "https://daffodil.formaturamaxi.com.br/nhl12.m3u8"
+      ]
     },
     {
       "title": "Winnipeg Jets vs New York Islanders",
@@ -239,9 +247,9 @@
     },
     {
       "title": "Pittsburgh Penguins vs Buffalo Sabres",
-      "page": "https://roxiestreams.info/nhl-streams-14",
+      "page": "https://roxiestreams.info/nhl-streams-12",
       "streams": [
-        "https://daffodil.formaturamaxi.com.br/nhl14.m3u8"
+        "https://daffodil.formaturamaxi.com.br/nhl12.m3u8"
       ]
     },
     {

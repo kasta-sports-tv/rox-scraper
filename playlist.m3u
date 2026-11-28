@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="football",Werder Bremen vs Borussia M'gladbach
-https://daffodil.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 group-title="football",Brest vs Paris
-https://daffodil.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="football",Venezia vs Bologna
-https://daffodil.formaturamaxi.com.br/beinhk.m3u8
 #EXTINF:-1 group-title="nba",Miami Heat vs New York Knicks
 https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 group-title="nba",Atlanta Hawks vs Boston Celtics
 https://daffodil.formaturamaxi.com.br/nba5.m3u8
+#EXTINF:-1 group-title="nhl",Ottawa Senators vs Tampa Bay Lightning
+https://daffodil.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 group-title="nhl",New York Rangers vs Chicago Blackhawks
+https://daffodil.formaturamaxi.com.br/nhl12.m3u8
 #EXTINF:-1 group-title="nhl",Pittsburgh Penguins vs Buffalo Sabres
-https://daffodil.formaturamaxi.com.br/nhl14.m3u8
+https://daffodil.formaturamaxi.com.br/nhl12.m3u8
